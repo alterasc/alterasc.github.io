@@ -69,6 +69,11 @@
       "ModId": "TabletopTweaks-Reworks",
       "Version": "1.4.3a",
       "DisplayName": "Tabletop Tweaks Reworks"
+    },
+    {
+      "ModId": "WOTR_BOAT_BOAT_BOAT",
+      "Version": "1.2.1",
+      "DisplayName": "BOAT BOAT BOAT"
     }
   ],
   "ExcludedMods": [
