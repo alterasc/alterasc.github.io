@@ -21,6 +21,11 @@
       "DisplayName": "Microscopic Content Expansion"
     },
     {
+      "ModId": "MythicMagicMayhem",
+      "Version": "1.1.2",
+      "DisplayName": "Mythic Magic Mayhem"
+    },
+    {
       "ModId": "PrestigePlus",
       "Version": "3.4.0",
       "DisplayName": "PrestigePlus"

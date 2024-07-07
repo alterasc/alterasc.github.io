@@ -18,6 +18,8 @@
 
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
 
+### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
+
 ### [PrestigePlus](./PrestigePlus/README.md) 3.4.0
 
 ### [Way Of The Shield](./Shield/README.md) 4.0.13
