@@ -36,6 +36,11 @@
       "DisplayName": "Expanded Content"
     },
     {
+      "ModId": "KineticArchetypes",
+      "Version": "1.1.8",
+      "DisplayName": "Kinetic Archetypes"
+    },
+    {
       "ModId": "MicroscopicContentExpansion",
       "Version": "1.17.0",
       "DisplayName": "Microscopic Content Expansion"

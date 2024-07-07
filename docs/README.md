@@ -24,6 +24,8 @@
 
 ### [Expanded Content](./ExpandedContent/README.md) 0.9.65
 
+### [Kinetic Archetypes](./KineticArchetypes/README.md) 1.1.8
+
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
 
 ### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
