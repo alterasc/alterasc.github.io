@@ -16,6 +16,8 @@
 
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
 
+### [PrestigePlus](./PrestigePlus/README.md) 3.4.0
+
 ### [Tabletop Tweaks Base](./TabletopTweaks-Base/README.md) 2.6.7
 
 ### [Tabletop Tweaks Flanking](./TabletopTweaks-Flanking/README.md) 0.2.1

@@ -16,6 +16,11 @@
       "DisplayName": "Microscopic Content Expansion"
     },
     {
+      "ModId": "PrestigePlus",
+      "Version": "3.4.0",
+      "DisplayName": "PrestigePlus"
+    },
+    {
       "ModId": "TabletopTweaks-Base",
       "Version": "2.6.7",
       "DisplayName": "Tabletop Tweaks Base"
