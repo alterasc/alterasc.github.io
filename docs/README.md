@@ -12,3 +12,5 @@
 
 ### [Tabletop Tweaks Base](./TabletopTweaks-Base/README.md) 2.6.7
 
+### [Tabletop Tweaks Reworks](./TabletopTweaks-Reworks/README.md) 1.4.3a
+
