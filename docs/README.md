@@ -16,6 +16,8 @@
 
 ### [Arcane Additions](./ArcaneAdditions/README.md) 0.3.0
 
+### [AutomaticBonusProgression](./AutomaticBonusProgression/README.md) 1.0.5
+
 ### [Character Options+](./CharacterOptionsPlus/README.md) 1.3.8
 
 ### [Expanded Content](./ExpandedContent/README.md) 0.9.65

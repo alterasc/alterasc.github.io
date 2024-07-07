@@ -16,6 +16,11 @@
       "DisplayName": "Arcane Additions"
     },
     {
+      "ModId": "AutomaticBonusProgression",
+      "Version": "1.0.5",
+      "DisplayName": "AutomaticBonusProgression"
+    },
+    {
       "ModId": "CharacterOptionsPlus",
       "Version": "1.3.8",
       "DisplayName": "Character Options+"
