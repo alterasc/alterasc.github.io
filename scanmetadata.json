@@ -114,6 +114,11 @@
       "ModId": "WOTR_MAKING_FRIENDS",
       "Version": "0.2.1",
       "DisplayName": "MAKING FRIENDS"
+    },
+    {
+      "ModId": "WOTR_PATH_OF_BLING",
+      "Version": "1.0.6",
+      "DisplayName": "PATH OF BLING"
     }
   ],
   "ExcludedMods": [
