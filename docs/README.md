@@ -40,6 +40,8 @@
 
 ### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
 
+### [The One Pearl](./OnePearl/README.md) 1.0.1
+
 ### [Prestige Minus](./PrestigeMinus/README.md) 0.9.5
 
 ### [PrestigePlus](./PrestigePlus/README.md) 3.4.0

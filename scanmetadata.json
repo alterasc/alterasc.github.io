@@ -76,6 +76,11 @@
       "DisplayName": "Mythic Magic Mayhem"
     },
     {
+      "ModId": "OnePearl",
+      "Version": "1.0.1",
+      "DisplayName": "The One Pearl"
+    },
+    {
       "ModId": "PrestigeMinus",
       "Version": "0.9.5",
       "DisplayName": "Prestige Minus"
