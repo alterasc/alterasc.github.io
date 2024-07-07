@@ -10,6 +10,8 @@
 
 ## Scanned mods
 
+### [Character Options+](./CharacterOptionsPlus/README.md) 1.3.8
+
 ### [Expanded Content](./ExpandedContent/README.md) 0.9.65
 
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
