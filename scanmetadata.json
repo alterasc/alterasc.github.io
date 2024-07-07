@@ -46,6 +46,11 @@
       "DisplayName": "Kineticist Elements Expanded"
     },
     {
+      "ModId": "LevelableAivu",
+      "Version": "1.2.7",
+      "DisplayName": "Levelable Aivu"
+    },
+    {
       "ModId": "MicroscopicContentExpansion",
       "Version": "1.17.0",
       "DisplayName": "Microscopic Content Expansion"

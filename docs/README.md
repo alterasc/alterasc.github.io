@@ -28,6 +28,8 @@
 
 ### [Kineticist Elements Expanded](./KineticistElementsExpanded/README.md) 3.3.0
 
+### [Levelable Aivu](./LevelableAivu/README.md) 1.2.7
+
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
 
 ### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
