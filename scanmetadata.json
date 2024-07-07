@@ -1,6 +1,11 @@
 {
   "ProcessedMods": [
     {
+      "ModId": "AddedFeats",
+      "Version": "1.5",
+      "DisplayName": "AddedFeats"
+    },
+    {
       "ModId": "AlternateRacialTraits",
       "Version": "1.5.2",
       "DisplayName": "Alternate Racial Traits"
