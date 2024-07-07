@@ -99,6 +99,11 @@
       "ModId": "WOTR_BOAT_BOAT_BOAT",
       "Version": "1.2.1",
       "DisplayName": "BOAT BOAT BOAT"
+    },
+    {
+      "ModId": "WOTR_MAKING_FRIENDS",
+      "Version": "0.2.1",
+      "DisplayName": "MAKING FRIENDS"
     }
   ],
   "ExcludedMods": [
