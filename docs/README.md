@@ -10,6 +10,8 @@
 
 ## Scanned mods
 
+### [Alternate Racial Traits](./AlternateRacialTraits/README.md) 1.5.2
+
 ### [Character Options+](./CharacterOptionsPlus/README.md) 1.3.8
 
 ### [Expanded Content](./ExpandedContent/README.md) 0.9.65
