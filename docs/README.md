@@ -32,6 +32,8 @@
 
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
 
+### [Pheonix's Cantrips - More Cantrips](./MoreCantrips/README.md) 1.0.3
+
 ### [MorvarchsPlaystyleExpansions](./MorvarchsPlaystyleExpansions/README.md) 1.2.0
 
 ### [Mythic Arcanist](./MythicArcanist/README.md) 1.3.4b

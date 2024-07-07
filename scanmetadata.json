@@ -56,6 +56,11 @@
       "DisplayName": "Microscopic Content Expansion"
     },
     {
+      "ModId": "MoreCantrips",
+      "Version": "1.0.3",
+      "DisplayName": "Pheonix's Cantrips - More Cantrips"
+    },
+    {
       "ModId": "MorvarchsPlaystyleExpansions",
       "Version": "1.2.0",
       "DisplayName": "MorvarchsPlaystyleExpansions"
