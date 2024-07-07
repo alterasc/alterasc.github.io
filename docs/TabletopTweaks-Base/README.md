@@ -6,7 +6,7 @@
 
 ## Author: Sean Petrie
 
-## Homepage: https://github.com/Vek17/TabletopTweaks-Base
+## Homepage: [https://github.com/Vek17/TabletopTweaks-Base](https://github.com/Vek17/TabletopTweaks-Base)
 
 ## [All mod blueprints](./AllBlueprints.md)
 
@@ -15,6 +15,8 @@
 ## New Recognized Content
 
 #### **Lists below are not a complete lists of mod what adds or does**. They are just some of the additions that can be easily automatically detected - and even then, mistakes could happen.
+
+### [New archetypes for base game classes](./Archetypes.md)
 
 ### [New feats](./Feats.md)
 
@@ -25,6 +27,16 @@
 ### [New mythic abilities](./MythicAbilities.md)
 
 ### [New racial heritages](./RacialHeritages.md)
+
+### [New sorcerer bloodlines](./SorcererBloodlines.md)
+
+### [New rage powers](./RagePowers.md)
+
+### [New rogue talents](./RogueTalents.md)
+
+### [New slayer talents](./SlayerTalents.md)
+
+### [New items](./Items.md)
 
 
 ___

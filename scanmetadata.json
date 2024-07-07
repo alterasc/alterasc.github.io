@@ -1,5 +1,11 @@
 {
-  "ProcessedMods": [],
+  "ProcessedMods": [
+    {
+      "ModId": "TabletopTweaks-Base",
+      "Version": "2.6.7",
+      "DisplayName": "Tabletop Tweaks Base"
+    }
+  ],
   "ExcludedMods": [
     "0ToyBox0",
     "AAModContentExporter",
