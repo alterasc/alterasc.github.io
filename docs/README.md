@@ -32,6 +32,8 @@
 
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
 
+### [MorvarchsPlaystyleExpansions](./MorvarchsPlaystyleExpansions/README.md) 1.2.0
+
 ### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
 
 ### [PrestigePlus](./PrestigePlus/README.md) 3.4.0
