@@ -34,6 +34,8 @@
 
 ### [MorvarchsPlaystyleExpansions](./MorvarchsPlaystyleExpansions/README.md) 1.2.0
 
+### [Mythic Arcanist](./MythicArcanist/README.md) 1.3.4b
+
 ### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
 
 ### [PrestigePlus](./PrestigePlus/README.md) 3.4.0

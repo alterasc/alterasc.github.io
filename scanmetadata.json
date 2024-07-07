@@ -61,6 +61,11 @@
       "DisplayName": "MorvarchsPlaystyleExpansions"
     },
     {
+      "ModId": "MythicArcanist",
+      "Version": "1.3.4b",
+      "DisplayName": "Mythic Arcanist"
+    },
+    {
       "ModId": "MythicMagicMayhem",
       "Version": "1.1.2",
       "DisplayName": "Mythic Magic Mayhem"
