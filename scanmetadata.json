@@ -31,6 +31,11 @@
       "DisplayName": "Way Of The Shield"
     },
     {
+      "ModId": "SpellbookMerge",
+      "Version": "1.7.1",
+      "DisplayName": "Spellbook Merge"
+    },
+    {
       "ModId": "TabletopTweaks-Base",
       "Version": "2.6.7",
       "DisplayName": "Tabletop Tweaks Base"
