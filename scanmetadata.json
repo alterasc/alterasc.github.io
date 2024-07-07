@@ -81,6 +81,11 @@
       "DisplayName": "Mythic Magic Mayhem"
     },
     {
+      "ModId": "NenioMod",
+      "Version": "1.0.1",
+      "DisplayName": "Baphomet Rides Deskari"
+    },
+    {
       "ModId": "OnePearl",
       "Version": "1.0.1",
       "DisplayName": "The One Pearl"

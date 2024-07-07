@@ -42,6 +42,8 @@
 
 ### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
 
+### [Baphomet Rides Deskari](./NenioMod/README.md) 1.0.1
+
 ### [The One Pearl](./OnePearl/README.md) 1.0.1
 
 ### [Prestige Minus](./PrestigeMinus/README.md) 0.9.5
