@@ -60,6 +60,8 @@
 
 ### [Tabletop Tweaks Reworks](./TabletopTweaks-Reworks/README.md) 1.4.3a
 
+### [Toggleable Throwing Weapons](./ToggleableThrowingWeapons/README.md) 1.3.1
+
 ### [BOAT BOAT BOAT](./WOTR_BOAT_BOAT_BOAT/README.md) 1.2.1
 
 ### [MAKING FRIENDS](./WOTR_MAKING_FRIENDS/README.md) 0.2.1

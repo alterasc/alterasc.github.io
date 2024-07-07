@@ -126,6 +126,11 @@
       "DisplayName": "Tabletop Tweaks Reworks"
     },
     {
+      "ModId": "ToggleableThrowingWeapons",
+      "Version": "1.3.1",
+      "DisplayName": "Toggleable Throwing Weapons"
+    },
+    {
       "ModId": "WOTR_BOAT_BOAT_BOAT",
       "Version": "1.2.1",
       "DisplayName": "BOAT BOAT BOAT"
