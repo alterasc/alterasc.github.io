@@ -1,6 +1,11 @@
 {
   "ProcessedMods": [
     {
+      "ModId": "MicroscopicContentExpansion",
+      "Version": "1.17.0",
+      "DisplayName": "Microscopic Content Expansion"
+    },
+    {
       "ModId": "TabletopTweaks-Base",
       "Version": "2.6.7",
       "DisplayName": "Tabletop Tweaks Base"
