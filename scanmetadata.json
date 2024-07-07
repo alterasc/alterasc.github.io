@@ -41,6 +41,11 @@
       "DisplayName": "Kinetic Archetypes"
     },
     {
+      "ModId": "KineticistElementsExpanded",
+      "Version": "3.3.0",
+      "DisplayName": "Kineticist Elements Expanded"
+    },
+    {
       "ModId": "MicroscopicContentExpansion",
       "Version": "1.17.0",
       "DisplayName": "Microscopic Content Expansion"
