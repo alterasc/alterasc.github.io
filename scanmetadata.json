@@ -1,6 +1,11 @@
 {
   "ProcessedMods": [
     {
+      "ModId": "ExpandedContent",
+      "Version": "0.9.65",
+      "DisplayName": "Expanded Content"
+    },
+    {
       "ModId": "MicroscopicContentExpansion",
       "Version": "1.17.0",
       "DisplayName": "Microscopic Content Expansion"

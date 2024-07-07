@@ -10,6 +10,8 @@
 
 ## Scanned mods
 
+### [Expanded Content](./ExpandedContent/README.md) 0.9.65
+
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
 
 ### [Tabletop Tweaks Base](./TabletopTweaks-Base/README.md) 2.6.7
