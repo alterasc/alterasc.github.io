@@ -26,6 +26,11 @@
       "DisplayName": "Character Options+"
     },
     {
+      "ModId": "deceiverbuff",
+      "Version": "1.0.7",
+      "DisplayName": "Deceiver Buffs"
+    },
+    {
       "ModId": "ExpandedContent",
       "Version": "0.9.65",
       "DisplayName": "Expanded Content"
