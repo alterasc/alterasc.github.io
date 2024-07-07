@@ -18,6 +18,8 @@
 
 ### [PrestigePlus](./PrestigePlus/README.md) 3.4.0
 
+### [Way Of The Shield](./Shield/README.md) 4.0.13
+
 ### [Tabletop Tweaks Base](./TabletopTweaks-Base/README.md) 2.6.7
 
 ### [Tabletop Tweaks Flanking](./TabletopTweaks-Flanking/README.md) 0.2.1

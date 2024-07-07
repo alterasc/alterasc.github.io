@@ -21,6 +21,11 @@
       "DisplayName": "PrestigePlus"
     },
     {
+      "ModId": "Shield",
+      "Version": "4.0.13",
+      "DisplayName": "Way Of The Shield"
+    },
+    {
       "ModId": "TabletopTweaks-Base",
       "Version": "2.6.7",
       "DisplayName": "Tabletop Tweaks Base"
