@@ -76,6 +76,11 @@
       "DisplayName": "Mythic Magic Mayhem"
     },
     {
+      "ModId": "PrestigeMinus",
+      "Version": "0.9.5",
+      "DisplayName": "Prestige Minus"
+    },
+    {
       "ModId": "PrestigePlus",
       "Version": "3.4.0",
       "DisplayName": "PrestigePlus"
