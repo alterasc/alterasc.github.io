@@ -26,6 +26,11 @@
       "DisplayName": "Character Options+"
     },
     {
+      "ModId": "DarkCodex",
+      "Version": "1.7.0",
+      "DisplayName": "DarkCodex"
+    },
+    {
       "ModId": "deceiverbuff",
       "Version": "1.0.7",
       "DisplayName": "Deceiver Buffs"
