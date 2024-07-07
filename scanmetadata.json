@@ -11,6 +11,11 @@
       "DisplayName": "Alternate Racial Traits"
     },
     {
+      "ModId": "ArcaneAdditions",
+      "Version": "0.3.0",
+      "DisplayName": "Arcane Additions"
+    },
+    {
       "ModId": "CharacterOptionsPlus",
       "Version": "1.3.8",
       "DisplayName": "Character Options+"
