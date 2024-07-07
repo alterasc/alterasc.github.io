@@ -6,6 +6,11 @@
       "DisplayName": "Tabletop Tweaks Base"
     },
     {
+      "ModId": "TabletopTweaks-Flanking",
+      "Version": "0.2.1",
+      "DisplayName": "Tabletop Tweaks Flanking"
+    },
+    {
       "ModId": "TabletopTweaks-Reworks",
       "Version": "1.4.3a",
       "DisplayName": "Tabletop Tweaks Reworks"
