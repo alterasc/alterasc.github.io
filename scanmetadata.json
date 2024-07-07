@@ -1,0 +1,20 @@
+{
+  "ProcessedMods": [],
+  "ExcludedMods": [
+    "0ToyBox0",
+    "AAModContentExporter",
+    "AllowModdedAchievements",
+    "MewsiferConsole.Mod",
+    "ModMenu",
+    "AlterAsc.CombatRelief",
+    "BubbleBuffs",
+    "MultipleArchetypes",
+    "MythicSpellFlexibility",
+    "NotaDeathEffect",
+    "PuzzleSkip",
+    "SnapshotApproach",
+    "SpellSlotFreedom",
+    "TabletopTweaks-Core",
+    "WrathPatches"
+  ]
+}
