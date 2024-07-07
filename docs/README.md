@@ -44,6 +44,8 @@
 
 ### [PrestigePlus](./PrestigePlus/README.md) 3.4.0
 
+### [Psionics](./Psionics/README.md) 1.1.1
+
 ### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.1
 
 ### [Way Of The Shield](./Shield/README.md) 4.0.13
