@@ -51,6 +51,11 @@
       "DisplayName": "PrestigePlus"
     },
     {
+      "ModId": "RanEpilogue",
+      "Version": "1.2.1",
+      "DisplayName": "Expanded Epilogue"
+    },
+    {
       "ModId": "Shield",
       "Version": "4.0.13",
       "DisplayName": "Way Of The Shield"

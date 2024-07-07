@@ -30,6 +30,8 @@
 
 ### [PrestigePlus](./PrestigePlus/README.md) 3.4.0
 
+### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.1
+
 ### [Way Of The Shield](./Shield/README.md) 4.0.13
 
 ### [Spellbook Merge](./SpellbookMerge/README.md) 1.7.1
