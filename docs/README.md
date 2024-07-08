@@ -60,6 +60,8 @@
 
 ### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
 
+### [MythicPathPowerSwapper](./MythicPathPowerSwapper/README.md) 1.2.0
+
 ### [PATH OF BLING](./WOTR_PATH_OF_BLING/README.md) 1.0.6
 
 ### [PATH OF RAGE](./WOTR_PATH_OF_RAGE/README.md) 1.3.5

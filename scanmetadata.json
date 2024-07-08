@@ -111,6 +111,11 @@
       "DisplayName": "Mythic Magic Mayhem"
     },
     {
+      "ModId": "MythicPathPowerSwapper",
+      "Version": "1.2.0",
+      "DisplayName": "MythicPathPowerSwapper"
+    },
+    {
       "ModId": "NenioMod",
       "Version": "1.0.1",
       "DisplayName": "Baphomet Rides Deskari"
