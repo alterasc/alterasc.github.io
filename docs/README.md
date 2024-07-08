@@ -34,6 +34,8 @@
 
 ### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.1
 
+### [FinessableSabers](./FinessableSabers/README.md) 0.3
+
 ### [Homebrew Archetypes](./HomebrewArchetypes/README.md) 1.1Zup
 
 ### [Kinetic Archetypes](./KineticArchetypes/README.md) 1.1.8
