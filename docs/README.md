@@ -2,13 +2,18 @@
 
 ### Disclaimer
 
-- Information is collected automatically
+- Below are only those mods that create new blueprints
+- Information is collected automatically with no manual oversight and no filtering beyond by group. If in classes you see creature only class - that's not a list error.
 - Provides no guarantees of correctness
 - May be outdated by the time you read it
-- Does not encompass all mods out there.
+- Does not encompass all mods out there and is not in any way replacement of mod readme
 
+**Table of Contents**
+- [List of content by mod](#List-of-content-by-mod)
+- [List of content by category](#List-of-content-by-category)
+- [Raw list of blueprints for troubleshooting](#Raw-list-of-blueprints-for-troubleshooting)
 
-## Scanned mods
+## List of content by mod
 
 ### [AddedFeats](./AddedFeats/README.md) 1.5
 
@@ -96,3 +101,42 @@
 
 ### [Way Of The Shield](./Shield/README.md) 4.0.13
 
+
+## List of content by category
+
+### [New classes](./Classes.md)
+
+### [New archetypes for base game classes](./Archetypes.md)
+
+### [New feats](./Feats.md)
+
+### [New spells](./Spells.md)
+
+### [New mythic feats](./MythicFeats.md)
+
+### [New mythic abilities](./MythicAbilities.md)
+
+### [New domains](./Domains.md)
+
+### [New racial heritages](./RacialHeritages.md)
+
+### [New sorcerer bloodlines](./SorcererBloodlines.md)
+
+### [New oracle mysteries](./OracleMysteries.md)
+
+### [New rage powers](./RagePowers.md)
+
+### [New rogue talents](./RogueTalents.md)
+
+### [New slayer talents](./SlayerTalents.md)
+
+### [New ki powers](./KiPowers.md)
+
+### [New items](./Items.md)
+
+## Raw list of blueprints for troubleshooting
+
+This is for when you have in log missing error blueprint with some guid, and you want to know which mod it is from.  
+Copy guid, open the link below and just Ctrl-F (search) on the page
+
+### [all_blueprints.txt](https://raw.githubusercontent.com/alterasc/alterasc.github.io/main/all_blueprints.txt)
