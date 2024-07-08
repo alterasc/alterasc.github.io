@@ -22,6 +22,8 @@
 
 ### [BOAT BOAT BOAT](./WOTR_BOAT_BOAT_BOAT/README.md) 1.2.1
 
+### [CamelliaRomanceExpandedEnd](./CamelliaRomanceExpandedEnd/README.md) 2.4
+
 ### [Character Options+](./CharacterOptionsPlus/README.md) 1.3.8
 
 ### [DarkCodex](./DarkCodex/README.md) 1.7.0
