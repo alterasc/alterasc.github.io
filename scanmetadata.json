@@ -61,6 +61,11 @@
       "DisplayName": "Homebrew Archetypes"
     },
     {
+      "ModId": "IsekaiMod",
+      "Version": "5.4.2",
+      "DisplayName": "Isekai Mod"
+    },
+    {
       "ModId": "KineticArchetypes",
       "Version": "1.1.8",
       "DisplayName": "Kinetic Archetypes"

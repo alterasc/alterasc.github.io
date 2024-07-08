@@ -40,6 +40,8 @@
 
 ### [Homebrew Archetypes](./HomebrewArchetypes/README.md) 1.1Zup
 
+### [Isekai Mod](./IsekaiMod/README.md) 5.4.2
+
 ### [Kinetic Archetypes](./KineticArchetypes/README.md) 1.1.8
 
 ### [Kineticist Elements Expanded](./KineticistElementsExpanded/README.md) 3.3.0
