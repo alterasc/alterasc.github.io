@@ -214,10 +214,12 @@
     "ApoccHotkeys",
     "AutoMount",
     "BubbleBuffs",
+    "BubbleTweaks",
     "CentipedeCorruptor",
     "FinneanTweaks",
     "FullBoreBismuth",
     "GreatRadiance",
+    "LevelUpPlanCustomizer",
     "LichDecreeReductions",
     "lvl1companions",
     "MadisonsMetagaming",
@@ -240,6 +242,7 @@
     "WeaponFocusPlus",
     "WOTR_BattleScionExtraRagePowers",
     "WOTR_PATH_OF_HELL",
+    "WrathBuffBot",
     "WrathPatches"
   ]
 }
