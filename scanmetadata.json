@@ -171,6 +171,11 @@
       "DisplayName": "Toggleable Throwing Weapons"
     },
     {
+      "ModId": "TomeOfTheFirebird",
+      "Version": "1.4.18",
+      "DisplayName": "Tome Of The Firebird"
+    },
+    {
       "ModId": "WOTR_BOAT_BOAT_BOAT",
       "Version": "1.2.1",
       "DisplayName": "BOAT BOAT BOAT"
@@ -196,12 +201,17 @@
     "AAModContentExporter",
     "AllowModdedAchievements",
     "AlterAsc.CombatRelief",
+    "ApoccHotkeys",
+    "AutoMount",
     "BubbleBuffs",
     "CentipedeCorruptor",
     "FinneanTweaks",
     "FullBoreBismuth",
     "GreatRadiance",
+    "LichDecreeReductions",
+    "lvl1companions",
     "MadisonsMetagaming",
+    "MewsiferConsole.Menu",
     "MewsiferConsole.Mod",
     "ModMenu",
     "MultipleArchetypes",
@@ -209,9 +219,11 @@
     "NoFilmGrainWrath",
     "NotaDeathEffect",
     "PhoenixsCantrips",
+    "ProphetofPestilence_all melee attacks",
     "PuzzleSkip",
     "RandomEquipment",
     "SnapshotApproach",
+    "SpellPouch",
     "SpellSlotFreedom",
     "TabletopTweaks-Core",
     "WeaponFocusPlus",
