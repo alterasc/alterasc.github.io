@@ -51,6 +51,11 @@
       "DisplayName": "FinessableSabers"
     },
     {
+      "ModId": "GraciousFriendships",
+      "Version": "0.9.9a",
+      "DisplayName": "Gracious Friendships"
+    },
+    {
       "ModId": "HomebrewArchetypes",
       "Version": "1.1Zup",
       "DisplayName": "Homebrew Archetypes"

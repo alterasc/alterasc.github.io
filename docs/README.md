@@ -36,6 +36,8 @@
 
 ### [FinessableSabers](./FinessableSabers/README.md) 0.3
 
+### [Gracious Friendships](./GraciousFriendships/README.md) 0.9.9a
+
 ### [Homebrew Archetypes](./HomebrewArchetypes/README.md) 1.1Zup
 
 ### [Kinetic Archetypes](./KineticArchetypes/README.md) 1.1.8
