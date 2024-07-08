@@ -28,6 +28,8 @@
 
 ### [Deceiver Buffs](./deceiverbuff/README.md) 1.0.7
 
+### [Demonology](./Demonology/README.md) 0.1.5
+
 ### [Expanded Content](./ExpandedContent/README.md) 0.9.65
 
 ### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.1

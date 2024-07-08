@@ -36,6 +36,11 @@
       "DisplayName": "Deceiver Buffs"
     },
     {
+      "ModId": "Demonology",
+      "Version": "0.1.5",
+      "DisplayName": "Demonology"
+    },
+    {
       "ModId": "ExpandedContent",
       "Version": "0.9.65",
       "DisplayName": "Expanded Content"
