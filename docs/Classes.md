@@ -1,3 +1,5 @@
+### [Back to site homepage](./README.md)
+
 # New classes
 
 ## Expanded Content
@@ -549,3 +551,5 @@ There are those who take a different path when pursuing the arcane arts, reachin
 `c6a9c7f9bdce4c89aedfcde62620b2b7`  
 `Summoner`  
 
+
+### [Back to site homepage](./README.md)

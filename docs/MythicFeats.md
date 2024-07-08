@@ -1,3 +1,5 @@
+### [Back to site homepage](./README.md)
+
 # New mythic feats
 
 ## DarkCodex
@@ -324,3 +326,5 @@ You gain a bonus equal to half your mythic rank both on initiative checks and on
 `e936cb72ca914b1ca1d33a2a8c025985`  
 `WarriorPriestMythicFeature`  
 
+
+### [Back to site homepage](./README.md)

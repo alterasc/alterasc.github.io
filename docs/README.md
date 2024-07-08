@@ -9,9 +9,9 @@
 - Does not encompass all mods out there and is not in any way replacement of mod readme
 
 **Table of Contents**
-- [List of content by mod](#List-of-content-by-mod)
+- [List of content by mod](#list-of-content-by-mod)
 - [List of content by category](#list-of-content-by-category)
-- [Raw list of blueprints for troubleshooting](#Raw-list-of-blueprints-for-troubleshooting)
+- [Raw list of blueprints for troubleshooting](#raw-list-of-blueprints-for-troubleshooting)
 
 ## List of content by mod
 

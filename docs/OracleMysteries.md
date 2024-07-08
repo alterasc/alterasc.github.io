@@ -1,3 +1,5 @@
+### [Back to site homepage](./README.md)
+
 # New oracle mysteries
 
 ## Expanded Content
@@ -44,3 +46,5 @@ An oracle with the wood mystery adds Mobility, Lore (nature), Stealth  and Knowl
 `7dd7cbb4662f4167b315e72d286ed825`  
 `OracleWoodMysteryFeature`  
 
+
+### [Back to site homepage](./README.md)

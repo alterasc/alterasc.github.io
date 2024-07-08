@@ -1,3 +1,5 @@
+### [Back to site homepage](./README.md)
+
 # New mythic abilities
 
 ## AddedFeats
@@ -831,3 +833,5 @@ Once per Demon Rage you may cast any spell fourth level or lower from the Demon 
 `1f060f9057a240b7a11a8d5987ef7a20`  
 `Mighty Demon Rage1f060f9057a240b7a11a8d5987ef7a20`  
 
+
+### [Back to site homepage](./README.md)

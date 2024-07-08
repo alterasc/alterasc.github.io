@@ -1,3 +1,5 @@
+### [Back to site homepage](./README.md)
+
 # New archetypes for base classes
 
 ## Arcane Additions
@@ -917,3 +919,5 @@ Some warpriests are called to lead great armies and face legions of foes. These 
 `f2ea4e4620b141aab5cc1077afee9f95`  
 `EldritchScionSageArchetype`  
 
+
+### [Back to site homepage](./README.md)

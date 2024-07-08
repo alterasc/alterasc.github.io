@@ -1,3 +1,5 @@
+### [Back to site homepage](./README.md)
+
 # New spells
 
 ## AddedFeats
@@ -1766,3 +1768,5 @@ Summoner 1
 `4cc5ab99108841a5a8e53cb490909538`  
 `TransmogrifySpell`  
 
+
+### [Back to site homepage](./README.md)

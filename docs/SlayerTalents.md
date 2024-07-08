@@ -1,3 +1,5 @@
+### [Back to site homepage](./README.md)
+
 # New slayer talents
 
 ## Character Options+
@@ -49,3 +51,5 @@ A rogue with this ability can cause living opponents to bleed by hitting them wi
 `cd4a44086c4e43f9a705005cf2359e08`  
 `BleedingAttackFeature`  
 
+
+### [Back to site homepage](./README.md)

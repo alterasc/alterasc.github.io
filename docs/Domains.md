@@ -1,3 +1,5 @@
+### [Back to site homepage](./README.md)
+
 # New domains
 
 ## Expanded Content
@@ -380,3 +382,5 @@ It is the cold and tactical mind that often wins the day. A proper, carefully co
 `02fd81b65f1d454e860fa5a02a2cc13d`  
 `Inquisition.Tactics`  
 
+
+### [Back to site homepage](./README.md)
