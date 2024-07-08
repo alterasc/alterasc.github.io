@@ -41,6 +41,11 @@
       "DisplayName": "Expanded Content"
     },
     {
+      "ModId": "HomebrewArchetypes",
+      "Version": "1.1Zup",
+      "DisplayName": "Homebrew Archetypes"
+    },
+    {
       "ModId": "KineticArchetypes",
       "Version": "1.1.8",
       "DisplayName": "Kinetic Archetypes"

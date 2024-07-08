@@ -18,6 +18,10 @@
 
 ### [AutomaticBonusProgression](./AutomaticBonusProgression/README.md) 1.0.5
 
+### [Baphomet Rides Deskari](./NenioMod/README.md) 1.0.1
+
+### [BOAT BOAT BOAT](./WOTR_BOAT_BOAT_BOAT/README.md) 1.2.1
+
 ### [Character Options+](./CharacterOptionsPlus/README.md) 1.3.8
 
 ### [DarkCodex](./DarkCodex/README.md) 1.7.0
@@ -26,15 +30,19 @@
 
 ### [Expanded Content](./ExpandedContent/README.md) 0.9.65
 
+### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.1
+
+### [Homebrew Archetypes](./HomebrewArchetypes/README.md) 1.1Zup
+
 ### [Kinetic Archetypes](./KineticArchetypes/README.md) 1.1.8
 
 ### [Kineticist Elements Expanded](./KineticistElementsExpanded/README.md) 3.3.0
 
 ### [Levelable Aivu](./LevelableAivu/README.md) 1.2.7
 
-### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
+### [MAKING FRIENDS](./WOTR_MAKING_FRIENDS/README.md) 0.2.1
 
-### [Pheonix's Cantrips - More Cantrips](./MoreCantrips/README.md) 1.0.3
+### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
 
 ### [MorvarchsPlaystyleExpansions](./MorvarchsPlaystyleExpansions/README.md) 1.2.0
 
@@ -44,19 +52,17 @@
 
 ### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
 
-### [Baphomet Rides Deskari](./NenioMod/README.md) 1.0.1
+### [PATH OF BLING](./WOTR_PATH_OF_BLING/README.md) 1.0.6
 
-### [The One Pearl](./OnePearl/README.md) 1.0.1
+### [PATH OF RAGE](./WOTR_PATH_OF_RAGE/README.md) 1.3.5
+
+### [Pheonix's Cantrips - More Cantrips](./MoreCantrips/README.md) 1.0.3
 
 ### [Prestige Minus](./PrestigeMinus/README.md) 0.9.5
 
 ### [PrestigePlus](./PrestigePlus/README.md) 3.4.0
 
 ### [Psionics](./Psionics/README.md) 1.1.1
-
-### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.1
-
-### [Way Of The Shield](./Shield/README.md) 4.0.13
 
 ### [Spellbook Merge](./SpellbookMerge/README.md) 1.7.1
 
@@ -68,13 +74,9 @@
 
 ### [Tabletop Tweaks Reworks](./TabletopTweaks-Reworks/README.md) 1.4.3a
 
+### [The One Pearl](./OnePearl/README.md) 1.0.1
+
 ### [Toggleable Throwing Weapons](./ToggleableThrowingWeapons/README.md) 1.3.1
 
-### [BOAT BOAT BOAT](./WOTR_BOAT_BOAT_BOAT/README.md) 1.2.1
-
-### [MAKING FRIENDS](./WOTR_MAKING_FRIENDS/README.md) 0.2.1
-
-### [PATH OF BLING](./WOTR_PATH_OF_BLING/README.md) 1.0.6
-
-### [PATH OF RAGE](./WOTR_PATH_OF_RAGE/README.md) 1.3.5
+### [Way Of The Shield](./Shield/README.md) 4.0.13
 
