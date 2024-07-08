@@ -81,6 +81,11 @@
       "DisplayName": "Microscopic Content Expansion"
     },
     {
+      "ModId": "MiscTweaksAndFixes",
+      "Version": "2.3.2",
+      "DisplayName": "Miscellaneous Tweaks and Fixes"
+    },
+    {
       "ModId": "MoreCantrips",
       "Version": "1.0.3",
       "DisplayName": "Pheonix's Cantrips - More Cantrips"
