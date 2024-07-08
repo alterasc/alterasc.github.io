@@ -10,7 +10,7 @@
 
 **Table of Contents**
 - [List of content by mod](#List-of-content-by-mod)
-- [List of content by category](#List-of-content-by-category)
+- [List of content by category](#List%20of%20content%20by%20category)
 - [Raw list of blueprints for troubleshooting](#Raw-list-of-blueprints-for-troubleshooting)
 
 ## List of content by mod
