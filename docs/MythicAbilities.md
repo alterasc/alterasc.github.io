@@ -1,6 +1,6 @@
-### [Back to site homepage](./README.md)
-
 # New mythic abilities
+
+### [Back to site homepage](./README.md)
 
 ## AddedFeats
 

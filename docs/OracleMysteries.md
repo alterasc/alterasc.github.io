@@ -1,6 +1,6 @@
-### [Back to site homepage](./README.md)
-
 # New oracle mysteries
+
+### [Back to site homepage](./README.md)
 
 ## Expanded Content
 

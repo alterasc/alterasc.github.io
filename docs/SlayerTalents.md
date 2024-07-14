@@ -1,6 +1,6 @@
-### [Back to site homepage](./README.md)
-
 # New slayer talents
+
+### [Back to site homepage](./README.md)
 
 ## Character Options+
 

@@ -1,6 +1,6 @@
-### [Back to site homepage](./README.md)
-
 # New rogue talents
+
+### [Back to site homepage](./README.md)
 
 ## Character Options+
 

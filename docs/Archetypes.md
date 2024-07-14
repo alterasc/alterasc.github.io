@@ -1,6 +1,6 @@
-### [Back to site homepage](./README.md)
-
 # New archetypes for base classes
+
+### [Back to site homepage](./README.md)
 
 ## Arcane Additions
 

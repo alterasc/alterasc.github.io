@@ -1,6 +1,6 @@
-### [Back to site homepage](./README.md)
-
 # New rage powers
+
+### [Back to site homepage](./README.md)
 
 ## PrestigePlus
 

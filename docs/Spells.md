@@ -1,6 +1,6 @@
-### [Back to site homepage](./README.md)
-
 # New spells
+
+### [Back to site homepage](./README.md)
 
 ## AddedFeats
 

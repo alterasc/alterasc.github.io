@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -60,7 +60,7 @@
 | `d466d1db685c4d26854ae9bf80812f3b` | dummyBuff |  |
 | `4ba3633e415746e6a45c9bc7d2afe82b` | EidolonAbberantBaseFormFeature | Abberant Base Form |
 | `2c44b78ebf8f49ee9d820bfe2e23c1cf` | EidolonAbberantBaseFormSelectionFeature | Abberant |
-| `2c8e7db74d8541ccb60c720b037b5c96` | EidolonAbberantClass | Eidolon |
+| `2c8e7db74d8541ccb60c720b037b5c96` | EidolonAbberantClass |  |
 | `533a1889576b4a088e728d26b3ae1024` | EidolonAberrantProgression |  |
 | `70d7380f4b964f72b70339492198e08f` | EidolonAberrantSubtypeFeature | Abberant Subtype |
 | `4c7e9fede4d8457499e1f8fb624efee2` | EidolonAddAbilityConsumeFearAbility | Consume Fear |
@@ -147,12 +147,12 @@
 | `b2dad5f7c0104282a39b86ade3c5507b` | EidolonBabauCompanionFeature | Babau |
 | `f6b0f364405445918bc864fe7012ec2b` | EidolonBalor | Eidolon |
 | `45618c2ed5e04836a96525da2cf6812e` | EidolonBalorCompanionFeature | Balor |
-| `075743fe93d54a58bef4fae948513a6f` | EidolonBaseClass | Eidolon |
+| `075743fe93d54a58bef4fae948513a6f` | EidolonBaseClass |  |
 | `2966c40fe3ca4c4d892bad2b8175daa9` | EidolonBaseFeatureSelection | Eidolon Body Type |
 | `4950f4b0118b4ca5b20c90d2b49d45fc` | EidolonBaseProgression |  |
 | `6bad3a5bc60d412b93ebba126e351535` | EidolonBipedBaseFormFeature | Biped Base Form |
 | `e5768fdbcf7d40e08eecf45cd4336698` | EidolonBipedBaseFormSelectionFeature | Biped |
-| `6f4b088a6bee44ef9623821f97b610e4` | EidolonBipedClass | Eidolon |
+| `6f4b088a6bee44ef9623821f97b610e4` | EidolonBipedClass |  |
 | `e5dfbf55b2504a76b4269233a86a3174` | EidolonBlackDragon | Eidolon |
 | `36a6f101c3ad43089c959805140ca943` | EidolonBlackDragonCompanionFeature | Black Dragon |
 | `9dfae8ac70f34976b203463ad76ef078` | EidolonBlueDragon | Eidolon |
@@ -297,7 +297,7 @@
 | `21425a2395e64471b89f3497d2cad98f` | EidolonPsychopompSubtypeFeature | Psychopomp Subtype |
 | `299827c9d92343388802bd18c27f6500` | EidolonQuadrupedBaseFormFeature | Quadruped Base Form |
 | `4a8b8c19e40e4a489a4fd4059e157026` | EidolonQuadrupedBaseFormSelectionFeature | Quadruped |
-| `0c910ba2dc154810b185f17ad03cb690` | EidolonQuadrupedClass | Eidolon |
+| `0c910ba2dc154810b185f17ad03cb690` | EidolonQuadrupedClass |  |
 | `c4cfe17905af4a688f5e402823dc11d3` | EidolonRadiantProgression |  |
 | `09b77eb40364476db231a95077cc5512` | EidolonRadiantSubtypeFeature | Radiant Subtype |
 | `4f75783dfbb949d89da77b720ea10bb3` | EidolonRankFeature | Eidolon Rank |
@@ -315,7 +315,7 @@
 | `29f3a7fc7db7400caad437f18c04a19b` | EidolonSchirCompanionFeature | Schir |
 | `3f504b0db47a4fc4ae72bc766ab5aac8` | EidolonSerpentineBaseFormFeature | Serpentine Base Form |
 | `337803eb29944b2b8e3275ccedfd2dab` | EidolonSerpentineBaseFormSelectionFeature | Serpentine |
-| `e4396e852244492d8e7970468d10e1b2` | EidolonSerpentineClass | Eidolon |
+| `e4396e852244492d8e7970468d10e1b2` | EidolonSerpentineClass |  |
 | `225d10f2b8d1420c957c2250dcaa574d` | EidolonShade | Eidolon |
 | `f8484628272a494192a76e2b393d7885` | EidolonShadeCompanionFeature | Shade |
 | `6ca773f98b284b2ba82d5c71638df6e4` | EidolonShadowProgression |  |

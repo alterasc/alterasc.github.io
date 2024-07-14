@@ -1,6 +1,6 @@
-[To list of mods](../README.md)
-
 # MAKING FRIENDS
+
+[Back to site homepage](../README.md)
 
 ## Version: 0.2.1
 
@@ -26,4 +26,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

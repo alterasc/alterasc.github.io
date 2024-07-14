@@ -1,6 +1,6 @@
-### [Back to site homepage](./README.md)
-
 # New racial heritages
+
+### [Back to site homepage](./README.md)
 
 ## Alternate Racial Traits
 
