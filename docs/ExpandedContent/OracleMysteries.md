@@ -23,6 +23,13 @@ An oracle with the lunar mystery adds Mobility, Lore (nature), Perception  and K
 `47c1af4003874908b6841f6c457f0a82`  
 `OracleLunarMysteryFeature`  
 
+## Shadow
+
+An oracle with the shadow mystery adds Persuasion, Stealth and Knowledge (World)  to her list of class skills.
+
+`aef24806496f4e1ea8bcf29bbe4c7ae7`  
+`OracleShadowMysteryFeature`  
+
 ## Succor
 
 An oracle with the succor mystery adds Lore (nature) and Stealth to her list of class skills.

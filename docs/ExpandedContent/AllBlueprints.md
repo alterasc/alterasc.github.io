@@ -737,6 +737,7 @@
 | `160babe55b4c406da1531db87ea544f6` | DivineHerbalistDragonMysteryFeature | Dragon |
 | `2efe1f62d44049759b462f5303b707cc` | DivineHerbalistHeavensMysteryFeature | Heavens |
 | `7ac6d74475ee409c827703c87541c553` | DivineHerbalistLunarMysteryFeature | Lunar |
+| `f678dfefdabc4f5199cc65bd46255d18` | DivineHerbalistShadowMysteryFeature | Shadow |
 | `0a0a7f014f074a8eac3cbc7de94b1b33` | DivineHerbalistSuccorMysteryFeature | Succor |
 | `e1fc79d7dd1f45c1b46004ab8b42e7c0` | DivineHerbalistWinterMysteryFeature | Winter |
 | `cd92e55befe24ca799d23451a2368318` | DivineHerbalistWoodMysteryFeature | Wood |
@@ -1059,6 +1060,8 @@
 | `a8d5be3b0f304ec7a132b616ba92fbf5` | EnlightnedPhilosopherHeavensSpells |  |
 | `0a69ce4ddde54660acab585e4f217e9b` | EnlightnedPhilosopherLunarMysteryFeature | Lunar |
 | `9c540c6d7d884263bada3b7958942d71` | EnlightnedPhilosopherLunarSpells |  |
+| `68a507fbdf9349409c93dbb17f5c0b40` | EnlightnedPhilosopherShadowMysteryFeature | Shadow |
+| `258ebafcbc3e43b38a3f71cb4c23f08a` | EnlightnedPhilosopherShadowSpells |  |
 | `c95398c55bc14a6dbe740a74b91a1911` | EnlightnedPhilosopherSuccorMysteryFeature | Succor |
 | `92621c3918b34cf9ba3eefc4fbab8cdd` | EnlightnedPhilosopherSuccorSpells |  |
 | `86bb559d502b40f484313a0142146b1c` | EnlightnedPhilosopherWinterMysteryFeature | Winter |
@@ -1413,10 +1416,6 @@
 | `8fb9205abf4f48e2990ae08d6b551386` | LoremasterSilverChampionProgression | Silver Champion |
 | `22f40521dcb14a8b9a367a9477070585` | LoremasterSkulkingHunterLevelUp | Skulking Hunter |
 | `8b3a1168be444ec38ff1723ae37cb234` | LoremasterSkulkingHunterProgression | Skulking Hunter |
-| `59f72f70bf67086529adf1f4441be3d3` | LoremasterSpellbookRavenerHunterTTT | Inquisitor |
-| `77d836235558092518e048a8ffcf1903` | LoremasterSpellbookSilverChampionTTT | Paladin |
-| `7d02178ba62a0ccc26d49b8dd6e6f945` | LoremasterSpellbookSkulkingHunterTTT | Hunter |
-| `1ad6a14ef7550eff1afd547cf23b15f4` | LoremasterSpellbookSwornOfTheEldestTTT | Inquisitor |
 | `8a8908271b98407dbfa7cc15fea0c3d6` | LoremasterSwornOfTheEldestLevelUp | Sworn of the Eldest |
 | `e948863b65694f2daf46ff21ee0aefb9` | LoremasterSwornOfTheEldestProgression | Sworn of the Eldest |
 | `f0ed32a15bf944b89507a350211286b5` | LoreOfAcavnaAndAmaznenCantripSelection | Lore of Acavna and Amaznen |
@@ -1520,6 +1519,12 @@
 | `3cb816fed8c644e187171a223a5f4339` | MrtyuFeature | Mrtyu |
 | `879ca15452924047bd9db1c0d015e22c` | MrtyuSacredWeaponFeature |  |
 | `dd705193fa2b476f85d8dd36319b6740` | MutagenDiscoveryFeature | Mutagen |
+| `fd75c3049a1341e18d76ebee9de92831` | MydriaticSpontaneityAbility | Mydriatic Spontaneity |
+| `822b356bd2794e86ad244357b69ee84d` | MydriaticSpontaneityBlindedBuff | Mydriatic Spontaneity - Blinded |
+| `66317e89e6934267b4133a493d3bb140` | MydriaticSpontaneityBuff | Mydriatic Spontaneity |
+| `4d96d8816c754ca39d99df37d82f6e60` | MydriaticSpontaneityDazzledBuff | Mydriatic Spontaneity - Dazzled |
+| `c60dbab62ea347c99f0bf1335052ee30` | MydriaticSpontaneityMassAbility | Mass Mydriatic Spontaneity |
+| `fa8b1c4c9464488394d9e652be8b1f39` | MydriaticSpontaneityNauseatedBuff | Mydriatic Spontaneity - Nauseated |
 | `8cd7b38f3a60433fa27a072240149581` | MysticTheurgeClawOfTheFalseWyrmLevelUp | Claw of the False Wyrm |
 | `d3334a212d5d47a4a3f0bea5aca7442b` | MysticTheurgeClawOfTheFalseWyrmProgression | Claw of the False Wyrm |
 | `925fa8b7af044c289ce553b1dccb38d1` | MysticTheurgeDreadKnightLevelParametrized1 | Dread Knight Spell (1st Level) |
@@ -1643,6 +1648,8 @@
 | `a8044859fd51414e972fa74c4ccf9068` | OceansEchoMysterySelection | Mystery |
 | `a1799fd536c947079a5661393195ad22` | OceansEchoNatureMysteryFeature | Nature |
 | `26a1c90a6b19417087c5442d00417f59` | OceansEchoNatureSpells |  |
+| `f926da9e1f00475cbe60ba57dba2ddc7` | OceansEchoShadowMysteryFeature | Shadow |
+| `2270c87f63914ecea45ef308fb847379` | OceansEchoShadowSpells |  |
 | `7defdcf7b371447e8accc70841262a72` | OceansEchoStoneMysteryFeature | Stone |
 | `a56730cb09eb4090bf3c496c3d267aeb` | OceansEchoStoneSpells |  |
 | `7fe918ee6fb64d579717f36efbe07dc6` | OceansEchoSuccorMysteryFeature | Succor |
@@ -1687,6 +1694,7 @@
 | `65e106ecb2f24c5bbb14804bcfe45c45` | OracleLunarFinalRevelationWolfBuff | Lycan Shape - Werewolf |
 | `47c1af4003874908b6841f6c457f0a82` | OracleLunarMysteryFeature | Lunar |
 | `31c1523716ea4e23814e7d94e64a723b` | OracleLunarSpells |  |
+| `92e07216a7b84727a76a5fd0586c41bf` | OracleRevelationArmyOfDarknessFeature | Army of Darkness |
 | `1039d1c1881f4ccba6a4ca87d5f85aef` | OracleRevelationAwesomeDisplay | Awesome Display |
 | `d51abff78da3498b9364f9cd6ab4f17b` | OracleRevelationBeastFormFeature1 |  |
 | `5e701fc6b4464eeaac033d6ed45b6528` | OracleRevelationBeastFormFeature2 |  |
@@ -1700,6 +1708,10 @@
 | `8d067663b0fc4ae7b85979127bb725c8` | OracleRevelationBeastFormIVWAbility | Beast Form (Wyvern) |
 | `2b7640ffd0ff4dac976635d9974a643e` | OracleRevelationBeastFormProgression | Form of the Beast |
 | `4223e89b1138401eb7dc4840555e34b0` | OracleRevelationBeastFormResource |  |
+| `678ef9fb6f4044faa4631270728859d4` | OracleRevelationCloakOfDarknessAbility | Coat of Darkness |
+| `15c0f07bfa63416d8ec246b8ef53f953` | OracleRevelationCloakOfDarknessBuff | Coat of Darkness |
+| `7dd3db7d594c490b8f8842991993fa9c` | OracleRevelationCloakOfDarknessFeature | Coat of Darkness |
+| `913b93fe012c45cf8a4faa6b588b3954` | OracleRevelationCloakOfDarknessResource |  |
 | `57d3bdfbed9b4f18931b5df8644e4e85` | OracleRevelationCoatOfManyStarsDC | Coat of Many Stars |
 | `c560b7c8324645a48520ea23bd87ddca` | OracleRevelationCoatOfManyStarsDCAbility | Coat of Many Stars |
 | `9532c3df8747474a940468e42bd8f7d8` | OracleRevelationCoatOfManyStarsDCBuff | Coat of Many Stars |
@@ -1712,6 +1724,35 @@
 | `89012fdfc49d4199b07f6d1d0dc324de` | OracleRevelationColdAuraBuff | Cold Aura |
 | `58c7b663843242398f657ff50ddde08e` | OracleRevelationColdAuraFeature | Cold Aura |
 | `166847cab72e472ab84f7564a83ea74c` | OracleRevelationColdAuraResource |  |
+| `eef7dbe7225742e7aadefea24530006d` | OracleRevelationDarkSecretsLevel1Selection | Dark Secrets |
+| `029298a3a8aa4f06a6bab4a7f6c9e7ce` | OracleRevelationDarkSecretsLevel2Selection | Dark Secrets |
+| `5fa4ee3fb60042769b4f83688413c384` | OracleRevelationDarkSecretsLevel3Selection | Dark Secrets |
+| `dfb78748d0684be19af56aa76770a9fb` | OracleRevelationDarkSecretsLevel4Selection | Dark Secrets |
+| `c1d71d185514478e8dae9a9ba7cc77d0` | OracleRevelationDarkSecretsLevel5Selection | Dark Secrets |
+| `15ea9b65013347348656463968406015` | OracleRevelationDarkSecretsLevel6Selection | Dark Secrets |
+| `feaf77ff32e742609c8c2684ce17f3a5` | OracleRevelationDarkSecretsLevel7Selection | Dark Secrets |
+| `55123451f5394d079b70495b896e3d13` | OracleRevelationDarkSecretsLevel8Selection | Dark Secrets |
+| `12aa3748c5b54fc8a4003cd9c6d50dad` | OracleRevelationDarkSecretsLevel9Selection | Dark Secrets |
+| `272cae370a1e4197879273504819f09c` | OracleRevelationDarkSecretsProgression | Dark Secrets |
+| `ec28b4144ec848f3abe6f0102cfecbbe` | OracleRevelationDarkSecretsSpellLevel1 | Dark Secret (1st Level) |
+| `67bf56c348444bba90afb2a5bba99f77` | OracleRevelationDarkSecretsSpellLevel2 | Dark Secret (2nd Level) |
+| `fd0d200f8bd54b71b69d9f3b5de14d72` | OracleRevelationDarkSecretsSpellLevel3 | Dark Secret (3rd Level) |
+| `6c6e401d3bf84984843056d413828761` | OracleRevelationDarkSecretsSpellLevel4 | Dark Secret (4th Level) |
+| `5d051b978d7844bcbb1e1abdfa690eca` | OracleRevelationDarkSecretsSpellLevel5 | Dark Secret (5th Level) |
+| `05f516ea0b574760981998f6c9e0aecf` | OracleRevelationDarkSecretsSpellLevel6 | Dark Secret (6th Level) |
+| `5b175281d5354581ba5b9d7494cbd0a6` | OracleRevelationDarkSecretsSpellLevel7 | Dark Secret (7th Level) |
+| `43dc55f9ae914839ad0063cdf122ed1e` | OracleRevelationDarkSecretsSpellLevel8 | Dark Secret (8th Level) |
+| `77b0ad43dd5549e3803f35a039ad07ac` | OracleRevelationDarkSecretsSpellLevel9 | Dark Secret (9th Level) |
+| `2bcd50a344354c238da2a2189a09d31f` | OracleRevelationDarkSecretsSpellList1 |  |
+| `1a9d96a9e38c4fa69074f22b0498d9de` | OracleRevelationDarkSecretsSpellList2 |  |
+| `3479c6320a144891b6885ea6c5c76d3a` | OracleRevelationDarkSecretsSpellList3 |  |
+| `a7615632d7624671afde81dd4eeef4ac` | OracleRevelationDarkSecretsSpellList4 |  |
+| `efd866a7f8834827afd27b0eca9ea6b4` | OracleRevelationDarkSecretsSpellList5 |  |
+| `40802304de744ee3ac13d1dd4b8e6288` | OracleRevelationDarkSecretsSpellList6 |  |
+| `388502eb13394df6b1de5e0b1e3744af` | OracleRevelationDarkSecretsSpellList7 |  |
+| `c331277701e349f9a071b43c93270d2c` | OracleRevelationDarkSecretsSpellList8 |  |
+| `e82ecbdb08644cc5b997e8cdf16fc913` | OracleRevelationDarkSecretsSpellList9 |  |
+| `8165bc80d7d44a11bf47f2f9395382ec` | OracleRevelationDarkSecretsSpellSkip | Skip Spell Selection |
 | `d0223c9007d845709956e6e7df995292` | OracleRevelationDraconicResistancesAcidLevel1 | Draconic Resistances - Acid |
 | `77dec0edd56f49ebb68690d5ff11b9e0` | OracleRevelationDraconicResistancesAcidLevel2 |  |
 | `0fb6f682e1694c0e8fb1b4402ea6df7a` | OracleRevelationDraconicResistancesAcidProgress | Draconic Resistances - Acid |
@@ -1847,6 +1888,9 @@
 | `1fecb2a1ce6a4795a966556bce394c36` | OracleRevelationMoonbeamResource |  |
 | `8f8d1dadd8f946148b2964daeb12cf7b` | OracleRevelationPerfectAid | Perfect Aid |
 | `b58276532f5c4bc780e7b462d5972ae6` | OracleRevelationPerfectAidProperty |  |
+| `7dd9be42faa94d7b90fd2120c9781278` | OracleRevelationPierceTheShadows15Feet | Pierce the Shadows |
+| `1919579428494428914214c2fc90f5a3` | OracleRevelationPierceTheShadows30Feet | Pierce the Shadows |
+| `dab5c7f0a8a34c7a834e916396e7edb9` | OracleRevelationPierceTheShadowsFeature | Pierce the Shadows |
 | `6d421f16dbb6483ab99df844b669866f` | OracleRevelationPresenceOfDragons | Presence of Dragons |
 | `8865c3eeab9c4b04b21afbcf9dd20811` | OracleRevelationPresenceOfDragonsAbility | Presence of Dragons |
 | `5fb2993529b744bf8464c4e6026e01e7` | OracleRevelationPresenceOfDragonsCooldown | Presence of Dragons Immunity |
@@ -1865,6 +1909,8 @@
 | `adc495dc4dd640408ca6271ca0418317` | OracleRevelationServantOfWinterSummonElder |  |
 | `fd96c2a29511461ca67ebdb18600ae72` | OracleRevelationServantOfWinterSummonHuge |  |
 | `cab091b8ab6d4b0486bd17bae954e3b5` | OracleRevelationServantOfWinterSummonMedium |  |
+| `83bcc687144c42dda9b51b692b8b2dba` | OracleRevelationShadowMasteryCustomProperty |  |
+| `82eabbca29984aa39dfafb76ed852c12` | OracleRevelationShadowMasteryFeature | Shadow Mastery |
 | `6ca813a8e8cc4e5f95644e469c6de544` | OracleRevelationShellOfSuccor | Shell of Succor |
 | `1906c5c258984bae8c43d945c07b3a34` | OracleRevelationShellOfSuccorAbility | Shell of Succor |
 | `73020f9783734e849fa5e815f48b1d19` | OracleRevelationShellOfSuccorBuff | Shell of Succor |
@@ -1875,6 +1921,7 @@
 | `05dca5772a19484daced1daab647266c` | OracleRevelationSprayOfShootingStarsFreeUnlock | Spray of Shooting Stars |
 | `eda2d16c5bac48d6be27e47a4454d7e5` | OracleRevelationSprayOfShootingStarsImmunity |  |
 | `5f83a5d37b264d39823eb47a21d3d132` | OracleRevelationSprayOfShootingStarsResource |  |
+| `67bca205aa2f4590be689a1e9d66ec44` | OracleRevelationStealthMasteryProgression | Stealth Mastery |
 | `d2c9d47c6ce7487d899091168eef29d2` | OracleRevelationTeamworkMasteryAbility | Teamwork Mastery |
 | `4b7948a87b024efabd669146e094af29` | OracleRevelationTeamworkMasteryResource |  |
 | `ccfbfd92cbeb4a12b0bdaa5c852231cd` | OracleRevelationTeamworkMasterySelection | Teamwork Mastery |
@@ -1889,6 +1936,14 @@
 | `7114a471caa540a7849888e0953b7353` | OracleRevelationTreeFormFeature3 | Tree Form |
 | `26325e00d40841e3bbceeb29cebfd5f4` | OracleRevelationTreeFormProgression | Tree Form |
 | `78f63dcda4434e8e8c4f692dda68b412` | OracleRevelationTreeFormResource |  |
+| `47e0763572304da2b6baca455b8b60cc` | OracleRevelationWingsOfDarknessAbility | Wings of Darkness |
+| `54852ca48999479ebde52c35cb1ed68c` | OracleRevelationWingsOfDarknessBuff | Wings of Darkness |
+| `18b40a488d174533809b8247d596a893` | OracleRevelationWingsOfDarknessExtraUse9 |  |
+| `a662c0bf07ba4efc85a5abe09dee71e3` | OracleRevelationWingsOfDarknessExtraUse99 |  |
+| `cf593ed2488547f2820014191ccb0184` | OracleRevelationWingsOfDarknessFeature | Wings of Darkness |
+| `9074e8de9b9e4fb8bfff6260bbbc506e` | OracleRevelationWingsOfDarknessProgression | Wings of Darkness |
+| `58f6c81ad3e24001a24a59ea2c2c972c` | OracleRevelationWingsOfDarknessResource |  |
+| `3d1601d83773468eb351b6ac03ed0259` | OracleRevelationWingsOfDarknessUnlimited |  |
 | `acf77682aa6c4f5cb8f7e885b87e6953` | OracleRevelationWingsOfTheDragonBlackAbility | Wings of the Dragon |
 | `191f68c24f6a451cb34b7d307ee1a29f` | OracleRevelationWingsOfTheDragonBlackFeature | Wings of the Dragon - Black |
 | `1d00de498347491c8f650a23848c75ab` | OracleRevelationWingsOfTheDragonBlueAbility | Wings of the Dragon |
@@ -1943,6 +1998,9 @@
 | `b20688b8b4974dbeab4a88acaae8aae8` | OracleRevelationWoodenWeaponEnchantFlag19 | OracleRevelationWoodenWeaponEnchantFlag19 |
 | `bd4e22f4a4014da088989afb5fa64fd8` | OracleRevelationWoodenWeaponEnchantFlag7 | OracleRevelationWoodenWeaponEnchantFlag7 |
 | `f9989c6920714cc6b3935252ee91f19b` | OracleRevelationWoodenWeaponEnchantResource |  |
+| `a9b3369628eb4771a50f257f43c3f598` | OracleShadowFinalRevelation | Final Revelation |
+| `aef24806496f4e1ea8bcf29bbe4c7ae7` | OracleShadowMysteryFeature | Shadow |
+| `432245991bc6402097f2715f934c776b` | OracleShadowSpells |  |
 | `f3c5e36242b54680aaa5123b7b142a4e` | OracleSuccorFinalRevelation | Final Revelation |
 | `d251b26734dd4a989b0bf9ef96268cde` | OracleSuccorMysteryFeature | Succor |
 | `5f3dfabf6cc040f3a12e2803f2c13b49` | OracleSuccorSpells |  |
@@ -2346,6 +2404,13 @@
 | `3d426968fad34eb292f3f9e8880ff2e4` | SetSacredWeaponFeature |  |
 | `3ab416fbc4ac451aaada8adf997d3656` | SezelrianFeature | Sezelrian |
 | `a7e5deb1d71a4f15b4c1b318de37ae35` | SezelrianSacredWeaponFeature |  |
+| `7402ae487e0b41968be48c103904d237` | ShadowClawsAbility | Shadow Claws |
+| `3fa09001071a4cda9bbc14d0839ac6a8` | ShadowClawsBuff | Shadow Claws |
+| `84511236ebbd47f79d641e226f73b27f` | ShadowJauntAbility | Shadow Jaunt |
+| `bf75a5aab6c64a80afbdf764eba48f0a` | ShadowJauntBuff | Shadow Jaunt |
+| `d07c4d2270a54f0aa434b2ff3b62429e` | ShadowJauntDecoyUnit |  |
+| `9da215a53be3449cad94e31344891ccf` | ShadowJauntSubspell | Shadow Jaunt Subspell |
+| `f51451385b1545bebfcbbb36b7da0220` | ShadowStepAbility | Shadow Step |
 | `70aece5de1dc4ada8e3a54cc7983dcd8` | ShamanDrakeCompanionFeature | Drake Companion |
 | `0023c6df0d184d6db61f702741614234` | ShamanHeavensPrismaticSprayAbility | Phantasmagoric Display - Prismatic Spray |
 | `6f25a7e29aef445a9db1513c9f68c44a` | ShamanHeavensPrismaticSprayResource |  |
@@ -3372,6 +3437,8 @@
 | `11eebbcd85dc42abb83abcdfaf77a480` | DreadknightClass | |
 | `59d1be730b1249f3aff53ddd4a7e7fd9` | IceDomainFeature | |
 | `444b9c9c8ef24cc7a725e9d67c884692` | NarrisemineFeature | |
+| `8f4e99cf17454afcb5f5c1c2fee367c2` | OracleRevelationDarkSecretsSpellList | |
+| `e43005039299414092669bcf57103e5b` | OracleRevelationPierceTheShadows60Feet | |
 | `ad22c4a241d24cd3a93a67470a652296` | ScalykindDomainFeature | |
 | `dc793bcf32ea4533b6269e4026c0b552` | SummonOwlbearStandardSingle | |
 | `c66b538fe21e4e188be645f12acb6a58` | TouchOfProfaneCorruptionAbilityCast | |

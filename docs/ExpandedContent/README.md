@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
 
 # Expanded Content
 
-## Version: 0.9.65
+## Version: 0.10.00
 
 ## Author: kadyn
 
@@ -34,4 +34,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

@@ -189,6 +189,17 @@ Paladin 4
 `5c0c3a8e3ba34da29fd54a3750fc22b6`  
 `KingsCastleAbility`  
 
+## Mass Mydriatic Spontaneity
+
+This spell functions as mydriatic spontaneity, except it can affect multiple creatures.  
+You overstimulate the target with alternating flashes of light and shadow within its eyes, causing its pupils to rapidly dilate and contract. While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round.  
+Each new round, the target may make a will save to remove the nauseated condition.
+
+Witch 7, Wizard 7, Bard 5
+
+`c60dbab62ea347c99f0bf1335052ee30`  
+`MydriaticSpontaneityMassAbility`  
+
 ## Moment of Prescience
 
 This spell grants you a sixth sense. Once during the spell’s duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). Activating the effect is a free action. Once used, the spell ends. You can’t have more than one moment of prescience active on you at the same time.
@@ -212,6 +223,16 @@ Witch 4, Wizard 4, Bloodrager 4, Druid 4, Hunter 4, Child of Acavna and Amaznen 
 
 `3bd430ba3d594fdda99751c34fda9c01`  
 `MoonstruckAbility`  
+
+## Mydriatic Spontaneity
+
+You overstimulate the target with alternating flashes of light and shadow within its eyes, causing its pupils to rapidly dilate and contract. While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round.   
+Each new round, the target may make a will save to remove the nauseated condition.
+
+Witch 4, Wizard 4, Bard 3
+
+`fd75c3049a1341e18d76ebee9de92831`  
+`MydriaticSpontaneityAbility`  
 
 ## Particulate Form
 
@@ -266,6 +287,35 @@ Wizard 9, Cleric 9
 
 `dafdc0eef4374785aa827bf5b2059bf0`  
 `ScourgeOfTheHorsemenAbility`  
+
+## Shadow Claws
+
+You summon a pair of claws over your hands formed from semireal material. This grants you two primary claw attacks dealing 1d4 points of damage if you are Medium (1d3 if Small) plus 1 point of Strength damage. A successful Fortitude saving throw negates the Strength damage (DC = this spell’s DC).   
+While under the effect of this spell, all claw attacks gain this spells Strength damage component.
+
+Wizard 2, Bard 2, Bloodrager 2, Magus 2, Child of Acavna and Amaznen 2, Skulking Hunter 2, Claw of the False Wyrm 2
+
+`7402ae487e0b41968be48c103904d237`  
+`ShadowClawsAbility`  
+
+## Shadow Jaunt
+
+You instantly travel between shadows to a point within range. You leave a shadowy decoy in your former location and are wrapped in shadow at your destination; you attempt a Stealth check as a free action to hide in your new location. In addition, for 1 round, the envelope of shadow around you grants you concealment (20% miss chance).   
+The shadow decoy is fragile and will not survive more than a single attack / one round.
+
+Wizard 4, Bard 4, Skulking Hunter 4
+
+`84511236ebbd47f79d641e226f73b27f`  
+`ShadowJauntAbility`  
+
+## Shadow Step
+
+You enter a shadow or area of darkness, which transports you along a coiling path of shadowstuff to a units shadow within range.
+
+Witch 3, Wizard 3, Bard 3, Skulking Hunter 3
+
+`f51451385b1545bebfcbbb36b7da0220`  
+`ShadowStepAbility`  
 
 ## Shambler
 
