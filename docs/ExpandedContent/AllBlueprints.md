@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -929,7 +929,7 @@
 | `9bcf6150c40f4d36b1d0b68e273497cb` | DrakeBreathWeaponUmbral3 | Mythic Drake Negative Energy Breath |
 | `aaf8322efd2447f4988aa93aa2c154a4` | DrakeBreathWeaponUmbral3Feature | Mythic Drake Negative Energy Breath |
 | `f7ad9577ce77432e9f2770e16018bd05` | DrakeBronzePortrait |  |
-| `557496bca2644c2d93c4a88b2b546430` | DrakeCompanionClass | Drake Companion |
+| `557496bca2644c2d93c4a88b2b546430` | DrakeCompanionClass |  |
 | `c59eaf09389f4de38164376e5c533da5` | DrakeCompanionClassProgression |  |
 | `8a41c6c006474b5fb442a3232fb39034` | DrakeCompanionFeatureBlack | Drake Companion - Black |
 | `3e1f0d4d82784b18b8eb28206a475737` | DrakeCompanionFeatureBlue | Drake Companion - Blue |

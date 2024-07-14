@@ -4,13 +4,6 @@
 
 ## Expanded Content
 
-### Drake Companion
-
-Drakes are brutish lesser kindred of true dragons. Though they aren’t particularly intelligent, drakes’ significantly faster breeding allows their kind to survive in harsh environments. While a young drake is weaker than a standard animal companion, as they grow they will start to resemble their draconic cousins more and more until they rival them in power.
-
-`557496bca2644c2d93c4a88b2b546430`  
-`DrakeCompanionClass`  
-
 ### Dread Knight
 
 Although it is a rare occurrence, paladins do sometimes stray from the path of righteousness. Most of these wayward holy warriors seek out redemption and forgiveness for their misdeeds, regaining their powers through piety, charity, and powerful magic. Yet there are others, the dark and disturbed few, who turn actively to evil, courting the dark powers they once railed against in order to take vengeance on their former brothers. It’s said that those who climb the farthest have the farthest to fall, and tyrants are living proof of this fact, their pride and hatred blinding them to the glory of their forsaken patrons.   

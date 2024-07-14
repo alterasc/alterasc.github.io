@@ -1,6 +1,6 @@
-[Back to site homepage](../README.md)
-
 # Expanded Content
+
+[Back to site homepage](../README.md)
 
 ## Version: 0.10.00
 

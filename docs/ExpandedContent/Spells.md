@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # New spells
+
+### [Back to mod overview](./README.md)
 
 ## Arcane Concordance
 

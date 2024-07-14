@@ -1,13 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Classes
 
-## Drake Companion
-
-Drakes are brutish lesser kindred of true dragons. Though they aren’t particularly intelligent, drakes’ significantly faster breeding allows their kind to survive in harsh environments. While a young drake is weaker than a standard animal companion, as they grow they will start to resemble their draconic cousins more and more until they rival them in power.
-
-`557496bca2644c2d93c4a88b2b546430`  
-`DrakeCompanionClass`  
+### [Back to mod overview](./README.md)
 
 ## Dread Knight
 
