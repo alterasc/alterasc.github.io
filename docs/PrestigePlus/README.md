@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
 
 # PrestigePlus
 
-## Version: 3.4.0
+## Version: 3.4.4
 
 ## Author: string
 
@@ -40,4 +40,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
