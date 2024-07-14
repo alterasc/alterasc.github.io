@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
 
 # Expanded Epilogue
 
-## Version: 1.2.1
+## Version: 1.2.2
 
 ## Author: Ranadiel
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
