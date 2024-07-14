@@ -1,6 +1,6 @@
-[To list of mods](../README.md)
-
 # Homebrew Archetypes
+
+[Back to site homepage](../README.md)
 
 ## Version: 1.1Zup
 
@@ -34,4 +34,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

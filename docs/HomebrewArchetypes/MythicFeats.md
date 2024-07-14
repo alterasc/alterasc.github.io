@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Mythic Feats
+
+### [Back to mod overview](./README.md)
 
 ## Extra Rage Power
 

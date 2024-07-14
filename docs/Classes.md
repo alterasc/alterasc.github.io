@@ -42,22 +42,6 @@ The empyreal lord Pulura, the Shimmering Maiden, is said to dance among the ligh
 
 ## Homebrew Archetypes
 
-### [unknown key: HomebrewArchtypes_ArcaneTricksterClass]
-
-[unknown key: HomebrewArchtypes_ArcaneTricksterClassDesc]
-
-Archetypes:  
- - Eldritch Scoundrel
- - Knife Master
- - Thug
- - Sylvan Trickster
- - Underground Chemist
- - Rowdy
- - Master of All
-
-`72842a70dbc5492419129f4889dbf472`  
-`ArcaneTricksterClass`  
-
 ### Adept
 
 Adepts are spellcasters who can channel divine powers. Despite drawing their power from the same sources, adepts are not as powerful as either clerics or druids, and even the most powerful adept has access to spells of only middling power. They can, however, summon familiars in a manner similar to wizards.
@@ -116,13 +100,6 @@ Archetypes:
 `adb9e138bee9ecc4db246b64d563f900`  
 `InvestigatorClass`  
 
-### Necromancer
-
-The goddess of death gives power over her dominion as freely as Life brings hers into the world. Wizards and clerics, in particular, master the art of necromancy through the lens of their studies and their faith. Even druids, whose purpose is to maintain balance in the world, have necrolytes they rely on when it comes to communing with Death and her reapers. But what of those who draw their power directly from the goddess? Who do not merely worship her, but allow her will and her power to suffuse their very beings? These are the true necromancers, the dread followers of Death who carefully walk the line between the mortal concept of living and dead. They see beyond both into the churning heart of reality with the power to breed life and snuff it out in the blink of an eye.
-
-`d908dd701956b6f459b41256067d3758`  
-`NecromancerClass`  
-
 ### Ninja
 
 These shadowy killers are masters of infiltration, sabotage, and assassination, using a wide variety of weapons, practiced skills, and mystical powers to achieve their goals.
@@ -149,34 +126,6 @@ A devotee who wishes to become one of Razmir’s most trusted priests must under
 
 `1296f17a00b6916488cc9b72386977a2`  
 `RazmiranPriestClass`  
-
-### Skeletal Fighter
-
-A former soldier this undead is once again walking the path of the fighter.
-
-`659c866f044198a4e88f22d51db2029c`  
-`SkeletonFighterClass`  
-
-### Skeletal Priest
-
-This once humble priest now lives again to devote itself to you.
-
-`f4248bf69918b974c828a0d4c1fc2d9e`  
-`SkeletonPriestClass`  
-
-### Skeletal Scout
-
-Lost on the frontlines this once brace scout rises once again to forage ahead.
-
-`de019f008304a2e4793668152bb6bb08`  
-`SkeletonRogueClass`  
-
-### Skeletal Wizard
-
-A once studious spellcaster now rises once again to bring its arcane power to bear.
-
-`297c8ab5637e8cc4298b4d608b20a4a5`  
-`SkeletonWizardClass`  
 
 ### Warrior
 

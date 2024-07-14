@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -120,7 +120,7 @@
 | `ac19924d75b84224f9c98e8a62bdfc81` | AoPFeature | Aura of Purity |
 | `0b08894bfe20bfa4b8a93112f0d79dbb` | ArcaneArcana | New Arcana |
 | `b0d6d12de1171e64b95b6b8c0eebe22c` | ArcaneDuelistArchetype | Arcane Duelist |
-| `72842a70dbc5492419129f4889dbf472` | ArcaneTricksterClass | [unknown key: HomebrewArchtypes_ArcaneTricksterClass] |
+| `72842a70dbc5492419129f4889dbf472` | ArcaneTricksterClass |  |
 | `6c6bf45d567084944838dce93eaf36a4` | ArcaneTricksterProgression |  |
 | `f6c557248fbac1b4b87fca2a8f1b89e2` | ArcanistBloodlineAbyssalProgression | Abyssal Bloodline |
 | `68f54ac1115f1ac4b924c34841077904` | ArcanistBloodlineArcaneProgression | Arcane Bloodline |
@@ -1632,7 +1632,7 @@
 | `6814124671dde1349a3e8496a1311aca` | NDFeature | Natural Defense |
 | `efd8f73bc302036489f450c06a7255f8` | NDResource |  |
 | `a8586cc064474624dac037e1047edd84` | NDRestore | Natural Defense Resource Restoration |
-| `d908dd701956b6f459b41256067d3758` | NecromancerClass | Necromancer |
+| `d908dd701956b6f459b41256067d3758` | NecromancerClass |  |
 | `7c77786813d74084ab41ea05749ea561` | NecromancerClassProgression |  |
 | `d9ed1268ff643b140a7e5aaa2270a94c` | NecromancerSpellbook |  |
 | `a45417f02647fed4695f5144fd0be07b` | NecromancerSpellList |  |
@@ -2370,22 +2370,22 @@
 | `f845198a54f5d2c478845b7cdb09a838` | SilverResistAddLevel1 | Dragon Resistances |
 | `ffc9fd0fd8b1cfb489ea002a787cd69e` | SilverResistAddLevel2 |  |
 | `446db7b4bcb93914baf6ca09b9c58254` | SkeletonCompanionContinueProgression | Skeletal Companion - Continue |
-| `659c866f044198a4e88f22d51db2029c` | SkeletonFighterClass | Skeletal Fighter |
+| `659c866f044198a4e88f22d51db2029c` | SkeletonFighterClass |  |
 | `fa31114bdd3cccf4eaf3259944cb2aed` | SkeletonFighterClassProgression |  |
 | `5804a459b13cf7f41a37af5593949ced` | SkeletonFighterFeatSelection | Bonus Combat Feat |
 | `9cc6c09440b9bed48a894552ea691c93` | SkeletonFighterLevelFeature |  |
-| `f4248bf69918b974c828a0d4c1fc2d9e` | SkeletonPriestClass | Skeletal Priest |
+| `f4248bf69918b974c828a0d4c1fc2d9e` | SkeletonPriestClass |  |
 | `951e25969578a8f4db1f8f9f4da4810f` | SkeletonPriestFeature | Skeletal Priest |
 | `7f665a1de10cf4a4181429c51cfbce5f` | SkeletonPriestProgression |  |
 | `1e6e217bafa6ea848ab3589a61a71199` | SkeletonPriestUnit |  |
 | `59d489cc9e207ba4db40f38d821c16ad` | SkeletonRank | Animal Companion |
-| `de019f008304a2e4793668152bb6bb08` | SkeletonRogueClass | Skeletal Scout |
+| `de019f008304a2e4793668152bb6bb08` | SkeletonRogueClass |  |
 | `f4e39f9d187ec5c4c8f093e1e837e4c5` | SkeletonRogueFeature | Skeletal Scout |
 | `0ae8244b1ce22804593828f834edae05` | SkeletonRogueProgression |  |
 | `502925403b6da0846acfa92ebfbfa77e` | SkeletonRogueUnit |  |
 | `8c8213c68326f48489143e4dc7488c58` | SkeletonVanguardFeature | Skeletal Vanguard |
 | `3ad337c4f522a0f4486e452d9ced2123` | SkeletonVanguardUnit |  |
-| `297c8ab5637e8cc4298b4d608b20a4a5` | SkeletonWizardClass | Skeletal Wizard |
+| `297c8ab5637e8cc4298b4d608b20a4a5` | SkeletonWizardClass |  |
 | `b2432e8ae90dc274682154cbafa1f72e` | SkeletonWizardFeature | Skeletal Wizard |
 | `08cb037f5f94d824dbc3f0781dc9de8e` | SkeletonWizardProgression |  |
 | `e383e62fca34aaa49a3fbff6247a0065` | SkeletonWizardUnit |  |
