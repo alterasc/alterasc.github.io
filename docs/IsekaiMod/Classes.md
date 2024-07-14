@@ -1,13 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Classes
 
-## Deathsnatcher
-
-This bipedal jackal has vulture wings and a rat tail ending in a scorpion’s stinger. Each of its four arms ends in a clawed hand.
-
-`e44a043506db43e8876235cd775bfd86`  
-`DeathsnatcherClass`  
+### [Back to mod overview](./README.md)
 
 ## Isekai Protagonist
 
