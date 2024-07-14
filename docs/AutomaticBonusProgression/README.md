@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
 
 # AutomaticBonusProgression
 
-## Version: 1.0.5
+## Version: 1.0.6
 
 ## Author: WittleWolfie
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
