@@ -1,6 +1,6 @@
-[To list of mods](../README.md)
-
 # Levelable Aivu
+
+[Back to site homepage](../README.md)
 
 ## Version: 1.2.7
 
@@ -16,8 +16,6 @@
 
 #### **Lists below are not a complete lists of mod what adds or does**. They are just some of the additions that can be easily automatically detected - and even then, mistakes could happen.
 
-### [New classes](./Classes.md)
-
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
