@@ -1,13 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Classes
 
-## 
-
-
-
-`6c2f8b9b059b403dbf059a2841d18b18`  
-`AlignedClass`  
+### [Back to mod overview](./README.md)
 
 ## Agent of the Grave
 

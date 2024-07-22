@@ -1367,6 +1367,13 @@ Your kineticist levels and your monk levels stack for determining the number of 
 `f2675be80e124d43b485708da87a972f`  
 `RippleWaterPro`  
 
+### Sacrificial Adept
+
+The deaths of living, sentient creatures fuel your spells and heighten their potency. By partaking in a heinous ritual that takes at least 10 minutes to complete and which requires you to perform a successful coup de grace upon a sacrifice, you can enhance the power of your spells for the next 24 hours. Your sacrifice must be a party member, and it must die from your coup de grace; if it doesn’t die or comes back to life, you lose all benefits related to that sacrifice. After successfully performing the ritual, you gain a +2 bonus to any attack rolls and combat maneuvers made with your spells and a +2 bonus on caster level checks to overcome spell resistance for 24 hours.
+
+`6bf49e34fee84e9ea96692658ea8ef31`  
+`SacrificialAdept`  
+
 ### Savage Slam
 
 Using your lock on the enemy’s body, you forcefully hurl your opponent to the ground. When you begin your turn grappling an opponent, instead of attempting a combat maneuver check to maintain the grapple, you can try to viciously slam your opponent down. When you deal damage with a grapple combat maneuver check against the opponent, release your grapple and the opponent falls prone.

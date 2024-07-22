@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -3154,6 +3154,9 @@
 | `55a4fba2d6f445288635ea10d4f851ac` | RogueQuickShot | Quick Shot |
 | `7b0389771e154e4cb10b13b7f5db3bc7` | RogueSurpriseManeuver | Surprise Maneuver |
 | `2cda0a2a725f4c3bac0d4e69c9e8982d` | Ruthlessness | Ruthlessness |
+| `6bf49e34fee84e9ea96692658ea8ef31` | SacrificialAdept | Sacrificial Adept |
+| `76d2ace284804a6b825aa2f756364a0d` | SacrificialAdept.SacrificialAdeptAbility | Sacrificial Adept |
+| `94ca592f6d874571a638b5c95315d6d3` | SacrificialAdept.SacrificialAdeptbuff | Sacrificial Adept |
 | `eba75e50f41c48e5852d9575fb2c7def` | SanguineAngel | Sanguine Angel |
 | `65b72805cade4814b3fdf720aa386ea2` | SanguineAngel.AngelDeath | Angel of Death |
 | `48ef4c7beb1842e3a633e8fc73a40e41` | SanguineAngel.ArmoredAngel | Armored Angel |
@@ -3301,10 +3304,6 @@
 | `130d04fe64da466f9e62914d7046fe1a` | ShadowDancer.UseSummonShadow | Summon Shadow |
 | `0c28778de0464b018cfc873f920d8e03` | ShadowDancerPrestige |  |
 | `c57e4f770beb45f6ada837bf3adcbb5a` | ShadowDancerPrestige2 |  |
-| `a9adb7812778421f80785aab2fc906dc` | ShadowEnhanceBuff | Summon Shadow |
-| `c83a900b35c24aba9d6ffc661ac07802` | ShadowEnhanceBuff2 | Summon Shadow |
-| `15dfa947288c4fd4a0b2c7c518a791c6` | ShadowEnhanceBuff3 | Summon Shadow |
-| `855a8b7912fc47d2aa5780d6103dbbbc` | ShadowEnhanceBuff4 | Summon Shadow |
 | `9d56c8f125df493e994936b6bb9b8d13` | ShadowEnhanceBuff5 | Summon Shadow |
 | `68504aa7c18e4eb5a6f0bbc26eea5ab7` | SharpFang | Sharp Fang |
 | `2428f7303bf942dcb591faec7229a4d2` | ShieldShieldMain | Magic Trick (shield) |
@@ -3477,6 +3476,7 @@
 | `05dc9561054241bd9e9f404f59ab68c5` | Spellupgrade2 | Spells per Day |
 | `2a2c6545b3e5439292bd5a04df4ff1ff` | SpireDefender | Spire Defender |
 | `bd164797fc664751b3a6446413ba9568` | SpireDefender.ArcaneAugmentation | Arcane Augmentation |
+| `578d36fee97c4cd9bb842b2470978adc` | SpireDefender.ArcaneAugmentationBuff | Arcane Augmentation |
 | `e39edfe6d74d4a96b8180225bd71bc31` | SpireDefender.ArcaneAugmentationBuff2 | Arcane Augmentation |
 | `b4507a54b70446d7a755a6ef953e14a6` | SpireDefender.CloseRange | Close Range |
 | `6e7757fdbfab44dd8e170b8a158a98d5` | SpireDefender.CloseRangeBuff2 | Close Range |

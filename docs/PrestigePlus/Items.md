@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Items
+
+### [Back to mod overview](./README.md)
 
 ## Emblem of Greed
 

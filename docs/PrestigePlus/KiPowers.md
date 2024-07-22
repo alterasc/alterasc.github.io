@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Ki Powers
+
+### [Back to mod overview](./README.md)
 
 ## Ki Power: Freedom of Movement
 

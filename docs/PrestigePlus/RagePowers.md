@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Rage Powers
+
+### [Back to mod overview](./README.md)
 
 ## Atavism
 

@@ -1,8 +1,8 @@
-[Back to site homepage](../README.md)
-
 # PrestigePlus
 
-## Version: 3.4.4
+[Back to site homepage](../README.md)
+
+## Version: 3.4.6
 
 ## Author: string
 

@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Archetypes
+
+### [Back to mod overview](./README.md)
 
 ## Construct Rider (Alchemist)
 

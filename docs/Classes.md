@@ -184,13 +184,6 @@ Archetypes:
 
 ## PrestigePlus
 
-### 
-
-
-
-`6c2f8b9b059b403dbf059a2841d18b18`  
-`AlignedClass`  
-
 ### Agent of the Grave
 
 Agents of the Grave learn the deepest arcane secrets in their quest for undeath, gaining undead-like traits before their final shift to a state beyond death. Agents of the Grave master the necromantic arts, yet instead of controlling hordes of undead minions, they instead seek ultimate enlightenment, and possess subtle and murderous skills to help them attain it.
