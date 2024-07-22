@@ -1,8 +1,8 @@
-[Back to site homepage](../README.md)
-
 # AutomaticBonusProgression
 
-## Version: 1.0.6
+[Back to site homepage](../README.md)
+
+## Version: 1.0.7
 
 ## Author: WittleWolfie
 
