@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Deceiver Buffs
 
-## Version: 1.0.7
+[Back to site homepage](../README.md)
+
+## Version: 1.0.9
 
 ## Author: CascadingDragon
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
