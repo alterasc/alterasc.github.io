@@ -2,7 +2,7 @@
 
 [Back to site homepage](../README.md)
 
-## Version: 0.10.00
+## Version: 0.10.11
 
 ## Author: kadyn
 

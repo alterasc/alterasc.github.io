@@ -4,6 +4,13 @@
 
 ## Expanded Content
 
+### Dark Tapestry
+
+An oracle with the dark tapestry mystery adds Knowledge (Arcana) , Persuasion and Stealth to her list of class skills.
+
+`a7fd19cc84bc41f5946d3a5791805249`  
+`OracleDarkTapestryMysteryFeature`  
+
 ### Dragon
 
 An oracle with the dragon mystery adds Mobility, Persuasion, Perception and Knowledge (Arcana)  to her list of class skills.

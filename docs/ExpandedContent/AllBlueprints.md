@@ -734,6 +734,7 @@
 | `2fd9cf5ca7124162934348940f1575b1` | DestructionInvokeDeityBuff | Invoke Deity - Destruction Domain |
 | `cb61f585a265416bbde2449ff26d6b3a` | DispaterFeature | Dispater |
 | `fec6e1f77c0b4b6b8cfe43b7bd61ed4e` | DispaterSacredWeaponFeature |  |
+| `235237c5199c48b0a8a8d3974b0a8ed7` | DivineHerbalistDarkTapestryMysteryFeature | Dark Tapestry |
 | `160babe55b4c406da1531db87ea544f6` | DivineHerbalistDragonMysteryFeature | Dragon |
 | `2efe1f62d44049759b462f5303b707cc` | DivineHerbalistHeavensMysteryFeature | Heavens |
 | `7ac6d74475ee409c827703c87541c553` | DivineHerbalistLunarMysteryFeature | Lunar |
@@ -1054,6 +1055,8 @@
 | `5f97fb97d32141039c52808a1c892732` | EldritchArmorTrainingRank30 | Eldritch Armor Training |
 | `d85c1cd9edfa45e7a39a1002dd13d506` | ElvenPantheonSelection | Elven Pantheon |
 | `20bce6e88d9d42d19a6b6346e5b4ed3d` | EmpyrealLordSelection | Empyreal Lords |
+| `44e546247f4249c2b5d26058ec328dbc` | EnlightnedPhilosopherDarkTapestryMysteryFeature | Dark Tapestry |
+| `62b2d296b81645089b3c601df1416370` | EnlightnedPhilosopherDarkTapestrySpells |  |
 | `09249a4f24aa42cdbde5707401094117` | EnlightnedPhilosopherDragonMysteryFeature | Dragon |
 | `c77e49e79b61450d8f151e21130d43e2` | EnlightnedPhilosopherDragonSpells |  |
 | `c1ba0db2ac0440c7a22e401111f08a13` | EnlightnedPhilosopherHeavensMysteryFeature | Heavens |
@@ -1629,6 +1632,8 @@
 | `b428e52ee882427c87c7ecc1c11a3d90` | OceansEchoBattleSpells |  |
 | `649bb6b3182642828db838a2b1b2cad3` | OceansEchoBonesMysteryFeature | Bones |
 | `e62dcbb2b00a47e6a6efe24043676ff2` | OceansEchoBonesSpells |  |
+| `9f9e504dd115405491effdada4820a4a` | OceansEchoDarkTapestryMysteryFeature | Dark Tapestry |
+| `9af074e7a875488490383f6eba4a5ad5` | OceansEchoDarkTapestrySpells |  |
 | `7f68371774fa4dd58abb910259a2d995` | OceansEchoDragonMysteryFeature | Dragon |
 | `fe49b6bc7e264be4822c115382a6e646` | OceansEchoDragonSpells |  |
 | `a8fd647993a04ce5b9b3654ca062cb6f` | OceansEchoFlameMysteryFeature | Flame |
@@ -1667,6 +1672,9 @@
 | `c72e34e4372e40118bb5648b3953a751` | OneHandedMartialWeaponProficiency | One Handed Martial Weapons Proficiency |
 | `aa422fe114674582bb47330ace91031d` | OpeningVolleyFeature | Opening Volley |
 | `220824f6b0bd4ab3ace3abd4c69c461f` | OpeningVolleyTargetBuff | Opening Volley Targeted |
+| `d0cf0cfa5cf744a6a4d74fd878b83d45` | OracleDarkTapestryFinalRevelation | Final Revelation |
+| `a7fd19cc84bc41f5946d3a5791805249` | OracleDarkTapestryMysteryFeature | Dark Tapestry |
+| `3932447ae7bb4181916454efc90d5f80` | OracleDarkTapestrySpells |  |
 | `e65f7cbeed8941c3abd43650ac0af228` | OracleDragonFinalRevelation | Final Revelation |
 | `0c893a3d920a489489d8a78cd09cea6d` | OracleDragonFinalRevelationAcid | Final Revelation - Acid |
 | `17a78b2062bc4859abb5d3ada4cdfe38` | OracleDragonFinalRevelationCold | Final Revelation - Cold |
@@ -1855,6 +1863,10 @@
 | `1d0cbb8e57854cb198ccac89520c71e9` | OracleRevelationGiftOfClawAndHornToggleGoreBuff | Giftof CandH - Gore buff |
 | `ab74e7630e75473c90a2c5949ab95b93` | OracleRevelationGiftOfClawAndHornToggleIncreaseFeature | Double Natural Weapon |
 | `22590cbe965149dc9865fa9afd111344` | OracleRevelationGiftOfClawAndHornTogglesFeature |  |
+| `e831af6e71ab49afb607642613d320d8` | OracleRevelationGiftOfMadnessAbility | Gift of Madness |
+| `535b1b9991d24b42a4a2ed8021ac32d2` | OracleRevelationGiftOfMadnessFeature | Gift of Madness |
+| `bd1e7ad3c8b047baa129a6629fd40db5` | OracleRevelationGiftOfMadnessResource |  |
+| `fb73113ed826479c9e1d5b47fc797cd5` | OracleRevelationGiftOfMadnessUpgrade |  |
 | `f9d50fd4d5ac494da585d3c609d8ca8e` | OracleRevelationGuidingStarFeature | Guiding Star |
 | `22c9af1170604b1fa9f4d4b2445c2022` | OracleRevelationGuidingStarMetamagicAbilityBase | Guiding Star |
 | `1e7d257ae0514e24afff91be1087505a` | OracleRevelationGuidingStarMetamagicAbilityEmpower | Guiding Star - Empower Spell |
@@ -1886,6 +1898,7 @@
 | `a7d8e4a2589f4953a3a22e8b6800a5b5` | OracleRevelationMoonbeamAbility | Moonbeam |
 | `697a9cbb719c4a6c96c624b5db9f8fad` | OracleRevelationMoonbeamFeature | Moonbeam |
 | `1fecb2a1ce6a4795a966556bce394c36` | OracleRevelationMoonbeamResource |  |
+| `4e5ebc74217544e58ce00303f45a1835` | OracleRevelationNoRavenerProperty |  |
 | `8f8d1dadd8f946148b2964daeb12cf7b` | OracleRevelationPerfectAid | Perfect Aid |
 | `b58276532f5c4bc780e7b462d5972ae6` | OracleRevelationPerfectAidProperty |  |
 | `7dd9be42faa94d7b90fd2120c9781278` | OracleRevelationPierceTheShadows15Feet | Pierce the Shadows |
@@ -1911,6 +1924,8 @@
 | `cab091b8ab6d4b0486bd17bae954e3b5` | OracleRevelationServantOfWinterSummonMedium |  |
 | `83bcc687144c42dda9b51b692b8b2dba` | OracleRevelationShadowMasteryCustomProperty |  |
 | `82eabbca29984aa39dfafb76ed852c12` | OracleRevelationShadowMasteryFeature | Shadow Mastery |
+| `335c9fc6cc7547c5a42ffce4cd5f1e66` | OracleRevelationShapeChangeFreeAbility | Shapechange |
+| `acd66ee8dc9b460995447de98181b4c1` | OracleRevelationShapeChangeFreeResource |  |
 | `6ca813a8e8cc4e5f95644e469c6de544` | OracleRevelationShellOfSuccor | Shell of Succor |
 | `1906c5c258984bae8c43d945c07b3a34` | OracleRevelationShellOfSuccorAbility | Shell of Succor |
 | `73020f9783734e849fa5e815f48b1d19` | OracleRevelationShellOfSuccorBuff | Shell of Succor |
@@ -1931,6 +1946,10 @@
 | `d2e928c098fd466badee3ad5e1d741cd` | OracleRevelationTouchOfTheMoonCureFeature | Touch of the Moon - Cure |
 | `594b97fdef3d47f4a544bd5e20af62b7` | OracleRevelationTouchOfTheMoonInflictFeature | Touch of the Moon - Inflict |
 | `c0b88c7e3ded408bb99603850af8f8da` | OracleRevelationTouchOfTheMoonSelection | Touch of the Moon |
+| `8c8db2034dac4ab1b4698ca839278ff3` | OracleRevelationTouchOfTheVoidAbility | Touch of the Void |
+| `d5d6e3226b2548cda463da93c9868084` | OracleRevelationTouchOfTheVoidFeature | Touch of the Void |
+| `b7a97fe8f99a4e8eb9db561b7beec325` | OracleRevelationTouchOfTheVoidResource |  |
+| `b1f979e63e4a4bd9b262bc1c54c946ba` | OracleRevelationTouchOfTheVoidUpgrade | Touch of the Void Upgrade |
 | `9933e1653a6e40eeb22770e6f51f7d9f` | OracleRevelationTreeFormFeature1 | Tree Form |
 | `a648107ee6ed4951b63eb69cc695d8b7` | OracleRevelationTreeFormFeature2 | Tree Form |
 | `7114a471caa540a7849888e0953b7353` | OracleRevelationTreeFormFeature3 | Tree Form |
@@ -2478,6 +2497,8 @@
 | `5bdcb8eaee8c42c988731fc23e075f73` | SinfulAbsolutionFeature | Sinful Absolution |
 | `cca67daf4f0c48e08c93a2b4bf63c26c` | SinfulAbsolutionResource |  |
 | `c0f985c802504593af9c96c0636c7692` | SinfulAbsolutionUse | Sinful Absolution - Additional Use |
+| `0010b54c7a5e488f88d0eca48359041c` | SivanahFeature | Sivanah |
+| `af26cae64afd4b4b9194ebb5a226f50b` | SivanahSacredWeaponFeature |  |
 | `fff3185d425a4f68a53b8ca429c8c9ee` | SizeIncreasePlus1 |  |
 | `3fab3c0e1b7449a08a5183e9a837567c` | SkulkingHunterArchetype | Skulking Hunter |
 | `c59579ddaddf459095a445eacb0a6d7e` | SkulkingHunterSpellbook |  |
@@ -2545,6 +2566,8 @@
 | `68818bc0eab64460a4a949fcafed65f6` | StargazerArcanistUnletteredArcanist | Arcanist |
 | `6f0b639c190844b7a0b1538f4905adf6` | StargazerBard | Bard |
 | `6fd5a615fc6d4aaa8f0d6001284addbe` | StargazerBloodrager | Bloodrager |
+| `31ad246f3c164864a7268ac8af9cb07a` | StargazerChannelerOfTheUnknownLevelUp | Channeler Of The Unknown |
+| `808565e8260842148f3636e5f4cbd627` | StargazerChannelerOfTheUnknownProgression | Channeler Of The Unknown |
 | `7e3cde183dad43aba7cce14b6ca51216` | StargazerClass | Stargazer |
 | `281f99fa241e46a58d774d4ef3b7f471` | StargazerClericLevelUp | Cleric |
 | `18b04a1637e84612b333d0b2d81b1b0b` | StargazerClericProgression | Cleric |
