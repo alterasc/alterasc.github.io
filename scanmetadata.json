@@ -86,6 +86,11 @@
       "DisplayName": "Levelable Aivu"
     },
     {
+      "ModId": "LiterateCompanions",
+      "Version": "1.0.0",
+      "DisplayName": "Literate Companions"
+    },
+    {
       "ModId": "MicroscopicContentExpansion",
       "Version": "1.17.0",
       "DisplayName": "Microscopic Content Expansion"

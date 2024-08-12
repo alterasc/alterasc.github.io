@@ -9967,6 +9967,26 @@ c0ae648600bb416b81e0b3e705f264c6 - Levelable Aivu
 b3fba1eec6e94d118b5cf94d1290df9c - Levelable Aivu
 3fcbce70bc95444fb5149be661e003a7 - Levelable Aivu
 5972da2ee7724377b85fc91363c4b6c8 - Levelable Aivu
+66d6c1787aa8502dbfeb7eed49313e9c - Literate Companions
+9a0c6bd36cd05d38ad374c1671358704 - Literate Companions
+42bd0bcf366059b59bace4ee6dd41670 - Literate Companions
+f9a2e04d52cc58a18a604e2fa5725f3e - Literate Companions
+c7b7dc650fc5581e9cda24b2b3ea09af - Literate Companions
+b37aa2f9d70958d7b819fafd363e8f29 - Literate Companions
+1856f6ffde7f57fcac2fe026588db803 - Literate Companions
+9a61a5e38d7250ac91bf945cd9a6222f - Literate Companions
+421c62a7f9bc520f9697ac5aeb36e13d - Literate Companions
+a2ad2c0c76025184b487784803688173 - Literate Companions
+680f2500d4475b32b6c9de66b82230e8 - Literate Companions
+5f6213a6c6d15214ae5e88372e368615 - Literate Companions
+9664b22091775a7cb9f0eb2ffb646bd8 - Literate Companions
+597260e9dd3b50889696cd03dd85309c - Literate Companions
+468c3e70f3215cd185bc9338710da764 - Literate Companions
+bc04ad99a8a056e8a243271fc0c27afd - Literate Companions
+682b17cd69bd5d37af4d69f8226d990a - Literate Companions
+c62dd6b29c5658b6b00a8e4d34c703f8 - Literate Companions
+4564b80649ed5111b0ad8b0391a47d97 - Literate Companions
+30230e938bca52f0a8c21af0ce69df5e - Literate Companions
 4bfe297b1d2c47d18aa770ec5c132194 - Microscopic Content Expansion
 669b9b014b6042628ad173b1ebbf4f2d - Microscopic Content Expansion
 003e9671748c40f1a26f6c47fd596600 - Microscopic Content Expansion

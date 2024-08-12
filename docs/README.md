@@ -17,7 +17,7 @@
 
 ### [AddedFeats](./AddedFeats/README.md) 1.5
 
-### [Alternate Racial Traits](./AlternateRacialTraits/README.md) 1.5.2
+### [Alternate Racial Traits](./AlternateRacialTraits/README.md) 1.5.4
 
 ### [Arcane Additions](./ArcaneAdditions/README.md) 0.3.0
 
@@ -54,6 +54,8 @@
 ### [Kineticist Elements Expanded](./KineticistElementsExpanded/README.md) 3.3.0
 
 ### [Levelable Aivu](./LevelableAivu/README.md) 1.2.7
+
+### [Literate Companions](./LiterateCompanions/README.md) 1.0.0
 
 ### [MAKING FRIENDS](./WOTR_MAKING_FRIENDS/README.md) 0.2.1
 
