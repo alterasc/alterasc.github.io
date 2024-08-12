@@ -91,6 +91,11 @@
       "DisplayName": "Literate Companions"
     },
     {
+      "ModId": "Mesmerist",
+      "Version": "2.0",
+      "DisplayName": "Mesmerist"
+    },
+    {
       "ModId": "MicroscopicContentExpansion",
       "Version": "1.17.1",
       "DisplayName": "Microscopic Content Expansion"
