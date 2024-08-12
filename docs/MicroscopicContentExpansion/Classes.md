@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Classes
+
+### [Back to mod overview](./README.md)
 
 ## Antipaladin
 

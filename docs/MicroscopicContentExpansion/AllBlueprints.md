@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -182,11 +182,11 @@
 | `c04c0b0469db4a338cbfe3d1797eb797` | FlyingKickAbility4 | Flying Kick |
 | `c679448e436f48598e03898ea80d73e9` | FlyingKickAbility5 | Flying Kick |
 | `7e087a7ff7ed46038515c9cb0b5563e2` | FlyingKickAbility6 | Flying Kick |
-| `befc97f38eb3417893c43ecdf3d5c147` | FlyingKickActivatableAbility | Flying Kick - Activate Style Strike |
+| `befc97f38eb3417893c43ecdf3d5c147` | FlyingKickActivatableAbility | Flying Kick - Activate Strike Style |
 | `b566e536ff5243bea0bdcf35d2f0febf` | FlyingKickAnimationBuff |  |
 | `8075bd468eeb458fbaf885868fd96adb` | FlyingKickFeature | Flying Kick |
 | `96ddce4cfd1a41cea1fcae97237c8363` | FlyingKickFlurrySuppressionBuff |  |
-| `b28e5b0857b5489db380d9be40828c3c` | FlyingKickStyleStrikeBuff | Flying Kick |
+| `b28e5b0857b5489db380d9be40828c3c` | FlyingKickStyleStrikeBuff | Activated Flying Kick Style |
 | `1629f3dc031745db965c1dc8eb053bab` | HellknightSigniferAntipaladinLevelUp |  |
 | `c7e3d47e9e224c94a1f7d9644454d89f` | HellknightSigniferAntipaladinProgression | Antipaladin |
 | `68fa0d54c9d94a47a469778d29cb19c8` | HellknightSigniferAntipaladinTyrantLevelUp |  |

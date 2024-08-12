@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Microscopic Content Expansion
 
-## Version: 1.17.0
+[Back to site homepage](../README.md)
+
+## Version: 1.17.1
 
 ## Author: AlterAsc
 
@@ -26,4 +26,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

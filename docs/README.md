@@ -59,7 +59,7 @@
 
 ### [MAKING FRIENDS](./WOTR_MAKING_FRIENDS/README.md) 0.2.1
 
-### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.0
+### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.17.1
 
 ### [Miscellaneous Tweaks and Fixes](./MiscTweaksAndFixes/README.md) 2.3.2
 
