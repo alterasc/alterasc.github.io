@@ -3323,6 +3323,7 @@
 | `8dc58ae134ea486a81c01707568d5f4f` | SmashingCounter | Stick-Fighting Counter |
 | `f903ae2cbdbd4b619e4f2bcd8cb0dfbb` | SmashingCounter.CounterBuff | Stick-Fighting Counter |
 | `9d5bfd6060614a0ba14cec3efa08d6cd` | SmashingMaster | Stick-Fighting Maneuver |
+| `44cc62fa08784806a7360b5fc3abb046` | SmashingMaster.MasterBuff | Stick-Fighting Maneuver |
 | `e3c2ab0c3b88453599a17983d56ef17e` | SmashingStyle | Smashing Style |
 | `86f54dec5e974a2580cfefcf349476c6` | SmashingStyle.StyleActivatableAbility | Smashing Style |
 | `aba76a5074f34c66bd370631a63437a9` | SmashingStyle.StyleActivatableAbility2 | Smashing Style |
