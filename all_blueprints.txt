@@ -11282,14 +11282,14 @@ f52ae91b7c254f19a40a376afe0337c4 - Mythic Magic Mayhem
 51421f3ca07340f6bf66108944250dda - Mythic Magic Mayhem
 7858aa17605a44688680cf932283c6be - Mythic Magic Mayhem
 04cf702de2864bccb11f23d8444cb5b4 - Mythic Magic Mayhem
-2118947406c14c129ed40fcb6239651d - MythicPathPowerSwapper
-b1e1756e142e4f1b81d08906a923a077 - MythicPathPowerSwapper
-92000e45241d4d6ea37605451c084025 - MythicPathPowerSwapper
-0601c7bccd204d0da40e666096370df3 - MythicPathPowerSwapper
-019871b76e8c41cbb9e5e9e9c0cad75a - MythicPathPowerSwapper
-44b20c8ef1374b0fabc0c59ef9aac324 - MythicPathPowerSwapper
-f81c03bb989d48229493e45fa4128800 - MythicPathPowerSwapper
-6e052ad3ac5e483eba4df693629919af - MythicPathPowerSwapper
+2118947406c14c129ed40fcb6239651d - Mythic Path Power Swapper
+b1e1756e142e4f1b81d08906a923a077 - Mythic Path Power Swapper
+92000e45241d4d6ea37605451c084025 - Mythic Path Power Swapper
+0601c7bccd204d0da40e666096370df3 - Mythic Path Power Swapper
+019871b76e8c41cbb9e5e9e9c0cad75a - Mythic Path Power Swapper
+44b20c8ef1374b0fabc0c59ef9aac324 - Mythic Path Power Swapper
+f81c03bb989d48229493e45fa4128800 - Mythic Path Power Swapper
+6e052ad3ac5e483eba4df693629919af - Mythic Path Power Swapper
 1d8cd1989a8f4676a33bd9ec31fe8b69 - Baphomet Rides Deskari
 ea9e42b143ac51b89165c58472aeb311 - The One Pearl
 a5d83f0bd42850dfafa6cfe7f12a3a6d - The One Pearl

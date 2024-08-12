@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
+# Mythic Path Power Swapper
 
-# MythicPathPowerSwapper
+[Back to site homepage](../README.md)
 
-## Version: 1.2.0
+## Version: 1.3.0
 
 ## Author: AlterAsc
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
