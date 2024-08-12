@@ -344,12 +344,26 @@ This amulet allows the wearer to cast Reduce Person as a 6th level wizard once p
 
 ## Homebrew Archetypes
 
+### Cold Iron Two-Bladed Sword
+
+
+
+`80c51bd413fde9045ac0e1d2ec967411`  
+`MagicSwordWeaponSecond`  
+
 ### Everlight
 
 Only those that are bards and of good alignment may wield this blade. The blade Everlight is a blade forged for the champion of Sarenrae. This blade has aided many and protected many more with the divine gift of the Dawnflower's Hymn. The wielder gains the feat lingering song and when the enemy is struck they take 2d6 extra divine damage.
 
 `552b85f1cdfe6f8438045e5854236a4d`  
 `SarSword5`  
+
+### Longsword
+
+
+
+`8d15c38e67e35924d93bf744085716b0`  
+`MagicSwordWeapon`  
 
 ### Scimitar of Sarenrae
 

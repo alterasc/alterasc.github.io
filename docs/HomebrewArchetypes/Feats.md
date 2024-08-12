@@ -30,6 +30,13 @@ Before you make a melee attack roll, you can choose to spend one use of your cha
 `dff4ee6c9a66c8146b30a8af6f7feebf`  
 `ChannelSmiteFeature`  
 
+## Discordant Voice
+
+Whenever you are using bardic performance to create a spell-like or supernatural effect, allies within 30 feet of you deal an extra 1d6 points of sonic damage with successful weapon attacks. This damage stacks with other energy damage a weapon might deal. Projectile weapons bestow this extra damage on their ammunition.
+
+`62287ab905e58fd47a3654c9038e378d`  
+`DiscordantVoice`  
+
 ## Exotic Weapon Proficiency
 
 Choose one type of exotic weapon, such as the dueling sword or sai. You understand how to use that type of exotic weapon in combat, and can utilize any special tricks or qualities that exotic weapon might allow.

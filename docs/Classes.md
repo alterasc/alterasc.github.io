@@ -70,6 +70,13 @@ Experts are highly skilled people, such as scholars, artisans, and crafters.
 `54fbb73f494802f45933e0d79022c3a4`  
 `Expert`  
 
+### Freedom Fighter
+
+Freedom Fighters are an anomaly created by the natural luck of halflings. These warriors train and channel their innate luck into mysterious abilities that change the fate of the fighter and their allies. Freedom fighters use guerilla combat and their abilities to provide a natural advantage on the battlefield.
+
+`d1277f75d49b6d648a3007abd0c0b145`  
+`FreedomFighterClass`  
+
 ### Herald
 
 In every age, there is conflict. Man cannot exist without it, and neither can the gods whomst they serve. In this conflict, chaos spreads, and the world may be threatened as man-kind turns against itself. In these times, a simple warrior is not enough to turn the tides. They need a guide, one who can unite mankind under the banner of the heavens and lead them to victory and from there, peace.

@@ -323,6 +323,21 @@
 | `01f1ce6e73d5dbf4ab883939428c1ab5` | CannabilizeSpellsLvl5 | Consume Spells |
 | `06b8baf0b3361a041b4cdac5ab25dfcd` | CannabilizeSpellsLvl6 | Consume Spells |
 | `7cc8e641530e1b840bb98cb116c52478` | CantripFeature | Cantrips |
+| `651de1acaee4e664f83871a0875bbbe3` | CarianKnightClass |  |
+| `6de97599a3570ec488a59c0a4b4faacf` | CarianKnightMagicBladesFeature | Holy Book |
+| `b5ef30e4522a52747b1a427a10b6f9a5` | CarianKnightMagicSwordLeft | Manifest the Holy Book (Off-Hand) |
+| `169d643cb34186549acf56a337f3e851` | CarianKnightMagicSwordLeftBuff |  |
+| `de386e746fd3e384aa1b45ecbd8082f5` | CarianKnightMagicSwordRight | Manifest the Holy Book (Main Hand) |
+| `91f931ae3491fc74b8ec4b0f0307712b` | CarianKnightMagicSwordRightBuff |  |
+| `5baf8178df3af3e43a5a435e4b4db5ad` | CarianKnightMagicSwordSpawnAbility | Manifest the Holy Book |
+| `f71dbb91f11108b46a917f9bf2920d9c` | CarianKnightProficiencies | Fighter Proficiencies |
+| `764ccc6d92c18fb479fd8df3f8f21f2a` | CarianKnightProgression |  |
+| `1d4fe5b8cadddc742a957880a8be9759` | CarnivalistAnimalCompanionProgression |  |
+| `1ab0c421dda0f584999bd1e58a6bff43` | CarnivalistAnimalCompanionSelection | Animal Companion |
+| `d355468863af2df4c824b6ec7370ad07` | CarnivalistArchetype | Carnivalist |
+| `1f369f221149e804097b667fde80172e` | CarnivalistPetSneak | Companion Sneak Attack |
+| `1b9efd4a9833e8542b4b741b3865e1a3` | CarnivalistPetSneak2 | Companion Sneak Attack |
+| `bea0396c118878b449253ab37fc0ec67` | CarnivalistPetSneak3 | Companion Sneak Attack |
 | `ebaa986256d86644fa60eae903819045` | Catechesis |  |
 | `86a90a5b85e386145b9af0ec2ed35ce6` | CatechesisFeature | [unknown key: HomebrewArchtypes_HellKnightSigniferCatechesis] |
 | `0d4517d9ab7c3ae4990d062928388129` | CatechesisProgression |  |
@@ -624,6 +639,10 @@
 | `7a05eb1b13df63a4bbb30022a30149ae` | DevilBuff | Poison Vulnerability |
 | `79429470e7edeb94ea51992641b4225f` | DevilSlayerArchetype | Sword-Devil |
 | `7eb12161c94e4fd48b45d8303e37788a` | DevilType | Devil Subtype |
+| `000165b899006e44ea9d040927900aed` | DevotionExtraSpells |  |
+| `06953dec2e74ba74e94a8824e0244e60` | DevotionSacredWeaponAbility | Sacred Weapon |
+| `62a05692184d2934ca3731ec2f6f146a` | DevotionSacredWeaponBuff | Sacred Weapon |
+| `c24100102781b5449b979a6eb51ae129` | DevotionSacredWeaponFeature | Sacred Weapon |
 | `43a200582251a4f4fb934afbd7d2ed0c` | DexAbility | Serpent's Fang (Dexterity Damage) |
 | `af602f01b51c9f840853461aa862de40` | DexBuff | Serpent's Fang |
 | `da8d346ab66d8d74f889549245b6f1f4` | DIBewilderedAbility | Bewildering Injury |
@@ -820,6 +839,7 @@
 | `b61c6fc8bd290904e9fa10bf63d07e7c` | FastBombsAbility | Fast Bombs |
 | `82149fc1aa7a72c4bb4c66c7a1bb634b` | FastBombsBuff | Fast Bombs |
 | `5d737b06e07345b45a4ce158ebd21783` | FatalisticFaithSelection | Fatalistic Faith |
+| `024f1b13756e9a5418a96ad3e9fdc828` | FavortheBold | Lucky Strikes |
 | `f0f90cabe217faf46afb4143fd599119` | FearlessRageFeature | Fearless Rage |
 | `0591563bcd3a55c499bfd9592a84becb` | FearsomeAbility | Fearsome |
 | `3cb9c3be879cf7a40b9db71a9b051b5b` | FearsomeFeature | Fearsome |
@@ -863,6 +883,29 @@
 | `0c1e60ec6b0f0594284072febe856d60` | ForbiddenKnowledge | Forbidden Knowledge |
 | `cfeca6baac22f3c4991deec75a9ee99c` | ForceBombs | Force Bombs |
 | `31f241ce9ba9ead43aa5ad4bfd9f4ae6` | ForceBombsAbility | Force Bomb |
+| `77daa4226c1e20948801aa7e0568d35a` | FortunateSteps | Fortunate Steps |
+| `8525328696a272f4e8a0307b872e1479` | FreedomFighterAdvancedLuck | Fate's Chosen |
+| `736d7343cef9c7848a567b5018bb81af` | FreedomFighterCapstone | Defy Fate |
+| `ffe16a369853bf44ba57bbf8e0467143` | FreedomFighterCapstoneAbility | Defy Fate |
+| `706ba0021ec110a4ca269963ac4f518f` | FreedomFighterCapstoneBuff |  |
+| `3d8b8ef1896b22e4bbacc7cfd25864ef` | FreedomFighterCapstoneResource |  |
+| `d1277f75d49b6d648a3007abd0c0b145` | FreedomFighterClass | Freedom Fighter |
+| `e5f3da5a35a4dfc4a895733648ae43b3` | FreedomFighterLuckPool | Fate Pool |
+| `b90bf1d574588c441a6f7ec20149d4be` | FreedomFighterProficiencies | Freedom Fighter Proficiencies |
+| `7bb9b4c077c7b894aa902737c5d0b673` | FreedomFighterProgression |  |
+| `3153a73d736d1104e840409cd4482509` | FreedomFighterResource |  |
+| `63d52488cb7e07a4788d7f08f65f04fa` | FreedomFighterTraining | Combatant Training |
+| `0ee376ab78e587d46aad59fbd1dc68ef` | FreedomFighterWeaponGroupSelection | Freedom's Finesse |
+| `15ecc596ceef5734c8f429c8bef2fd9e` | FreedomFinesseAxes | Freedom Finesse (Axes) |
+| `78e54692821de3246a0eb2f2e1f17ee2` | FreedomFinesseClose | Freedom Finesse (Close) |
+| `5b5861e4bbd65fa4b920b3b6efaf615e` | FreedomFinesseDouble | Freedom Finesse (Double) |
+| `08b8b62beb458294ab1aae90382cb202` | FreedomFinesseHammers | Freedom Finesse (Hammers) |
+| `04a6763b5c0b4994287738e9e61276bf` | FreedomFinesseHeavyBlades | Freedom Finesse (Heavy Blades) |
+| `f1bbcf06e3e1b584f98acc0bc5fb8598` | FreedomFinesseLightBlades | Freedom Finesse (Light Blades) |
+| `5d0392550ccf62643a0b2512e8e0d24f` | FreedomFinesseMonkWeapons | Freedom Finesse (Monk Weapons) |
+| `cb5fe302a59b5c44786a7b68e9c69d71` | FreedomFinesseNatural | Freedom Finesse (Natural Weapons) |
+| `46343a65cec497a45bf28b7d17e8b148` | FreedomFinessePolearms | Freedom Finesse (Polearms) |
+| `10aa25886d1d8cb4fbdc912c92e6faca` | FreedomFinesseSpears | Freedom Finesse (Spears) |
 | `1289c22b4794f8a40863b42049cae832` | FrighteningTuneArea |  |
 | `c6e57aafd80dce140a8a30510d2df26b` | FrighteningTuneArea |  |
 | `4c1a9d0874a1f404e94e15c27f064654` | FrighteningTuneBuff | Frightening Tune |
@@ -875,6 +918,31 @@
 | `24ed2ef91bac6364786588958d2e9c5a` | FrighteningTuneToggleAbility | Frightening Tune |
 | `a7255424bd088fb419dbda7277817711` | FrostBombs | Frost Bomb |
 | `2ca5a8e651028044cbc02b8d6ed63790` | FrostBombsAbility | Frost Bomb |
+| `5df7777ebc858444e899b213949fb797` | FTBoldACFeature |  |
+| `9d84eda6af3f49a42bc7103078fb3387` | FTBoldArcanaFeature |  |
+| `f47b7d8a68fe5874fa2910d96c61ed94` | FTBoldAthleticsFeature |  |
+| `b2e88ad42a6df914c9791182cc8dabc5` | FTBoldAttackFeature |  |
+| `fb0d318be18439040a6c265820303f82` | FTBoldBABFeature |  |
+| `0629079cc6353b14e862421810340b90` | FTBoldChaFeature |  |
+| `38ac011fb03b49e408db25e46bbb02fd` | FTBoldConFeature |  |
+| `5f7bd59b0b0148d48a0f9f60a3e58904` | FTBoldDamageFeature |  |
+| `66e42a285be6b5647ba334f93fb08148` | FTBoldDexFeature |  |
+| `9f482f5381ea9424f9c1fc05489785a8` | FTBoldFortFeature |  |
+| `c35e11251b6aeeb459d367ed45e7ad8f` | FTBoldIntFeature |  |
+| `070c455946774e64980da0cdb56e338b` | FTBoldMobilityFeature |  |
+| `070d7bae1cf40a34b93392068f8b0fa6` | FTBoldNatureFeature |  |
+| `7eeecbfcbc7e127429fd545d60005d6d` | FTBoldPerceptionFeature |  |
+| `556ce372e0ef14247bf781f45e2f8a90` | FTBoldPersuasionFeature |  |
+| `0f25e6ed611778d4bb3da0c7e20d6c8d` | FTBoldRefFeature |  |
+| `0398f54c93add10499cd4d168a3962de` | FTBoldReligionFeature |  |
+| `11c58f4af64cd7645a4d3e6fd9585f0f` | FTBoldStealthFeature |  |
+| `e60c6e98059bea14fae5b66765a2972b` | FTBoldStrFeature |  |
+| `d4be1adf932983c45b8b68bab0b944a9` | FTBoldTempHPFeature | Ring of Triumphant Advance |
+| `20111a7cb9451f0438de36bc77ee956a` | FTBoldThieveryFeature |  |
+| `48545476ad69fee4197cabb36bf301f5` | FTBoldUMDFeature |  |
+| `f34bfae8f5eb5644abf251ad017fdf08` | FTBoldWillFeature | Ring of Triumphant Advance |
+| `8ae21025de8b34147b22033a6e4cfee9` | FTBoldWisFeature |  |
+| `a211cf772f9d1c94bbdd6c9fd53895e8` | FTBoldWorldFeature |  |
 | `cfe04e28ff7ad194382c4c6c5924459e` | FullSkeletonRankProgression |  |
 | `908d3202d0660bf478a2a16d0df9e372` | GHAbadar | Guided Hand |
 | `cd9d8d48031a8fe47a141619d75e96cf` | GHAbadar | Guided Hand |
@@ -1288,6 +1356,9 @@
 | `796435ebf035ff645aff8abe53f6ef5f` | IncorporealFormAbility | Incorporeal Form |
 | `9c41aa48c547d484a99f9dfbc918eba8` | IncorporealFormFeature | Incorporeal Form |
 | `b3f3d6278c28828458c6d02aac3b07ec` | IncreasedDamageReductionFeature | Increased Damage Reduction |
+| `520be3c32f8f82640bada7aefaeeafe8` | IncreasingFortuneAbility | Increasing Fortune |
+| `aa406ac4b8fd360449a6639b9a4caf2f` | IncreasingFortuneBuff | Increasing Fortune |
+| `257b9b0531ce5954aaf94733471677d2` | IncreasingFortuneFeature | Increasing Fortune |
 | `37bef1ce73e74724d892c6986cd8f28a` | Indestructible | Indestructible |
 | `0838f1aaaf1d3594ab1f6e211f78af2b` | InevitableBuff | Poison Vulnerability |
 | `3350574565b69aa4a934a3d25d08e9ed` | InevitableType | Inevitable |
@@ -1522,6 +1593,8 @@
 | `fc26846434af6504ba3f01c16c802dba` | LoLEffectBuff | Litany of Lethargy |
 | `e05b57330c19e764db1a824ce5344e45` | LoLFeature | Litany of Lethargy |
 | `b2c4cc2bc8e9f3447b4648d10d85f73e` | LoLToggle | Litany of Lethargy |
+| `4775b1d028237d04c85fca5e1cc6b693` | LuckAbilitySelection | Lucky Talent |
+| `62fc5b3e56342df46861f60cb9e70d3e` | LuckyStrikes | Lucky Strikes |
 | `908af99fe95839940bc07a6a8d39e0a1` | MaddeningGazeAbility | Maddening Gaze |
 | `14a5e8ab161ea684087e5942bda5b456` | MaddeningGazeAbility11 | Maddening Gaze |
 | `72876ba85690ab24badaf984244fc787` | MaddeningGazeAbility19 | Maddening Gaze |
@@ -1542,6 +1615,9 @@
 | `b0636c261cfca404f9e3396b3ae2bfab` | MagicLightFeature | Light |
 | `4c3daca7627939143b47ae75d8c36375` | MagicMissile | Magic Missile |
 | `e1f9bc7742f197c4b94d992314c141fe` | MagicMissileFeature | Magic Missile |
+| `8d15c38e67e35924d93bf744085716b0` | MagicSwordWeapon | Longsword |
+| `80c51bd413fde9045ac0e1d2ec967411` | MagicSwordWeaponSecond | Cold Iron Two-Bladed Sword |
+| `9053ee64b8ef01b45abee56728563cdb` | MagicSwordWeaponType |  |
 | `559b10e46455248469b9752d6cfbc214` | MagicWeapon | Magic Weapon |
 | `618f10fce0dc45e43b1757ee949a97c7` | MagicWeaponFeature | Magic Weapon |
 | `5189e1416435b8047a91d55a0441af53` | MagicWeaponPrimary | Magic Weapon, Primary |
@@ -1663,9 +1739,15 @@
 | `d693ff22e5a8b0d45b7186069f1b6628` | Nyarlathotep | Nyarlathotep |
 | `c77907b22ff476d41b8555dc7d57733a` | NyarSacredWeapon |  |
 | `88330339e99f12b4e82aa09ff7fbe1fd` | OakenVitality | Oaken Vitality |
+| `09a8f655191f9224bbd257d575402835` | OathofAncientsProgression | Oath of the Ancients |
+| `bd82b4f86717d8243937618eb85f1a76` | OathofConquestProgression | Oath of Conquest |
+| `782b52e127905164590dd78023da7a25` | OathofDevotionProgression | Oath of Devotion |
 | `2e2567d54e32a754c8f00981e6cf924d` | OathofPCArchetype | Oathbound - Oath of People‘s Council |
+| `1e975c145bf4d7c468612834f2901c39` | OathofTreacheryProgression | Oath of Treachery |
 | `3bff72fa74b46ee40b92d26dbff25e00` | OathofVengeance | Oathbound - Oath of Vengeance |
+| `00a67bd446c4f804396a2068fd44e376` | OathofVengeanceProgression | Oath of Vengeance |
 | `1db65089e8d83ae42b3f0357beb659fd` | OathPerformanceFact | Bardic Performance |
+| `6bd4c42c0d94f644ca2c311ac9e636e7` | OathSelection | Take your Oath |
 | `d924d64822027aa49ba339ecb9e732ac` | OotGChallenge | Challenge |
 | `400ff8b6faf5d4641b48e2f0c224329e` | OotGSkills | Skills |
 | `38cb4b3fb92cac74a9927068dd5e9ea4` | OppositionAbjuration | Opposition School — Abjuration |
@@ -1864,6 +1946,7 @@
 | `8848a8dff31931e4ba20b48af77e4598` | RazPBloodragerSpellbook | Bloodrager |
 | `ce40310d3562d644eb6248de44aa9c3e` | RazPCharmDomainSelection | Charm Domain |
 | `2781d69fab2e5af488af64d7e6fcc267` | RazPCrossbloodSpellbook | Sorcerer |
+| `8316893a2d1efb0469ae8eae677e94e3` | RazPDeceiverSpellbook | Magic Deceiver |
 | `d990d2e817bb0b849a835d803fa14577` | RazPDomainSelection | Domain of Razmir |
 | `c9f9703ef0b71f14e8d52af8ee3d0242` | RazPEldritchFontSpellbook | Arcanist |
 | `6b16d5f808afdc34780a4356578a6102` | RazPEldritchScionSpellbook | Eldritch Scion |
@@ -2122,6 +2205,9 @@
 | `ec6cc4deb64ef1b46b90b2aae77f487a` | SetTerrainBuffUrban |  |
 | `c3141743b139d3f4b80af116fa4dc7d7` | SetTerrainFeature | Instant Terrain |
 | `3af075c55e3057040a4fd34c104f4ecb` | SetTerrainResource |  |
+| `eac9a13f2faa6744eade63336a954414` | SeverFateAbility | Severing Fate |
+| `01912920720836f4abd712974dbe4658` | SeverFateBuff | Severing Fate |
+| `19b7188fc0dd4ff42a6ccc3e024fd751` | SeverFateFeature | Severing Fate |
 | `9659dfbc8fb42e54cb17ab84dc0b7518` | SFBastardSword | Slashing Fury (Bastard Sword) |
 | `6fff9b92cdb6b4c48bc23d9c01c6ca9c` | SFBattleAxe | Slashing Fury (Battle Axe) |
 | `c5dcb4779a411d248825caecfd274bc9` | SFDagger | Slashing Fury (Dagger) |
@@ -2336,6 +2422,7 @@
 | `b6b99357b89979c4ebedd10d9e6c1595` | SFNokizaruArcaneAssassinAbility | Arcane Assassin |
 | `2db62b5b57658114db64aa86567087b3` | SFNokizaruArcaneAssassinBuff | Arcane Assassin |
 | `deabeab12dc6026479a354e433aaefec` | SFNokizaruTrickSelection | Ninja Tricks |
+| `da70c9f54684d0843ab6876f82a60c5e` | SFSawtoothSaber | Slashing Fury (Sawtooth Saber) |
 | `aa4ab636e5454634c9db07bddb46cb44` | SFScimitar | Slashing Fury (Scimitar) |
 | `d0fd3b58dd4f737438e925f5767861fe` | SFShortsword | Slashing Fury (Shortsword) |
 | `5d2fb95330aad1942aff80bc079ff8ff` | SFSickle | Slashing Fury (Sickle) |

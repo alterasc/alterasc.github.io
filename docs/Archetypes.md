@@ -436,6 +436,13 @@ Civilization grows stronger and more decadent with each passing year. It tears i
 `13f56f8740e2e1f47bba9724de8d4e9b`  
 `WildStalker`  
 
+### Carnivalist (Rogue)
+
+Carnivalists train their miniature minions to perform acts of larceny and often hide their true talents behind theatrical sideshows.
+
+`d355468863af2df4c824b6ec7370ad07`  
+`CarnivalistArchetype`  
+
 ### Sacred Fist (Warpriest)
 
 Unlike many warpriests, sacred fists leave behind armor and shield and instead rely on their fists and whatever protection their deity bestows on them.
