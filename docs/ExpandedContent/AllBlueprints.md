@@ -426,6 +426,7 @@
 | `26ceeb506f2346b5876928178ced700a` | BearShamanWildShape | Wild Shape - Bear Totem Druid |
 | `884d58891e2f473b84761f290f30e187` | BelialFeature | Belial |
 | `eb70fd81bd184f52b3cb77f00277e305` | BelialSacredWeaponFeature |  |
+| `507bff19f3914a71a37c95fed9e52ce7` | BeneficialDeepOneCurseProgression | Deep One |
 | `8c70b8f644aa489ba5370e08c06def3a` | BeneficialVampirismCurseProgression | Beneficial Vampirism |
 | `8e76612faec2476a904e5380dc08a92d` | BesFeature | Bes |
 | `fd5920bf15d7471b908f75ccc0dff568` | BesmaraFeature | Besmara |
@@ -686,6 +687,12 @@
 | `ff9b494a13fb4db0a78eb76e4cbf16fc` | DeadlyFinaleBuff | Deadly Vibrations |
 | `8fc184a1eb0143bdb58b55a8391a7758` | DeathInvokeDeityAbility | Invoke Deity - Death Domain |
 | `9b03704b7b3147168ccba862a7cd2327` | DeathInvokeDeityBuff | Invoke Deity - Death Domain |
+| `241831b21b894cb3a97b91e46eec1a71` | DeepOneCurseFeatureLevel1 | Deep One |
+| `86740deb959043a0bc5b7eba4028d181` | DeepOneCurseFeatureLevel10 | Deep One |
+| `685df25188b4491ea361b518a64760a3` | DeepOneCurseFeatureLevel15 | Deep One |
+| `60bbb206fc3744a683502e91be5433d3` | DeepOneCurseFeatureLevel5 | Deep One |
+| `5f870b5967984822974e972275fc14f7` | DeepOneCurseNoProgression | Deep One |
+| `133e9bbb5654485dab119a6c8bf7a75b` | DeepOneCurseProgression | Deep One |
 | `2a248b33be7942759f567749f87cf391` | DefenseDomainAllowed |  |
 | `89ea4e7fa22445acb3faf2081741898e` | DefenseDomainAllowedSeparatist |  |
 | `3ebffd80b77c439c993e4a8455ff7fea` | DefenseDomainBaseAbility | Deflection Aura |

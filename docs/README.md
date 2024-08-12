@@ -37,7 +37,7 @@
 
 ### [Demonology](./Demonology/README.md) 0.1.5
 
-### [Expanded Content](./ExpandedContent/README.md) 0.10.11
+### [Expanded Content](./ExpandedContent/README.md) 0.10.14
 
 ### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.2
 
