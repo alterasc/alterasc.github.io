@@ -2,7 +2,7 @@
 
 [Back to site homepage](../README.md)
 
-## Version: 3.5.3
+## Version: 3.7.0
 
 ## Author: string
 

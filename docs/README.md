@@ -83,7 +83,7 @@
 
 ### [Prestige Minus](./PrestigeMinus/README.md) 0.9.5
 
-### [PrestigePlus](./PrestigePlus/README.md) 3.5.3
+### [PrestigePlus](./PrestigePlus/README.md) 3.7.0
 
 ### [Psionics](./Psionics/README.md) 1.1.1
 

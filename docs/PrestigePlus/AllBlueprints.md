@@ -86,7 +86,6 @@
 | `2192e2b11d104764bc97b0dcd27d17c1` | AgentoftheGrave.LichTouch | Lich’s Touch |
 | `59fe69d15d9649d0927dbf446b141cec` | AgentoftheGrave.LichTouchRes |  |
 | `406a2dd4af4d45f9bd96d78e218dd3ac` | AgentoftheGrave.SecretDeath | Secrets of Death |
-| `3e80c400458644a69ebc5b19d066825d` | AgentoftheGrave.shadowspelllist |  |
 | `72869416fa1f4864bb0aaaafd05d7177` | AgentoftheGrave.spelllist |  |
 | `ff69f897588448d59cf05f616eca618c` | AgentoftheGrave.UnholyFortitude | Unholy Fortitude |
 | `9368d40000864af1912212dde6f7c98d` | AgentoftheGrave.UseDesecrate | Negative Energy Conduit |
@@ -393,17 +392,35 @@
 | `8ce3c5ba3fcb43b7a90ad89f0eea9a21` | DefensiveRoll.DefensiveRollAbility | Another Day |
 | `d6cd7849df81452890c8a78350caebc1` | DefensiveRollAblityRes |  |
 | `a812d3f2bbf84ef1a6279fbfcac810f8` | DefensiveRollBuff | Another Day |
+| `5170f48b4bc849cb9d1483deb885cf6a` | DeificObedience.Abadar | Abadar Obedience |
+| `361ee49d7417479ca481defdae6d247e` | DeificObedience.Abadar2 | City Dweller |
+| `0e5bdc97c59544698274523add7514a6` | DeificObedience.AbadarExalted | Abadar (Exalted) |
 | `d14e5618765041fb84ea332fd19179b4` | DeificObedience.Achaekek | Achaekek Obedience |
 | `271588055808428bbb407890fa02fa28` | DeificObedience.Achaekek2 | Bleeding Wounds |
 | `b484e3ae3140425b83ebda2b40d70894` | DeificObedience.AchaekekSentinel | Achaekek (Sentinel) |
+| `d2e2ce1f44f04dab85f3077006ba3aa6` | DeificObedience.Akuma | Akuma Obedience |
+| `ed087f76b03f4cb4a8f1426468425cc9` | DeificObedience.Akuma0 | Akuma Obedience |
+| `b2dadd66de9641b280fd5f9978bb7783` | DeificObedience.Akuma2Res |  |
+| `b6ffb2258e704f719d877bba52ef1161` | DeificObedience.Akuma3Res |  |
 | `9d53bbc51e4c42d9aec089479f0fd840` | DeificObedience.Arazni | Arazni Obedience |
 | `9b9afbd5a3f84c01a6bd96420de65ddb` | DeificObedience.Arazni2 | Subliminal Intransigence |
 | `c760d06345d2410daf4256a14c181154` | DeificObedience.Arazni3 | Fallen Crusader’s Retaliation |
 | `5a8c19705ad847568355d8ae8b181ef3` | DeificObedience.ArazniBuff | Arazni Obedience |
 | `e99188eaf3c84ae9a1c0e61d739546fd` | DeificObedience.ArazniSentinel | Arazni (Sentinel) |
+| `a7e36117995c421aaa8515e4c6d8152c` | DeificObedience.Arshea | Arshea Obedience |
+| `baa12443dc114bba845597b44736b107` | DeificObedience.Arshea0 | Arshea Obedience |
+| `1ce50d39d677488eb5232061a7f5c2a5` | DeificObedience.Arshea2 | Flawless Form |
+| `250f211cae7c45f9837739c0731b5bff` | DeificObedience.Arshea2Feature | Flawless Form |
+| `2595427508394a5f83b57099f0d4b16b` | DeificObedience.Arshea3Ability | Freedom of Movement |
+| `c4b273a6b2ba478aa2590f7c6b4623bb` | DeificObedience.Arshea3Res |  |
 | `e74e2d65648745148e4756009aea1318` | DeificObedience.Calistria | Calistria Obedience |
 | `bd701cb90f65420cb573ffd77b2a26b6` | DeificObedience.Calistria2 | Stunning Touch |
 | `e6e8a99544704296bf493ab8f03a371c` | DeificObedience.CalistriaExalted | Calistria (Exalted) |
+| `708bd5f64c634489aab1bd97a687e0db` | DeificObedience.CaydenCailean | Cayden Cailean Obedience |
+| `363c4efbab3e4f139e07741d67fffb21` | DeificObedience.CaydenCailean2 | Light Weapon Master |
+| `964cb5efe90040f8bda054fd942493c5` | DeificObedience.CaydenCailean2Feature | Light Weapon Master |
+| `5816dc931d70442986497080bae54411` | DeificObedience.CaydenCailean3 | Critical Luck |
+| `c74fb97114ea405a90334722f8bfafbc` | DeificObedience.CaydenCaileanSentinel | Cayden Cailean (Sentinel) |
 | `57e5b8a280df4453b817718ff616c75d` | DeificObedience.Chaldira | Chaldira Obedience |
 | `b71aaec4ad444e909d080403d8083e4f` | DeificObedience.Chaldira2 | Fortune’s Child |
 | `fffe5f1f558342deb09f10de1796fa60` | DeificObedience.ChaldiraSentinel | Chaldira (Sentinel) |
@@ -441,6 +458,9 @@
 | `641c52f953944412909de89309d2fc76` | DeificObedience.Gozreh | Gozreh Obedience |
 | `6c5b990a6c1e476980c88a7c26dd40a5` | DeificObedience.Gozreh2 | Lightning Child |
 | `61b4b3646f6f4e81993975b0d9ec719c` | DeificObedience.GozrehExalted | Gozreh (Exalted) |
+| `3b79b7cb38b44f5caf4ff6d884397213` | DeificObedience.Groetus | Groetus Obedience |
+| `47803ff2085c4d3e97fc54dfeeaed489` | DeificObedience.Groetus2 | Silent Witness |
+| `7223e90271324287a17aae0775083418` | DeificObedience.GroetusExalted | Groetus (Exalted) |
 | `346f315bbddb441c8d07e80b837293eb` | DeificObedience.Iomedae | Iomedae Obedience |
 | `9a8217dc2d7342a3a16bdfdbbd930a6b` | DeificObedience.Iomedae2 | Valorous Smite |
 | `6946f51ec2034dc4a2e785ea0cd11a2e` | DeificObedience.Iomedae2Buff | Valorous Smite |
@@ -467,16 +487,18 @@
 | `004e907d855f44099279310e8b96a3fd` | DeificObedience.LanternKing | The Lantern King Obedience |
 | `3fdb49e9d4d24b4d9c66b5bb8401f7e4` | DeificObedience.LanternKing0 | The Lantern King Obedience |
 | `3de79247b9904e4891341986df67583e` | DeificObedience.LanternKing2Res |  |
+| `d93d0436faf644f9816f04d84333af45` | DeificObedience.Magdh | Magdh Obedience |
+| `cb78eef449d24ff6a1ac45d9301cd830` | DeificObedience.Magdh0 | Magdh Obedience |
+| `cffde39cf21f42b4a640aa098987a7c7` | DeificObedience.Magdh2 | Sight Beyond Time |
+| `8ce81f127629418f93979cd6e6d3b5a0` | DeificObedience.Magdh3 | Baleful Revelation |
+| `c00878b643444d26b83240dfb6afe8fc` | DeificObedience.Magdh3Ability | Prediction of Failure |
+| `b39d698de62343ecbd6b2dd04866c8d1` | DeificObedience.Magdh3Res |  |
 | `9e8b62f4284d4a96bdff9fd133e4ed5e` | DeificObedience.Mahathallah | Mahathallah Obedience |
 | `d0e831b7fcd7419c9bd34a97aaa1c6ce` | DeificObedience.Mahathallah2Ability | Breathe in the Cosmos |
 | `3036a36b4b62469d8f3b50b33afeab75` | DeificObedience.Mahathallah2Buff | Breathe in the Cosmos |
 | `da3aaf2f2e98451da8e53005f5a80fe5` | DeificObedience.MahathallahExalted | Mahathallah (Exalted) |
 | `69c25b8849094b0d9285b15c0f4b2827` | DeificObedience.MahathallahExalted2 | Breathe in the Cosmos |
 | `6be27e0d8ec74daa939cb1ba4d02ea50` | DeificObedience.MahathallahExalted3 | Breathe Out Death |
-| `d2e2ce1f44f04dab85f3077006ba3aa6` | DeificObedience.Mephistopheles | Mephistopheles Obedience |
-| `ed087f76b03f4cb4a8f1426468425cc9` | DeificObedience.Mephistopheles0 | Mephistopheles Obedience |
-| `54ef09aa4d4a4d649e03aa64d329948b` | DeificObedience.Mephistopheles2 | Charming Liar |
-| `f47a6488187e452691988795ef63a218` | DeificObedience.Mephistopheles3 | Persecutor |
 | `fb69e653b6df44ddb82312ba534b4264` | DeificObedience.Milani | Milani Obedience |
 | `73a5f1859ca54df785861dac09ddd86e` | DeificObedience.Milani2 | Stoic Guardian |
 | `f2a2fb7f63b84b24b8c6622e80d7fd24` | DeificObedience.Milani3 | Martyrdom |
@@ -495,6 +517,9 @@
 | `86c1a7a1e26342d08b4c989d506153f2` | DeificObedience.Naderi2Ability | All Who Live Suffer Loss |
 | `202fd60c362843be94ed791d1150849b` | DeificObedience.Naderi2Buff | All Who Live Suffer Loss |
 | `73d86f8244d7471ea7111f72f3b98644` | DeificObedience.NaderiSentinel | Naderi (Sentinel) |
+| `2ac35e1011ea4ee9a0e731de7e629452` | DeificObedience.Nethys | Nethys Obedience |
+| `dbd936126543471ba3b40798e0e70f6a` | DeificObedience.Nethys2 | Staff Channel |
+| `d783a71f372f4e04a746bf4cf6837cbc` | DeificObedience.NethysExalted | Nethys (Exalted) |
 | `658e4ae114bf4183ab27c5f7a44e4368` | DeificObedience.Nivi | Nivi Obedience |
 | `d34ad54a3aa945a5abcfe7122566b1e1` | DeificObedience.Nivi2 | Gemstone Guardian |
 | `3196831250834dec9d3414f16e7b79da` | DeificObedience.NiviExalted | Nivi (Exalted) |
@@ -516,6 +541,15 @@
 | `6be9880095a44cdfba069f09185b4fbd` | DeificObedience.Otolmens2Buff | Combat Calculus |
 | `ebbc4c2685c847eb98652d66fef47378` | DeificObedience.Otolmens2Res |  |
 | `e71a0da7c131447c85d3ae658dfecb88` | DeificObedience.Otolmens3 | Revise Reality |
+| `645ba8d07b92407397cd7cc0a09c2373` | DeificObedience.Pharasma | Pharasma Obedience |
+| `1e40ec9fba55453f88aea499a18e3b55` | DeificObedience.PharasmaExalted | Pharasma (Exalted) |
+| `81117ccdcb39435b87570feac815a922` | DeificObedience.PharasmaExalted2 | Strike the Unrestful |
+| `c86dc3775a0440efbc3921a487f9ee3f` | DeificObedience.PharasmaExalted2Ability | Strike the Unrestful |
+| `3cc35f79c9c8484991b1c984116de977` | DeificObedience.PharasmaExalted2Buff | Strike the Unrestful |
+| `1676db65979244bdb90e75f773107933` | DeificObedience.PharasmaExalted2Res |  |
+| `dd0337fb348d4e1bbb7ba8554f4cd698` | DeificObedience.PharasmaExalted3 | The Veil Is Drawn Aside |
+| `62134cdb4f7f4c4f9fc0587585a0a84d` | DeificObedience.PharasmaExalted4 | The Veil Is Drawn Aside |
+| `76092c94c4424d3c9258c636e00ff103` | DeificObedience.PharasmaExaltedpro | Pharasma (Exalted) |
 | `2fa6c772f75a4f1dbf22edb72b7e0ba2` | DeificObedience.Pulura | Pulura Obedience |
 | `a6e1624525894b3f86ef8fc67369f459` | DeificObedience.Pulura0 | Pulura Obedience |
 | `ecebff1e0d184e6cb4c93f4b3583ce6f` | DeificObedience.Pulura2 | Starshot |
@@ -537,6 +571,11 @@
 | `c31c9c13ac34469bb94e371a785d39dd` | DeificObedience.Rovagug3 | Destructive Spell |
 | `9ab2989f35974093af6eb9a57c8ea2ef` | DeificObedience.Rovagug3Ability | Destructive Spell |
 | `1eb38c97393a41758e632cd76afe7614` | DeificObedience.Rovagug3Buff | Destructive Spell |
+| `72434f90c1dc4350b81cafe44da9494f` | DeificObedience.Seramaydiel | Seramaydiel Obedience |
+| `affe88881fdf4d248aad5ca435c71765` | DeificObedience.Seramaydiel0 | Seramaydiel Obedience |
+| `ce26a9b1c374454ca7928eaf601bca61` | DeificObedience.Seramaydiel2 | Quiet Muse |
+| `11f29ebb639b451aa6fb6b4a47a746a4` | DeificObedience.Seramaydiel2Ability | Brilliant Inspiration |
+| `b155be61c695487e9a61649c074945e5` | DeificObedience.Seramaydiel2Res |  |
 | `780b47d462204239a2dd4204b2374850` | DeificObedience.Shelyn | Shelyn Obedience |
 | `6b1c38c3d16d4d048a0a516e117791fe` | DeificObedience.ShelynSentinel | Shelyn (Sentinel) |
 | `0737982ef3f64879b1fa68fa88de626f` | DeificObedience.ShelynSentinel2 | Glorious Might |
@@ -559,7 +598,14 @@
 | `dce59efd3c804d6fb204bb2e309f273f` | DeificObedience.UseKabriri2 | Undead Minion |
 | `93939e8cb2d84e95bab2ad8caf2845e3` | DeificObedience.UseNivi2 | Gemstone Guardian |
 | `9e2f2aedc73041498faa102edbb61c4a` | DeificObedience.UsePulura2 | Starshot |
+| `b31b58344c454136a66e16c07f3da66a` | DeificObedience.UseSeramaydiel32 | Paralyzing Song |
+| `30ab8e0787dd40aa92b0d82ffca7ac74` | DeificObedience.UseSeramaydiel33 | Paralyzing Song |
 | `d0067d849b1f48618f40bb22a89e3af4` | DeificObedience.UseSocothbenoth3 | Violent Vice |
+| `9c3f761eb20e4926b75f23f083c2cf89` | DeificObedience.ZonKuthon | Zon-Kuthon Obedience |
+| `c3b4e6dff542482886d850f0696a7685` | DeificObedience.ZonKuthonSentinel | Zon-Kuthon (Sentinel) |
+| `cdcb65ca02c14e608200b47c59437cc1` | DeificObedience.ZonKuthonSentinel2 | Rending Trip |
+| `8b2d9da3c9704f8eb74fee1e82d4878e` | DeificObedience.ZonKuthonSentinel3 | Sight of Perfect Night |
+| `b8e0d51bd69846a09e3a85fe93b780ff` | DeificObedienceAbadar3 | Scales of Balance |
 | `7d26e0b27e4b4f03933f33863f32058c` | DeificObedienceAblity | Deific Obedience |
 | `751bd21aa53249399dc9ee26e7fce6bb` | DeificObedienceAblityRes |  |
 | `b0331bb22fa248b4bf44551ffe2322e6` | DeificObedienceAchaekek3 | Mantis Style Mastery |
@@ -567,15 +613,23 @@
 | `7961181c47a14351b82ee16b1d32c4ad` | DeificObedienceChaldira3 | Impetuous Ardor |
 | `a3cb21de5f994883b1d9fb35d23f1101` | DeificObedienceCharon3 | Death’s Call |
 | `f17efff4be99460fb51f75cfed906bf7` | DeificObedienceGozreh3 | Nature's Companion |
+| `5d7bf62d3be2490f893ef7464ba31916` | DeificObedienceGroetus3 | Infinite Patience |
 | `0ee559a87d644011b5341930a0943bda` | DeificObedienceKabriri3 | Ghoulish Apotheosis |
 | `f3250e50b38f4b8b94eae9da324918e8` | DeificObedienceLamashtu3 | Monstrous Transformation |
 | `44ae0ca2464e42009c6724d0cfcbae1f` | DeificObedienceNaderi3 | Mantle of Tragic Grace |
+| `90efbda771264dc5a27e71ceed69f91f` | DeificObedienceNethys3 | Pure Magic Aura |
 | `860ac1f0fe4e4e6883c8fc6e436b7f97` | DeificObedienceNivi3 | Seven-Pipped Gem |
 | `8cd6e25f58544fd386c4210970fc3654` | DeificObedienceNocticula3 | Death Is But a Word |
+| `ef8a6a51c85d4a08984e05513d40e54b` | DeificObedienceSeramaydiel3 | Paralyzing Song |
+| `fcce64176826476a802d115de0586a3f` | DeificObedienceStyle.Abadar3Ability | Scales of Balance |
+| `3170564c50d9410b83b0a1edad498280` | DeificObedienceStyle.Abadar3AbilityRes |  |
 | `eac449b540ed4922968bfb07a2845318` | DeificObedienceStyle.Calistria3feat | Protective Grace |
 | `c3978aaff5534ae49a7c0424f0aa2187` | DeificObedienceStyle.Charon3Ability | Wail of the Banshee |
 | `823354876d894bd78781eb16952abaf8` | DeificObedienceStyle.Charon3AbilityRes |  |
 | `99f8d1c6bb4849d6957b4601db523445` | DeificObedienceStyle.Gozreh3feat | Nature's Companion |
+| `2d114e9476924c75bd3df33ecf82034a` | DeificObedienceStyle.Groetus3Ability | Infinite Patience |
+| `3907038805184f089e66c5f527c21736` | DeificObedienceStyle.Groetus3AbilityRes |  |
+| `f5305c4d68194ac09f93775380bb3f95` | DeificObedienceStyle.Groetus3AuraBuff | Infinite Patience |
 | `b5608f0357b34089a4df921177278377` | DeificObedienceStyle.Kabriri2AbilityRes |  |
 | `fafaf4663b634bd1b9884d92ecac7ecd` | DeificObedienceStyle.Kabriri3Feat1 | Ghoulish Apotheosis |
 | `a540e07853a640b69a05d019d8709f45` | DeificObedienceStyle.Kabriri3Feat2 | Ghoulish Apotheosis |
@@ -586,6 +640,11 @@
 | `489136ad7d4644bd979c8633b294f324` | DeificObedienceStyle.Naderi3AbilityRes |  |
 | `0d79b10754c24439bf31ca3b1c4a0a74` | DeificObedienceStyle.Naderi3Aura |  |
 | `3a701136709b4f069202f30af7369f28` | DeificObedienceStyle.Naderi3buff | Mantle of Tragic Grace |
+| `cb15c482e8924d8a878d4fd74c0eec3b` | DeificObedienceStyle.Nethys3Ability | Pure Magic Aura |
+| `4d8f17eb30b84e699233af704c1c6c12` | DeificObedienceStyle.Nethys3AbilityRes |  |
+| `9ae786f555944dbaab34418be83f8542` | DeificObedienceStyle.Nethys3Aura |  |
+| `f90bbe7f65984300b5c4c58b1610386a` | DeificObedienceStyle.Nethys3AuraBuff | Pure Magic Aura |
+| `565ce3f69be44c11a94345cabaa80253` | DeificObedienceStyle.Nethys3Buff | Pure Magic Aura |
 | `682ebc7cc7764cf7ac87a69ec4f62a83` | DeificObedienceStyle.Nivi2AbilityRes |  |
 | `b246cd828c1b4c4cb376033ac08978ce` | DeificObedienceStyle.Nivi3Ability | Seven-Pipped Gem |
 | `4053c5b79af046c38de5b03b66b6d86d` | DeificObedienceStyle.Nivi3Ability2 | Seven-Pipped Gem (wager) |
@@ -596,6 +655,12 @@
 | `b3cd548c3d0b4e7596db4ab436242c27` | DeificObedienceStyle.Nivi3buff4 | Seven-Pipped Gem (wager) |
 | `5e6ec63849344da7b2a76e70095db6fb` | DeificObedienceStyle.Nocticula3Ability | Death Is But a Word |
 | `887e997bfc9042bab190824a2a2c6470` | DeificObedienceStyle.Nocticula3AbilityRes |  |
+| `f5f3637079ce4c398354e3602af8ec84` | DeificObedienceStyle.Seramaydiel3Ability | Paralyzing Song |
+| `730ea44f80d84ee38118508be0a24fc6` | DeificObedienceStyle.Seramaydiel3AbilityRes |  |
+| `8d3a5e9636584ce693fe19cb49a8d7de` | DeificObedienceStyle.Seramaydiel3Aura |  |
+| `ed9f637a01df45ae85df98df1a3bdb4e` | DeificObedienceStyle.Seramaydiel3Aurabuff | Paralyzing Song |
+| `d0fd825b2b3f4fa89039099e22f2cf13` | DeificObedienceStyle.Seramaydiel3Enemybuff | Paralyzing Song |
+| `0559c993acc04f68ab4a7c53f14ed6c3` | DeificObedienceStyle.Seramaydiel3Enemybuff2 | Paralyzing Song |
 | `e3d52e2ae0e84dc8a7ac75ec9029c6d7` | DesecrateAura |  |
 | `5a914fa452364fbfbecd090a99b594a8` | DesecrateAuraBuff | Negative Energy Conduit |
 | `93c68f9f515b4f4ebd557eb855f51e7d` | DesecrateBuff | Negative Energy Conduit |
@@ -637,6 +702,12 @@
 | `c5af7d16eda04ccd81a40e1977d4f32e` | DownLikeDominoes.StyleAbility | Down Like Dominoes |
 | `3b4ce92d3f1349cc877803ebd4334403` | DownLikeDominoes.StyleBuff | Down Like Dominoes |
 | `2256790475dc415f94e41329d44de111` | DownLikeDominoes.StyleBuff2 | Down Like Dominoes |
+| `4303692740fd4b5e8e13ddb8880d191d` | DragonDisciple.VariantBloodlineArcana12 | Bloodline Arcana |
+| `476372ad33434718b1d1f19853077af4` | DragonDisciple.VariantBloodlineArcana15 | Bloodline Arcana |
+| `9179337da6b94523bb017692fddaf11d` | DragonDisciple.VariantBloodlineArcana18 | Bloodline Arcana |
+| `f4d45cbace7d457ebf339f4a2f84ddbd` | DragonDisciple.VariantBloodlineArcana3 | Bloodline Arcana |
+| `6a4df30896e648cc8e4c7289a4c6762c` | DragonDisciple.VariantBloodlineArcana6 | Bloodline Arcana |
+| `442b4834678a4f3eaf9a0a05fc61fed3` | DragonDisciple.VariantBloodlineArcana9 | Bloodline Arcana |
 | `b216abb13ef64e039d5869ce7cf94b4f` | DragonFury | Dragon Fury |
 | `dc26c8f941644a3485189b0a39b678f9` | DragonFuryPrestige |  |
 | `a2466a390ff54198bbd242c9eaec2e0b` | DragonWarDance | Dragon Warrior’s Talons (Stance) |
@@ -1553,6 +1624,7 @@
 | `e1c5febc7d2c445da4528a77c340e14f` | FeatBodyGuard | Bodyguard |
 | `f0611e7ba68c49e48bec97a1173ad609` | FeatHarmWay | In Harm’s Way |
 | `55da148bc5da42c29f2930f2eeb75c9d` | FeatKnockback | Knockback |
+| `cc2064b75ea04daea6670fcbd44c2767` | FeatLikeTheSun | Like the Sun |
 | `15c0b67c9cb747d4a7630d494840c767` | FeatQuickBullRush | Quick Bull Rush |
 | `75e92d691a884b7aa6795faf954ce690` | FeatQuickDirtyTrick | Quick Dirty Trick |
 | `722533855eda4ef0a572392fa8c62785` | FeatWalkThroughSpace | Improved Walk Through Space |
@@ -2080,20 +2152,20 @@
 | `f5e6da2e6c8846d88493379097d80ea2` | FuryTraining | Dragon Fury Training |
 | `d1dcceb231c8429db12be4018129c47b` | Geisha | Geisha |
 | `b8af58f5592b4a27b66ae13fad5a0ceb` | Geisha.GeishaKnowledge | Geisha Knowledge |
-| `3aba8c4f90514fae8a70893decae4e78` | Geisha.TeaCeremony | Tea Ceremony (inspire courage) |
-| `8eed8e5b49d54f269e77a9142d313713` | Geisha.TeaCeremony2 | Tea Ceremony (inspire competence) |
-| `49f31697744d494194ac25580f60e684` | Geisha.TeaCeremony2Buff1 | Tea Ceremony (inspire competence) |
-| `fe25fde68fda4360814a419008fcb69d` | Geisha.TeaCeremony2Buff2 | Tea Ceremony (inspire competence) |
-| `5161e6ef55154c75a4ae6d634c7026c2` | Geisha.TeaCeremony3 | Tea Ceremony (inspire greatness) |
-| `f2787f583a4a4cecb2372b1740397541` | Geisha.TeaCeremony3Buff1 | Tea Ceremony (inspire greatness) |
-| `0b64b50b6c984df99b5715ee44d3e465` | Geisha.TeaCeremony4 | Tea Ceremony (inspire heroics) |
-| `2dd07c15637649b69bb725b7fcd24ba8` | Geisha.TeaCeremony4Buff1 | Tea Ceremony (inspire heroics) |
-| `05f4c765f36b4ace9dac7e3e94e582ac` | Geisha.TeaCeremonyBuff1 | Tea Ceremony (inspire courage) |
-| `6395f96c62f742f59b7bfc0b07e3a18b` | Geisha.TeaCeremonyBuff2 | Tea Ceremony (inspire courage) |
-| `f79c25d66f674ca7a8f4700dbb067840` | Geisha.UseTeaCeremony | Tea Ceremony (inspire courage) |
-| `bc3e425719084d3cb2c9b68b84ff46cf` | Geisha.UseTeaCeremony2 | Tea Ceremony (inspire competence) |
-| `d33df460383443c0828511eb1aa7e606` | Geisha.UseTeaCeremony3 | Tea Ceremony (inspire greatness) |
-| `e2abdf24351d4d10b95663a0ea6096f1` | Geisha.UseTeaCeremony4 | Tea Ceremony (inspire heroics) |
+| `3aba8c4f90514fae8a70893decae4e78` | Geisha.TeaCeremony | Tea Ceremony (Inspire Courage) |
+| `8eed8e5b49d54f269e77a9142d313713` | Geisha.TeaCeremony2 | Tea Ceremony (Inspire Competence) |
+| `49f31697744d494194ac25580f60e684` | Geisha.TeaCeremony2Buff1 | Tea Ceremony (Inspire Competence) |
+| `fe25fde68fda4360814a419008fcb69d` | Geisha.TeaCeremony2Buff2 | Tea Ceremony (Inspire Competence) |
+| `5161e6ef55154c75a4ae6d634c7026c2` | Geisha.TeaCeremony3 | Tea Ceremony (Inspire Greatness) |
+| `f2787f583a4a4cecb2372b1740397541` | Geisha.TeaCeremony3Buff1 | Tea Ceremony (Inspire Greatness) |
+| `0b64b50b6c984df99b5715ee44d3e465` | Geisha.TeaCeremony4 | Tea Ceremony (Inspire Heroics) |
+| `2dd07c15637649b69bb725b7fcd24ba8` | Geisha.TeaCeremony4Buff1 | Tea Ceremony (Inspire Heroics) |
+| `05f4c765f36b4ace9dac7e3e94e582ac` | Geisha.TeaCeremonyBuff1 | Tea Ceremony (Inspire Courage) |
+| `6395f96c62f742f59b7bfc0b07e3a18b` | Geisha.TeaCeremonyBuff2 | Tea Ceremony (Inspire Courage) |
+| `f79c25d66f674ca7a8f4700dbb067840` | Geisha.UseTeaCeremony | Tea Ceremony (Inspire Courage) |
+| `bc3e425719084d3cb2c9b68b84ff46cf` | Geisha.UseTeaCeremony2 | Tea Ceremony (Inspire Competence) |
+| `d33df460383443c0828511eb1aa7e606` | Geisha.UseTeaCeremony3 | Tea Ceremony (Inspire Greatness) |
+| `e2abdf24351d4d10b95663a0ea6096f1` | Geisha.UseTeaCeremony4 | Tea Ceremony (Inspire Heroics) |
 | `d47dc15c3a964358a652db9e632009a7` | GiganticAssault | Gigantic Assault |
 | `0a583282b9ad45a1be18328f79d92c69` | GiganticAssault.ReleaseAbility | Steed’s Reach |
 | `747f27a358ad496d9e46d24fe93b71aa` | GiganticAssault.ReleaseAbilitybuff | Steed’s Reach |
@@ -2446,6 +2518,7 @@
 | `01b800ecbbff49cf841c0657df53f356` | MageHandThrowPunch | Throw Punch |
 | `4e0d0e93f74c4cb3b6d7ff0b705b3e2c` | MageHandTrick.ThrowPunchActivatableAbility | Throw Punch |
 | `a6997b23080342f184f64506793a888e` | MageHandTrick.ThrowPunchbuff | Throw Punch |
+| `244a809a015b45e68707aac636c5fbf8` | MagusPet.MagusPet | Familiar |
 | `fbd0c6eb0513483b862fa087d32b03d1` | MammothRider | Mammoth Rider |
 | `5fc8297d39274ad9abb312913d816f26` | MammothRider.BornSurvivorFeat | Born Survivor |
 | `658e8a16a9bf45f4b79cb64385e7649a` | MammothRider.ColossusHunter | Colossus Hunter |
@@ -2491,10 +2564,13 @@
 | `c4d92d6c368a49b393f25a7d12850b93` | ManeuverMaster.FlurryFeat | Flurry of Maneuvers |
 | `ee082d1f68714d54a4ae2c6995ad513a` | ManeuverMaster.Freedom | Ki Power: Freedom of Movement |
 | `622d6c15624f49e78dff54cb8e9b3dc0` | ManeuverMaster.Freedom2 | Wanderer’s Fortune |
+| `48acdfb45da645b7b077ea6403d0b7cb` | ManeuverMaster.FreedomDrunk | Ki Power: Freedom of Movement |
 | `34fba5ab0fd642afa21ad1d06137b66a` | ManeuverMaster.Meditative | Meditative Maneuver |
 | `216f6093ee954d89bcc54add1195c428` | ManeuverMaster.MeditativeBuff2 | Meditative Maneuver |
 | `bfcf6beb722d42d3a9ba8aac1462e6b6` | ManeuverMaster.OneTouch | Ki Power: One Touch |
 | `e99915c034b24c2595632fd2101eafdb` | ManeuverMaster.OneTouchBuff2 | Ki Power: One Touch |
+| `38b96e864d504fbab1100a352ab46f60` | ManeuverMaster.OneTouchDrunk | Ki Power: One Touch |
+| `769474d430f04f43a081541d1a7bdafa` | ManeuverMaster.OneTouchDrunkBuff2 | Ki Power: One Touch |
 | `a469e55d32784385bf69c93d8c81f7b6` | ManeuverMaster.Reliable | Reliable Maneuver |
 | `ea858e678f2e40d892262deeafb98e1a` | ManeuverMaster.ReliableBuff2 | Reliable Maneuver |
 | `c0599fef70f745898baf8062cfafb5e5` | ManeuverMaster.Sweeping | Sweeping Maneuver |
@@ -2503,9 +2579,12 @@
 | `fbad374ace844f85a2d58bb0052ce85c` | ManeuverMaster.UseFreedom | Ki Power: Freedom of Movement |
 | `624e8bbbaf9d4f62bf67768525269d8f` | ManeuverMaster.UseFreedom2 | Wanderer’s Fortune |
 | `17c7a5e22ad54d71a4e994c34717039a` | ManeuverMaster.UseFreedom2Res |  |
+| `9f20a4b6e7a446f096ccb8cb42abcc34` | ManeuverMaster.UseFreedomDrunk | Ki Power: Freedom of Movement |
 | `cad2cd9b3d9549e49812c88922f1952d` | ManeuverMaster.UseMeditative | Meditative Maneuver |
 | `cdbf0b3659ed43e69d1e50c065f7c1df` | ManeuverMaster.UseOneTouch | Ki Power: One Touch |
 | `1f1fc5227ba34488a95826013dab43e3` | ManeuverMaster.UseOneTouch2 | Ki Power: One Touch (ki) |
+| `389c6165b2794b37a0d34e2e3b1f11bb` | ManeuverMaster.UseOneTouchDrunk | Ki Power: One Touch |
+| `4c9a26c832e14ff8852c79aa381ab592` | ManeuverMaster.UseOneTouchDrunk2 | Ki Power: One Touch (ki) |
 | `a54b577aeed0496a9a9d548b43ab5d30` | ManeuverMaster.UseReliable | Reliable Maneuver |
 | `cf9d45c896eb4fd2b32cefbcc03f2f78` | ManeuverMaster.UseWhirlwind | Whirlwind Maneuver |
 | `46f5d11798ed4e058666509fdf26fbfb` | ManeuverMaster.UseWhirlwind2 | Whirlwind Maneuver |
@@ -3064,6 +3143,8 @@
 | `ab1820e8b07c43c6b83d949a5c9efaa7` | NewSpell.ToothHuntBuff | Tooth Hunt |
 | `58bcb999b3ad46c289dc68cba9c50bd0` | NewSpell.UseAkashicForm | Akashic Form |
 | `01346696ecff4f518bb21d9dca00041b` | NewSpell.UseBladeLash | Blade Lash |
+| `b24637cfe2464526b43bb463b441bcb2` | NewSpell.UseBurstRadiance | Burst of Radiance |
+| `64ef4466c43d4152b2f1532870bf6307` | NewSpell.UseDarkLight | Dark-Light |
 | `edd43108e61a438694624b6f6e6f4bce` | NewSpell.UseDebilitatingPain | Debilitating Pain |
 | `776eefcb0ba841bfae8ceba58a19ff29` | NewSpell.UseDebilitatingPainMass | Debilitating Pain, Mass |
 | `8a4af435bc9d4998a6b59f08e7f8336d` | NewSpell.UseDiscordantBlast | Discordant Blast |
@@ -3381,9 +3462,16 @@
 | `fea748e92786465e87da28d94053e0d0` | SpearDancingStyle | Spear Dancing Style |
 | `d01a6ecbd0684afebff246c56c21c131` | SpearDancingStyle.StyleActivatableAbility | Spear Dancing Style |
 | `0022bbe3c41a4eb4bc262488f2916220` | SpearDancingStyle.Stylebuff | Spear Dancing Style |
+| `5684c07d64b04c87af8bf103135470e4` | SpellPower.Abadar1 | Ordered Mien |
 | `5fb00aeb7f86439aa5ca787175b9c37c` | SpellPower.Achaekek1 | Blood Must Flow |
+| `8efb95abe0ab4118a99c0b285f2b9aa8` | SpellPower.Akuma1 | Oni Daimyo |
+| `54ef09aa4d4a4d649e03aa64d329948b` | SpellPower.Akuma2 | Oni Daimyo |
+| `f47a6488187e452691988795ef63a218` | SpellPower.Akuma3 | Oni Daimyo |
 | `4f1058605a784c62826472759f66b299` | SpellPower.Arazni1 | Red Queen’s Rapier |
+| `395d4224104b4c879cff84c2039d0871` | SpellPower.Arshea1 | Arshea's Charmer |
+| `4ab8ddbdb70a47dfb7e8a77381c25e6b` | SpellPower.Arshea3 | Liberation |
 | `f99ad290364b4f23a71ed75141e3c80e` | SpellPower.Calistria1 | Calistria's Tongue |
+| `5fcd24a02352408485b54f90c0a7d7d4` | SpellPower.CaydenCailean1 | Devastating Duelist |
 | `7fc32da1e6834f93b2ef1d7ff32dbee4` | SpellPower.ChaldiraSentinel1 | Lucky Miss |
 | `be7f96495d744b409509dd21f47d4ad6` | SpellPower.CharonSentinel1 | Death’s Crusader |
 | `3239ed4a30a14b5bb62f36290790657d` | SpellPower.Desna1 | Traveler's Tricks |
@@ -3391,6 +3479,7 @@
 | `a5612b95db1248e0863bc0379b1136a6` | SpellPower.Falayna1 | Martial Excellence |
 | `76e9b76d07134f4582fb45c1bb04a79e` | SpellPower.Gorum1 | Mighty Warrior |
 | `4acfae9580454521be349827f67754fb` | SpellPower.Gozreh1 | Green Worker |
+| `e4c810f15ee944c09556bc6e8f0c3a0d` | SpellPower.Groetus1 | Maddening Voice |
 | `dc4c281f067a40ba89decf68cdfc6768` | SpellPower.Iomedae1 | Knight of Valor |
 | `791df151052445b48e7d893367341fc3` | SpellPower.Irori1 | Expansive Knowledge |
 | `b98a2e492a3d48f09c8dff4c0865cd3d` | SpellPower.Irori3 | Runic Form |
@@ -3399,27 +3488,37 @@
 | `470a493e39824407ab86dfb34358e924` | SpellPower.LanternKing1 | Prankster's Touch |
 | `7594e2242ba042d4b89df3ccc94b7c81` | SpellPower.LanternKing2 | Transform Others |
 | `390cf0e66b6f41b2b5d429a15a63d539` | SpellPower.LanternKing3 | Anyone and Anything |
+| `08fbd00db3b04ce78960627f89b764d7` | SpellPower.Magdh1 | Secret Knowledge |
 | `93e1e1d521db4262962c920924c18fb0` | SpellPower.MahathallahExalted1 | Mists of the Mind |
-| `8efb95abe0ab4118a99c0b285f2b9aa8` | SpellPower.Mephistopheles1 | Fool Maker |
 | `a3e1040e7d95487dbd9e1c9f513ab6a9` | SpellPower.Milani1 | Neighborhood Guardian |
 | `ad91925b9f294e33adfe495bd3c3fc2d` | SpellPower.Mrtyu1 | Ruled by Passion |
 | `62a555417fbc45d285ab1e757d5f4ddd` | SpellPower.NaderiSentinel1 | Frozen Despair |
+| `fc5de4dc26cc45c7b4e6de008fe50e40` | SpellPower.Nethys1 | Magical Essences |
 | `8a6120c35685498aa7708cb4ac841df4` | SpellPower.Nivi1 | Faithful’s Fortune |
 | `afa5f7dae35f44c0a95eac1006718817` | SpellPower.Nocticula1 | Midnight’s Grace |
 | `30082553ff294c8e8e04fc7ba85db284` | SpellPower.Norgorber1 | Virulence |
 | `e1f9fe0a9ab2402c94f908963bd19d6c` | SpellPower.Otolmens1 | Discerning Mind |
+| `060a2090656f45d18a4d09e92d399acc` | SpellPower.PharasmaExalted1 | Quietude |
 | `b27162ab948247fb99cc3307a3bbcf58` | SpellPower.Pulura1 | Aurora |
 | `71ff444a02474eda984f0834a543118b` | SpellPower.Ragathiel1 | Virtuous Combat |
 | `12f76998b39a464d88a8234591b84b10` | SpellPower.Rovagug1 | Agent of the Beast |
 | `cf377fce49564b88bbde26cee2f13e77` | SpellPower.Rovagug2 | The Destroyer's Gifts |
+| `60e57deda7894f65a5bb5f2711c7ac00` | SpellPower.Seramaydiel1 | Communicator |
 | `7abbd953beb34344bb5e5ba5f20b945f` | SpellPower.ShelynSentinel1 | Graceful Warrior |
 | `a734ae315510446eab5a1d6919dc5dcc` | SpellPower.Socothbenoth1 | Before The Fall |
+| `3cda9e145e9741569ad0616989b11543` | SpellPower.UseAbadar1 | Align Weapon — Lawful |
 | `fce2b407290b49bc89e17f9053295905` | SpellPower.UseAchaekek1 | Lead Blades |
+| `5e01fb58157d454f8e65f0cc0e3c1d54` | SpellPower.UseAkuma1 | Bear's Endurance |
+| `8bc7eef04c014066bac78a922f9b00e5` | SpellPower.UseAkuma22 | Divine Power |
+| `47ca2b1ebe104b8d97252feca3dc5ec2` | SpellPower.UseAkuma32 | Transformation |
 | `87f342e2a823428dbdb4a0daf5bb1eb6` | SpellPower.UseArazni1 | Divine Favor |
 | `646eba59e44a4f5aa7c315096328e7c2` | SpellPower.UseArazni12 | Effortless Armor |
 | `0a418c02cfa748c3a4783572ff6d9605` | SpellPower.UseArazni13 | Rage |
+| `b40cfe19cf8d4577b77265e0f25a1666` | SpellPower.UseArshea32 | Stone to Flesh |
+| `ebfbee4734c24fc1ba80353ac6528b83` | SpellPower.UseArshea33 | Walk through Space |
 | `6f31f2c91e5146d4b0bcf923f5984a68` | SpellPower.UseCalistria1 | Eagle's Splendor |
 | `fa02b3f6a2174c5da241a6d4531a6e77` | SpellPower.UseCalistria2 | Stunning Touch |
+| `7b2a9fc518114e2c8aa842c5bc30cccf` | SpellPower.UseCaydenCailean12 | Delay Poison |
 | `64546c718ffd4cc8b82df2287c8eeef0` | SpellPower.UseCharonSentinel12 | Summon Monster I |
 | `4437b4a9d9c242d78adc09a99130e34d` | SpellPower.UseDesna1 | Longstrider |
 | `4eedd04296e340eeafebb7f2cc94f136` | SpellPower.UseErastil1 | Cure Light Wounds |
@@ -3430,6 +3529,8 @@
 | `1c296e1181ef4a30a90044b643607368` | SpellPower.UseGorum1 | Enlarge Person |
 | `3bd4d94d45564a9cbcfc9217cd4266a8` | SpellPower.UseGorum12 | Bull's Strength |
 | `2273a436c5b644ad968ee6dcd87b8934` | SpellPower.UseGorum13 | Beast Shape I |
+| `49e27f96fa934822baad299e73689cfa` | SpellPower.UseGroetus1 | Confusion |
+| `a616e6325b4748ed9285b7d134c41006` | SpellPower.UseGroetus2 | Silent Witness |
 | `6dcc23ee1426468797e29c9eca9358e8` | SpellPower.UseIrori12 | Fox's Cunning |
 | `03da9cc3ded644d3918c07006284c40c` | SpellPower.UseIrori32 | Runic Form |
 | `e9c014aab580495180bc2d143903fd77` | SpellPower.UseIrori33 | Runic Form |
@@ -3442,19 +3543,21 @@
 | `2b4731a13b914f2dbada49d9cea03156` | SpellPower.UseLanternKing23 | Polymorph, Greater |
 | `0e548daf6fba486697a761c1c876b8d3` | SpellPower.UseLanternKing24 | Stone to Flesh |
 | `ea3289ed1a1e4ad9b1a073707801f8ba` | SpellPower.UseLanternKing32 | Shapechange |
+| `f3d3c5ae43b0471bb14abb0ac84fbffe` | SpellPower.UseMagdh12 | See Invisibility |
 | `6e2c0dd3c6d842c7a59a53e33bce9db9` | SpellPower.UseMahathallahExalted12 | Invisibility |
-| `5e01fb58157d454f8e65f0cc0e3c1d54` | SpellPower.UseMephistopheles1 | Litany of Eloquence |
 | `10700de2baaf4c2b91fe177ab6a51c33` | SpellPower.UseMilaniSentinel1 | Protection from Evil |
 | `d42fa85bec854e05ab6273951d405474` | SpellPower.UseMrtyu1 | Remove Fear |
 | `39a20104d22b4586a2ddc6ee4ed97fbb` | SpellPower.UseMrtyu12 | Aid |
 | `7012979e12ff48989a49a909f00938b1` | SpellPower.UseMrtyu13 | Remove Blindness |
 | `0c3a2b3ebd1e42eaadbd00a14deb7a89` | SpellPower.UseNaderiSentinel12 | Castigate |
+| `b1e54001fbce40688c9cd31338236524` | SpellPower.UseNethys1 | Mage Armor |
 | `4a253f7ac5ea468d97e52508532ad5d2` | SpellPower.UseNivi1 | Bless |
 | `e1222d70ce124b898ca6b7de1a38d764` | SpellPower.UseNivi13 | Heroism |
 | `62385d1b0d594f26b151898b3f0590b2` | SpellPower.UseNocticula1 | True Strike |
 | `85ebe3c26a674ee2a521049a9e69ecc8` | SpellPower.UseNocticula13 | Vampiric Touch |
 | `7f6257d7312446ebb3fba389e174bf4f` | SpellPower.UseNorgorber13 | Poison |
 | `d47bd8dd249a4c11b4276d5454cb1314` | SpellPower.UseOtolmens13 | Blink |
+| `9f0c7cb0702547f2bd194ebde66b7d26` | SpellPower.UsePharasmaExalted12 | Hold Person |
 | `7d7fcecea4914c0c9a554200ac0a62f6` | SpellPower.UsePulura1 | Color Spray |
 | `017cea4dd23243939d3b290da4817d04` | SpellPower.UseRagathiel1 | Bless Weapon |
 | `de7c54846ee642c8a53682c9233aab73` | SpellPower.UseRagathiel12 | Litany of Righteousness |
@@ -3462,11 +3565,13 @@
 | `4cb2c90878a944aa9b7c99d496513d65` | SpellPower.UseRovagug12 | Align Weapon — Evil |
 | `3d06c88175d94946b8bba1327bc74558` | SpellPower.UseRovagug22 | Implosion |
 | `4f2028fb96524907a7951ac52a5ffc62` | SpellPower.UseRovagug23 | Summon Monster IX |
+| `5c0b35ec6ee340d1b0033e8f2ea91873` | SpellPower.UseSeramaydiel12 | Purging Finale |
 | `9cda5d9c32524ebd91a352a4e2d9c140` | SpellPower.UseShelynSentinel1 | Entangle |
 | `770398f329194b75b34ff2473209e0b2` | SpellPower.UseShelynSentinel12 | Cat's Grace |
 | `0dcfd954234240058efd58a6de272692` | SpellPower.UseShelynSentinel13 | Haste |
 | `4c39729e5bfc4dc4acf714981179a8df` | SpellPower.UseSocothbenoth1 | Command |
 | `b306deddd2ec4e60938bb3025583f334` | SpellPower.UseSocothbenoth12 | Mirror Image |
+| `e4f0724452784a9b90a3e91eec0ebb6f` | SpellPower.ZonKuthonSentinel1 | Envious Death |
 | `7dc2d7e4d12940c191531b273c062c60` | SpellSynthesis | Lesser Spell Synthesis |
 | `5eb707b8b8af47d6bea474ca2500fcbd` | SpellSynthesis.ReleaseAbility | Lesser Spell Synthesis |
 | `806ac2e85b0e46be841fff280d72cefd` | SpellSynthesis.SpellSynthesis2buff |  |
@@ -3552,9 +3657,11 @@
 | `3efb56f541e343289ab2b4fd202059ca` | SwiftDeath3 | Greater Swift Death |
 | `08496ac0423046658a84db0be8ca7c19` | SwiftDeath4 | Greater Swift Death |
 | `a23d1f1c2eab4becba7c4b6be9babcd2` | SwordLord.Catechesis | Catechesis |
+| `2d1e7f39eaf14099adb79d4144a34beb` | SwordLord.EsotericDragons | Esoteric Dragon's Blood |
 | `096987108d0147a0b86a6a8265e13bbc` | SwordLord.HellDomain | Catechesis |
 | `c014978ce88c4302801e5b1c9b5eca6c` | SwordLord.HellDomainfeat | Catechesis |
 | `40e0f0a9a4474891b888e75cc2e5cfdd` | SwordLord.QuickDraw | Quick Draw |
+| `d8f534b2f81c45a59cee2d4ca8b30980` | SwordLord.VariantBloodline | Variant Bloodline Arcana |
 | `2c36c61558ff4c1ab9e9f0261b6006a1` | Tentacle | Tentacle |
 | `8ea629aaab274d99b722195e71a178f6` | ThroatSlicer | Throat Slicer |
 | `d3e807df3c924621bf34cdc1e426c509` | ThroatSlicer.ThroatSlicerAbility | Throat Slicer |
