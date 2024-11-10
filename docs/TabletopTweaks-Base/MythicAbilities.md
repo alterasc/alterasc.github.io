@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Mythic Abilities
+
+### [Back to mod overview](./README.md)
 
 ## Abundant Blessing
 
@@ -73,27 +73,6 @@ You can use this ability a number of times per day equal to 1 plus your mythic r
 
 `f6eea2ae4d0c486cb01d0c34bb9e17ae`  
 `ArcaneMetamastery`  
-
-## Armor Master
-
-While wearing armor or wielding a shield, you reduce the armor check penalty by 1 per mythic rank and increase the maximum Dexterity bonus allowed by 1 per mythic rank. Additionally you reduce your arcane spell failure chance from armor and sheilds by 5% per mythic rank.
-
-`dfa00e6df35746f9bdaf1fb448565627`  
-`ArmorMasterHomebrewFeature`  
-
-## Armor Master (Tabletop)
-
-You don’t take an armor check penalty or incur an arcane spell failure chance when wearing the selected armor types or using any shield. In addition, the maximum Dexterity bonus of the selected armor type doesn’t apply to you.
-
-`303a1ee9edd6439fb371d98cedf5feff`  
-`ArmorMasterSelection`  
-
-## Armored Might
-
-You treat the armor bonus from your armor as 50% higher than normal, to a maximum increase of half your mythic rank plus one.
-
-`9315267ae128452f86955c354c5489e2`  
-`ArmoredMightFeature`  
 
 ## Eldritch Breach
 

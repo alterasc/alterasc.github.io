@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Feats
+
+### [Back to mod overview](./README.md)
 
 ## Ability Focus — Stunning Fist
 
@@ -15,48 +15,6 @@ When you target a creature with a hex that cannot target the same creature more 
 
 `d896081865a74b86adaf7b34d5c3014b`  
 `AccursedHexFeature`  
-
-## Advanced Armor Training
-
-Select one advanced armor training option.
-
-`c1e7a208b5a544f58071af88a61ab842`  
-`AdvancedArmorTraining1`  
-
-## Advanced Armor Training
-
-Select one advanced armor training option.
-
-`7743a11f841449b4935224ac1de82edd`  
-`AdvancedArmorTraining2`  
-
-## Advanced Armor Training
-
-Select one advanced armor training option.
-
-`59cb9654de7147399b4d6a384d32dd3a`  
-`AdvancedArmorTraining3`  
-
-## Advanced Armor Training
-
-Select one advanced armor training option.
-
-`67eb66ec98754e228a6b4633a10327fa`  
-`AdvancedArmorTraining4`  
-
-## Advanced Armor Training
-
-Select one advanced armor training option.
-
-`bae7b370c4e8427c939a30e7133501c7`  
-`AdvancedArmorTraining5`  
-
-## Advanced Armor Training
-
-Select one advanced armor training option.
-
-`80246fa3dfe14dea94ec6e6640900083`  
-`AdvancedArmorTraining6`  
 
 ## Animal Ally
 
@@ -107,14 +65,6 @@ When wielding a scimitar with one hand, you can use your Dexterity modifier inst
 
 `bdaf6052e2154eec9ad5c1b3f380cae0`  
 `DervishDance`  
-
-## Dispel Focus
-
-You are skilled at the art of dispelling.  
-Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus on the check.
-
-`74dc05c791384ad1970a03351ff4d4a6`  
-`DispelFocusFeature`  
 
 ## Erastil's Blessing
 
@@ -170,14 +120,6 @@ Add your Dexterity modifier instead of your Strength bonus to Athletics checks. 
 
 `6ec97eb59f014c41b3eff798bb5d3475`  
 `GracefulAthlete`  
-
-## Greater Dispel Focus
-
-You are a master of the art of dispelling.  
-Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus to the check. This stacks with the bonus from Dispel Focus.
-
-`a1418fdcae62455b86bd86ac1941ff12`  
-`DispelFocusGreaterFeature`  
 
 ## Greater Spell Specialization
 

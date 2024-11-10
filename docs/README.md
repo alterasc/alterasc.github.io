@@ -91,7 +91,7 @@
 
 ### [Swashbuckler](./Swashbuckler/README.md) 1.1.6
 
-### [Tabletop Tweaks Base](./TabletopTweaks-Base/README.md) 2.6.7
+### [Tabletop Tweaks Base](./TabletopTweaks-Base/README.md) 2.6.9
 
 ### [Tabletop Tweaks Flanking](./TabletopTweaks-Flanking/README.md) 0.2.1
 

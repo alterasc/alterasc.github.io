@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Tabletop Tweaks Base
 
-## Version: 2.6.7
+[Back to site homepage](../README.md)
+
+## Version: 2.6.9
 
 ## Author: Sean Petrie
 
@@ -40,4 +40,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

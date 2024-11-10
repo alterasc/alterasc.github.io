@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Sorcerer Bloodlines
+
+### [Back to mod overview](./README.md)
 
 ## Aberrant Bloodline
 

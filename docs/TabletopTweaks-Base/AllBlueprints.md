@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -19,13 +19,6 @@
 | `d896081865a74b86adaf7b34d5c3014b` | AccursedHexFeature | Accursed Hex |
 | `1db1c77ed0b84f778a7248cbec026ca2` | AccursedHexMythicFeature | Accursed Hex (Mythic) |
 | `727520a3ac864f08a8ac44784994bb29` | AdamantineMind | Adamantine Mind |
-| `c1e7a208b5a544f58071af88a61ab842` | AdvancedArmorTraining1 | Advanced Armor Training |
-| `7743a11f841449b4935224ac1de82edd` | AdvancedArmorTraining2 | Advanced Armor Training |
-| `59cb9654de7147399b4d6a384d32dd3a` | AdvancedArmorTraining3 | Advanced Armor Training |
-| `67eb66ec98754e228a6b4633a10327fa` | AdvancedArmorTraining4 | Advanced Armor Training |
-| `bae7b370c4e8427c939a30e7133501c7` | AdvancedArmorTraining5 | Advanced Armor Training |
-| `80246fa3dfe14dea94ec6e6640900083` | AdvancedArmorTraining6 | Advanced Armor Training |
-| `5bf17c2ae9ee4615b27c993629ed9bc3` | AdvancedArmorTrainingSelection | Advanced Armor Training |
 | `538bc73900c2425b93677cc02a3048b1` | AdvancedWeaponTrainingSelection | Advanced Weapon Training |
 | `81a0e5d1cc234a048baedb204320f505` | AgainstTheOdds | Against the Odds |
 | `52fbee2643a84e9eb180968d3ff29884` | AgelessFeature | Ageless |
@@ -130,8 +123,6 @@
 | `2b4495a7a1b14272993c1916986438ca` | ArmorSpecializationMediumEffect | Medium Armor Specialization |
 | `7c5de273c97540bc908555a1ca06645c` | ArmorSpecializationMediumFeature | Medium Armor Specialization |
 | `5bb00bcc3dd746d3a68760157d1a9643` | ArmorSpecializationSelection | Armor Specialization |
-| `354f1a4426d24ea38718905108f48e72` | ArmorTrainingSelection | Armor Training |
-| `1238eb1fb3a946b5868f500f07b974d5` | ArmorTrainingSpeedFeature | Armor Training Speed |
 | `e331fdfb94894950b697a70791b78bce` | Artifact_AeonCloakDCProperty |  |
 | `5fe0cf0569d648db8ef39be9e9e4bb4b` | BackgroundScholarLecturer | Lecturer |
 | `8735af55e2f04f4b9c57a2d6066069cb` | BackgroundScholarResearcher | Researcher |
@@ -551,7 +542,6 @@
 | `f7c92c39dc3e49d2a8f4f7740ba1478d` | FavoriteMetamagicSelective | Favorite Metamagic — Selective |
 | `6a83f519067c47a9a4ab8fbc8565c1f7` | FavoriteMetamagicSolidShadows | Favorite Metamagic — Solid Shadows |
 | `6c32ebd1ca0c42f086c3837938470c65` | FighterAlternateCapstone | Capstone |
-| `8889a638d9be4379ab9a5c2e08fd5015` | FighterArmorTrainingProperty |  |
 | `84feaa88ff4e4f369429ca7c76bf6e75` | FighterTrainingFakeLevel | Fighter Training Fake Level |
 | `8722e16b5a5548f8a3a6fe52a89f4fdd` | FighterWeaponTrainingProperty |  |
 | `e60f2fc6114f4f5e91cc340bf37700d2` | FinalShifterAspectProgression | Final Aspect |
@@ -1425,13 +1415,27 @@
 | `c060528aa6db4ca699704606bc50fc56` | WitchsDance | Witch's Dance |
 | `68584548bcbc4c9dbcf37417f8e6a42a` | WizardAlternateCapstone | Capstone |
 | `d364f5e764134beabdf59a793a7c35f8` | YuelralsBlessing | Yuelral's Blessing |
+| `c1e7a208b5a544f58071af88a61ab842` | AdvancedArmorTraining1 | |
+| `7743a11f841449b4935224ac1de82edd` | AdvancedArmorTraining2 | |
+| `59cb9654de7147399b4d6a384d32dd3a` | AdvancedArmorTraining3 | |
+| `67eb66ec98754e228a6b4633a10327fa` | AdvancedArmorTraining4 | |
+| `bae7b370c4e8427c939a30e7133501c7` | AdvancedArmorTraining5 | |
+| `80246fa3dfe14dea94ec6e6640900083` | AdvancedArmorTraining6 | |
+| `5bf17c2ae9ee4615b27c993629ed9bc3` | AdvancedArmorTrainingSelection | |
+| `354f1a4426d24ea38718905108f48e72` | ArmorTrainingSelection | |
+| `1238eb1fb3a946b5868f500f07b974d5` | ArmorTrainingSpeedFeature | |
+| `8889a638d9be4379ab9a5c2e08fd5015` | FighterArmorTrainingProperty | |
 | `90ba743cc8724721ae56c7914bf5659b` | LoremasterSpellbookMasterID | |
 | `7eb054fec4474feb9fd82efcaab80d5a` | LoremasterSpellbookMyrmidarchTTT | |
 | `da03266450ce4387879f43ea98e34bf3` | BroadStudyMasterID | |
 | `70c84e6b8d4149ae866f18af03c46f6f` | GreatKenningMasterID | |
 | `b8976e560bf5495cb370de671dec943b` | LoremasterSpellbookMasterID | |
 | `0d3d36575f3250f8aa5a246028a7e596` | LoremasterSpellbookEMCTTT | |
+| `59f72f70bf67086529adf1f4441be3d3` | LoremasterSpellbookRavenerHunterTTT | |
 | `2e52a5d359556a48d8b5cf00baf7596f` | LoremasterSpellbookScarredWitchDoctorTTT | |
+| `77d836235558092518e048a8ffcf1903` | LoremasterSpellbookSilverChampionTTT | |
+| `7d02178ba62a0ccc26d49b8dd6e6f945` | LoremasterSpellbookSkulkingHunterTTT | |
+| `1ad6a14ef7550eff1afd547cf23b15f4` | LoremasterSpellbookSwornOfTheEldestTTT | |
 | `813fee4e6e5db6c879408ad18e5563b3` | LoremasterSpellbookWildernessWardenTTT | |
 
 ### [Back to mod overview](./README.md)
