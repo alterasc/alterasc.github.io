@@ -57,6 +57,27 @@
 | `4593dc40b1e8475f97f54c8cccb0a9f3` | ApsuSacredWeaponFeature |  |
 | `293d1d2565ed4ca5ac77506d2dfc0ee9` | ApsusGift | Apsu's Gift |
 | `135c98e1a50e42eb8b6ce3ff8c776d19` | ArcaneConcordanceAbility | Arcane Concordance |
+| `7b039ded3217406db402ff777ef8f497` | ArcaneDomainAllowed |  |
+| `b8f436ccb6474cd38cf1f8d8e934488d` | ArcaneDomainAllowedSeparatist |  |
+| `88890490a6b64d729409b1b71620eb81` | ArcaneDomainBaseCLAbility | Arcane Beacon - Caster Level |
+| `690ff7b711854cda932c2808fc12dc56` | ArcaneDomainBaseCLAbilitySeparatist | Arcane Beacon - Caster Level |
+| `f9f39e91be1c4587befad51f5ed8d754` | ArcaneDomainBaseCLArea |  |
+| `b01c87b8fec64196a48db5e141d94658` | ArcaneDomainBaseCLEffectBuff | Arcane Beacon - Caster Level |
+| `18100456ce8746b1a1b8f1dffc84edc5` | ArcaneDomainBaseCLSelfBuff | Arcane Beacon - Caster Level |
+| `64d4ec9a19b3469bb435e74b50c09051` | ArcaneDomainBaseDCAbility | Arcane Beacon - DC |
+| `3fcd443cacef4b80a6078c7678a85ef1` | ArcaneDomainBaseDCAbilitySeparatist | Arcane Beacon - DC |
+| `d85cf4167d4f4784bfbc51686a764736` | ArcaneDomainBaseDCArea |  |
+| `a44f66bb798946bda9eed60fc5f027a3` | ArcaneDomainBaseDCEffectBuff | Arcane Beacon - DC |
+| `4e21df43c8014825a36504b9cde4916e` | ArcaneDomainBaseDCSelfBuff | Arcane Beacon - DC |
+| `fb0fd11ea310477a8474da51cffdcc8b` | ArcaneDomainBaseFeature | Arcane Subdomain |
+| `9902b0f9dbd84ee0b28d3f792bd6dc2f` | ArcaneDomainBaseFeatureSeparatist | Arcane Subdomain |
+| `0cee2b2f75a9455dbe0174460d43b8e0` | ArcaneDomainBaseResource |  |
+| `512c55fdc9ce4b18b0be971cb6281d53` | ArcaneDomainBaseResourceSeparatist |  |
+| `c0a52e60c4c24a3381883d3acb6f2d98` | ArcaneDomainProgression | Arcane Subdomain |
+| `4cbd231cf77c4bbb8da336039cc80823` | ArcaneDomainProgressionSecondary | Arcane Subdomain |
+| `5254866aba90492781b0d540ad544078` | ArcaneDomainProgressionSeparatist | Arcane Subdomain |
+| `7c72e27b1dfd484d81f37b557ef79e75` | ArcaneDomainSpellList |  |
+| `38847a08413b49829e21ceee4584c50f` | ArcaneDomainSpellListFeature |  |
 | `a264d213ba794ad6a81b94fb4ff6dc60` | ArcanistDraconicExploitSelection | Draconic Exploits |
 | `386113f704e544f6970658053a68d62a` | ArcanistDrakeCompanionFeature | Drake Companion |
 | `a10ddb5d9e1948c786f3bf1f4c1b91d4` | ArcanistExploitTypeSelection | Exploit Type Selection |
@@ -1048,6 +1069,7 @@
 | `6f7000ab2f0b488aab771f9a31501be7` | DreadKnightSpellLevels |  |
 | `9c5441c053bb4132bbdcbab7664dc1ca` | DrethaFeature | Dretha |
 | `7f438547569f4232954439c551eb270c` | DrethaSacredWeaponFeature |  |
+| `8304acc5a2824b0aa02d98d821a44422` | DTImpossibleBlessingSelection | Impossible Blessing (Divine Tracker) |
 | `cc055016ef114931aee2463200814e53` | DustOfTwilightAbility | Dust of Twilight |
 | `9064080e7a754405a893e5dca44c7128` | EarthInvokeDeityAbility | Invoke Deity - Earth Domain |
 | `3f76e2bcc079412c821e63be2345ebf6` | EarthInvokeDeityBuff | Invoke Deity - Earth Domain |
@@ -1385,6 +1407,24 @@
 | `22a7c7d9978a464b8df73bd32c7e696d` | LeopardYoungSummoned |  |
 | `a7a0c366de2d44ecb6afaacc70a56aca` | LiberationInvokeDeityAbility | Invoke Deity - Liberation Domain |
 | `f2a3709f05d8443cb9ecc8fd3d2ca758` | LiberationInvokeDeityBuff | Invoke Deity - Liberation Domain |
+| `ffe478487f014587b6293f9716b3037e` | LightningDomainAllowed |  |
+| `f24216f828e542ffb4fea9f0e53fb7bd` | LightningDomainAllowedSeparatist |  |
+| `b751760d43cc47aa9a8a8ec01b2ceea4` | LightningDomainBaseFeature | Lightning Subdomain |
+| `25ef7ca58b1f4bdea8eff168d724548f` | LightningDomainBaseFeatureSeparatist | Lightning Subdomain |
+| `c50ff9cdcd2f49d8a465ea32977441a3` | LightningDomainGreaterAbility | Lightning Rod |
+| `5f473e3a28594cf5bbecc14a77ef092f` | LightningDomainGreaterAbilitySeparatist | Lightning Rod |
+| `39f228d34338499a90f587286e899f2e` | LightningDomainGreaterBuff | Lightning Rod |
+| `44a0ecc89c704b109de2eddd3d45f501` | LightningDomainGreaterFeature | Lightning Rod |
+| `7b47f792bca54e118656bf1ea482140b` | LightningDomainGreaterFeatureSeparatist | Lightning Rod |
+| `7ac4665302fa4ad9b5a5a68daee54a25` | LightningDomainGreaterResource |  |
+| `e290b48902a94c688d6170b6b6b71ca3` | LightningDomainGreaterResourceSeparatist |  |
+| `908e0c80073b42439968a990bb4109a3` | LightningDomainProgression | Lightning Subdomain |
+| `61b1f547bbde40c9a74252e09475f71e` | LightningDomainProgressionDruid | Lightning Subdomain |
+| `c680f51fa43446289ac21c7ba7bfeb0e` | LightningDomainProgressionSecondary | Lightning Subdomain |
+| `f0d935a22b7f4650b948fcb31c2b7e71` | LightningDomainProgressionSeparatist | Lightning Subdomain |
+| `c1256ba55b3f4db6baa220b23ed6f54b` | LightningDomainSpellList |  |
+| `a665456cc14d4cd88a12722ee976a434` | LightningDomainSpellListFeature |  |
+| `0ddf6efac2a74db48fc41a649c93a8f2` | LightningDomainSpellListFeatureDruid |  |
 | `5a99df65b98c43caaed7d46be98d909b` | LionShamanArchetype | Lion Totem Druid |
 | `2f13fe8f4992400db8361baffbbc7cb6` | LionShamanBondSelection | Lion Totem Druids Bond |
 | `301d443d0420480688607ade0faf0ef4` | LionShamanBonusFeatSelection | Lion Totem Druid Bonus Feat |
@@ -1533,7 +1573,7 @@
 | `822b356bd2794e86ad244357b69ee84d` | MydriaticSpontaneityBlindedBuff | Mydriatic Spontaneity - Blinded |
 | `66317e89e6934267b4133a493d3bb140` | MydriaticSpontaneityBuff | Mydriatic Spontaneity |
 | `4d96d8816c754ca39d99df37d82f6e60` | MydriaticSpontaneityDazzledBuff | Mydriatic Spontaneity - Dazzled |
-| `c60dbab62ea347c99f0bf1335052ee30` | MydriaticSpontaneityMassAbility | Mass Mydriatic Spontaneity |
+| `c60dbab62ea347c99f0bf1335052ee30` | MydriaticSpontaneityMassAbility | Mydriatic Spontaneity, Mass |
 | `fa8b1c4c9464488394d9e652be8b1f39` | MydriaticSpontaneityNauseatedBuff | Mydriatic Spontaneity - Nauseated |
 | `8cd7b38f3a60433fa27a072240149581` | MysticTheurgeClawOfTheFalseWyrmLevelUp | Claw of the False Wyrm |
 | `d3334a212d5d47a4a3f0bea5aca7442b` | MysticTheurgeClawOfTheFalseWyrmProgression | Claw of the False Wyrm |
@@ -1883,14 +1923,14 @@
 | `fac00bd3874345908ce908368763ca96` | OracleRevelationGuidingStarResource |  |
 | `eef1b4693fee4501b8d2232275f010e7` | OracleRevelationGuidingStarSkillBuff |  |
 | `7f5652c6823040ae8f321898f4df499d` | OracleRevelationGuidingStarSkillFeature | Guiding Star - Skill Bonus |
-| `596b29f326ec405d9517544faeb1ff7a` | OracleRevelationInterstallarVoidAbility1 | Interstallar Void |
-| `6e3f9faaf8f44cf6bf1c1c63cc39cc94` | OracleRevelationInterstallarVoidAbility2 | Interstallar Void |
-| `42b9634d6b9f4bab822b46c98620271f` | OracleRevelationInterstallarVoidAbility3 | Interstallar Void |
-| `da204d36fe694eccb234e64119ea23ed` | OracleRevelationInterstallarVoidFeature | Interstallar Void |
-| `a7d43b7b38a34da5b1a46992d84502f2` | OracleRevelationInterstallarVoidFeature1 | Interstallar Void |
-| `8d09dad9e3a04d0db3ed5d820282c93b` | OracleRevelationInterstallarVoidFeature12 | Interstallar Void |
-| `5c4adc068d9a4e26b77d248da24c0caa` | OracleRevelationInterstallarVoidFeature2 | Interstallar Void |
-| `7cdbd446d04047848dab8c9adba91f4c` | OracleRevelationInterstallarVoidFeature3 | Interstallar Void |
+| `596b29f326ec405d9517544faeb1ff7a` | OracleRevelationInterstallarVoidAbility1 | Interstellar Void |
+| `6e3f9faaf8f44cf6bf1c1c63cc39cc94` | OracleRevelationInterstallarVoidAbility2 | Interstellar Void |
+| `42b9634d6b9f4bab822b46c98620271f` | OracleRevelationInterstallarVoidAbility3 | Interstellar Void |
+| `da204d36fe694eccb234e64119ea23ed` | OracleRevelationInterstallarVoidFeature | Interstellar Void |
+| `a7d43b7b38a34da5b1a46992d84502f2` | OracleRevelationInterstallarVoidFeature1 | Interstellar Void |
+| `8d09dad9e3a04d0db3ed5d820282c93b` | OracleRevelationInterstallarVoidFeature12 | Interstellar Void |
+| `5c4adc068d9a4e26b77d248da24c0caa` | OracleRevelationInterstallarVoidFeature2 | Interstellar Void |
+| `7cdbd446d04047848dab8c9adba91f4c` | OracleRevelationInterstallarVoidFeature3 | Interstellar Void |
 | `f83510b87fa641f3a41ceafce8060534` | OracleRevelationInterstallarVoidResource |  |
 | `8665521d6f22413183f70857e76f1153` | OracleRevelationLignificationAbility | Lignification |
 | `f18f436b662340cc8c9f0f08f8751d61` | OracleRevelationLignificationBuff | Lignification |
@@ -2531,6 +2571,7 @@
 | `aaddaef690cc4614aae68c3ab5398d7c` | SpearParryFreeMarker | Spear Parry Penalty Removed |
 | `ab780eb881b246498ee345325ee65f98` | SpearParryPenaltyBuff | Spear Parry Penalty |
 | `31facd7c14f74c9180a7d98c98baf731` | SpearParryRankMarker | Spear Parry Penalty Decrease |
+| `5db98fc5f64041cb9aad8109c4a478ce` | SpearWeaponTrainingSelectionProxy | SpearWeaponTrainingSelectionProxy |
 | `44ea8ff364bf409396c231b0fa331698` | SpelllikeAcidSplashAbility | Acid Splash |
 | `fcfee006e8e24b6398c24bfb52cdd68c` | SpelllikeAcidSplashFeature | SpelllikeAcidSplashFeature |
 | `479bd864609443c9ba6781a3557c8b6b` | SpelllikeAcidSplashFeatureDisabler | Acid Splash |
@@ -2975,6 +3016,7 @@
 | `18d308c7a0414910a4d8be7de37b271c` | StormDruidArchetype | Storm Druid |
 | `16f8dec19b9e41a8a37029cff2b0bb42` | StormDruidBondSelection | Storm Druids Bond |
 | `ca79777a49e347dcbfa8de5e5a31f918` | StormDruidSpontaneousAirDomain | Spontaneous Air Domain Spellcasting |
+| `866c3168ff2c454c8951a8127b41b848` | StormDruidSpontaneousLightningDomain | Spontaneous Lightning Domain Spellcasting |
 | `ccfba97e270a447db797ce1aff12d1f6` | StormDruidSpontaneousStormDomain | Spontaneous Storm Domain Spellcasting |
 | `2c3807f17faf4104b1497650e4b2cc05` | StormDruidSpontaneousWeatherDomain | Spontaneous Weather Domain Spellcasting |
 | `3961b36bf82343319d9e9dc4d588f4c2` | StormDruidSpontaneousWindDomain | Spontaneous Wind Domain Spellcasting |
@@ -3460,6 +3502,7 @@
 | `78fc79010788498caeeef7ed81b285ba` | ZuraSacredWeaponFeature |  |
 | `e5eba9fa508b40d78414d19750c5a21e` | ZyphusFeature | Zyphus |
 | `82b9f4a75e4d42c28fdf609b347f92bc` | ZyphusSacredWeaponFeature |  |
+| `ae08a4ecad474f658788c1f302764da8` | AbraxasFeature | |
 | `b20119178afd47e9ae24c1289f89ce8e` | BokugFeature | |
 | `9840b5d8e2d644a7b59acfd3d0a56cae` | CavalierMountFeatureHavocDragon | |
 | `e5ab4db013524e95963b09b504d98fe6` | CrueltyFact | |

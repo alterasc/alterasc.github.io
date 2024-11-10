@@ -15,6 +15,17 @@ Domain Spells: divine favor, communal protection from evil, prayer, forced repen
 `6f1657339da7437b965391db0b5e34e5`  
 `AgathionDomainProgression`  
 
+### Arcane Subdomain
+
+  
+You are a true scholar of the mystic arts, harnessing the fusion of arcane and divine.   
+Arcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
+Dispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th.   
+Domain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, clashing rocks.
+
+`c0a52e60c4c24a3381883d3acb6f2d98`  
+`ArcaneDomainProgression`  
+
 ### Archon Subdomain - Good
 
   
@@ -167,6 +178,17 @@ Domain Spells: shield of faith, bless weapon, heroism, divine power, burst of gl
 
 `e109083f4f87414a9f33aad70a9065dd`  
 `HeroismDomainProgression`  
+
+### Lightning Subdomain
+
+  
+You herald the roar of thunder and crash of lightning.   
+Lightning Arc: As a standard action, you can unleash an arc of electricity targeting any foe within 30 feet as a ranged touch attack. This arc of electricity deals 1d6 points of electricity damage + 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
+Lightning Rod: As a swift action designate one creature within line of sight, the next spell you cast with the electricity descriptor that hits this creature this round has it’s damage against that creature increased by 50%. This additional damage results from divine power that is not subject to being reduced by electricity resistance, and you take an equal amount of electricity damage immediately after you cast the spell. The spell can deal this additional damage only once, even if it could affect the target multiple times. You can use this ability once per day at 8th level and one additional time per day for every 4 cleric levels you have beyond 8th.   
+Domain Spells: shocking grasp, protection from arrows, lightning bolt, shout, cloudkill, chain lightning, elemental body IV (air), shout, greater, elemental swarm (air).
+
+`908e0c80073b42439968a990bb4109a3`  
+`LightningDomainProgression`  
 
 ### Loyalty Subdomain
 

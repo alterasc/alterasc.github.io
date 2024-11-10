@@ -497,7 +497,7 @@ Witch 2, Druid 2, Hunter 2, Skulking Hunter 2
 
 ### Gloomblind Bolts
 
-You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane. You can fire one bolt, plus one for every four levels beyond 5th (to a maximum of three bolts at 13th level) at the same target, each requiring a ranged touch attack to hit. Each bolt deals 4d6 points of damage to a living creature or heals 4d6 points of damage to an undead creature. Furthermore, the bolt’s energy spreads over the skin of creature, possibly blinding it for a short time. Any creature struck by a bolt must succeed at a Reflex saving throw or become blinded for 1 round.
+You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane. You can fire one bolt, plus one for every four levels beyond 5th (to a maximum of three bolts at 13th level) at the same target, each requiring a ranged touch attack to hit. Each bolt deals 4d6 points of damage to a living creature or heals 4d6 points of damage to an undead creature. Furthermore, the bolt’s energy spreads over the skin of the creature, possibly blinding it for a short time. Any creature struck by a bolt must succeed at a Reflex saving throw or become blinded for 1 round.
 
 Witch 3, Wizard 3, Bloodrager 3, Magus 3, Child of Acavna and Amaznen 3, Claw of the False Wyrm 3
 
@@ -506,7 +506,7 @@ Witch 3, Wizard 3, Bloodrager 3, Magus 3, Child of Acavna and Amaznen 3, Claw of
 
 ### Goodberry
 
-Casting Goodberry creates a Bunch of Goodberries and stores them in the party inventeory. When eaten the goodberries heal 2d4 point of damage, however if they are eaten more than once a day they can make the creature that ate them sick for a short time.
+Casting Goodberry creates a Bunch of Goodberries and stores them in the party inventory. When eaten the goodberries heal 2d4 point of damage, however if they are eaten more than once a day they can make the creature that ate them sick for a short time.
 
 Druid 1, Hunter 1, Shaman 1, Skulking Hunter 1
 
@@ -588,17 +588,6 @@ Paladin 4
 `5c0c3a8e3ba34da29fd54a3750fc22b6`  
 `KingsCastleAbility`  
 
-### Mass Mydriatic Spontaneity
-
-This spell functions as mydriatic spontaneity, except it can affect multiple creatures.  
-You overstimulate the target with alternating flashes of light and shadow within its eyes, causing its pupils to rapidly dilate and contract. While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round.  
-Each new round, the target may make a will save to remove the nauseated condition.
-
-Witch 7, Wizard 7, Bard 5
-
-`c60dbab62ea347c99f0bf1335052ee30`  
-`MydriaticSpontaneityMassAbility`  
-
 ### Moment of Prescience
 
 This spell grants you a sixth sense. Once during the spell’s duration, you may choose to use its effect. This spell grants you an insight bonus equal to your caster level (maximum +25) on any single attack roll, skill check, or saving throw. Alternatively, you can apply the insight bonus to your AC against a single attack (even if flat-footed). Activating the effect is a free action. Once used, the spell ends. You can’t have more than one moment of prescience active on you at the same time.
@@ -632,6 +621,17 @@ Witch 4, Wizard 4, Bard 3
 
 `fd75c3049a1341e18d76ebee9de92831`  
 `MydriaticSpontaneityAbility`  
+
+### Mydriatic Spontaneity, Mass
+
+This spell functions as mydriatic spontaneity, except it can affect multiple creatures.  
+You overstimulate the target with alternating flashes of light and shadow within its eyes, causing its pupils to rapidly dilate and contract. While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round, causing them to become either blinded or dazzled until next round.  
+Each new round, the target may make a will save to remove the nauseated condition.
+
+Witch 7, Wizard 7, Bard 5
+
+`c60dbab62ea347c99f0bf1335052ee30`  
+`MydriaticSpontaneityMassAbility`  
 
 ### Particulate Form
 
@@ -773,7 +773,7 @@ Bard 5
 
 ### Wall of Fire
 
-An immobile, blazing curtain of the shimmering fire springs into existence. The wall deals fire damage when it appears, to all creatures in the area on your turn each round, and also to any creature that passes through it. The damage delt is 2d6 points of damage +1 point of damage per caster level (maximum +20). The wall deals double damage to undead creatures.
+An immobile, blazing curtain of shimmering fire springs into existence. The wall deals fire damage when it appears, to all creatures in the area on your turn each round, and also to any creature that passes through it. The damage dealt is 2d6 points of damage +1 point of damage per caster level (maximum +20). The wall deals double damage to undead creatures.
 
 Wizard 4, Bloodrager 4, Druid 5, Hunter 5, Magus 4, Shaman 4, Child of Acavna and Amaznen 4, Claw of the False Wyrm 4
 
