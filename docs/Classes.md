@@ -72,7 +72,7 @@ Experts are highly skilled people, such as scholars, artisans, and crafters.
 
 ### Freedom Fighter
 
-Freedom Fighters are an anomaly created by the natural luck of halflings. These warriors train and channel their innate luck into mysterious abilities that change the fate of the fighter and their allies. Freedom fighters use guerilla combat and their abilities to provide a natural advantage on the battlefield.
+Freedom fighters are found in all kinds of societies in all parts of the world. They who are oppressed find inventive ways to combat their oppressors. They can range from hit and run warriors, to inventive engineers and alchemists to even infiltrating their oppressor's ranks.
 
 `d1277f75d49b6d648a3007abd0c0b145`  
 `FreedomFighterClass`  

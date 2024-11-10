@@ -2,6 +2,21 @@
 
 ### [Back to mod overview](./README.md)
 
+## Ability Focus — Bombs
+
+Add +2 to the DC for all saving throws against your bombs.
+
+`65079218fd675fa479dd9c8a72ee1efc`  
+`FFBombFocus`  
+
+## Abundant Luck
+
+You've learned a way to increase the amount of luck you have.  
+Benefit: You gain an additional 2 uses to your luck pool.
+
+`854fd0ea95a75f54eba3b917f7e464f4`  
+`AbundantLuck`  
+
 ## Adept Channel
 
 You gain the channel energy class feature, as a cleric, usable 2 times per day. This ability otherwise functions like the cleric’s channel energy ability, except that your effective cleric level is equal to your divine spellcasting class level –3. Unlike a cleric, however, the number of times per day you may channel energy is not affected by your Charisma modifier.
@@ -43,6 +58,13 @@ Choose one type of exotic weapon, such as the dueling sword or sai. You understa
 
 `5c6468fa53f4fa34a8c47545a633c062`  
 `UndeadExoticWeaponProficiency`  
+
+## Extra Bombs
+
+You can throw four additional bombs per day.
+
+`7fe60bf4f2d9db140bda66b9822f7c36`  
+`FFExtraBombs`  
 
 ## Extra Channel (Cleric)
 
