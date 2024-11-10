@@ -1,8 +1,8 @@
-[Back to site homepage](../README.md)
-
 # Expanded Epilogue
 
-## Version: 1.2.2
+[Back to site homepage](../README.md)
+
+## Version: 1.2.3
 
 ## Author: Ranadiel
 

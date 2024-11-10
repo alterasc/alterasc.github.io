@@ -39,7 +39,7 @@
 
 ### [Expanded Content](./ExpandedContent/README.md) 0.10.30
 
-### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.2
+### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.3
 
 ### [FinessableSabers](./FinessableSabers/README.md) 0.3
 
