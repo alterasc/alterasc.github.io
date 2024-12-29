@@ -93,6 +93,8 @@
 
 ### [Psionics](./Psionics/README.md) 1.1.1
 
+### [Spars Sorcerous Sundries](./SparsSorcerousSundries/README.md) 1.3.0
+
 ### [Spellbook Merge](./SpellbookMerge/README.md) 1.7.1
 
 ### [Swashbuckler](./Swashbuckler/README.md) 1.1.6

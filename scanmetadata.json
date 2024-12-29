@@ -186,6 +186,11 @@
       "DisplayName": "Way Of The Shield"
     },
     {
+      "ModId": "SparsSorcerousSundries",
+      "Version": "1.3.0",
+      "DisplayName": "Spars Sorcerous Sundries"
+    },
+    {
       "ModId": "SpellbookMerge",
       "Version": "1.7.1",
       "DisplayName": "Spellbook Merge"
