@@ -2,7 +2,7 @@
 
 [Back to site homepage](../README.md)
 
-## Version: 2.6.9
+## Version: 2.6.13
 
 ## Author: Sean Petrie
 

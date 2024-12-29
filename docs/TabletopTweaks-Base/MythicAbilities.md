@@ -2,14 +2,6 @@
 
 ### [Back to mod overview](./README.md)
 
-## Abundant Blessing
-
-You've learned a way to increase the number of uses of your Blessing ability.  
-Benefit: You can use Blessings a number of additional times per day equal to your mythic rank.
-
-`c6b0c4208ec246b3a7cce66e75a0c3fb`  
-`AbundantBlessingFeature`  
-
 ## Abundant Bombs
 
 You've leaned a way to increase the number of bombs you can use in a day.  
@@ -99,7 +91,7 @@ Whenever you cast a spell with the acid, cold, electricity, or fire descriptor y
 ## Enhanced Blessings
 
 You have moved closer to your deity and to the power it has over its blessings.  
-The effects from your blessings now last twice as long.
+The effects from your blessings now last twice as long and you can use Blessings a number of additional times per day equal to your mythic rank.
 
 `99700c820ee64463806a41d3015d3a38`  
 `EnhancedBlessingsFeature`  

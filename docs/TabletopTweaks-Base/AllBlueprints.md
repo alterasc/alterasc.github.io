@@ -1122,6 +1122,7 @@
 | `b1c084e9f5574c10a8883dbf04d12691` | QuickenBlessingProtectionFeature | Quicken Blessing — Protection |
 | `b244a14194154c8cab3bf44b4b0ff9cc` | QuickenBlessingReposeFeature | Quicken Blessing — Repose |
 | `40b743a82ccc47a189eea8e0638e236b` | QuickenBlessingRuneFeature | Quicken Blessing — Rune |
+| `0138119719254ce39de04d9893001b77` | QuickenBlessingScalykindFeature | Quicken Blessing — Scalykind |
 | `260f1c977e4144f0b5a29b0973990af7` | QuickenBlessingSunFeature | Quicken Blessing — Sun |
 | `4d93dc80eb32405a86ee2abb3cf94f8f` | QuickenBlessingTravelFeature | Quicken Blessing — Travel |
 | `f5ffcbdc36384c44b6e795fc77b63639` | QuickenBlessingTrickeryFeature | Quicken Blessing — Trickery |
