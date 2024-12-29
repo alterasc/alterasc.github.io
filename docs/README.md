@@ -111,6 +111,8 @@
 
 ### [Way Of The Shield](./Shield/README.md) 4.0.13
 
+### [Woljif Romance Mod](./WOTR_WoljifRomanceMod/README.md) 1.1.4
+
 
 ## List of content by category
 

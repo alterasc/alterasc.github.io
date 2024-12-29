@@ -239,6 +239,11 @@
       "ModId": "WOTR_PATH_OF_RAGE",
       "Version": "1.3.7",
       "DisplayName": "PATH OF RAGE"
+    },
+    {
+      "ModId": "WOTR_WoljifRomanceMod",
+      "Version": "1.1.4",
+      "DisplayName": "Woljif Romance Mod"
     }
   ],
   "ExcludedMods": [
