@@ -17,7 +17,7 @@
 
 ### [AddedFeats](./AddedFeats/README.md) 1.5
 
-### [Alternate Racial Traits](./AlternateRacialTraits/README.md) 1.5.4
+### [Alternate Racial Traits](./AlternateRacialTraits/README.md) 1.5.5
 
 ### [Arcane Additions](./ArcaneAdditions/README.md) 0.3.0
 

@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Alternate Racial Traits
 
-## Version: 1.5.2
+[Back to site homepage](../README.md)
+
+## Version: 1.5.5
 
 ## Author: microsoftenator
 
@@ -20,4 +20,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
