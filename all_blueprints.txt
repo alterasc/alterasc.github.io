@@ -10277,6 +10277,8 @@ ef6a471df78e4706ac998fb9f024ab91 - Kinetic Archetypes
 32caccef7d38435fbc240e972d8d4d3b - Kinetic Archetypes
 9db41706664e4280a9f0570484f99774 - Kinetic Archetypes
 f523507a0a1245ecbc8f9c45bbb1646d - Kinetic Archetypes
+af6f465bb24a43b399993fa870886fa4 - Kinetic Archetypes
+d2d0610dd0604c8b848e52ca8e7ed31d - Kinetic Archetypes
 6f5544a8fd684ec2a79f9f27d3042c3a - Kinetic Archetypes
 ca9361920c9145ec94677233d8428921 - Kinetic Archetypes
 14c15aa66926485da857fff2c41de393 - Kinetic Archetypes

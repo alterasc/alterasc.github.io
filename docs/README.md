@@ -55,7 +55,7 @@
 
 ### [Isekai Mod](./IsekaiMod/README.md) 5.4.2
 
-### [Kinetic Archetypes](./KineticArchetypes/README.md) 1.1.8
+### [Kinetic Archetypes](./KineticArchetypes/README.md) 1.1.10
 
 ### [Kineticist Elements Expanded](./KineticistElementsExpanded/README.md) 3.3.0
 

@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -56,6 +56,8 @@
 | `32caccef7d38435fbc240e972d8d4d3b` | KineticLancer.ImpalingCrashDebuff | Impaling Crash (impaled) |
 | `9db41706664e4280a9f0570484f99774` | KineticLancer.ImpalingCrashRealBuff |  |
 | `f523507a0a1245ecbc8f9c45bbb1646d` | KineticLancer.ImpossibleLeap | Impossible Leap |
+| `af6f465bb24a43b399993fa870886fa4` | KineticLancer.JumpStyle1Ability | Long Jump Style |
+| `d2d0610dd0604c8b848e52ca8e7ed31d` | KineticLancer.JumpStyle2Ability | Vertical Jump Style |
 | `6f5544a8fd684ec2a79f9f27d3042c3a` | KineticLancer.KineticLeap | Kinetic Leap |
 | `ca9361920c9145ec94677233d8428921` | KineticLancer.KineticLeapSwift | Kinetic Leap — Acrobatics (Mobility) Check Bonus |
 | `14c15aa66926485da857fff2c41de393` | KineticLancer.KineticLeapSwiftBuff | Kinetic Leap — Acrobatics (Mobility) Check Bonus |

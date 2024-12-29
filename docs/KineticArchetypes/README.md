@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Kinetic Archetypes
 
-## Version: 1.1.8
+[Back to site homepage](../README.md)
+
+## Version: 1.1.10
 
 ## Author: NosVladimir
 
@@ -22,4 +22,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
