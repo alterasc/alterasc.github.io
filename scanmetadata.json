@@ -51,6 +51,11 @@
       "DisplayName": "Demonology"
     },
     {
+      "ModId": "DexCarn",
+      "Version": "1.2.0",
+      "DisplayName": "Dextrous Carnage"
+    },
+    {
       "ModId": "DragonFixes",
       "Version": "1.5.1",
       "DisplayName": "Dragon Fixes"
