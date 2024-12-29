@@ -10,6 +10,14 @@ Benefit: Your spell fabrication creations increase by a number of points equal t
 `d3ed4d1212be13e41a5c0e6678a7b0f7`  
 `AbundantFabrication`  
 
+## Abundant Metamagics
+
+You've learned a way to increase the number of metamagics you can do per day.  
+Benefit: Your metamagic reserves increase by a number of points equal to 1/2 your mythic rank.
+
+`9a4add1ec41555a4bbde58250aeae5f3`  
+`AbundantMetamagics`  
+
 ## Abundant Smite(Champion)
 
 You've learned a way to increase the number of uses of your Smite ability.  
@@ -35,7 +43,7 @@ A high-level warrior's intimate knowledge of vital spots on opponents allows him
 
 ## Domain Zealot
 
-You moved closer to your deity and to the power it has over its divine domains.  
+You've become closer to your deity and to the power it has over its divine domains.  
 Benefit: You can use the abilities of your domains as a swift action.
 
 `93d76dd5e6c3ac245b6beec7d847bc06`  
@@ -43,7 +51,7 @@ Benefit: You can use the abilities of your domains as a swift action.
 
 ## Explosives Expert
 
-You have mastered the art of explosion. Whenever you use a bomb, you have a 50% chance of immediately recovering the reagents used to create the bomb. The damage your bombs deal increases by one damage die of the same category.
+You've mastered the art of explosion. Whenever you use a bomb, you have a 50% chance of immediately recovering the reagents used to create the bomb. The damage your bombs deal increases by one damage die of the same category.
 
 `a794a70a71c92104ba1a346650f0f103`  
 `FFExplosivesExpert`  
@@ -64,7 +72,7 @@ Calling upon hidden reserves of strength during times of danger, a warrior can u
 
 ## Impossible Domain
 
-You feel a closer connection to your deity you serve.  
+You feel a closer connection to the deity you serve.  
 Benefit: You gain one more domain, ignoring all domain prerequisites. This ability can only be taken by a cleric, inquisitor, or a hunter with the divine hunter archetype.
 
 `d79037f4a008d434383c936f16f1ef7c`  
@@ -87,8 +95,8 @@ Benefit: You select a second bloodline, getting all its benefits.
 
 ## Second Mystery (Enlightened Philosopher)
 
-You opened your mind and soul to learn the secrets of a second mystery.  
-Benefit: You gain a second Oracle Mystery.
+You've opened your mind and soul to learn the secrets of a second mystery.  
+Benefit: You gain a second oracle mystery.
 
 `1ae59f1b2a3940f41b94904373dd0072`  
 `SecondMysteryLoreKeeper`  

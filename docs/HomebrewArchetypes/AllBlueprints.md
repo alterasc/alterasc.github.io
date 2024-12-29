@@ -13,6 +13,7 @@
 | `15e2aa7fca506cf4883efd9afedc582a` | AbundantCastingResource |  |
 | `d3ed4d1212be13e41a5c0e6678a7b0f7` | AbundantFabrication | Abundant Fabrication |
 | `854fd0ea95a75f54eba3b917f7e464f4` | AbundantLuck | Abundant Luck |
+| `9a4add1ec41555a4bbde58250aeae5f3` | AbundantMetamagics | Abundant Metamagics |
 | `4e2356fdf245aa141a9bdc9bc8d4817f` | AbyssalArcana | Abyssal Bloodline Arcana |
 | `864e6773f040f824a84a49666692da9f` | AbyssalArcanaBuff | Abyssal Bloodline Arcana |
 | `0f527229376c6b847b60b8d51e44bddf` | AbyssalClawsAbility1 | Grow Claws |
@@ -30,6 +31,8 @@
 | `85aa3eb9c5965db40a56e2d42708783a` | AbyssalResistanceAdd | Demon Resistances |
 | `d0877e45091ee3b47829f0df5b31837e` | AbyssalStrengthAddLevel1 | Strength of the Abyss |
 | `4dace71f399866d44aa7914ee4a529aa` | AbyssalStrengthAddLevel2 | Strength of the Abyss |
+| `991593652ad9bb5419e4ab7392f299cd` | AcidArrow | Enchant Arrow - Acid Arrow |
+| `70127af31247bee4f806daeb070ef2e7` | AcidArrowSpell | Acid Arrow |
 | `ef9b570a75adc6644af8e4e6f045aea7` | AcidBomb | Acid Bomb |
 | `759e6f82269c0de4ea4d2697f294f149` | AcidBombAbility | Acid Bomb |
 | `57a6f7fada4313b498189e6e0ed1f741` | AcidBombBuff | Acid Bomb |
@@ -257,6 +260,7 @@
 | `1c30779d72f537d4baca97f4c0763d45` | BloodKnuckledRager | Bloody-Knuckled Rowdy |
 | `0025a5a6dac7fa046823f48dec4b396b` | BloodlineSelection | Blood of Dragons |
 | `4c93ab1ab0b814d468638c280c58ee6e` | BloodStyleSelection | Style Strike |
+| `1ea0f1ad8718b6d4994e352f444c800c` | BloodyKnuckleLvl1Unarmed |  |
 | `19d89650aacbd984e83106cfa55968d1` | BloodyKnuckles | Bloody Knuckles |
 | `788ad8eb50890ab4290674b2b1bc4dc5` | BloodySpellbook |  |
 | `10fafe5559e8ed045b6387ae5691b138` | BloodySpellsKnown |  |
@@ -382,6 +386,8 @@
 | `efffc52e646f330428ca0d40d36693fc` | CelestialTotemLesserFeature | Celestial Totem, Lesser |
 | `7d2d0316d97cbab47bbdb5880235dab1` | ChaAbility | Serpent's Fang (Charisma Damage) |
 | `93d87a11a27262e4fbf5e1838c25f6ad` | ChaBuff | Serpent's Fang |
+| `8f72f532c5d8a7c40bbc7949dde87ffa` | ChainLightningArrow | Enchant Arrow - Chain Lightning |
+| `2e9c9284bbb61974da67babaee9b190f` | ChainLightningArrowSpell | Chain Lightning |
 | `8ea8a4b42fa7a4f449bca4cd54a9b526` | ChampionAbundantSmite | Abundant Smite(Champion) |
 | `64c00ba9b46f3a248801944c2b989e38` | ChampionAuraofCourage | Aura of Courage |
 | `c6a7668999506f6438ce00f86d21cc79` | ChampionAuraofCourageArea |  |
@@ -553,6 +559,8 @@
 | `00f821032a06a664ab2c752714d4a53c` | ConfusingStrikeAbility | Studied Strike - Confusing Strike |
 | `9e26151fbd2f61145a98f0585f537fb9` | ConfusingStrikeBuff | Studied Strike - Confusing Strike |
 | `2885cbaf40b531e45b17a06182b5536e` | ConfusingStrikeFeature | Studied Strike - Confusing Strike |
+| `3c7907afade48f9478df4284a4a0e1a1` | ConfusionArrow | Enchant Arrow - Confusion |
+| `1f61eff146468fc449925f790004ae1b` | ConfusionArrowSpell | Confusion |
 | `c37af367f0aa7ab42b84fd25f152e3c9` | ConjurationSpecialization | Specialist School — Conjuration |
 | `89c47ec88e6c69e43b90d03a2fb78188` | ConstructBuff | Poison Vulnerability |
 | `072c10f65f4540d488f64cc882c2ee55` | ConstructImmunities |  |
@@ -631,6 +639,8 @@
 | `c06bbf2b49dbe774e9629f525373074e` | DeadlyPerformanceAbility | Deadly Performance |
 | `50a3bd1daf2100d4bae05b8849d852e9` | DeadlyPerformanceCooldownBuff |  |
 | `77bcbf04038f26e4590ff0989f9fc987` | DeadlyPerformanceFeature | Deadly Performance |
+| `5ee199e5f80677944b03c66667c2b647` | DeathArrowAbility | Enchant Arrow - Death |
+| `db5c4233ff574324f859192b6a413ea5` | DeathArrowSpell | Enchant Arrow - Death |
 | `dc950ab8d2e5b674891b037a8d5e1b30` | DeathbringerArchetype |  |
 | `ed40a0e977952e341b9cfd3a49c67ebd` | DeathbringerAssault | [unknown key: HomebrewArchtypes_FighterArchetypeDeathbringerAssault] |
 | `93aae6ae6d0666d4b964a6ba66016feb` | DeathbringerHunger | [unknown key: HomebrewArchtypes_FighterArchetypeDeathbringerHunger] |
@@ -700,6 +710,8 @@
 | `62287ab905e58fd47a3654c9038e378d` | DiscordantVoice | Discordant Voice |
 | `488b30eece427cb42943fb5acaca8b33` | DiscoverySelection | Discovery |
 | `4e43665700a03c44eae388d5b557a6ad` | DispelingBombs | Dispelling Bombs |
+| `4986156b95e44bc459eb5b177f43434a` | DispellingArrow | Enchant Arrow - Dispel Magic |
+| `f14f98f1051963140ae9fe5148b23b12` | DispellingArrowSpell | Dispel Magic (Target) |
 | `5c1f45ad72b13354ab262fc2c2ed2f5c` | DispellingAttack | Dispelling Attack |
 | `fa3fc2424b8cfef47ac90e97b2699450` | DispellingBombsAbility | Dispelling Bomb |
 | `7d12cd2a63f183c4d939b3b0490117df` | DisruptUndead | Disrupt Undead |
@@ -755,6 +767,9 @@
 | `3b65d50c4a474a74f9c382e6393e7b7e` | EndoftheCycle | End of the Cycle |
 | `2f0f732f98f9c0e4b91f4b952fbbb93a` | EnergyAbsorbtionfeature | Energy Absorption |
 | `885c02eedb6690b40b5567b1f9dd3377` | EnergyAbsorbtionResource |  |
+| `aaef66116932ecc4eacd044f871ca411` | EnfeeblingArrowAbility | Enchant Arrow - Enfeeblement |
+| `b6bf8a9f98d8afe48b57f127cfcb5f8f` | EnfeeblingArrowBuff | Enchant Arrow - Enfeeblement |
+| `7a0930f69147a4c4e986699e13e2a302` | EnfeeblingArrowSpell | Enchant Arrow - Enfeeblement |
 | `dcb4deec181807a4394b814cb77ecfad` | EnhanceConBuff | Physical Enhancement — Constitution |
 | `be8d76c6e974c4e45958b78e7cccc49c` | EnhanceConToggle | Physical Enhancement — Constitution |
 | `7a8e1d00b5c5e57498dd554423768357` | EnhanceDexBuff | Physical Enhancement — Dexterity |
@@ -813,6 +828,8 @@
 | `39d34d65213a29f47958bc73558769da` | ExplosiveBombs | Explosive Bombs |
 | `e02a0aafa0769944fbcd0249c36662c1` | ExplosiveBombsAbility | Explosive Bomb |
 | `a6f4340ffc4b0ce48a7f8210a0bce9c4` | ExplosiveBombsBuff | Burning |
+| `458db2de977d25b408d81b566b6dc009` | ExplosiveBurstArrow | Enchant Arrow - Explosive Burst |
+| `6f3e520e4a666994b82e6b12dc9b8896` | ExplosiveBurstArrowSpell | Enchant Arrow - Explosive Burst |
 | `21034bfaa011dff48926b2bbddfc3aa9` | ExtendAbility | Metamagic Mastery — Extend |
 | `c52271ddfc7ebe748b87858514410567` | ExtendReachFeature | Metamagic Mastery — Extend and Reach Spell |
 | `40273ab5b4ccffc4298da424f4b081e7` | ExtraChannel | Extra Channel (Cleric) |
@@ -820,6 +837,7 @@
 | `5c472cd4a5da37643990a9c0dbd0fbae` | ExtraChannelLoreKeeper | Extra Channel (Oracle) |
 | `fe59eb1868206684cb1c94eac6b21a23` | ExtraDeathVow | Extra Death Vow |
 | `d79037f4a008d434383c936f16f1ef7c` | ExtraDomain | Impossible Domain |
+| `b630d563df6a54548ab4b36a91f29137` | ExtraFarstriderTalent | Extra Farstrider Talent |
 | `18e6a294ce269964ea9d43520df0e869` | ExtraHexSelection | Extra Hex(Scarred Witch Doctor) |
 | `92ef909e61d04254e8d0bf9cee4c44ac` | ExtraInspiration | Extra Inspiration |
 | `9268571dfbec0f048bd02cee22014d7b` | ExtraPerformance | Extra Performance |
@@ -897,9 +915,16 @@
 | `466448c0749a6ca40bd28fc0c3bc7220` | FFAcidBomb | Acid Bomb |
 | `da0bcfe7b9b552548b24f72e31b47854` | FFAcidBombsFeature | Acid Bomb |
 | `1ab236e5ba3d265498cfa3ad50fb4d3c` | FFArcheryTraining | Archery Training |
+| `46466fd2b7c9aff4ba123d6b7df03791` | FFBarrageAbility | Barrage |
+| `6d5ffbe25e5fbc54eae01c42c4469b01` | FFBarrageBuff |  |
+| `50933829457ec92429d3e50f2a0343ed` | FFBarrageFeature | Barrage |
 | `484773eeef1c739498104d1d878324fb` | FFBlindingBomb | Blinding Bomb |
 | `daa81280531c8594a9c318b8b9e7ab8f` | FFBlindingBombsFeature | Blinding Bombs |
 | `29e46192f0373f64b9ee3f2cc4fddee5` | FFBloodofDragonsSelection | Blood of Dragons |
+| `0d693d327bb04c94e946f145af9b3fe1` | FFBolsteredAbility | Bolstered Magic |
+| `1f13dc3f2bb6cb24caf89ad75c153110` | FFBolsteredBuff | Bolstered Magic |
+| `91b600e2152978a4cbdf702e4b06a856` | FFBolsteredFeature | Bolstered Magic |
+| `6549f5bf7b55e82449b64b0443ede1a2` | FFBolsteredResource |  |
 | `65079218fd675fa479dd9c8a72ee1efc` | FFBombFocus | Ability Focus — Bombs |
 | `85aa1ac2ca66c47478ac2304a47be261` | FFBombsFact |  |
 | `0b7efae4424406b4b93a4c3f5dafad79` | FFBombsFeature | Bomb |
@@ -917,6 +942,9 @@
 | `51571f54521d267428aa3bed882cee2d` | FFCurseWeaknessBomb | Cursed Bomb — Curse of Weakness |
 | `55c6b708fd10c8844b63ac4d1111e12d` | FFDispellingBomb | Dispelling Bomb |
 | `bcab5c4387babb74cbeab65bb914270e` | FFDispellingBombsFeature | Dispelling Bombs |
+| `c0a486a5312f27d499cd7751f290fd86` | FFDoubleShotAbility1 | Double Shot |
+| `c4e92308913d4fd498d81f7bd00079d2` | FFDoubleShotBuff |  |
+| `8aef704e72f29904a9f6ab6367795499` | FFDoubleShotFeature | Double Shot |
 | `a86f84a08b10e844ba2d62a6276567d0` | FFDragonBloodArmor | Natural Armor Increase (+1) |
 | `dfa9877777e7ed048bdb8a9e74b173f4` | FFDragonBloodBlindSense | Blindsense |
 | `8340a78d6566d70488bdde2b6a0051db` | FFDragonBloodedBite1 | Dragon Bite |
@@ -924,6 +952,12 @@
 | `c89ffd1401dddbe4f989426e239f0b08` | FFDragonBloodInt | Ability Boost — Intelligence (+2) |
 | `19468141f556645488dc52c2572836b2` | FFDwarfProgression | Demolition Expert |
 | `61a852db4db598d49abd62d88baed518` | FFElfProgression | Farstrider |
+| `97d1aff071bb0a744924c21151aa2e37` | FFEmpoweredAbility | Empowered Magic |
+| `0f8e74ae6c62a8e4ca4acf436b55892d` | FFEmpoweredBuff | Empowered Magic |
+| `23800527259457d4fb0867f8e720639e` | FFEmpoweredFeature | Empowered Magic |
+| `ce8875a4f6d109640be89a9d2d6ed5e0` | FFEmpoweredResource |  |
+| `584ce6bb89182df4aac1b9b860fa9a5e` | FFEntanglingArrow | Enchant Arrow - Entangle |
+| `36065f65f95ee59408a16eb96315fc3c` | FFEntanglingArrowSpell | Enchant Arrow - Entangle |
 | `947d5c24ea2b08247882c5d802cb4ed4` | FFExpertArcher | Expert Archer |
 | `9a6fcf9f93a76d440be3f8d4aac9e9e5` | FFExplosiveBomb | Explosive Bomb |
 | `a8b589bd9473af440a31f798e9f9f25b` | FFExplosiveBombsFeature | Explosive Bombs |
@@ -931,8 +965,16 @@
 | `68a6873cada58c847864d1520bd1baf6` | FFExplosiveExpertise2 | Explosive Expertise |
 | `f132670bcb20a784d8bee4fb77845e26` | FFExplosiveExpertise3 | Explosive Expertise |
 | `a794a70a71c92104ba1a346650f0f103` | FFExplosivesExpert | Explosives Expert |
+| `fce8a24672fc2df4485d28821f3eff7d` | FFExtendedAbility | Extended Magic |
+| `46968c65837d4924ebb2a68793b22a2c` | FFExtendedBuff | Extended Magic |
+| `1e8f3f386d076ee468ab855ef80070ab` | FFExtendedFeature | Extended Magic |
+| `819fdc6314987c04384c64cba590fd54` | FFExtendedResource |  |
 | `7fe60bf4f2d9db140bda66b9822f7c36` | FFExtraBombs | Extra Bombs |
 | `4e6fce7c3efbc674e925d91445156a08` | FFFarstriderAbilitySelection | Farstrider Talents |
+| `6b49646ed1b3ee744a2c58522d376649` | FFFarstriderCLProperty |  |
+| `9b458c219552e2a4db60fc4e572570fd` | FFFarstriderDCProperty |  |
+| `5ae022e03d942e145a868402a266c9db` | FFFarstriderSpellbookFeature | Quiver |
+| `3ec17a4e8e6ce0942b99df60c6f3c420` | FFFarstriderSpellLevelProperty |  |
 | `19b4902b53c0dd74484c734a99b92000` | FFFastBombsAbility | Fast Bombs |
 | `3d458dbb3b124cd498627e2eb783a686` | FFFastBombsBuff | Fast Bombs |
 | `e289803d19143cd4483aac257dcbb179` | FFFastBombsFeature | Fast Bombs |
@@ -941,28 +983,76 @@
 | `a68101edb7f9aea428853acfb24bb6a8` | FFFocusFeature | Focus |
 | `e2709c19453ceb840925bb72f3025ffa` | FFForceBomb | Force Bomb |
 | `d8e5a525cc456d04c941ba0f0f94c130` | FFForceBombsFeature | Force Bombs |
+| `06d9a37285a297841a7a201820ccea57` | FFFreezingOrbArrow | Enchant Arrow - Freezing Sphere |
+| `84159cc644c05664baaa100b5515a154` | FFFreezingOrbArrowSpell | Enchant Arrow - Freezing Sphere |
 | `b24d8e8b5dd9f094c80e768638ac9673` | FFFrostBomb | Frost Bomb |
 | `0dee4c8ab20a2cd41a4fd37c70ffdf39` | FFFrostBombsFeature | Frost Bomb |
+| `fe99ae538ebab5249a68bf0586d48396` | FFGDispelArrowAoE | Enchant Arrow - Greater Dispel(Area) |
+| `218bf288f95f9a041850648f488bed66` | FFGDispelArrowAoESpell | Dispel Magic, Greater (Area) |
+| `9b2ef0aa6454dd640a7aa1facad6df67` | FFGDispelArrowTarget | Enchant Arrow - Greater Dispel(Target) |
+| `c8afcdeca4deffd489f0fb150aca9c3c` | FFGDispelArrowTargetSpell | Dispel Magic, Greater (Target) |
 | `0367211d8de660342b87eb5f416b40c4` | FFHalflingProgression | Luckbearer |
 | `045e2c554950e9a4a9f99b15ddb1fdb7` | FFHawkeyeFeature | Hawkeye |
 | `014537be1cfc70c459dce92c3d3e9b3e` | FFHolyBomb | Holy Bomb |
 | `764ac78ffa2bc9844b36b7afdc59d76a` | FFHolyBombsFeature | Holy Bombs |
 | `c1ff7af112d296746bce337977a20c21` | FFHumanProgression | Dragon-Blooded |
+| `7b2675643b8745d4aa05b0a115ea89bc` | FFIntensifiedAbility | Intensified Magic |
+| `6ac4becabb88e774696a4f9ef70ecbc8` | FFIntensifiedBuff | Intensified Magic |
+| `60ea2f239cacec54c9bc93f6b54f9e07` | FFIntensifiedFeature | Intensified Magic |
+| `53551f68bb3660444a855e9b0225ed88` | FFIntensifiedResource |  |
 | `b91785c59a886d640bcf5e589cc4a4d3` | FFLightfoot | Lightfoot |
+| `a7765a52f7647074680915e403fa8efd` | FFMagicQuiverSpellbook |  |
+| `188c0e6271be1564a878f12674e5831c` | FFMagicQuiverSpellList |  |
+| `14541bec210ac01438e213f9ce2c9b65` | FFMagicQuiverSpellList2 | Quiver |
+| `ef4c0303cf10e97418858d90f92bebb3` | FFMagicQuiverSpellList3 | Quiver |
+| `f6c4bc017d86d9e418056c5cf1fca75e` | FFMagicQuiverSpellsPerDay |  |
+| `c947bdde5076ed14e837b5d2eb4ff508` | FFMaximizedAbility | Maximized Magic |
+| `0011c842c0d91374882a87d006c5ca47` | FFMaximizedBuff | Maximized Magic |
+| `d01c35a30750dcb4eacfcd47d3856830` | FFMaximizedFeature | Maximized Magic |
+| `060ec7bf1a72b2449bb79190717c0a68` | FFMaximizedResource |  |
+| `b524084fb0f52f3449b4a49457f82ab7` | FFPassiveBarrage | Barrage |
+| `3f5dfffa02fe17d449229e877d868951` | FFPassiveDoubleShot | Double Shot |
+| `ac25a63b14583274cb5fca57d016d2af` | FFPersistentAbility | Persistent Magic |
+| `259acbb15d6be8e4ca66886e38d893c7` | FFPersistentBuff | Persistent Magic |
+| `c8514a1076f624c43b6df978c0e9b02d` | FFPersistentFeature | Persistent Magic |
+| `3cd92b6fca70332499e0820a28fb5c68` | FFPersistentResource |  |
+| `325e04b2ed0dea14ca4932f862bc15a8` | FFPiercingAbility | Piercing Magic |
+| `24c54eb71e3a2844cae9db8de7183aeb` | FFPiercingBuff | Piercing Magic |
+| `da409caed35bf5c4ca88a6794fc19e25` | FFPiercingFeature | Piercing Magic |
+| `162c8a10dc679274a84975dae117cc4c` | FFPiercingResource |  |
 | `b1ffa552241bdb84bb9a90c62ce8603b` | FFPreciseSplashWeapons | Precise Bombs |
+| `76476e0221387864380a2c1722850391` | FFQuickenedAbility | Quickened Magic |
+| `5ea7e861e4d98874b97e234a4453e599` | FFQuickenedBuff | Quickened Magic |
+| `405a4122b7b05fb46b2da6926ac10f2c` | FFQuickenedMetaFeature | Quickened Magic |
+| `ae25ca50d23232149b6124db18dfd058` | FFQuickenedResource |  |
 | `9f7402cd68b0bb146997a66d70c3a182` | FFRangedLDBuff | Ranged Legerdemain |
 | `fbf3492380bf5c34b9f28ae7f8fd71ab` | FFRangedLDToggle | Ranged Legerdemain |
 | `f252650ce1fc53741a97d8e9902d05de` | FFRangedLegerdemainFeature | Ranged Legerdemain |
+| `9cd38e4f9d6dd9c49bb2b462f66cd3a1` | FFSelectiveAbility | Selective Magic |
+| `0c50fa6e400236845b3db6ecdd5402e8` | FFSelectiveBuff | Selective Magic |
+| `b2edd356dba4160478d8246427e51c38` | FFSelectiveFeature | Selective Magic |
+| `62b3d523baf1a0b4d930944e229bfbfe` | FFSelectiveResource |  |
 | `29f2a652b6346a4418f835010f5cde36` | FFShockBomb | Shock Bomb |
 | `1d1711a412c73db4bb89674773a24bf4` | FFShockBombsFeature | Shock Bomb |
+| `8ccc9fa231e0750408e01931e9e4fbdc` | FFSpellbowFeature |  |
+| `1ffd39e2f52fcd74ba8ec53627d1db20` | FFSpellBowItem | [unknown key: HomebrewArchtypes_FreedomFighterFarstriderAbilityEnchantedArrowsName] |
+| `81b8db241d029bb478ddb8288963b242` | FFSpellbowType |  |
 | `de2532698249271439ed496fd4a4e198` | FFSubclassSelection | Subclass Selection |
 | `60faf3f9f7981d94799c0cd429181715` | FFTanglefootBomb | Tanglefoot Bomb |
 | `5fb757b5fb6e70341a3d682fc6eaae09` | FFTanglefootBombsFeature | Tanglefoot Bombs |
 | `747d38dc5fcb115409200b79a649424b` | FFTheBiggerTheyAreAbility | The Bigger They Are |
 | `3509675c538a18943ad18dc867e0f22b` | FFTheBiggerTheyAreFeature | The Bigger They Are |
+| `e484b03b360a3734182664d46d2e26c3` | FFTheBiggerTheyAreGreater | The Bigger They Are - Greater |
+| `5f710f46a7dadb846bf78760a25c18de` | FFTheBiggerTheyAreGreaterAbility | The Bigger They Are - Greater |
+| `554af90fc21e0e940a5e33a8f515f7ed` | FFTheBiggerTheyAreSuperior | The Bigger They Are - Superior |
+| `09893dc08776ef64ca901850c47f52db` | FFTremendousShotAbility | Tremendous Shot |
+| `fec93d5351307a04ea1ad041d2a3761f` | FFTremendousShotBuff |  |
+| `baa51d3f293aa0d488d905cc08749626` | FFTremendousShotFeature | Tremendous Shot |
 | `4fc24295daef937468c1b94ba3f43360` | FiendTotemFeature | Fiend Totem |
 | `d3beb7e8312070246a6d324909eaf6f7` | FiendTotemGreaterFeature | Fiend Totem, Greater |
 | `bcf615513e7512a4ca4601ab3b0bc630` | FiendTotemLesserFeature | Fiend Totem, Lesser |
+| `c1438e400af272345ae0360218928e09` | FireballArrow | Enchant Arrow - Fireball |
+| `64edbafa8cb09fa4a9c9c1afff6c7c1a` | FireballArrowFireball | Fireball |
 | `c155edcbc05582946b80b4beeea97f4a` | FireBlast | Elemental Blast |
 | `e110c06b44ec2ea469a6ed58edb82ae4` | FireBlastAbility | Elemental Blast |
 | `649e3b56f625cb443ad5650aab416872` | FireMusicBuff | Fire Music - Full Conversion |
@@ -1159,6 +1249,8 @@
 | `8cbd7e096795ff8469955561a7793edb` | GravetouchAbility | Grave Touch |
 | `a7d560014a1eadf46bf89967562f4583` | GravetouchFeature | Grave Touch |
 | `4a2dc35c4311fe7408be96ea0f9f94aa` | Grease | Grease |
+| `ff07dd872fec42742b196394a6f5a107` | GreaseArrow | Enchant Arrow - Grease |
+| `11083b99c5dd2ff4786e7d7d3f7a6280` | GreaseArrowSpell | Grease |
 | `db96ccdbc2d306040ac273c824f1fbd7` | GreaseFeature | Grease |
 | `008646283eb519d41a7f082bde69a603` | GreaterAbility | Dimensional Hop |
 | `0a60da8dc0901f44582cf217dbdbc70e` | GreaterAbility |  |
@@ -1258,6 +1350,8 @@
 | `59725eaee153d2245967e3697c904736` | HAFFWarpriestSpellbook | Warpriest |
 | `c9d08d82f32b3b548afda219b046d8ee` | HAHunterAT | Hunter |
 | `168d56a2b49129242959bc04e029c618` | HAInquisitorAT | Inquisitor |
+| `32534e1de03a9504cbeb871ca3bf0972` | HAInvisibleBladeAbility | Invisible Blade |
+| `3b7fa6c4cca317443b7a7a39929021ed` | HAInvisibleBladeFeature | Invisible Blade |
 | `159080ffe0d4128448a9b11bf1b84f83` | HalcyonDruidArchetype | Halcyon Druid |
 | `ae84f2e9e8144c342bfe9e8432c71ab7` | HalcyonSpellAdd | Magic Missile |
 | `d7afa1b829b61da47964896bd15dfe2c` | HalcyonSpellbook |  |
@@ -1265,6 +1359,7 @@
 | `e8088267e1664634ab75c0a3e5fba2b6` | HalfFiendBuff | Poison Vulnerability |
 | `cdaff318f96eb6d439f33fcadc590dfa` | HalfFiendTemplate | Half-Fiend |
 | `ea767d6d02e31db44bc2aee6f00a1a94` | HandtoHandTraining | Hand-to-Hand Training |
+| `040e106dc51929c44bbf313def0aaeee` | HANinjaCLProperty |  |
 | `66bc1a045830fd04c9d7cde6c78a1d4b` | HANokizaruAT | Nokizaru |
 | `68a7a59842d253b42a9df1b1ea323b74` | HAOracleAT | Oracle |
 | `ba1256dff4e466a4987b674a041bc983` | HardinessAbility | Hardiness |
@@ -1690,6 +1785,8 @@
 | `f0adacc30f040ea4dbaa140cc66d0bbb` | KiTransformationFeatureLvL8 | Ki Transformation |
 | `2aea161f9f50fdd4a8d3618b8f9d2925` | KiTransformationSmilodon | Beast Shape IV (Smilodon) |
 | `d5307933ad10f7c4eba3bcac170186fb` | KiTransformationWyvern | Beast Shape IV (Wyvern) |
+| `f17dbbc5cb038414e9e47fcf4961b56b` | KnockbackArrow | Enchant Arrow - Knockback |
+| `1992f25f0cecf3a4c9ae6e4591df731a` | KnockbackArrowSpell | Enchant Arrow - Knockback |
 | `dd5208ef97937764b85979ab3c212952` | KnowitAll | Know-It-All |
 | `ce3f33b2e8a1f7d419aea012e34b8ba3` | LawChaDomainBaseAbility | Touch of Law |
 | `0ba28d4e3b09aa248a1b1ecf3b5fedc7` | LawChaDomainBaseFeature | Law Domain |
@@ -1712,6 +1809,9 @@
 | `fcb6fa4cc4ecec043aa8f40d2431a7e0` | LethalStanceToggleAbility | Lethal Stance |
 | `ebbc3d8af00144744b9d1f7f810ed4a5` | LichLoved | Lich-Loved |
 | `538d40ea9af6b4a4fb0c90aca7db8076` | LifeFeature | Life |
+| `9d80cb52d114b9f4c9658114ae4ac815` | LightningStrikeAbility | Lightning Strike |
+| `16a24ccc29b25dc4ba3d8d0fafa6c607` | LightningStrikeFeature | Lightning Strike |
+| `2c9419f49c8970d4db7ea9cdfb160b5d` | LightningStrikeTwoFeature | Lightning Strikes |
 | `fa9536381003ea64594dcedfcc256cc8` | LingeringSermon | Lingering Sermon |
 | `f3cc27738f7a5014aa91f484e7fdc907` | LingeringSong | Lingering Performance |
 | `c09c94bbbab593f43bccc654234186fb` | LivingFortressArea |  |
@@ -1813,6 +1913,12 @@
 | `207c602bc4c433347a1aa8d51091fade` | MTEMCProgression | Cleric |
 | `f7ab6c60a15541a4bb0ecf49cc2a2af5` | MTQuestioner | Questioner |
 | `060f56a8741bfe54ba901d97e220f1aa` | MTSWD | Witch |
+| `365f25cf9f5ae354eaeeeca43365935d` | MultiArrow00 |  |
+| `2b2fc0314248a5d42b858059e7b68099` | MultiArrow01 |  |
+| `fb05481f14c1f29459aa593bc9cf11a6` | MultiArrow02 |  |
+| `a5727565b3c5510438119ec941bc1616` | MultiArrow03 |  |
+| `3291889170e0c6f48aea5fbf3bbcdaed` | MultiArrow04 |  |
+| `9b4febfcf6098ab4b9eabf0330df655f` | MultiArrowAbility | Enchant Arrow - Split Arrow |
 | `43c5e9ffcc54c6b4882fda8d84663aae` | MythicCrossbow | Mythic Crossbow Training |
 | `40a8ee2b545e9954fa438ab5271c89da` | MythicInspireCompetenceEffectBuff | Battle Dance of Competence |
 | `56937993f7bfa0f46acbc851bcd39e92` | MythicInspireCompetenceEffectBuff | Inspire Competence |
@@ -2578,6 +2684,9 @@
 | `aa4ab636e5454634c9db07bddb46cb44` | SFScimitar | Slashing Fury (Scimitar) |
 | `d0fd3b58dd4f737438e925f5767861fe` | SFShortsword | Slashing Fury (Shortsword) |
 | `5d2fb95330aad1942aff80bc079ff8ff` | SFSickle | Slashing Fury (Sickle) |
+| `1f1d004cfa86bbc4a9bff2d5ab8162e8` | Shadowbind | Enchant Arrow - Shadowbind |
+| `a4e08017e1b8cb24299d7a4f09dae461` | ShadowbindBuff | Enchant Arrow - Shadowbind |
+| `251a95bf9a1c498489d3af1b8c6d0cb1` | ShadowbindSpell | Enchant Arrow - Shadowbind |
 | `4659b75889eab5e4e9a52f7b758d1830` | ShamanToggle | Channel Smite |
 | `c43a4ceb2adaa4241bcdf7921deb8265` | ShamanToggle | Greater Channel Smite |
 | `e7946fd7d9053864099cc0d33649fd82` | Shield | Shield |
@@ -2629,6 +2738,8 @@
 | `08cb037f5f94d824dbc3f0781dc9de8e` | SkeletonWizardProgression |  |
 | `e383e62fca34aaa49a3fbff6247a0065` | SkeletonWizardUnit |  |
 | `239fecb9fa950794885b53d5f359f0d7` | SlashingFurySelection | Slashing Fury |
+| `7ba12be63e9ccfe409d72517461bafc6` | SlowArrow | Enchant Arrow - Slow |
+| `6cfc42209016be94da181c93861cc0d8` | SlowArrowSpell | Slow |
 | `c8d9d743091ed604dabe15cd05c70b6c` | SlowingStrikeAbility | Studied Strike - Slowing Strike |
 | `9d371202a7aa50242a02ab619037c4b0` | SlowingStrikeBuff | Studied Strike - Slowing Strike |
 | `e4cc2845d8ae43345945c54f0fae149c` | SlowingStrikeEffectBuff | Studied Strike - Slowing Strike |
@@ -2683,7 +2794,7 @@
 | `abc63094ac6af614e8b3f7c07eef79e2` | SpontaneousSummoning1 | Summon Monster IX (Ghaele Azata or Thanadaemon) |
 | `01c3216ccb15491469f696e257a68d01` | SpontaneousSummoning4 | Summon Monster IX (1d4+1 Bogeymen) |
 | `7401b905f01f0824086db583c9f77e0e` | SpontenousSummoning3 | Summon Monster IX (1d3 Monadic Devas or Frost Giants) |
-| `d9baba0b9d02fec4c9f327800ccb8fc8` | StalkerArchetype | Stalker |
+| `d9baba0b9d02fec4c9f327800ccb8fc8` | StalkerArchetype |  |
 | `d9ba68b30f18c204f9371fb4fb37bd0f` | StalkEvilDragon | Stalk Evil |
 | `0ee92869384b8334496cb8ce7f5b9dcf` | StalkEvilOutsider | Stalk Evil |
 | `834403c2304540345931de10376dc846` | StalkEvilUndead | Stalk Evil |

@@ -179,13 +179,6 @@ Wilderness wardens are vigilant guardians of natural places of all kinds, from m
 `756aa0665d4830b438447cb559c2fd05`  
 `WildernessWardenArchetype`  
 
-## Stalker (Ranger)
-
-Stalker
-
-`d9baba0b9d02fec4c9f327800ccb8fc8`  
-`StalkerArchetype`  
-
 ## Sword-Devil (Ranger)
 
 Agile, vengeful, and deadly, a sword-devil fights with precision and grace, channeling the difficult lessons of a star-crossed life into unparalleled battle prowess. Favoring speed and evasive techniques over brute force, sword-devils choose precision over power and acrobatics over armor. Charismatic and carefree, a sword-devil makes fast friends and inspires her companions to greatness, even while vowing a swift death upon her enemies.

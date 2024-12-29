@@ -87,6 +87,13 @@ When selecting this feat you gain 2 extra uses of death vow. This feat can be se
 `fe59eb1868206684cb1c94eac6b21a23`  
 `ExtraDeathVow`  
 
+## Extra Farstrider Talent
+
+Choosing this feat allows you to pick one extra farstrider talent.(Can be picked multiple times).
+
+`b630d563df6a54548ab4b36a91f29137`  
+`ExtraFarstriderTalent`  
+
 ## Extra Hex(Scarred Witch Doctor)
 
 Select an extra hex.

@@ -2,6 +2,13 @@
 
 ### [Back to mod overview](./README.md)
 
+## [unknown key: HomebrewArchtypes_FreedomFighterFarstriderAbilityEnchantedArrowsName]
+
+
+
+`1ffd39e2f52fcd74ba8ec53627d1db20`  
+`FFSpellBowItem`  
+
 ## Cold Iron Two-Bladed Sword
 
 
