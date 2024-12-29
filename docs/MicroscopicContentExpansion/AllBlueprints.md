@@ -282,6 +282,8 @@
 | `39fc1b2553454a679421d60ed6afab1b` | ScaledFistLeechAbility | Ki Leech |
 | `187363ef059a428da021462eada0f20d` | ScaledFistLeechBuff | Ki Leech |
 | `248252cf789d491c9b5c50f30e1a9111` | ScaledFistLeechFeature | Ki Leech |
+| `396c57dcec54471989f81ec5aa9ef580` | ShifterDragonFormRavenerAbillity | Dragon Shape (Ravener) |
+| `421ae827f6534f75953e8cae5ebbb471` | ShifterDragonFormRavenerBuff | Dragon Shape (Ravener) |
 | `49e036a82c2b4c07b596a4ae3973573e` | SnakeFangFeature | Snake Fang |
 | `8694575f914542c29c8601bd8cee2580` | SnakeSidewindBuff | Snake Sidewind |
 | `d068ddacdb9b4016bfa31260902839e0` | SnakeSidewindFeature | Snake Sidewind |
