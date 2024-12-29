@@ -20,6 +20,15 @@ Druid 8, Shaman 8
 `90f174a27acf4dbda6e198a0cc0e59e3`  
 `BloodMistAbility`  
 
+## Burst of Nettles
+
+You release a burst of barbed, acid-filled nettles. Creatures caught in the burst take 3d6 points of damage plus 1d6 points of acid damage on the next round. Those that save take half damage from the initial burst and no damage on the next round.
+
+Druid 3, Hunter 3
+
+`601854840f504063a2512d341524a3c9`  
+`BurstOfNettlesAbility`  
+
 ## Clay Skin
 
 The target’s skin becomes as thick and tough as clay, granting the target DR 5/adamantine. Once the spell has prevented a total of 5 points of damage per caster level (maximum 50 points), it is discharged and the spell ends.
@@ -76,6 +85,15 @@ Warpriest 1, Cleric 1, Dread Knight 1
 
 `ff9b4a7437d44c5fa29a7573a63728f5`  
 `EntropicShieldAbility`  
+
+## Eruptive Pustules
+
+Your skin erupts in swollen, pus-filled bumps that burst open if you are struck. Any creature that strikes you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of acid damage and must save or be sickened for 1 round. If the attack against you is a critical hit, the attacker must save or be nauseated instead of sickened.
+
+Witch 3, Wizard 3, Alchemist 3, Bloodrager 3, Child of Acavna and Amaznen 3, Skulking Hunter 3, Claw of the False Wyrm 3
+
+`27effebb41e5465a9e1757a479959b1b`  
+`EruptivePustulesAbility`  
 
 ## Form of the Exotic Dragon
 
@@ -371,6 +389,16 @@ Bard 5
 
 `a1f0d4c3ce2c4c2eb705b18861f14708`  
 `StunningFinale`  
+
+## Transmute Blood To Acid
+
+You transmute blood in the target’s body to acid, dealing 1d6 points of acid damage/2 levels (maximum 12d6) each round. The creature is staggered and sickened by the debilitating pain. A successful Fortitude save each round halves the damage and negates the staggered condition for 1 round. Anyone who strikes the target with a non-reach melee weapon, natural weapon, or unarmed attack takes 3d6 points of acid damage as the acidic blood sprays on the attacker.   
+This spell has no effect on creatures immune to critical hits or bleed effects.
+
+Wizard 9
+
+`0d33465ba73142b78b284140247d9481`  
+`TransmuteBloodToAcidAbility`  
 
 ## Wall of Fire
 

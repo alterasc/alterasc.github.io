@@ -178,6 +178,13 @@ Although the Eldest rarely have adherents as other deities do, they still occasi
 `bb2956ea071f46bd844ecd6383d5f906`  
 `SwornOfTheEldestArchetype`  
 
+### Water Dancer (Monk)
+
+Water dancers derive their martial training from ancient nereid traditions jealously guarded by these enigmatic fey.
+
+`748a85a9c88649a6b92cf948fce8e070`  
+`WaterDancerArchetype`  
+
 ### Ocean's Echo (Oracle)
 
 Although many merfolk claim deep connections to both art and the natural world, a rare few merfolk can manipulate the forces of nature and weave them into song. An ocean’s echo is a merfolk gifted with the powers of an oracle and a singing voice that evokes the legendary tales of merfolk virtuosos.

@@ -551,6 +551,15 @@ Special: You can gain Extra Rage multiple times. Its effects stack.
 `0b199783b64e46fd812739448ed392e3`  
 `ExtraRageWolverineFeat`  
 
+### Noble Scion
+
+You are a member of a proud noble family, whether or not you remain in good standing with your family.   
+You gain a +2 bonus on all Knowledge (World) checks, and this skill is always considered a class skill for you.   
+When you select this feat, choose one of the benefits that matches the flavor of your noble family.
+
+`a4bf9ad4e2884016a4e37c5e23615528`  
+`NobleScionFeatureSelection`  
+
 ### Opening Volley
 
 Your ranged assault leaves your foe disoriented and vulnerable to your melee attack.   

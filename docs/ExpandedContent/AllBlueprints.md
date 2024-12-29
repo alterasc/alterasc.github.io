@@ -6,6 +6,8 @@
 | --- | --- | --- |
 | `3caf877b693e42149f10e796816963c5` | AbhothFeature | Abhoth |
 | `eec5c4ab6c3d45b5b32402cbbda5a2a6` | AbhothSacredWeaponFeature |  |
+| `ae08a4ecad474f658788c1f302764da8` | AbraxasFeature | Abraxas |
+| `252e454900bb4dd9bf6173e49037143e` | AbraxasSacredWeaponFeature |  |
 | `b4388668fe3247988a69b40b81933925` | AbundantSin | Abundant Sin |
 | `4654a8012a33420a8fda75dcdb6f39d9` | AchaekekFeature | Achaekek |
 | `15cdf430ebbe48dfb4d1408f333e1f7b` | AchaekekSacredWeaponFeature |  |
@@ -484,6 +486,8 @@
 | `e9cf7919740543a99bbed0a13ece0536` | BullseyeShotAbility | Bullseye Shot |
 | `b7f3aa056a5d47f18c262a95e0369597` | BullseyeShotBuff | Bullseye Shot |
 | `31fbe31a772746d6b10a86602cb1b941` | BullseyeShotFeature | Bullseye Shot |
+| `601854840f504063a2512d341524a3c9` | BurstOfNettlesAbility | Burst of Nettles |
+| `beceee1e54a145cf8c6dfa2ae65a8dd4` | BurstOfNettlesBuff | Burst of Nettles |
 | `59a627c020e04017882daca11ba9a6a6` | CastigatorArchetype |  |
 | `0f1f22d4ae954defacb892eeb23e49b7` | CastigatorOpportunistFeature | Even the Score |
 | `112094f8966d448689251317b256997b` | CastigatorPaybackFeature | Payback |
@@ -1104,6 +1108,8 @@
 | `2844a320d2a842aebef5432529b87b16` | EntropicShieldBuff | Entropic Shield |
 | `27bdb7a3d07b479b8e21fc3178ef1495` | EritriceFeature | Eritrice |
 | `77ee034450154e31aeb7cb9086fbefe6` | EritriceSacredWeaponFeature |  |
+| `27effebb41e5465a9e1757a479959b1b` | EruptivePustulesAbility | Eruptive Pustules |
+| `d551a44d19ac4c87918f4e0c73a3fcf2` | EruptivePustulesBuff | Eruptive Pustules |
 | `7f37e515fcd14560bafcadcf8b74eee2` | EvasiveArcherFeature | Evasive Archer |
 | `4370df3339c7430197354c47a37b0d7b` | EvilInvokeDeityAbility | Invoke Deity - Evil Domain |
 | `29fb12f606144c8e99e3e8e53e314f54` | EvilInvokeDeityBuff | Invoke Deity - Evil Domain |
@@ -1635,6 +1641,10 @@
 | `42c4ff84a964463bafa35b599cfab4d9` | NeithSacredWeaponFeature |  |
 | `e36173fd924f48fabeece8d41540e9ec` | NephthysFeature | Nephthys |
 | `bfdaa360463247f3b96981b94225aa83` | NephthysSacredWeaponFeature |  |
+| `b99e79849cf745768fcb9feb44151520` | NereidsGraceBuff | Nereid’s Grace Dodge Bonus Buff |
+| `dedf9a3558e04a198bb7762a99bf6227` | NereidsGraceDodgeBonus | Nereid’s Grace Dodge Bonus Feature |
+| `a8d5882c36814d0e82b884056e83c431` | NereidsGraceFeature | Nereid’s Grace |
+| `8947b86b4b5b4f4f99bd3793abcca595` | NereidsGraceProperty |  |
 | `0b2f8b8d59dd4d38a4bd1a2ba211c66f` | NgFeature | Ng |
 | `c19c63463d334c59800dcfef39a4a634` | NgSacredWeaponFeature |  |
 | `a9d6492314bd4987985ad0bcce123ef6` | NhimbalothFeature | Nhimbaloth |
@@ -1646,6 +1656,14 @@
 | `81821e30bb4c439b8a017d8a36f266d0` | NobilityInvokeDeityAbility | Invoke Deity - Nobility Domain |
 | `4dd742980b074e48b262e35cbba1b568` | NobilityInvokeDeityBuff | Invoke Deity - Nobility Domain |
 | `097a2404d02a4117a1da55f5cb97f12d` | NobilityInvokeDeityBuffAbility | Nobility Domain - Command to Halt |
+| `a4bf9ad4e2884016a4e37c5e23615528` | NobleScionFeatureSelection | Noble Scion |
+| `bf22058b46e4484384b4cb9ff6ad726d` | NobleScionOfLoreFeature | Noble Scion of Lore |
+| `cc1912c639c94285b4686aeb6d01c391` | NobleScionOfMagicFeature | Noble Scion of Magic |
+| `61e7d7ede3654df19a20c5daaf88be51` | NobleScionOfPrideBuff | Noble Scion of Pride Rest Buff |
+| `50aa268c4aa44e9a9fbfba9ae2475fc9` | NobleScionOfPrideFeature | Noble Scion of Pride |
+| `8bfe3275d91e43609eb86d4f7ee3224b` | NobleScionOfPrideSuppresion | Noble Scion of Pride Rest Buff |
+| `9f1e825ab8f54c898dc49a8517cee76b` | NobleScionOfTheArtsFeature | Noble Scion of the Arts |
+| `30b40efe6f144681b7e94daaf17bc245` | NobleScionOfWarFeature | Noble Scion of War |
 | `e3805d65171249eb9780d99511e71c03` | NocticulaFeature | Nocticula |
 | `f4f86062ba97442ea22efd50a18cbdac` | NocticulaSacredWeaponFeature |  |
 | `e40f96fa035a464abdaa5c73e0c26f78` | NulgrethFeature | Nulgreth |
@@ -2424,12 +2442,14 @@
 | `dafdc0eef4374785aa827bf5b2059bf0` | ScourgeOfTheHorsemenAbility | Scourge of the Horsemen |
 | `bf8502cae2ec4d88b900a7d11e545456` | ScrollOfArcaneConcordance | Scroll of Arcane Concordance |
 | `2f24cb4710634d3a960c5dde4b32d4f0` | ScrollOfBloodMist | Scroll of Blood Mist |
+| `255f2478c5fb4e30af4457255527ee50` | ScrollOfBurstOfNettles | Scroll of Burst of Nettles |
 | `193f4c23ae5a4174a59f4fa257eb4172` | ScrollOfClaySkin | Scroll of Clay Skin |
 | `6331114cce7845c593e33d84033b646c` | ScrollOfDanceOfAHundredCuts | Scroll of Dance of a Hundred Cuts |
 | `22bdc56e68c44e9b8477c302d77fda5a` | ScrollOfDanceOfAThousandCuts | Scroll of Dance of a Thousand Cuts |
 | `8cfb536d66df45778479cecfe6fff905` | ScrollOfDeadlyFinale | Scroll of Deadly Finale |
 | `8eced4ac2764415ca8af739ac3192faa` | ScrollOfDustOfTwilight | Scroll of Dust of Twilight |
 | `4e04cdf7133c4f1d94852752388d1331` | ScrollOfEntropicShield | Scroll of Entropic Shield |
+| `00844fb20569475dbc27a1791b8a50ac` | ScrollOfEruptivePustules | Scroll of Eruptive Pustules |
 | `fc209f74eb4848b1a4572bc0394e6f4a` | ScrollOfFuryOftheSun | Scroll of Fury of the Sun |
 | `fc26d2a528f34e80954a168b743962e9` | ScrollOfGloomblindBolts | Scroll of Gloomblind Bolts |
 | `8abffd7d9a804556bfecdba8efb2daa7` | ScrollOfGoodberry | Scroll of Goodberry |
@@ -2452,6 +2472,7 @@
 | `899922fbc5394ac0a6cd07170c80cb41` | ScrollOfSlipstream | Scroll of Slipstream |
 | `ac0fdbc597c6417ebda51a4ccb2985c5` | ScrollOfSteamRayFusilladeh | Scroll of Steam Ray Fusillade |
 | `eaaf44890c314d2598f3b4cdc412b048` | ScrollOfStunningFinale | Scroll of Stunning Finale |
+| `7af2b241cdd84a75bd42f918d218e8b7` | ScrollOfTransmuteBloodToAcid | Scroll of Transmute Blood To Acid |
 | `39a69236792d4fcba603e88dd3613695` | ScrollOfWallOfFire | Scroll of Wall of Fire |
 | `e31ccd142c7d488ea835eb36483438ae` | ScrollOfWoodenPhalanx | Scroll of Wooden Phalanx |
 | `2a7a9444e4124767b39302c6c098af1c` | ScrollOfZephyrsFleetness | Scroll of Zephyr's Fleetness |
@@ -3187,6 +3208,8 @@
 | `c4ff9cbd8cb44f089df3e699a277c714` | TouchoftheMoonLightWoundsBuff | Touch of the Moon - Temporary Health |
 | `f2d1642df57f4912a677a7087bba35a5` | TouchoftheMoonModerateWoundsBuff | Touch of the Moon - Temporary Health |
 | `2639f791df364e70b3ae0fba2b6d73f7` | TouchoftheMoonSeriousWoundsBuff | Touch of the Moon - Temporary Health |
+| `0d33465ba73142b78b284140247d9481` | TransmuteBloodToAcidAbility | Transmute Blood To Acid |
+| `b6acd0bedd894e3aaa26226acc9ed6bf` | TransmuteBloodToAcidBuff | Transmute Blood To Acid |
 | `9c1b428c8ba14e3dbe9cb8e3e9826a68` | TravelInvokeDeityAbility | Invoke Deity - Travel Domain |
 | `3ff76aaa7f794569aca90b5d8f8fe110` | TravelInvokeDeityBuff | Invoke Deity - Travel Domain |
 | `1112802f82da449fac810e2201c1eb2e` | TreeFormIAbility | Tree Form (Mandragora) |
@@ -3314,8 +3337,46 @@
 | `2ec36c350c124a1e9aab2761e8decd96` | WarBlessingMinorBuffSpeed | War Mind - Speed |
 | `7771a14db7674782972fa01bc9ea5170` | WarInvokeDeityAbility | Invoke Deity - War Domain |
 | `3800b2d911b84060874a3ca747172cd0` | WarInvokeDeityBuff | Invoke Deity - War Domain |
+| `748a85a9c88649a6b92cf948fce8e070` | WaterDancerArchetype | Water Dancer |
+| `1c338fd699464413ba48d5d12e40b43c` | WaterDancerBurnFeature | Burn |
+| `ed30ef92e0e24b6baf1c29dc4d5c4c12` | WaterDancerElementalFocusFeatureSelection | Elemental Focus |
+| `84ce6559f8ce47e08e336b93076627cb` | WaterDancerKiCoolingAbility | Ki Cooling |
+| `9dafbb987b5e477bb8ef6779479ca715` | WaterDancerKiCoolingFeature | Ki Cooling |
+| `f20ffeb753764efca39d1000ec93f520` | WaterDancerKiPowerFeature | Ki Pool |
+| `fd2e6a6a03cb47b6ba88f74ef67c226e` | WaterDancerProficiency | Water Dancer Proficiencies |
+| `43c551ab3a454d70b5bf04c8cb2cbac6` | WaterDancerUnarmedStrike | Unarmed Strike |
+| `83db5445a3fb4062a871d57e818096a0` | WaterDancerWildTalentSelection | Wild Talents |
 | `816301e5a7024b9cb521f1c9af607734` | WaterInvokeDeityAbility | Invoke Deity - Water Domain |
 | `b2e98e19767f45fe9861762163edec98` | WaterInvokeDeityBuff | Invoke Deity - Water Domain |
+| `07690c7cb6a6401ab6bf3d92c72f6589` | WaterStyleGeyserBaseAbility | Geyser Style |
+| `2bee269ee98245a1aec2e48259397b83` | WaterStyleGeyserCalmAbility | Geyser Style - Calm |
+| `ed0b6f5ba68a4154b06116b167879c86` | WaterStyleGeyserCalmBuff | Geyser Style - Calm |
+| `a3a771f8509d49458efaa9c8c74d90ce` | WaterStyleGeyserFeature | Geyser Style |
+| `251b7ccc10e04ac6974e11b40a649eb4` | WaterStyleGeyserRapidAbility | Geyser Style - Rapid |
+| `5b3271c5fc294bf7b699430e2ed3e9d4` | WaterStyleGeyserRapidBuff | Geyser Style - Rapid |
+| `32bba1cda565420c9d6c45a41e816743` | WaterStyleRainBaseAbility | Rain Style |
+| `7508cf459d2b4cb689840e664d489d8e` | WaterStyleRainCalmAbility | Rain Style - Calm |
+| `9aaf1cde6045485f802c408bcd28d232` | WaterStyleRainFeature | Rain Style |
+| `670b5a586e9b4f3797641913c8e6d6a2` | WaterStyleRainRapidAbility | Rain Style - Rapid |
+| `bcdd445c1c614ff79981e53ca2ee8e4c` | WaterStyleRiverBaseAbility | River Style |
+| `f4970ebfb8564428a6b2fccf24a3d77e` | WaterStyleRiverCalmAbility | River Style - Calm |
+| `347771708c264c5ca0d4865420f80fd1` | WaterStyleRiverCalmBuff | River Style - Calm |
+| `0a3a1b1a76854d259ed68c6fce6a68d4` | WaterStyleRiverFeature | River Style |
+| `3abb6d88bb294fb4a9fedf5b55a4c305` | WaterStyleRiverRapidAbility | River Style - Rapid |
+| `e6faf1cf353e4bac840fbdad6504e3bb` | WaterStyleRiverRapidBuff | River Style - Rapid |
+| `d5a87556418746bc97e17f7029cfd646` | WaterStyleStrikesFeatureSelection | Water Style Strike |
+| `62a8c474ef564b5483973b127f82d97a` | WaterStyleSuppressCalmBuff | Calm Style suppress |
+| `32cc4dc8e110458ba4e4dc7a94495ffd` | WaterStyleWaterfallBaseAbility | Waterfall Style |
+| `7a1e5e83c23b413ab1d54b125393e2b3` | WaterStyleWaterfallCalmAbility | Waterfall Style - Calm |
+| `776990eff05c4543abe435d864c56856` | WaterStyleWaterfallCalmBuff | Waterfall Style - Calm |
+| `50ffad47be4c45b9ab6b1b50b4574b39` | WaterStyleWaterfallFeature | Waterfall Style |
+| `d4f8d356991d45d6bf3144a63974cc76` | WaterStyleWaterfallRapidAbility | Waterfall Style - Rapid |
+| `91f589d498f54c34bb1e231c8b2efc6c` | WaterStyleWaterfallRapidBuff | Waterfall Style - Rapid |
+| `b545df19e83d47dc8eb6db3b868ca470` | WaterStyleWaveBaseAbility | Wave Style |
+| `f387f14740c94297a804379aca2e70f3` | WaterStyleWaveCalmAbility | Wave Style - Calm |
+| `746619c3fc954188a83ab4034e7d6f65` | WaterStyleWaveCalmBuff | Wave Style - Calm |
+| `21c83713ed5348ed85c8b4875a998acd` | WaterStyleWaveFeature | Wave Style |
+| `a816a7df815b489d96b106c26d58984c` | WaterStyleWaveRapidAbility | Wave Style - Rapid |
 | `cf3cb5c745954adf9f3dddee06d1f26b` | WeatherInvokeDeityAbility | Invoke Deity - Weather Domain |
 | `ef26e3f1fd934ef98adcf5e9c06eafa1` | WeatherInvokeDeityBuff | Invoke Deity - Weather Domain |
 | `d342d6d1241e4d51ac5f2c264110b0ef` | WhimsicalWorshipFeatureSwornOfTheEldest | Whimsical Worship |
@@ -3502,7 +3563,6 @@
 | `78fc79010788498caeeef7ed81b285ba` | ZuraSacredWeaponFeature |  |
 | `e5eba9fa508b40d78414d19750c5a21e` | ZyphusFeature | Zyphus |
 | `82b9f4a75e4d42c28fdf609b347f92bc` | ZyphusSacredWeaponFeature |  |
-| `ae08a4ecad474f658788c1f302764da8` | AbraxasFeature | |
 | `b20119178afd47e9ae24c1289f89ce8e` | BokugFeature | |
 | `9840b5d8e2d644a7b59acfd3d0a56cae` | CavalierMountFeatureHavocDragon | |
 | `e5ab4db013524e95963b09b504d98fe6` | CrueltyFact | |

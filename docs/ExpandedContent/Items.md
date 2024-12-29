@@ -30,6 +30,13 @@ This amulet allows the wearer to cast Reduce Person as a 6th level wizard once p
 `2f24cb4710634d3a960c5dde4b32d4f0`  
 `ScrollOfBloodMist`  
 
+## Scroll of Burst of Nettles
+
+
+
+`255f2478c5fb4e30af4457255527ee50`  
+`ScrollOfBurstOfNettles`  
+
 ## Scroll of Clay Skin
 
 
@@ -71,6 +78,13 @@ This amulet allows the wearer to cast Reduce Person as a 6th level wizard once p
 
 `4e04cdf7133c4f1d94852752388d1331`  
 `ScrollOfEntropicShield`  
+
+## Scroll of Eruptive Pustules
+
+
+
+`00844fb20569475dbc27a1791b8a50ac`  
+`ScrollOfEruptivePustules`  
 
 ## Scroll of Fury of the Sun
 
@@ -225,6 +239,13 @@ This amulet allows the wearer to cast Reduce Person as a 6th level wizard once p
 
 `eaaf44890c314d2598f3b4cdc412b048`  
 `ScrollOfStunningFinale`  
+
+## Scroll of Transmute Blood To Acid
+
+
+
+`7af2b241cdd84a75bd42f918d218e8b7`  
+`ScrollOfTransmuteBloodToAcid`  
 
 ## Scroll of Wall of Fire
 
