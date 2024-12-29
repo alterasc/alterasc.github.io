@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # PATH OF BLING
 
-## Version: 1.0.6
+[Back to site homepage](../README.md)
+
+## Version: 1.0.7
 
 ## Author: Balkoth
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
