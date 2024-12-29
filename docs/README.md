@@ -87,7 +87,7 @@
 
 ### [Pheonix's Cantrips - More Cantrips](./MoreCantrips/README.md) 1.0.3
 
-### [Prestige Minus](./PrestigeMinus/README.md) 0.9.5
+### [Prestige Minus](./PrestigeMinus/README.md) 1.0.0
 
 ### [PrestigePlus](./PrestigePlus/README.md) 3.7.0
 

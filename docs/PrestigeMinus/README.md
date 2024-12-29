@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Prestige Minus
 
-## Version: 0.9.5
+[Back to site homepage](../README.md)
+
+## Version: 1.0.0
 
 ## Author: string
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
