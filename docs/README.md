@@ -63,7 +63,7 @@
 
 ### [Literate Companions](./LiterateCompanions/README.md) 1.0.0
 
-### [MAKING FRIENDS](./WOTR_MAKING_FRIENDS/README.md) 0.2.1
+### [MAKING FRIENDS](./WOTR_MAKING_FRIENDS/README.md) 0.2.2
 
 ### [Mesmerist](./Mesmerist/README.md) 2.0
 

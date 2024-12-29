@@ -157,7 +157,7 @@
 | `36a6f101c3ad43089c959805140ca943` | EidolonBlackDragonCompanionFeature | Black Dragon |
 | `9dfae8ac70f34976b203463ad76ef078` | EidolonBlueDragon | Eidolon |
 | `1d61017ab8b34350ba0034a1cb5ada7e` | EidolonBlueDragonCompanionFeature | Blue Dragon |
-| `8726466d27da40e8b3af3f58ee0ed14a` | EidolonBonusHealingBuff |  |
+| `8726466d27da40e8b3af3f58ee0ed14a` | EidolonBonusHealingBuff | Celestial Totem, Lesser |
 | `88335b5ec8b04b339f940d0f472e72c2` | EidolonBonusHealingFeature | <b><color=#703565><link="Encyclopedia:Bonus">Bonus</link></color></b> Healing |
 | `8d1a06e277144f7a94b8ede5c680b9e0` | EidolonBralani | Eidolon |
 | `6efbb673c8164ef799b688fc2c27d0c7` | EidolonBralaniCompanionFeature | Bralani |
