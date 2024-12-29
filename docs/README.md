@@ -29,6 +29,8 @@
 
 ### [CamelliaRomanceExpandedEnd](./CamelliaRomanceExpandedEnd/README.md) 2.4
 
+### [Champion Feats Anew](./ChampionFeatsAnew/README.md) 1.0.16
+
 ### [Character Options+](./CharacterOptionsPlus/README.md) 1.3.8
 
 ### [DarkCodex](./DarkCodex/README.md) 1.7.0

@@ -985,6 +985,15 @@ e778483716112d34da8270f5b436ad3e - CamelliaRomanceExpandedEnd
 4cc9695bd7605174fa2928124c71f885 - CamelliaRomanceExpandedEnd
 55f5183802494334b596ee88389609f2 - CamelliaRomanceExpandedEnd
 676f359593404d7eb026802934b49663 - CamelliaRomanceExpandedEnd
+d0f2447e6aa34dce8f7f17a5baeff9dc - Champion Feats Anew
+ab678c3f346e44cf8ad5c157324e8c28 - Champion Feats Anew
+c60fe5921c114c899bdc5a7e76344412 - Champion Feats Anew
+ea14baff008f4bf1b49226581ca67de9 - Champion Feats Anew
+d9538dece3714d71803a18ede627638b - Champion Feats Anew
+b666f5b3ee664b0f9cb9e9c974858982 - Champion Feats Anew
+042a76ffd6e14b86876516da19fdbe6d - Champion Feats Anew
+d09e14dcc14748708e79ae101363676d - Champion Feats Anew
+a21ce248ac0f485189a470a0bd87e0af - Champion Feats Anew
 8ea0f3765dc344e9b08e33f1130ca20c - Character Options+
 1c49a14ca93449d18f7a23c67814402f - Character Options+
 b704d577abe54873b9228f56c2319b54 - Character Options+
