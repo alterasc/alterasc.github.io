@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # PATH OF RAGE
 
-## Version: 1.3.5
+[Back to site homepage](../README.md)
+
+## Version: 1.3.7
 
 ## Author: Balkoth
 
@@ -20,4 +20,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

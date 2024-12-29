@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -49,7 +49,7 @@
 | `151533265f3343d9a21ceda522aec033` | Uncontrollable Rage151533265f3343d9a21ceda522aec033 | Uncontrolled Rage |
 | `bbd26df513044c01a56b5fad024a86bc` | Unleashed Demonbbd26df513044c01a56b5fad024a86bc | Unleashed Demon |
 | `6c8f47ae288f44d5bfa621d2c91b7594` | Unleashed Sin Guzzler6c8f47ae288f44d5bfa621d2c91b7594 | Unleashed Sin Guzzler |
-| `70c2561e9fa94633930c815b03f90f4f` | Unstable Balor Transformation |  |
+| `70c2561e9fa94633930c815b03f90f4f` | Unstable Balor Transformation | Demonic Form — Schir |
 | `e30768ff138f4ab5b94703df2aa72a6a` | Unstable Balor Transformation | Unstable Balor Form |
 | `d10450d49b0649418c64c182221c22e2` | Victim of Carnaged10450d49b0649418c64c182221c22e2 | Victim of Carnage |
 
