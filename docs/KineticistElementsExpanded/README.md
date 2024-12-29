@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Kineticist Elements Expanded
 
-## Version: 3.3.0
+[Back to site homepage](../README.md)
+
+## Version: 3.3.2
 
 ## Author: SpenceZilla
 
@@ -20,4 +20,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

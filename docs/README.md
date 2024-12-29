@@ -57,7 +57,7 @@
 
 ### [Kinetic Archetypes](./KineticArchetypes/README.md) 1.1.10
 
-### [Kineticist Elements Expanded](./KineticistElementsExpanded/README.md) 3.3.0
+### [Kineticist Elements Expanded](./KineticistElementsExpanded/README.md) 3.3.2
 
 ### [Levelable Aivu](./LevelableAivu/README.md) 1.2.7
 
