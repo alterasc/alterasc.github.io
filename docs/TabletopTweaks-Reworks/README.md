@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Tabletop Tweaks Reworks
 
-## Version: 1.4.3a
+[Back to site homepage](../README.md)
+
+## Version: 1.4.6
 
 ## Author: Sean Petrie
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

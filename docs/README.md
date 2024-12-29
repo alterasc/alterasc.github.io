@@ -101,7 +101,7 @@
 
 ### [Tabletop Tweaks Flanking](./TabletopTweaks-Flanking/README.md) 0.2.1
 
-### [Tabletop Tweaks Reworks](./TabletopTweaks-Reworks/README.md) 1.4.3a
+### [Tabletop Tweaks Reworks](./TabletopTweaks-Reworks/README.md) 1.4.6
 
 ### [The One Pearl](./OnePearl/README.md) 1.0.1
 

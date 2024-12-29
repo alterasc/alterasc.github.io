@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -283,6 +283,12 @@
 | `38cee7ca2c164b5f84899fb05e87e3fa` | TricksterTTTRuneDomainGreaterResource |  |
 | `c950fb0a1c796b917e2b49c7ae8d8f94` | TricksterTTTRuneDomainProgression | Rune Domain |
 | `f95794e9c98d84152450e67710da71d0` | TricksterTTTRuneDomainProgressionSpellbook |  |
+| `d0c53c74ab7f4e0f9ae226db4e185ad5` | TricksterTTTScalykindDomainBaseAbility | Venomous Stare |
+| `0f8a7369d1114070a874790154085f84` | TricksterTTTScalykindDomainBaseFeature | Venomous Stare |
+| `5974475ddf354159a2d5f5386cafad2d` | TricksterTTTScalykindDomainBaseResource |  |
+| `4552bea8148e479a9453fb2ceb464079` | TricksterTTTScalykindDomainDCProperty |  |
+| `c31e1b4ae5d30c200bf4fcbeda073538` | TricksterTTTScalykindDomainProgression | Scalykind Domain |
+| `e9ecee58794b41efb5e2e58a7fb4e960` | TricksterTTTScalykindDomainProgressionSpellbook |  |
 | `8e2e041815dd47649d3524fa9b4b8228` | TricksterTTTStrengthDomainBaseAbility | Strength Surge |
 | `fb1b6118c89b4d3f84b7b2e818560be5` | TricksterTTTStrengthDomainBaseBuff | Strength Surge |
 | `80ad09f1215d4ba09a69abbd0768ec7e` | TricksterTTTStrengthDomainBaseFeature | Strength Domain |
