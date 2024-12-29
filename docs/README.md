@@ -23,7 +23,7 @@
 
 ### [AutomaticBonusProgression](./AutomaticBonusProgression/README.md) 1.0.7
 
-### [Baphomet Rides Deskari](./NenioMod/README.md) 1.0.1
+### [Baphomet Rides Deskari](./NenioMod/README.md) 1.1.3
 
 ### [BOAT BOAT BOAT](./WOTR_BOAT_BOAT_BOAT/README.md) 1.2.1
 

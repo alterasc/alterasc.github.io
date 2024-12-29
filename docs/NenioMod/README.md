@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Baphomet Rides Deskari
 
-## Version: 1.0.1
+[Back to site homepage](../README.md)
+
+## Version: 1.1.3
 
 ## Author: Nenio
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
