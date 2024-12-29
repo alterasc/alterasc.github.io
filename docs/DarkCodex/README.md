@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # DarkCodex
 
-## Version: 1.7.0
+[Back to site homepage](../README.md)
+
+## Version: 1.8.0
 
 ## Author: Truinto
 
@@ -36,4 +36,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

@@ -33,7 +33,7 @@
 
 ### [Character Options+](./CharacterOptionsPlus/README.md) 1.3.8
 
-### [DarkCodex](./DarkCodex/README.md) 1.7.0
+### [DarkCodex](./DarkCodex/README.md) 1.8.0
 
 ### [Deceiver Buffs](./deceiverbuff/README.md) 1.0.9
 

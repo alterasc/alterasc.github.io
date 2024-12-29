@@ -81,7 +81,7 @@
 `4160ed8a37e74300b23e6f618bb4019b`  
 `ButcheringAxePlus5Impact`  
 
-### Impactful Evil Outsider Bane Butchering Axe +5
+### Impactful Evil Outsider Bane Butchering Axe +5 Evil Outsider Bane
 
 
 

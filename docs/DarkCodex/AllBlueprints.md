@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -35,7 +35,7 @@
 | `aae82f5182964b2dbda7015256de38ee` | ButcheringAxePlus4 | Butchering Axe +4 |
 | `8e3b27f91c464340a1b3208b141e657d` | ButcheringAxePlus5 | Butchering Axe +5 |
 | `4160ed8a37e74300b23e6f618bb4019b` | ButcheringAxePlus5Impact | Impactful Butchering Axe +5 |
-| `a68b91beb0114fc5ac0cbfdefb9b2d5a` | ButcheringAxePlus5ImpactBaneEvil | Impactful Evil Outsider Bane Butchering Axe +5 |
+| `a68b91beb0114fc5ac0cbfdefb9b2d5a` | ButcheringAxePlus5ImpactBaneEvil | Impactful Evil Outsider Bane Butchering Axe +5 Evil Outsider Bane |
 | `da1510e6bd914589bc53be57bf72ae63` | ButcheringAxeProficiency | Weapon Proficiency (Butchering Axe) |
 | `e5909d14d12b4940b69c9704eedb23c3` | ButcheringAxeStandard | Butchering Axe |
 | `0500d504991c43a9a23a29f70eda05a2` | ButcheringAxeType |  |
@@ -246,7 +246,6 @@
 | `e4bca9387a074f6e875f74a8583e2262` | WitchHexCacklePassive_Buff | Cackle (passive) |
 | `8aa30b353d5e5ee021f11e2963aa31e0` | WitchHexDeathCurseAbility_Cast | Death Curse |
 | `b88b372c8a248120b0d567c60586a750` | WitchHexDeliciousFrightAbility_Cast | Delicious Fright |
-| `3b2144cef99d080f2a1835886d8d2e43` | WitchHexDireProphecyAbility_Cast | Dire Prophecy |
 | `d658a8c0e540256072eedc77915bf8d7` | WitchHexEvilEyeACAbility_Cast | Evil Eye — AC |
 | `ca85f0f7810c63e091dbcf9bf94d230d` | WitchHexEvilEyeAttackAbility_Cast | Evil Eye — Attack Rolls |
 | `e5910ecc272d6c20126d755e0026a09b` | WitchHexEvilEyeSavesAbility_Cast | Evil Eye — Saving Throws |
@@ -255,7 +254,6 @@
 | `b28c1fd296ad9130a2b46c8e9ec1cc24` | WitchHexHealingAbility_Cast | Healing |
 | `2d8702502a402160016a2122212b20db` | WitchHexHoarfrostAbility_Cast | Hoarfrost |
 | `c26b67fe5ee6411390e347b47f0ff0ed` | WitchHexIceTombAbility | Ice Tomb |
-| `5294b516d1ac05283c317256c09b1f5f` | WitchHexIceTombAbility_Cast | Ice Tomb |
 | `9da8c7e178be0c972921f94431c93d66` | WitchHexIceTombAbility_Cast | Ice Tomb |
 | `60832ef650d942f49745a7bb61fe4e91` | WitchHexIceTombBuff | Frozen |
 | `658e282130b74c8abf18d6158bd778db` | WitchHexIceTombCooldownBuff |  |
@@ -268,10 +266,8 @@
 | `ea076503efc17690001eb1fc1adf5082` | WitchHexRegenerativeSinewFastHealingAbility_Cast | Regenerative Sinew — Fast Healing |
 | `55ad5fac70485140d36200288d6da25f` | WitchHexRegenerativeSinewRestorationAbility_Cast | Regenerative Sinew — Ability Damage |
 | `f95c11789d198b70e3db76ee9a250d52` | WitchHexRestlessSlumberAbility_Cast | Restless Slumber |
-| `59a829aaf61d041909ac4e78c8ba77ef` | WitchHexRetributionAbility_Cast | Retribution |
 | `3ccd0625451d3270401cbb6c194a5e81` | WitchHexSlumberAbility_Cast | Slumber |
 | `d0cd15930b32a73051908038158de64c` | WitchHexVulnerabilityCurseAbility_Cast | Vulnerability Curse |
 | `0518fa1976adff802269a40ecced1e36` | WitchHexWardAbility_Cast | Ward |
-| `cdbcef1ff27405151fa89dcdff9ea0d0` | WitchHexWitheringAbility_Cast | Withering |
 
 ### [Back to mod overview](./README.md)
