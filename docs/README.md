@@ -35,7 +35,7 @@
 
 ### [DarkCodex](./DarkCodex/README.md) 1.8.0
 
-### [Deceiver Buffs](./deceiverbuff/README.md) 1.0.9
+### [Deceiver Buffs](./deceiverbuff/README.md) 1.2.1
 
 ### [Demonology](./Demonology/README.md) 0.1.5
 
