@@ -77,7 +77,7 @@
 
 ### [Mythic Arcanist](./MythicArcanist/README.md) 1.3.4b
 
-### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.2
+### [Mythic Magic Mayhem](./MythicMagicMayhem/README.md) 1.1.4
 
 ### [Mythic Path Power Swapper](./MythicPathPowerSwapper/README.md) 1.3.0
 

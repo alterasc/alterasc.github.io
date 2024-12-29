@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Mythic Magic Mayhem
 
-## Version: 1.1.2
+[Back to site homepage](../README.md)
+
+## Version: 1.1.4
 
 ## Author: string, Bakaryu
 
@@ -20,4 +20,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
