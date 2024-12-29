@@ -107,6 +107,8 @@
 
 ### [Toggleable Throwing Weapons](./ToggleableThrowingWeapons/README.md) 1.3.1
 
+### [Tome of Battle: Nine Swords](./VoidHeadWOTRNineSwords/README.md) 1.4.0
+
 ### [Tome Of The Firebird](./TomeOfTheFirebird/README.md) 1.4.18
 
 ### [Way Of The Shield](./Shield/README.md) 4.0.13

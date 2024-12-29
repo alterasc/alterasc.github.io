@@ -326,5 +326,15 @@ You gain a bonus equal to half your mythic rank both on initiative checks and on
 `e936cb72ca914b1ca1d33a2a8c025985`  
 `WarriorPriestMythicFeature`  
 
+## Tome of Battle: Nine Swords
+
+### Maneuver Focus (Mythic)
+
+Your mythic power makes your maneuvers harder to resist.  
+Benefit: Increase the Difficulty Class for resisting your maneuvers by your Mythic Rank.
+
+`956caf333e9540bab78d23b644fda903`  
+`MythicManeuverFocus`  
+
 
 ### [Back to site homepage](./README.md)

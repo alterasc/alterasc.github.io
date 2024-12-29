@@ -221,6 +221,11 @@
       "DisplayName": "Tome Of The Firebird"
     },
     {
+      "ModId": "VoidHeadWOTRNineSwords",
+      "Version": "1.4.0",
+      "DisplayName": "Tome of Battle: Nine Swords"
+    },
+    {
       "ModId": "WOTR_BOAT_BOAT_BOAT",
       "Version": "1.2.1",
       "DisplayName": "BOAT BOAT BOAT"
