@@ -51,6 +51,11 @@
       "DisplayName": "Demonology"
     },
     {
+      "ModId": "DragonFixes",
+      "Version": "1.5.1",
+      "DisplayName": "Dragon Fixes"
+    },
+    {
       "ModId": "ExpandedContent",
       "Version": "0.10.30",
       "DisplayName": "Expanded Content"
