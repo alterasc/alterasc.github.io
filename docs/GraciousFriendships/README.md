@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Gracious Friendships
 
-## Version: 0.9.9a
+[Back to site homepage](../README.md)
+
+## Version: 0.9.9b
 
 ## Author: Gvenewour & Ameistris
 
@@ -18,4 +18,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

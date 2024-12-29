@@ -49,7 +49,7 @@
 
 ### [FinessableSabers](./FinessableSabers/README.md) 0.3
 
-### [Gracious Friendships](./GraciousFriendships/README.md) 0.9.9a
+### [Gracious Friendships](./GraciousFriendships/README.md) 0.9.9b
 
 ### [Homebrew Archetypes](./HomebrewArchetypes/README.md) 1.1Zvh
 
