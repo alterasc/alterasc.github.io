@@ -6,9 +6,23 @@
 | --- | --- | --- |
 | `3caf877b693e42149f10e796816963c5` | AbhothFeature | Abhoth |
 | `eec5c4ab6c3d45b5b32402cbbda5a2a6` | AbhothSacredWeaponFeature |  |
+| `bc1059290c0b4678a45ecac1ba58bba5` | AbolethCurseBeneficialFeatureLevel1 | Aboleth |
+| `aabdb75e578a439cae54ce59945f4e64` | AbolethCurseFeatureLevel1 | Aboleth |
+| `87d22e46defb4e49aaf7067745743d62` | AbolethCurseFeatureLevel10 | Aboleth |
+| `fd4ebe143111485b9d1a4b5d23fadc41` | AbolethCurseFeatureLevel15 | Aboleth |
+| `29b66f2e5fe04b0ca6ce57939e9fb0ef` | AbolethCurseFeatureLevel5 | Aboleth |
+| `5bbefde4226e4863810172d6d3346e23` | AbolethCurseNoProgression | Aboleth |
+| `50bc0c09c2964b118b978007559feff9` | AbolethCurseProgression | Aboleth |
 | `ae08a4ecad474f658788c1f302764da8` | AbraxasFeature | Abraxas |
 | `252e454900bb4dd9bf6173e49037143e` | AbraxasSacredWeaponFeature |  |
 | `b4388668fe3247988a69b40b81933925` | AbundantSin | Abundant Sin |
+| `04e265ede4b54ab9a6a0da2da4b0549c` | AccursedCurseBeneficialFeatureLevel1 | Accursed |
+| `38fa6d04fd624c68b2ee46c2b362a5ab` | AccursedCurseFeatureLevel1 | Accursed |
+| `e53b4334f8d64cf3949b24a29d733cad` | AccursedCurseFeatureLevel10 | Accursed |
+| `c4acb4e282234c12a670b7ae79f8c417` | AccursedCurseFeatureLevel15 | Accursed |
+| `58deb5c03e7a436588708ffd1d1a1cac` | AccursedCurseFeatureLevel5 | Accursed |
+| `89d4db238c8840be92bbd52d522d4cf5` | AccursedCurseNoProgression | Accursed |
+| `80e2e46fad304bc59aaec95dcd2e0116` | AccursedCurseProgression | Accursed |
 | `4654a8012a33420a8fda75dcdb6f39d9` | AchaekekFeature | Achaekek |
 | `15cdf430ebbe48dfb4d1408f333e1f7b` | AchaekekSacredWeaponFeature |  |
 | `7f9448c1113e44abbbae62c5c0114132` | AdvancedGolumWoodSummon |  |
@@ -449,7 +463,11 @@
 | `26ceeb506f2346b5876928178ced700a` | BearShamanWildShape | Wild Shape - Bear Totem Druid |
 | `884d58891e2f473b84761f290f30e187` | BelialFeature | Belial |
 | `eb70fd81bd184f52b3cb77f00277e305` | BelialSacredWeaponFeature |  |
+| `7acb68506e9d44dbac76f5411d8b1a79` | BeneficialAbolethCurseProgression | Aboleth |
+| `7f169d3020f2434bb3d95a5abe130676` | BeneficialAccursedCurseProgression | Accursed |
 | `507bff19f3914a71a37c95fed9e52ce7` | BeneficialDeepOneCurseProgression | Deep One |
+| `e3ea66f9bb3a4ba2a702ca50a72c55bc` | BeneficialGodMeddledCurseProgression | God Meddled |
+| `254df0efd3eb472cb7150353c101acfa` | BeneficialLichCurseProgression | Lich |
 | `8c70b8f644aa489ba5370e08c06def3a` | BeneficialVampirismCurseProgression | Beneficial Vampirism |
 | `8e76612faec2476a904e5380dc08a92d` | BesFeature | Bes |
 | `fd5920bf15d7471b908f75ccc0dff568` | BesmaraFeature | Besmara |
@@ -1240,6 +1258,21 @@
 | `81310085f33e412a8a47719f29f612a8` | GloryDomainSpellListFeatureDruid |  |
 | `dc5321b8be91485a84b31b8967ae3d94` | GloryInvokeDeityAbility | Invoke Deity - Glory Domain |
 | `a329df0833194f6080047241b0c1eca2` | GloryInvokeDeityBuff | Invoke Deity - Glory Domain |
+| `d97cce500c6c46769102083e53fcafe7` | GodMeddledCurseBeneficialFeatureLevel1 | God Meddled |
+| `73217f95267e45a18a6120d866365608` | GodMeddledCurseFeatureLevel1 | God Meddled |
+| `0abb58e338cc4d08bba33bf261def7fd` | GodMeddledCurseFeatureLevel10 | God Meddled |
+| `88201aded2f54aac93a4ceba77ae2bbf` | GodMeddledCurseFeatureLevel15 | God Meddled |
+| `b48bc04439eb4cd7abef22f0be2607a3` | GodMeddledCurseFeatureLevel5 | God Meddled |
+| `08de2f7be6444c2a9e34a556cdcecad2` | GodMeddledCurseNoProgression | God Meddled |
+| `631f5e73fa3a4f249191f91077536815` | GodMeddledCurseProgression | God Meddled |
+| `c915924ebe28400fb87db562b7786a5d` | GodMeddlingActionBuff | God Meddled |
+| `ac5a26f41620401e8dc047eddbc70913` | GodMeddlingBeneficialActionBuff | God Meddled |
+| `e5e65725530248948493efa38d6f3e98` | GodMeddlingBeneficialInCombatBuff | God Meddled Beneficial Combat Buff |
+| `4d6d4d66f06f43068f9f97b4019435ad` | GodMeddlingCasterLevelBuff | God Meddled - Quicken Spell |
+| `f131a79de3aa4d1fb018196070699245` | GodMeddlingInCombatBuff | God Meddled Combat Buff |
+| `f3ccae5f4ca84ce4920657b8cc0dbf76` | GodMeddlingPushAbility | God Meddled - Push |
+| `76f8e7db76474c6fa00456cc81f08901` | GodMeddlingQuickenSpellBuff | God Meddled - Quicken Spell |
+| `257e9d927a2c4fd3bad812634c3256a5` | GodMeddlingTeleportAbility | God Meddled - Teleport |
 | `4c196270176541658044f5c974bf723f` | GoguntaFeature | Gogunta |
 | `b12c2408352d4b1a8cfa8caa7dea44a9` | GoguntaSacredWeaponFeature |  |
 | `63c35a9570f244a496a11262b09c0949` | GoldenLegionnarireImprovedAidFeature | Improved Aid |
@@ -1413,6 +1446,11 @@
 | `22a7c7d9978a464b8df73bd32c7e696d` | LeopardYoungSummoned |  |
 | `a7a0c366de2d44ecb6afaacc70a56aca` | LiberationInvokeDeityAbility | Invoke Deity - Liberation Domain |
 | `f2a3709f05d8443cb9ecc8fd3d2ca758` | LiberationInvokeDeityBuff | Invoke Deity - Liberation Domain |
+| `55172efeadbd4b12b92f0284342edc40` | LichCurseFeatureLevel10 | Lich |
+| `90eca1211b80416a9c8b960ec74753d4` | LichCurseFeatureLevel15 | Lich |
+| `63433a1fc7cc40148ccad6cbc6af4809` | LichCurseFeatureLevel5 | Lich |
+| `7751ddcc8c4e48759358ccb797f486cc` | LichCurseNoProgression | Lich |
+| `b90ae873f4634f12972c7760df853c6c` | LichCurseProgression | Lich |
 | `ffe478487f014587b6293f9716b3037e` | LightningDomainAllowed |  |
 | `f24216f828e542ffb4fea9f0e53fb7bd` | LightningDomainAllowedSeparatist |  |
 | `b751760d43cc47aa9a8a8ec01b2ceea4` | LightningDomainBaseFeature | Lightning Subdomain |
