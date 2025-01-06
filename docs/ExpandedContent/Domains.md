@@ -19,7 +19,7 @@ Domain Spells: divine favor, communal protection from evil, prayer, forced repen
 You are a true scholar of the mystic arts, harnessing the fusion of arcane and divine.   
 Arcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
 Dispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th.   
-Domain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, mages disjunction.
+Domain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, clashing rocks.
 
 `c0a52e60c4c24a3381883d3acb6f2d98`  
 `ArcaneDomainProgression`  
@@ -297,17 +297,6 @@ Domain Spells: hydraulic push, slipstream, stinking cloud, freedom of movement, 
 
 `40a47e9861c044518dbefa0634820904`  
 `RiversDomainProgression`  
-
-## Scalykind Domain
-
-  
-You are a true lord of reptiles, and your gaze can drive weak creatures into unconsciousness.   
-Venomous Stare: This gaze attack can target a single creature within meduim range. The target must make a Will save (DC = 10 + 1/2 your cleric level + your Wisdom modifier). Those who fail take 1d6 points of nonlethal damage + 1 point for every two cleric levels you possess and are fascinated until the beginning of your next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier. This is a mind-affecting effect.   
-Scaled Companion: At 4th level, you gain the service of an animal companion. Your effective druid level for this animal companion is equal to your cleric level –2.  
-Domain Spells: magic fang, pernicious poison, greater magic fang, poison, animal growth, eyebite, creeping doom, animal shapes, shapechange.
-
-`f6afd7e17c834ff885ff336b88ef51fc`  
-`ScalykindDomainProgression`  
 
 ## Stars Subdomain
 

@@ -209,14 +209,6 @@ Benefit: You can select one additional cruelty to use with profane corruption.
 `c821be12a3df438d955036d1de293ad7`  
 `MasteredCruelty`  
 
-### Impossible Blessing (Divine Tracker)
-
-You feel a closer connection to your deity you serve.  
-You gain one more blessing, ignoring all blessing prerequisites.
-
-`8304acc5a2824b0aa02d98d821a44422`  
-`DTImpossibleBlessingSelection`  
-
 ### Impossible Subdomain
 
 Your mastery over domains grants you access to more niche areas of divine power.

@@ -788,6 +788,7 @@
 | `160babe55b4c406da1531db87ea544f6` | DivineHerbalistDragonMysteryFeature | Dragon |
 | `2efe1f62d44049759b462f5303b707cc` | DivineHerbalistHeavensMysteryFeature | Heavens |
 | `7ac6d74475ee409c827703c87541c553` | DivineHerbalistLunarMysteryFeature | Lunar |
+| `bd4236af213742c9b46eb49a5c632f04` | DivineHerbalistMetalMysteryFeature | Metal |
 | `f678dfefdabc4f5199cc65bd46255d18` | DivineHerbalistShadowMysteryFeature | Shadow |
 | `0a0a7f014f074a8eac3cbc7de94b1b33` | DivineHerbalistSuccorMysteryFeature | Succor |
 | `e1fc79d7dd1f45c1b46004ab8b42e7c0` | DivineHerbalistWinterMysteryFeature | Winter |
@@ -1114,6 +1115,8 @@
 | `a8d5be3b0f304ec7a132b616ba92fbf5` | EnlightnedPhilosopherHeavensSpells |  |
 | `0a69ce4ddde54660acab585e4f217e9b` | EnlightnedPhilosopherLunarMysteryFeature | Lunar |
 | `9c540c6d7d884263bada3b7958942d71` | EnlightnedPhilosopherLunarSpells |  |
+| `90207da120d9461f88b44fb729df92d4` | EnlightnedPhilosopherMetalMysteryFeature | Metal |
+| `b3238e302b294f49959bb0c05f8c6f6e` | EnlightnedPhilosopherMetalSpells |  |
 | `68a507fbdf9349409c93dbb17f5c0b40` | EnlightnedPhilosopherShadowMysteryFeature | Shadow |
 | `258ebafcbc3e43b38a3f71cb4c23f08a` | EnlightnedPhilosopherShadowSpells |  |
 | `c95398c55bc14a6dbe740a74b91a1911` | EnlightnedPhilosopherSuccorMysteryFeature | Succor |
@@ -1753,6 +1756,8 @@
 | `8b3d7b3bc8154f6ca91c0ea1fb580c62` | OceansEchoLifeSpells |  |
 | `24832c9b04964205b6d43421e56d177b` | OceansEchoLunarMysteryFeature | Lunar |
 | `f8bb24c00b6049d0a42af3e85e86c54a` | OceansEchoLunarSpells |  |
+| `4afd78dd43514ffd8ee91ee770978203` | OceansEchoMetalMysteryFeature | Metal |
+| `0ce8bcc5846b47f5a4b6ac2c8e1c282f` | OceansEchoMetalSpells |  |
 | `a8044859fd51414e972fa74c4ccf9068` | OceansEchoMysterySelection | Mystery |
 | `a1799fd536c947079a5661393195ad22` | OceansEchoNatureMysteryFeature | Nature |
 | `26a1c90a6b19417087c5442d00417f59` | OceansEchoNatureSpells |  |
@@ -1805,6 +1810,14 @@
 | `65e106ecb2f24c5bbb14804bcfe45c45` | OracleLunarFinalRevelationWolfBuff | Lycan Shape - Werewolf |
 | `47c1af4003874908b6841f6c457f0a82` | OracleLunarMysteryFeature | Lunar |
 | `31c1523716ea4e23814e7d94e64a723b` | OracleLunarSpells |  |
+| `0892b392951f487bbadbd8a2a7c7ec9b` | OracleMetalFinalRevelation | Final Revelation |
+| `503257684534453e86ca4024ca30d530` | OracleMetalFinalRevelationFocusSelection | Final Revelation - Weapon Focus |
+| `25cc297e29b0416b8b767cb13bd5628b` | OracleMetalFinalRevelationGreaterFocusSelection | Final Revelation - Greater Weapon Focus |
+| `db819675417d4909aa51c0b7980d7b93` | OracleMetalFinalRevelationImprovedCritSelection | Final Revelation - Improved Critical |
+| `43e6df95f4c24ff592bfb691004e837e` | OracleMetalMysteryFeature | Metal |
+| `b5a491e49ebe4b349115a413ddb17126` | OracleMetalSpells |  |
+| `056f588b1c0e4f2896c3a7871d8a8200` | OracleRevelationArmorMasteryEffectFeature | OracleRevelationArmorMasteryEffectFeature |
+| `f91957289f204644a1ad4a04718d25a5` | OracleRevelationArmorMasteryFeature | Armor Mastery |
 | `92e07216a7b84727a76a5fd0586c41bf` | OracleRevelationArmyOfDarknessFeature | Army of Darkness |
 | `1039d1c1881f4ccba6a4ca87d5f85aef` | OracleRevelationAwesomeDisplay | Awesome Display |
 | `d51abff78da3498b9364f9cd6ab4f17b` | OracleRevelationBeastFormFeature1 |  |
@@ -1835,6 +1848,11 @@
 | `89012fdfc49d4199b07f6d1d0dc324de` | OracleRevelationColdAuraBuff | Cold Aura |
 | `58c7b663843242398f657ff50ddde08e` | OracleRevelationColdAuraFeature | Cold Aura |
 | `166847cab72e472ab84f7564a83ea74c` | OracleRevelationColdAuraResource |  |
+| `e341cbd6b3a44495a58dc5bb421506e8` | OracleRevelationDanceOfTheBladesAbility | Dance of the Blades |
+| `0ecd4ea678e74868b761cfc3ff1c225b` | OracleRevelationDanceOfTheBladesAbilityBuff | Dance of the Blades - Shield Buff |
+| `87804e58b60547da90d832723ba61691` | OracleRevelationDanceOfTheBladesAbilityFeature | Dance of the Blades - Ability Holder |
+| `fe4f480ed8c94ba7abcc8958bbaf7898` | OracleRevelationDanceOfTheBladesFeature | Dance of the Blades |
+| `eb16ab4daedf459f85986ac78118e1d6` | OracleRevelationDanceOfTheBladesFeatureBuff | Dance of the Blades - Attack Buff |
 | `eef7dbe7225742e7aadefea24530006d` | OracleRevelationDarkSecretsLevel1Selection | Dark Secrets |
 | `029298a3a8aa4f06a6bab4a7f6c9e7ce` | OracleRevelationDarkSecretsLevel2Selection | Dark Secrets |
 | `5fa4ee3fb60042769b4f83688413c384` | OracleRevelationDarkSecretsLevel3Selection | Dark Secrets |
@@ -1988,6 +2006,29 @@
 | `5c4adc068d9a4e26b77d248da24c0caa` | OracleRevelationInterstallarVoidFeature2 | Interstellar Void |
 | `7cdbd446d04047848dab8c9adba91f4c` | OracleRevelationInterstallarVoidFeature3 | Interstellar Void |
 | `f83510b87fa641f3a41ceafce8060534` | OracleRevelationInterstallarVoidResource |  |
+| `59b9690938bb4cc6bd9ea97f4826c1bb` | OracleRevelationIronConstitutionFeature | Iron Constitution |
+| `5b50abdec75649a1a6d7aab82182ba00` | OracleRevelationIronSkinAbility | Iron Skin |
+| `e8dd87e5735d45b18eebe66ecd3e5c1c` | OracleRevelationIronSkinBuff | Iron Skin |
+| `313be12c06174fbd82c1a337e2096732` | OracleRevelationIronSkinFeature | Iron Skin |
+| `e1233bf8079c473f87510b51aaefab3a` | OracleRevelationIronWeaponEnchantAbility | Iron Weapon Enchant |
+| `709c1cab242e437d86bf9bf53f165cab` | OracleRevelationIronWeaponEnchantAbilityMainHand | Iron Weapon Enchant (Main Hand) |
+| `7631a449e1d948febd83c75c4be59042` | OracleRevelationIronWeaponEnchantAbilityOffHand | Iron Weapon Enchant (Off Hand) |
+| `15f35a43b12c4fa29a18e5e25c6723c1` | OracleRevelationIronWeaponEnchantBuff11Main | Iron Weapon Enchant (Main Hand) |
+| `b169ec9e1d3b4898856db437ffeacf7c` | OracleRevelationIronWeaponEnchantBuff11OffHand | Iron Weapon Enchant (Off Hand) |
+| `d69fb5a2668640ce85eaa532e7cf5da0` | OracleRevelationIronWeaponEnchantBuff15Main | Iron Weapon Enchant (Main Hand) |
+| `a69261dd0bdf46888cb434a5037c8e2e` | OracleRevelationIronWeaponEnchantBuff15OffHand | Iron Weapon Enchant (Off Hand) |
+| `047954c813fe498d9736b598d7bf1549` | OracleRevelationIronWeaponEnchantBuff19Main | Iron Weapon Enchant (Main Hand) |
+| `fb23859b72ad465aba8306f11da99e09` | OracleRevelationIronWeaponEnchantBuff19OffHand | Iron Weapon Enchant (Off Hand) |
+| `1995ccdaf3d0440785442a5863433f91` | OracleRevelationIronWeaponEnchantBuff7Main | Iron Weapon Enchant (Main Hand) |
+| `c7104ad98c344c2a8d4991f8f906e3d4` | OracleRevelationIronWeaponEnchantBuff7OffHand | Iron Weapon Enchant (Off Hand) |
+| `6a5d18e2d8a04f9cbc3ad24c7d6f5ab1` | OracleRevelationIronWeaponEnchantBuffBaseMain | Iron Weapon Enchant (Main Hand) |
+| `46c6ef2ed61349468a71879363345589` | OracleRevelationIronWeaponEnchantBuffBaseOffHand | Iron Weapon Enchant (Off Hand) |
+| `f055eb723f8b496fb9b0cb71e37e536b` | OracleRevelationIronWeaponEnchantFeature | Iron Weapon Enchant |
+| `35c544173cd742e794cd47e5e458a95f` | OracleRevelationIronWeaponEnchantFlag11 | OracleRevelationIronWeaponEnchantFlag11 |
+| `63c5fcb98a484b078db7202346c44fd6` | OracleRevelationIronWeaponEnchantFlag15 | OracleRevelationIronWeaponEnchantFlag15 |
+| `b37e37beb42f4f48b4ff0b8f3d0dffe8` | OracleRevelationIronWeaponEnchantFlag19 | OracleRevelationIronWeaponEnchantFlag19 |
+| `f3588340b96742dfa531ad12581d1024` | OracleRevelationIronWeaponEnchantFlag7 | OracleRevelationIronWeaponEnchantFlag7 |
+| `0511d03b542a464ebfe836a6f10f5645` | OracleRevelationIronWeaponEnchantResource |  |
 | `8665521d6f22413183f70857e76f1153` | OracleRevelationLignificationAbility | Lignification |
 | `f18f436b662340cc8c9f0f08f8751d61` | OracleRevelationLignificationBuff | Lignification |
 | `0b2a7ab1a7594b6ca2a7b5bf73cc723d` | OracleRevelationLignificationFeature | Lignification |
@@ -2033,6 +2074,7 @@
 | `1906c5c258984bae8c43d945c07b3a34` | OracleRevelationShellOfSuccorAbility | Shell of Succor |
 | `73020f9783734e849fa5e815f48b1d19` | OracleRevelationShellOfSuccorBuff | Shell of Succor |
 | `95e2d969a90547d58f3b0577a0b4288a` | OracleRevelationShellOfSuccorResource |  |
+| `41b4e85036f847969aa6a2671ca5702a` | OracleRevelationSkillAtArmsFeature | Skill at Arms |
 | `bc1340a785f04f6389f8d8469b0249d0` | OracleRevelationSprayOfShootingStarsBaseAbility | Spray of Shooting Stars |
 | `8eba17884ccf433da0d5f36f760e41b6` | OracleRevelationSprayOfShootingStarsFeature | Spray of Shooting Stars |
 | `7b1f125df0c2455b8b8dbd7d22258190` | OracleRevelationSprayOfShootingStarsFreeAbility | Spray of Shooting Stars - Free Action |
