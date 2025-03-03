@@ -21,7 +21,7 @@
 
 ### [Arcane Additions](./ArcaneAdditions/README.md) 0.3.0
 
-### [AutomaticBonusProgression](./AutomaticBonusProgression/README.md) 1.0.7
+### [AutomaticBonusProgression](./AutomaticBonusProgression/README.md) 1.0.8
 
 ### [Baphomet Rides Deskari](./NenioMod/README.md) 1.1.3
 
