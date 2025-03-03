@@ -32,7 +32,7 @@ An oracle with the lunar mystery adds Mobility, Lore (nature), Perception  and K
 
 ## Metal
 
-An oracle with the Metal mystery adds Athletics, Persuasion and Use Magic Device to her list of class skills.
+An oracle with the metal mystery adds Athletics, Persuasion and Use Magic Device to her list of class skills.
 
 `43e6df95f4c24ff592bfb691004e837e`  
 `OracleMetalMysteryFeature`  

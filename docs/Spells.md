@@ -423,7 +423,7 @@ Druid 8, Shaman 8
 
 You release a burst of barbed, acid-filled nettles. Creatures caught in the burst take 3d6 points of damage plus 1d6 points of acid damage on the next round. Those that save take half damage from the initial burst and no damage on the next round.
 
-Druid 3, Hunter 3
+Druid 3, Hunter 3, Soldier of Gaia 3
 
 `601854840f504063a2512d341524a3c9`  
 `BurstOfNettlesAbility`  
@@ -436,6 +436,18 @@ Wizard 3, Alchemist 3, Bloodrager 3, Inquisitor 3, Magus 3, Child of Acavna and 
 
 `31ed0a88513246afac5b0bea60a728a9`  
 `ClaySkinAbility`  
+
+### Corrosive Consumption
+
+With a touch, this spell causes a small, rapidly growing patch of corrosive acid to appear on the target. On application, the acid deals 1 point of acid damage per caster level (maximum 15).   
+Next round on the casters turn, the acid patch grows and deals 1d4 points of acid damage per caster level (maximum 15d4).   
+During the second round on the casters turn, the acid patch covers the entire creature and deals 1d6 points of acid damage per caster level (maximum 15d6), the acid then evaporates.   
+A creature can only be affected by one instance of corrosive consumption at a time.
+
+Wizard 5, Magus 5
+
+`11ced13202924dd8b609828aa05a3e3d`  
+`CorrosiveConsumptionAbility`  
 
 ### Dance of a Hundred Cuts
 
@@ -466,6 +478,16 @@ Bard 6
 `3385edd23aad4795861425acfa798d64`  
 `DeadlyFinale`  
 
+### Detonate
+
+You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body.   
+Choose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.
+
+Wizard 4, Alchemist 4, Bloodrager 4, Magus 4, Child of Acavna and Amaznen 4, Claw of the False Wyrm 4
+
+`2b591d58f76e4bddbef15e286030663d`  
+`DetonateBaseAbility`  
+
 ### Dust of Twilight
 
 A shower of iridescent black particles clings in the air, removing all forms of glitterdust.   
@@ -480,7 +502,7 @@ Wizard 2, Bard 2, Bloodrager 2, Child of Acavna and Amaznen 2, Claw of the False
 
 A magical field appears around you. This field deflects incoming arrows, rays, and other ranged attacks. Each ranged attack directed at you for which the attacker must make an attack roll has a 20% miss chance (similar to the effects of concealment). Other attacks that simply work at a distance are not affected.
 
-Warpriest 1, Cleric 1, Dread Knight 1
+Warpriest 1, Cleric 1, Dread Knight 1, Faithful Paragon 1
 
 `ff9b4a7437d44c5fa29a7573a63728f5`  
 `EntropicShieldAbility`  
@@ -508,7 +530,7 @@ Wizard 9, Druid 9
 
 You curse the target to suffer unbearable heat. On a failed saving throw, the target is immediately subjected to severe heat, takes 1d4 points of nonlethal damage, and is suffering from heatstroke (fatigued). This spell does not make a creature that is already fatigued, exhausted.
 
-Witch 2, Druid 2, Hunter 2, Skulking Hunter 2
+Witch 2, Druid 2, Hunter 2, Soldier of Gaia 2, Skulking Hunter 2
 
 `accc5584b62e4e73aa0a693f725ddf60`  
 `FuryOftheSunAbility`  
@@ -526,7 +548,7 @@ Witch 3, Wizard 3, Bloodrager 3, Magus 3, Child of Acavna and Amaznen 3, Claw of
 
 Casting Goodberry creates a Bunch of Goodberries and stores them in the party inventory. When eaten the goodberries heal 2d4 point of damage, however if they are eaten more than once a day they can make the creature that ate them sick for a short time.
 
-Druid 1, Hunter 1, Shaman 1, Skulking Hunter 1
+Druid 1, Hunter 1, Shaman 1, Soldier of Gaia 1, Skulking Hunter 1
 
 `f8774451760a427ab4694d10581cfda6`  
 `GoodberryAbility`  
@@ -536,7 +558,7 @@ Druid 1, Hunter 1, Shaman 1, Skulking Hunter 1
 This spell functions as shield of fortification, except there is a 50% chance that the critical hit or sneak attack is negated and damage is instead be rolled normally, rather than 25%.   
 Shield of Fortification: You create a magical barrier that protects a target’s vital areas. When the target is struck by a critical hit or a sneak attack, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. This benefit does not stack with other effects that can turn critical hits or sneak attacks into normal attacks, such as the fortification armor special ability.
 
-Cleric 4, Inquisitor 3, Paladin 3, Ravener Hunter 3
+Cleric 4, Inquisitor 3, Paladin 3, Faithful Paragon 3, Ravener Hunter 3
 
 `a848a5aeb1be4bbdbdf79041c5890098`  
 `ShieldOfFortificationGreaterAbility`  
@@ -554,7 +576,7 @@ Witch 3, Wizard 3, Hunter 1, Magus 2, Ranger 1, Shaman 3, Skulking Hunter 1
 
 You call forth a quick blast of water that knocks over and soaks one creature or square. You can use this blast of water to make a bull rush against any one creature or object. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush does not provoke an attack of opportunity.
 
-Wizard 1, Bloodrager 1, Druid 1, Hunter 1, Magus 1, Shaman 1, Child of Acavna and Amaznen 1, Claw of the False Wyrm 1
+Wizard 1, Bloodrager 1, Druid 1, Hunter 1, Magus 1, Shaman 1, Soldier of Gaia 1, Child of Acavna and Amaznen 1, Claw of the False Wyrm 1
 
 `490cc69049be462eafecf69d7030b07a`  
 `HydraulicPushAbility`  
@@ -567,6 +589,16 @@ Wizard 2, Bard 2, Skulking Hunter 2
 
 `56b8f0304a704a67b3c35cbe8c774854`  
 `HypnoticPatternAbility`  
+
+### Incendiary Cloud
+
+An incendiary cloud spell creates a cloud of roiling smoke shot through with white-hot embers. All targets within the mist gain concealment. the white-hot embers within the cloud deal 6d6 points of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each round to take half damage.  
+Unlike a fog cloud, the incendiary cloud moves away from you at 10 feet per round, rolling along the surface of the ground.
+
+Wizard 8
+
+`99bad8fca7534acdb86866940eef62da`  
+`IncendiaryCloudAbility`  
 
 ### Inflict Pain
 
@@ -592,7 +624,7 @@ Witch 7, Wizard 7, Inquisitor 5, Ravener Hunter 5
 By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC.  
 You must worship a being that grants access to domains in order to cast this spell.
 
-Warpriest 6, Witch 6, Cleric 6, Hunter 4, Inquisitor 6, Paladin 4, Ranger 4, Dread Knight 6, Skulking Hunter 4, Ravener Hunter 6
+Warpriest 6, Witch 6, Cleric 6, Hunter 4, Inquisitor 6, Paladin 4, Ranger 4, Dread Knight 6, Faithful Paragon 4, Skulking Hunter 4, Ravener Hunter 6
 
 `98f9c960637f4934bc4cca02c45cb3bc`  
 `InvokeDeityAbility`  
@@ -601,7 +633,7 @@ Warpriest 6, Witch 6, Cleric 6, Hunter 4, Inquisitor 6, Paladin 4, Ranger 4, Dre
 
 When you cast this spell, choose a single ally. You teleport to your ally’s space while your ally teleports to your former space.
 
-Paladin 4
+Paladin 4, Faithful Paragon 4
 
 `5c0c3a8e3ba34da29fd54a3750fc22b6`  
 `KingsCastleAbility`  
@@ -625,7 +657,7 @@ Confusion: This spell causes confusion in the targets, making them unable to det
 51–75: Deals (1d8 points of damage + Strength modifier) to self with item in hand  
 76–100: Attacks nearest creature
 
-Witch 4, Wizard 4, Bloodrager 4, Druid 4, Hunter 4, Child of Acavna and Amaznen 4, Skulking Hunter 4, Claw of the False Wyrm 4
+Witch 4, Wizard 4, Bloodrager 4, Druid 4, Hunter 4, Soldier of Gaia 4, Child of Acavna and Amaznen 4, Skulking Hunter 4, Claw of the False Wyrm 4
 
 `3bd430ba3d594fdda99751c34fda9c01`  
 `MoonstruckAbility`  
@@ -678,6 +710,15 @@ Wizard 6, Alchemist 6, Skulking Hunter 6
 `77c5256f7fee4ba0ac655043a621e2d8`  
 `PlantShapeIIParentAbility`  
 
+### Plant Shape II
+
+You become a giant-centipede or a giant-fly.
+
+Witch 3, Wizard 4, Alchemist 4, Bloodrager 4, Druid 3, Magus 4, Soldier of Gaia 3, Child of Acavna and Amaznen 4, Skulking Hunter 3, Claw of the False Wyrm 4
+
+`f7f764d8f69d4224880f9183a8013d19`  
+`VerminShapeIParentAbility`  
+
 ### Plant Shape III
 
 You become a huge treant or a huge giant flytrap.
@@ -691,7 +732,7 @@ Wizard 7
 
 The joints of a creature affected by this spell stiffen and swell, making movement painful and slow. The target takes 1d6 points of nonlethal damage per caster level. Additionally, the target takes a –4 penalty to Dexterity and its movement speed decreases by 10 feet; these additional effects last for 1 minute per caster level. A successful save halves the nonlethal damage and negates the penalty to Dexterity and movement.
 
-Warpriest 4, Witch 4, Wizard 4, Cleric 4, Magus 4, Shaman 4, Dread Knight 4, Skulking Hunter 4
+Warpriest 4, Witch 4, Wizard 4, Cleric 4, Magus 4, Shaman 4, Dread Knight 4, Faithful Paragon 4, Skulking Hunter 4
 
 `2bba038472a64f67b235674c7e27d90c`  
 `RigorMortisAbility`  
@@ -747,7 +788,7 @@ Druid 9, Shaman 9
 
 You create a magical barrier that protects a target’s vital areas. When the target is struck by a critical hit or a sneak attack, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. This benefit does not stack with other effects that can turn critical hits or sneak attacks into normal attacks, such as the fortification armor special ability.
 
-Cleric 2, Inquisitor 1, Paladin 1, Ravener Hunter 1
+Cleric 2, Inquisitor 1, Paladin 1, Faithful Paragon 1, Ravener Hunter 1
 
 `5a20c33fce1c4d90b0d8e71d7918d699`  
 `ShieldOfFortificationAbility`  
@@ -756,7 +797,7 @@ Cleric 2, Inquisitor 1, Paladin 1, Ravener Hunter 1
 
 Your own non-magical club or quarterstaff becomes a weapon with a +1 enhancement bonus on attack and damage rolls. A quarterstaff gains this enhancement for both ends of the weapon. It deals damage as if it were two size categories larger (a Small club or quarterstaff so transmuted deals 1d8 points of damage, a Medium 2d6, and a Large 3d6), +1 for its enhancement bonus. These effects only occur when the weapon is wielded by you. If you do not wield it, the weapon behaves as if unaffected by this spell. A magical weapon still gains the damage via size increase, but not the additional +1 bonuses.
 
-Druid 1, Hunter 1, Skulking Hunter 1
+Druid 1, Hunter 1, Soldier of Gaia 1, Skulking Hunter 1
 
 `5576285c9607456db477fa84164af6ef`  
 `ShillelaghAbility`  
@@ -765,7 +806,7 @@ Druid 1, Hunter 1, Skulking Hunter 1
 
 You create low-cresting waves of water under the feet of the target, able to propel them while moving. The target’s speed increases by 10 feet.
 
-Wizard 2, Bloodrager 2, Druid 2, Hunter 2, Ranger 2, Child of Acavna and Amaznen 2, Claw of the False Wyrm 2
+Wizard 2, Bloodrager 2, Druid 2, Hunter 2, Ranger 2, Soldier of Gaia 2, Child of Acavna and Amaznen 2, Claw of the False Wyrm 2
 
 `fe43fadb91b040b38718e88dd5744413`  
 `SlipstreamAbility`  
@@ -799,11 +840,29 @@ Wizard 9
 `0d33465ba73142b78b284140247d9481`  
 `TransmuteBloodToAcidAbility`  
 
+### Trial of Fire and Acid
+
+The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round. The subject can attempt a Fortitude saving throw each round to reduce the damage by half.
+
+Warpriest 3, Witch 3, Wizard 3, Bloodrager 3, Cleric 3, Magus 3, Shaman 3, Dread Knight 3, Faithful Paragon 3, Child of Acavna and Amaznen 3, Claw of the False Wyrm 3
+
+`56557368ccbb415fa57b11612affabb9`  
+`TrialOfFireAndAcidAbility`  
+
+### Vermin Shape II
+
+You become a giant spider. You gain a +4 size bonus to your Strength, a -2 penalty to your Dexterity, a +2 size bonus to your Constitution, +5 natural armor bonus, trip immunity, web immunity, and a web ability with a (DC of 10 + half the casters level + their Constitution modifier); after use, the web ability cannot be used for 1 minute. Your movement speed is increased by 10 feet. You have have two 2d6 bite attacks plus poison
+
+Witch 4, Wizard 5, Alchemist 5, Druid 4, Magus 5, Soldier of Gaia 4, Skulking Hunter 4
+
+`0bc85d15a3f845e589ab1fe3b351352a`  
+`VerminShapeIIAbility`  
+
 ### Wall of Fire
 
 An immobile, blazing curtain of shimmering fire springs into existence. The wall deals fire damage when it appears, to all creatures in the area on your turn each round, and also to any creature that passes through it. The damage dealt is 2d6 points of damage +1 point of damage per caster level (maximum +20). The wall deals double damage to undead creatures.
 
-Wizard 4, Bloodrager 4, Druid 5, Hunter 5, Magus 4, Shaman 4, Child of Acavna and Amaznen 4, Claw of the False Wyrm 4
+Wizard 4, Bloodrager 4, Druid 5, Hunter 5, Magus 4, Shaman 4, Soldier of Gaia 5, Child of Acavna and Amaznen 4, Claw of the False Wyrm 4
 
 `80189142f7c640f39195defdc9777b27`  
 `WallOfFireAbility`  

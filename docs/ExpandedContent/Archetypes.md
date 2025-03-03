@@ -2,6 +2,13 @@
 
 ### [Back to mod overview](./README.md)
 
+## Beastmorph (Alchemist)
+
+Beastmorphs study the anatomy of monsters, learning how they achieve their strange powers. They use their knowledge to duplicate these abilities, but at the cost of taking on inhuman shapes when they use mutagens.
+
+`fa598a5179cb4291bb13070b513c588c`  
+`BeastmorphArchetype`  
+
 ## Mindchemist (Alchemist)
 
 While most alchemists use mutagens to boost their physical ability at the cost of mental ability, some use alchemy for the opposite purpose—to boost the power of the mind and memory. A mindchemist can reach incredible levels of mental acuity, but suffers lingering debilitating effects to his physique.
@@ -190,6 +197,20 @@ Wyrm singers spin fragments of the story of the ongoing struggle between noble A
 
 `5a88b067366149668f8b33636b47fb20`  
 `WyrmSingerArchetype`  
+
+## Faithful Paragon (Warpriest)
+
+For warprieists that find themselves fighting back to back with paladins, the call to take up additional oaths in service to their god is often expected. Those who do gain the power to manifest their faith in battle granting them enhanced vitality. Their strong devotion grants them the title of faithful paragon.
+
+`6a41c40fbc4844318baa284cf70b2d5f`  
+`FaithfulParagonArchetype`  
+
+## Soldier of Gaia (Warpriest)
+
+Every war needs soldiers. Most people don’t know it, but a war rages every day between the forces of the natural world and those that would defile and destroy it. Whether these enemies be the obscene monstrosities of other planes or the foulness known as “civilization”, Golarion calls upon a few mortal emissaries to serve as her warriors in this fight.
+
+`4d8a9bd42a134055a1dab1073eabbff0`  
+`SoldierOfGaiaArchetype`  
 
 
 ### [Back to mod overview](./README.md)

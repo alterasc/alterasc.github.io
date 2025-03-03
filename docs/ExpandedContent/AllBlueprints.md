@@ -52,6 +52,8 @@
 | `bbbf1252b3644ed88703a93fdd5d3602` | AidAnotherOffenceBuff | Aid Another - Distracted Defending |
 | `626384670e66421cb39e6118906bcca3` | AirInvokeDeityAbility | Invoke Deity - Air Domain |
 | `8af2c36dd0b74eb7b79b2563d55b37c5` | AirInvokeDeityBuff | Invoke Deity - Air Domain |
+| `43a9a695ea6a4317ae020472bd9f1d70` | AldinachFeature | Aldinach |
+| `d6e7450df15249298aadea0d09c30951` | AldinachSacredWeaponFeature |  |
 | `a32f8b7c6b734340ab2aef4972db9369` | AlsetaFeature | Alseta |
 | `be2faf02356043c691531c85b0e19760` | AlsetaSacredWeaponFeature |  |
 | `555d88c706b845d7a04ac3f34742e402` | AmuletEarlyRider | Early Rider |
@@ -388,6 +390,26 @@
 | `7060fc312cb4443c96a78fc3fcbfa4e0` | AsavirCamaraderieProperty |  |
 | `85cde7859f6e49888a1a55cd1714d27b` | AshavaFeature | Ashava |
 | `5644f350a4ca4999878cad1953747960` | AshavaSacredWeaponFeature |  |
+| `ea15358a78cd4804917ab9f48439c5d8` | AshDomainAllowed |  |
+| `dd1cd29100d84d83899b562dd978f2f2` | AshDomainAllowedSeparatist |  |
+| `0eb3e57152e249f781594d6bcd0ac42c` | AshDomainBaseFeature | Ash Subdomain |
+| `2ffb7cde333540089a216c33196d80a8` | AshDomainBaseFeatureSeparatist | Ash Subdomain |
+| `04d850b5b03447b698be4143ddf9ca1f` | AshDomainGreaterAbility | Wall of Ashes |
+| `f42d3db5c03040e6b1cbc89d7b3190b5` | AshDomainGreaterAbilitySeparatist | Wall of Ashes |
+| `d819ad2750ac41d6b8863fd0f316adad` | AshDomainGreaterArea |  |
+| `f0f6ee25ba6d452480b4cf6f6fd30ff1` | AshDomainGreaterBuffBlind | Wall of Ashes - Blind |
+| `9dde9897d66c468389603864e3aa6898` | AshDomainGreaterBuffRemoveInvisible | Wall of Ashes - Visible |
+| `85977d4d8e534ec8914e92ed84aea034` | AshDomainGreaterFeature | Wall of Ashes |
+| `7d42be33f9dc4f7791b017da45ca80d8` | AshDomainGreaterFeatureSeparatist | Tunnel Runner |
+| `6c4987f0454d46338a344813347ada51` | AshDomainGreaterResource |  |
+| `ea738e26f8e04b599053922eff5acfcc` | AshDomainGreaterResourceSeparatist |  |
+| `085941c89c8446f38682d77c588b8219` | AshDomainProgression | Ash Subdomain |
+| `07ae5dc33df24059a3535d8795e7f62b` | AshDomainProgressionDruid | Ash Subdomain |
+| `65849c3a84b94ad99566341880a620e5` | AshDomainProgressionSecondary | Ash Subdomain |
+| `3559f83d8994455ab1d93cbe0d9e16bc` | AshDomainProgressionSeparatist | Ash Subdomain |
+| `c96c390050b94be598f35a5ae431e01b` | AshDomainSpellList |  |
+| `65d41be7ad1c450dbb35538e7ce8eb6f` | AshDomainSpellListFeature |  |
+| `939dd3e21b3e4ff5bbe04327147f382b` | AshDomainSpellListFeatureDruid |  |
 | `9fc14e86e83d481e9e52411b85e59076` | AspectOfTheMantisAbility | Aspect Of The Mantis |
 | `1fdd09546ad745f3b1cc84daa3fe8ba5` | AspectOfTheMantisBuff | Aspect of the Mantis |
 | `001d2685e1204827ba35651eb5f17d0d` | AspectOfTheMantisFeature | Aspect Of The Mantis |
@@ -461,6 +483,44 @@
 | `a2bc6649f1ec4b5992485150d2460cb0` | BearShamanTotemTransformationToughnessToggleAbility | Bear Totem Transformation - Toughness |
 | `f64ac7262d19402f848a3171bfb78122` | BearShamanTotemTransformationToughnessToggleBuff | Bear Totem Transformation - Toughness |
 | `26ceeb506f2346b5876928178ced700a` | BearShamanWildShape | Wild Shape - Bear Totem Druid |
+| `748e47da63d54ad5a6ea169b145ae70e` | BeastformMutagenWebAbility | Spiders Web |
+| `e00b0bbb71ab4376b3058d444c4e7cc6` | BeastformMutagenWebCooldown | Web Ability Cooldown |
+| `fa598a5179cb4291bb13070b513c588c` | BeastmorphArchetype | Beastmorph |
+| `a10cd25fc06349a0b0d7b65931b55690` | BeastmorphBeastformGrandMutagenFeature | Grand Beastform Mutagen |
+| `00de30bbab8940cb857cdf0adb4e6cfe` | BeastmorphBeastformGreaterMutagenFeature | Greater Beastform Mutagen |
+| `bd336aa57b844747a2ad2d7d57a34845` | BeastmorphBeastformImprovedMutagenFeature | Improved Beastform Mutagen |
+| `220e71d1635b45b786d58aeb7b1cde01` | BeastmorphBeastformMutagenBase | Beastform Mutagen |
+| `9594114868544d54ad7524c25032428d` | BeastmorphBeastformMutagenBlindsense | Beastform Mutagen - Blindsense |
+| `310453a713e14478b12db703a3a0916a` | BeastmorphBeastformMutagenBlindsenseBuff | Beastform Mutagen - Blindsense Toggle |
+| `589a96f0a3c94fc8820c19431898d274` | BeastmorphBeastformMutagenBlindsenseEffectBuff | Beastform Mutagen - Blindsense |
+| `f5384f12c49f4b1da9ec2c5811d8158e` | BeastmorphBeastformMutagenBuoyancy | Beastform Mutagen - Buoyancy |
+| `de7a6bfe670b4a5fa38b2f19085b379e` | BeastmorphBeastformMutagenBuoyancyBuff | Beastform Mutagen - Buoyancy Toggle |
+| `9730f56240e9441dadb24fcc928f8a4f` | BeastmorphBeastformMutagenBuoyancyEffectBuff | Beastform Mutagen - Buoyancy |
+| `662b0597f293435eaa9c3f15c278eb21` | BeastmorphBeastformMutagenEyes | Beastform Mutagen - Compound Eyes |
+| `497108afb3184f7eb2c02e11a862578e` | BeastmorphBeastformMutagenEyesBuff | Beastform Mutagen - Eyes Toggle |
+| `f5a9a4df2c5d48cda877e9abf23b6881` | BeastmorphBeastformMutagenEyesEffectBuff | Beastform Mutagen - Compound Eyes |
+| `6bcf62ae701b4c26a6954f1787daace9` | BeastmorphBeastformMutagenFeature | Beastform Mutagen |
+| `a9fbd22a456b4281a1d3b439b7fc4663` | BeastmorphBeastformMutagenFerocity | Beastform Mutagen - Ferocity |
+| `1d18a80860094230966998d69fd7236b` | BeastmorphBeastformMutagenFerocityBuff | Beastform Mutagen - Ferocity Toggle |
+| `7b8de144f54c467c8e0670461e0751d3` | BeastmorphBeastformMutagenFerocityEffectBuff | Beastform Mutagen - Ferocity |
+| `48e4b53e58094be3af15e922abe84b22` | BeastmorphBeastformMutagenPounce | Beastform Mutagen - Pounce |
+| `4b37243c52d94c3a886dd6a302846cd2` | BeastmorphBeastformMutagenPounceBuff | Beastform Mutagen - Pounce Toggle |
+| `582590e7bbdf431683b0873dcbc4bcba` | BeastmorphBeastformMutagenPounceEffectBuff | Beastform Mutagen - Pounce |
+| `bb7ad03ca22b4a4ead58e4355f8f6f7d` | BeastmorphBeastformMutagenScales | Beastform Mutagen - Scaly Skin |
+| `244b5d3ee3cb403182735ed8502d48ce` | BeastmorphBeastformMutagenScalesBuff | Beastform Mutagen - Scales Toggle |
+| `ec9b1a4ecbb545d98d5c688b4ddeaaf1` | BeastmorphBeastformMutagenScalesEffectBuff | Beastform Mutagen - Scaly Skin |
+| `0f8b5ebb8ed34907ae7d6afda02c56da` | BeastmorphBeastformMutagenScent | Beastform Mutagen - Scent |
+| `11f6ef8f13764a69a8f0eb531950f57d` | BeastmorphBeastformMutagenScentBuff | Beastform Mutagen - Scent Toggle |
+| `9c35b16e74094081a13a9797ccf293b6` | BeastmorphBeastformMutagenScentEffectBuff | Beastform Mutagen - Scent |
+| `3bfbc8ea90d04a7fb348c6f3893ac742` | BeastmorphBeastformMutagenSpeed | Beastform Mutagen - Speed |
+| `3a844458d9214217951890d0b527cf8e` | BeastmorphBeastformMutagenSpeedBuff | Beastform Mutagen - Speed Toggle |
+| `f415b1989e0c4253b6ba0391687312c9` | BeastmorphBeastformMutagenSpeedEffectBuff | Beastform Mutagen - Speed |
+| `aaaeff7c73fc4a8e9a4f558cfb70219c` | BeastmorphBeastformMutagenTrip | Beastform Mutagen - Trip |
+| `23323ac26e82470aabf89ac32cbe9126` | BeastmorphBeastformMutagenTripBuff | Beastform Mutagen - Trip Toggle |
+| `d0d193c0d7d144c298405fed34c32997` | BeastmorphBeastformMutagenTripEffectBuff | Beastform Mutagen - Trip |
+| `98e7608ce61a4b99b580f9e2e79bfa58` | BeastmorphBeastformMutagenWeb | Beastform Mutagen - Web |
+| `ed57b2e702754378aa79f68f0604ed63` | BeastmorphBeastformMutagenWebBuff | Beastform Mutagen - Web Toggle |
+| `75ff071c93c84ec1a053b0b115f0b670` | BeastmorphBeastformMutagenWebEffectBuff | Beastform Mutagen - Web |
 | `884d58891e2f473b84761f290f30e187` | BelialFeature | Belial |
 | `eb70fd81bd184f52b3cb77f00277e305` | BelialSacredWeaponFeature |  |
 | `7acb68506e9d44dbac76f5411d8b1a79` | BeneficialAbolethCurseProgression | Aboleth |
@@ -654,6 +714,9 @@
 | `25343bcf088044ed8870456da08c3e2c` | ConquerorArchetype |  |
 | `d6fb782adedc48aab27b63a4bd5e8b19` | ConquerorInspiredRageFeature | Profane Commandment |
 | `d96e856cd57c48f399f879a44c5801b0` | ConquerorProfaneConquestFeature | Profane Conquest |
+| `11ced13202924dd8b609828aa05a3e3d` | CorrosiveConsumptionAbility | Corrosive Consumption |
+| `c3dbd94a23034215bd5f1b680f42451b` | CorrosiveConsumptionBuff | Corrosive Consumption |
+| `8ad316a0211949329538ee0b0db156dc` | CorrosiveConsumptionFlagBuff | CorrosiveConsumptionFlagBuff |
 | `9add5461501844d6ac8a22cb0d4db029` | CountRanalcFeature | Count Ranalc |
 | `b5a72693222b44d5af4df0ab35b8bd38` | CountRanalcSacredWeaponFeature |  |
 | `367d4cca66984d9b95a4fe6a0f238b68` | CrueltyBlinded | Cruelty - Blinded |
@@ -782,6 +845,19 @@
 | `889ec01d2f844a8b8bf68731abebd305` | DemonLordSelection | Demon Lords |
 | `de4e3862d8d145328c72ea3a5e2362b8` | DestructionInvokeDeityAbility | Invoke Deity - Destruction Domain |
 | `2fd9cf5ca7124162934348940f1575b1` | DestructionInvokeDeityBuff | Invoke Deity - Destruction Domain |
+| `926d65bd40204961a5d5a01393fbd0bd` | DetonateAcidAbility | Detonate - Acid |
+| `27bbdad4afe642d1b716c508edc4e7aa` | DetonateAcidBuff | Detonate - Acid |
+| `d8356f82a41149da972555e9d193bfab` | DetonateAcidExplosion | Detonate - Acid |
+| `2b591d58f76e4bddbef15e286030663d` | DetonateBaseAbility | Detonate |
+| `d2fa502326cc41dd8402ebf0c824a16d` | DetonateColdAbility | Detonate - Cold |
+| `9855bcf87739478090e5a5c4ef1829e4` | DetonateColdBuff | Detonate - Cold |
+| `973337433f6e494bb1f9a48e283cc710` | DetonateColdExplosion | Detonate - Cold |
+| `aaefb6a25b9946afa7e847ac1920b799` | DetonateElectricityAbility | Detonate - Electricity |
+| `fa021c762a804403ac8fb8e459a0ce9e` | DetonateElectricityBuff | Detonate - Electricity |
+| `1d67d73dbd5d49c0927751efe2f8692c` | DetonateElectricityExplosion | Detonate - Electricity |
+| `063ba1aadca94a5c8675bbd32221f211` | DetonateFireAbility | Detonate - Fire |
+| `1c5a72e999624932b19b1cbe4e10f451` | DetonateFireBuff | Detonate - Fire |
+| `7f4725b1c195439fb3d857ad288d6d87` | DetonateFireExplosion | Detonate - Fire |
 | `cb61f585a265416bbde2449ff26d6b3a` | DispaterFeature | Dispater |
 | `fec6e1f77c0b4b6b8cfe43b7bd61ed4e` | DispaterSacredWeaponFeature |  |
 | `235237c5199c48b0a8a8d3974b0a8ed7` | DivineHerbalistDarkTapestryMysteryFeature | Dark Tapestry |
@@ -1093,6 +1169,22 @@
 | `9c5441c053bb4132bbdcbab7664dc1ca` | DrethaFeature | Dretha |
 | `7f438547569f4232954439c551eb270c` | DrethaSacredWeaponFeature |  |
 | `8304acc5a2824b0aa02d98d821a44422` | DTImpossibleBlessingSelection | Impossible Blessing (Divine Tracker) |
+| `749298daa3494edc9ea2992cb21d8f6a` | DuelsDomainAllowed |  |
+| `c8bfa844fcc64293be67b7030ca5cf8c` | DuelsDomainAllowedSeparatist |  |
+| `61d277983c1843baafbe230d39cfab42` | DuelsDomainBaseAbility | Divine Challenge |
+| `fadea9f848c142ca93b604ed96fda38c` | DuelsDomainBaseAbilitySeparatist | Divine Challenge |
+| `42b523d911704e19b59d9153f0185090` | DuelsDomainBaseBuff | Divine Challenge |
+| `701c1029645a4b3082405cdcaf1a0b0d` | DuelsDomainBaseFeature | Duels Subdomain |
+| `bdcba44614b249c5b27cbb239db68b80` | DuelsDomainBaseFeatureSeparatist | Duels Subdomain |
+| `ce72c972561541fc8ffd57347ab24dd0` | DuelsDomainBaseResource |  |
+| `64e8447a468d48ff884ab0d2c991b3db` | DuelsDomainBaseResourceSeparatist |  |
+| `faf05bf7dd1046f68819a61043cb28f4` | DuelsDomainFeintBluffBuff | DuelsDomainFeintBluffBuff |
+| `f66fdfd636f744498980ca5dacf16e78` | DuelsDomainFeintBluffBuffSeparatist | DuelsDomainFeintBluffBuffSeparatist |
+| `7065b07c0d744a5c8891edc8d6478d27` | DuelsDomainProgression | Duels Subdomain |
+| `7e6f185f2b5d413c880891aa99a12ab5` | DuelsDomainProgressionSecondary | Duels Subdomain |
+| `0a43b97a72d4423eb71af272509e1d28` | DuelsDomainProgressionSeparatist | Duels Subdomain |
+| `6545b35c59eb47049a523e102c5d56ca` | DuelsDomainSpellList |  |
+| `036336bb25794e60b5cf47f5ba607d9c` | DuelsDomainSpellListFeature |  |
 | `cc055016ef114931aee2463200814e53` | DustOfTwilightAbility | Dust of Twilight |
 | `9064080e7a754405a893e5dca44c7128` | EarthInvokeDeityAbility | Invoke Deity - Earth Domain |
 | `3f76e2bcc079412c821e63be2345ebf6` | EarthInvokeDeityBuff | Invoke Deity - Earth Domain |
@@ -1142,6 +1234,17 @@
 | `0b199783b64e46fd812739448ed392e3` | ExtraRageWolverineFeat | Extra Rage (Wolverine) |
 | `e0c949597e22478f8d9c845f217f3d16` | EyesOfTheStormFeature | Eyes of the Storm |
 | `a77cfe3e6ff84244ace663367c6d2810` | FadedGrace | Faded Grace |
+| `6a41c40fbc4844318baa284cf70b2d5f` | FaithfulParagonArchetype | Faithful Paragon |
+| `1d31874108594b67bb7068a93ea9898e` | FaithfulParagonDivineConvictionAbility | Divine Conviction |
+| `656c9738744a4a7bb12918e5ff3c1e5a` | FaithfulParagonDivineConvictionBuff | Divine Conviction |
+| `a6d8e1b533df458099c1aafda327319c` | FaithfulParagonDivineConvictionFeature | Divine Conviction |
+| `07a1564a84984cb39716eca418e0deef` | FaithfulParagonFaithSustainsAbility | Faith Sustains |
+| `152526fdb43145458cd7216b9148c401` | FaithfulParagonFaithSustainsBuff | Faith Sustains |
+| `eb3e734a272143ae91b0299fbdaf657c` | FaithfulParagonFaithSustainsFeature | Faith Sustains |
+| `e57d678464444ca8868dad9869fbd63c` | FaithfulParagonFervorFeature | Paragons Fervor |
+| `5519a931581646a3a0ad22128bb8bb2c` | FaithfulParagonSpellbook |  |
+| `a6189c1e7a864134904c69d18baef3a5` | FaithfulParagonSpelllist |  |
+| `aadc3675dc3c4ee0907fe9b1528e8036` | FaithfulParagonSpellsFeature | Paragon Spells |
 | `a22bc0e8c8e642298a2eaa503c067224` | FakeDivineScourgeCastingStatProperty |  |
 | `7316c5a89dc94c6298defb156da3b723` | FalaynaFeature | Falayna |
 | `e88d772b99ff447f858fb30bb3f26f74` | FalaynaSacredWeaponFeature |  |
@@ -1235,6 +1338,8 @@
 | `283d7cca05f74c1590faef70b0b419d9` | GhatanothoaSacredWeaponFeature |  |
 | `37d271b6ff5d4aa89fe61a972787d3e8` | GhenshauFeature | Ghenshau |
 | `e1bae95d4ae940ef920e40cd5dc32221` | GhenshauSacredWeaponFeature |  |
+| `c5daae2c52b34a84a396a34b42924b3e` | GhlaunderFeature | Ghlaunder |
+| `5d551578ac0d4cafa1f21d1aa7590558` | GhlaunderSacredWeaponFeature |  |
 | `81d2738a21994adc8a112123af223bdf` | GiftOfClawAndHornBitePlus0 | Gift of Claw and Horn - Bite |
 | `f171f68d36c0456f8697aa4e37bcdcde` | GiftOfClawAndHornBitePlus1 | Gift of Claw and Horn - Bite |
 | `5c1f6890c62d4d77bed64143aa9f3cc5` | GiftOfClawAndHornBitePlus2 | Gift of Claw and Horn - Bite |
@@ -1326,6 +1431,8 @@
 | `ad6e7f7501f34d9fa37f09680c15f01a` | HellknightSigniferDreadKnightLevelUp | Dread Knight |
 | `2d865c84d6c3491387ea363569165445` | HellknightSigniferDreadknightProgression | Dreadknight |
 | `33161fbd54774c4eacbea62ab390716a` | HellknightSigniferDreadKnightProgression | Dread Knight |
+| `e85aeac21cc74695bcc58fec8f65190d` | HellknightSigniferFaithfulParagonLevelUp | Faithful Paragon |
+| `ef248ae6d2b143479dc6115494a47cdd` | HellknightSigniferFaithfulParagonProgression | Faithful Paragon |
 | `668371e377e94e79b596d688619f3a5b` | HellknightSigniferLivingScriptureLevelUp | Living Scripture |
 | `5374a389d36349ec8e3bf615a903ebdc` | HellknightSigniferLivingScriptureProgression | Living Scripture |
 | `a8919490d978443fbaafac7bb4df2650` | HellknightSigniferRavenerHunterLevelUp | Ravener Hunter |
@@ -1334,6 +1441,8 @@
 | `3d524b6be5e648bd98d651b722adb1aa` | HellknightSigniferSilverChampionProgression | Silver Champion |
 | `05db0e04696f4279a31c77accf30d4d2` | HellknightSigniferSkulkingHunterLevelUp | Skulking Hunter |
 | `d190e8fb6a9b45bfb0f56c4b7e22701b` | HellknightSigniferSkulkingHunterProgression | Skulking Hunter |
+| `fb1140af7eae4065b895431bcca96e30` | HellknightSigniferSoldierOfGaiaLevelUp | Soldier of Gaia |
+| `28af5a2f6a124a29abba4ef858a340e2` | HellknightSigniferSoldierOfGaiaProgression | Soldier of Gaia |
 | `5ed1e77f50a341169ef1456784b387df` | HellknightSigniferSwornOfTheEldestLevelUp | Sworn of the Eldest |
 | `33c8016fbf66462e966a3826dc1a6529` | HellknightSigniferSwornOfTheEldestProgression | Sworn of the Eldest |
 | `3c950c6280fc40e59a5ceddbd44cbc71` | HeroismDomainAllowed |  |
@@ -1393,9 +1502,45 @@
 | `94834613498942138a9de088384d14dc` | ImprovedDraconicResistanceAnimalCompanionFire |  |
 | `fef009c1415242058c783a1d60ecdb9d` | ImprovedDraconicResistanceAnimalCompanionFire15 | Draconic Resistance - Fire |
 | `bb1ca16d2c7b4769a8f74c0b3fb97263` | ImprovedDraconicResistanceAnimalCompanionFire9 | Draconic Resistance - Fire |
+| `99bad8fca7534acdb86866940eef62da` | IncendiaryCloudAbility | Incendiary Cloud |
+| `16dd156ac57a420d82dfbad6e8e73ec7` | IncendiaryCloudArea |  |
+| `09011f923eb14c3898480fdb825c946d` | IncendiaryCloudConcealmentBuff | Incendiary Cloud Concealment |
 | `e023af1af9c147549a8e7bd246967861` | InflictPainAbility | Inflict Pain |
 | `4865223d0cc14ba3b994f5090e01f652` | InflictPainBuff | Inflict Pain |
 | `ff31ae1abe3c418db7842dcc76eca7ee` | InflictPainMassAbility | Inflict Pain, Mass  |
+| `5074eebebae6496e899f575d018f950c` | InsanityDomainAllowed |  |
+| `b498e999b6cb40a4bcedb6f6eba033c6` | InsanityDomainAllowedSeparatist |  |
+| `34811bd3991046b8bf46f18ce89641c0` | InsanityDomainBaseAbility | Insane Focus |
+| `25ebee8776c04afaa1f92f4fa2cb98b5` | InsanityDomainBaseAbilitySeparatist | Insane Focus |
+| `40596ae15acc46ddaa46e5348fc2caa4` | InsanityDomainBaseBuff | Insanity Beacon - DC |
+| `b882e2d5f17e450385b43818123b2666` | InsanityDomainBaseFeature | Insanity Subdomain |
+| `1d1195845dda455da2d23fffa9999136` | InsanityDomainBaseFeatureSeparatist | Insanity Subdomain |
+| `8700f8bc5e2f4d9191bced2083c442da` | InsanityDomainBaseResource |  |
+| `a75a324be6ed4bc8ab0dd2009e9dcd32` | InsanityDomainBaseResourceSeparatist |  |
+| `d6d4c40193ef4839a7cef6b30e37dd1a` | InsanityDomainProgression | Insanity Subdomain |
+| `19f2cebd46cb40ea9e1a4aa7cdba0eb6` | InsanityDomainProgressionSecondary | Insanity Subdomain |
+| `c75703e780dd43a38604a80ff1c34146` | InsanityDomainProgressionSeparatist | Insanity Subdomain |
+| `2e7f41fcd16443f79608330587f51406` | InsanityDomainSpellList |  |
+| `ba7c2f9d54a04c14b56eef4434326194` | InsanityDomainSpellListFeature |  |
+| `202ae02a8b5c4e2188b0a3cc274dabe5` | InsectDomainAllowed |  |
+| `b69023aed0084f55983cd929a13e7388` | InsectDomainAllowedSeparatist |  |
+| `4ff5c26add87406694f3da39d6261dd0` | InsectDomainAnimalCompanionSelection | Insect Subdomain Vermin Companion |
+| `9bed4bf22e284d6dacca476d442a0765` | InsectDomainAnimalCompanionSelectionSeparatist | Insect Subdomain Vermin Companion |
+| `4b83cfcb56424e41973d9970f2c436ef` | InsectDomainBaseAbility | Exoskeleton |
+| `96caa3d8dd3b4e0d8d738f1d09d9f37a` | InsectDomainBaseAbilitySeparatist | Exoskeleton |
+| `6fb5c463f33e4cd1a3df5b48cc3a6918` | InsectDomainBaseBuff | Exoskeleton |
+| `eff342b63fc2467d97ea6d5a1a89bd9d` | InsectDomainBaseBuffSeparatist | Exoskeleton |
+| `b0591b92351f426587720427c04b4d9d` | InsectDomainBaseFeature | Insect Subdomain |
+| `d9aea64bfcfe4517a0d647142d7ef597` | InsectDomainBaseFeatureSeparatist | Insect Subdomain |
+| `c41cd97c7d8047ba9b2b46c2b54521c1` | InsectDomainBaseResource |  |
+| `1a464f3dd6df4dfc808168f9bb08ca1f` | InsectDomainBaseResourceSeparatist |  |
+| `25325b7ff157484cbf9a2a118cc6d68d` | InsectDomainProgression | Insect Subdomain |
+| `cb27ac3b23804a6fa396e62fcdab2c19` | InsectDomainProgressionDruid | Insect Subdomain |
+| `4fd8efae9f0c4088b43f41b33f632989` | InsectDomainProgressionSecondary | Insect Subdomain |
+| `5bbee3f0bfe7443ea219f462c90c3dac` | InsectDomainProgressionSeparatist | Insect Subdomain |
+| `351b22ca6c014bfb9ab7386c3242cb05` | InsectDomainSpellList |  |
+| `350defa362894044816d626a884e7702` | InsectDomainSpellListFeature |  |
+| `f8832ee4f15145d19e8aa6004dc23e5f` | InsectDomainSpellListFeatureDruid |  |
 | `072e234c88fb42dda90350b098700bfd` | InspiringSongFeature | Inspiring Song |
 | `98f9c960637f4934bc4cca02c45cb3bc` | InvokeDeityAbility | Invoke Deity |
 | `859f4e21afcd4c5b83ade222b3f19349` | IrezFeature | Irez |
@@ -1505,6 +1650,8 @@
 | `9db7d1c08aea48a4a617bfcebf33564f` | LoremasterClawOfTheFalseWyrmProgression | Claw of the False Wyrm |
 | `bf7de0934c3d45bc9e18d28bff9cea88` | LoremasterDreadKnightLevelUp | Dread Knight |
 | `4ef4abc0d9694e1aa11c7cfa36a93cc8` | LoremasterDreadKnightProgression | Dread Knight |
+| `f8dfced9628440cc97675ceae1403553` | LoremasterFaithfulParagonLevelUp | Faithful Paragon |
+| `aca187862c0c4ddfb4f3d7bd9a57e63d` | LoremasterFaithfulParagonProgression | Faithful Paragon |
 | `dc3ba9a16f1445849be60cda88a6423d` | LoremasterLivingScriptureLevelUp | Living Scripture |
 | `46aecc5e02f94f0aa1aa61d916063693` | LoremasterLivingScriptureProgression | Living Scripture |
 | `3fb1aa3726c044fba791da6d796f51fa` | LoremasterRavenerHunterLevelUp | Ravener Hunter |
@@ -1513,6 +1660,8 @@
 | `8fb9205abf4f48e2990ae08d6b551386` | LoremasterSilverChampionProgression | Silver Champion |
 | `22f40521dcb14a8b9a367a9477070585` | LoremasterSkulkingHunterLevelUp | Skulking Hunter |
 | `8b3a1168be444ec38ff1723ae37cb234` | LoremasterSkulkingHunterProgression | Skulking Hunter |
+| `dc917e2a3793450f9178432686c20b93` | LoremasterSoldierOfGaiaLevelUp | Soldier of Gaia |
+| `da18c4b7af6942339763fbcfd4ea8b0a` | LoremasterSoldierOfGaiaProgression | Soldier of Gaia |
 | `8a8908271b98407dbfa7cc15fea0c3d6` | LoremasterSwornOfTheEldestLevelUp | Sworn of the Eldest |
 | `e948863b65694f2daf46ff21ee0aefb9` | LoremasterSwornOfTheEldestProgression | Sworn of the Eldest |
 | `f0ed32a15bf944b89507a350211286b5` | LoreOfAcavnaAndAmaznenCantripSelection | Lore of Acavna and Amaznen |
@@ -1634,6 +1783,8 @@
 | `603e138060ef413889261827b6a18e2e` | MysticTheurgeDreadKnightLevelSelection4 | Dread Knight Spell (4th Level) |
 | `9d03cf846d284b74b8948e2abb99944a` | MysticTheurgeDreadKnightLevelUp | Dread Knight |
 | `a673487cb5774173a25021a4bd4748a2` | MysticTheurgeDreadKnightProgression | Dread Knight |
+| `5da83cce283e4019b4463e9b55d05048` | MysticTheurgeFaithfulParagonLevelUp | Faithful Paragon |
+| `904da150fa0a403b94464f2bdabdd573` | MysticTheurgeFaithfulParagonProgression | Faithful Paragon |
 | `8aa2a7d7a855458dbcbe87fac9b17b43` | MysticTheurgeLivingScriptureLevelUp | Living Scripture |
 | `42cddfbb3cb44bbea5e52b454ef9fae5` | MysticTheurgeLivingScriptureProgression | Living Scripture |
 | `a84120f6332e4637bf4297214c892b4e` | MysticTheurgeRavenerHunterLevelParametrized1 | Ravener Hunter Spell (1st Level) |
@@ -1666,6 +1817,8 @@
 | `5e32551d14424c499bd72d25040d8ee7` | MysticTheurgeSkulkingHunterLevelSelection6 | Skulking Hunter Spell (6th Level) |
 | `78c7f294ec714c8fa7cd11c4f7ebfc06` | MysticTheurgeSkulkingHunterLevelUp | Skulking Hunter |
 | `58fec5cc02ea4fd59b2b8c51aebd1206` | MysticTheurgeSkulkingHunterProgression | Skulking Hunter |
+| `aa1322a73c0e4fb4ac70ffbc77dee36a` | MysticTheurgeSoldierOfGaiaLevelUp | Soldier of Gaia |
+| `3a79546f1d894334b3cdb5f9e4d2b2c3` | MysticTheurgeSoldierOfGaiaProgression | Soldier of Gaia |
 | `679c05e1dc2146e896aef2397fc60633` | MysticTheurgeSwornOfTheEldestLevelUp | Sworn of the Eldest |
 | `a198431c7c6b457882060fcd9b9244db` | MysticTheurgeSwornOfTheEldestProgression | Sworn of the Eldest |
 | `d815bba6907f403ebde7dabd0463e61d` | MythicalDrakeMaster | Mythical Drake |
@@ -2010,6 +2163,7 @@
 | `5b50abdec75649a1a6d7aab82182ba00` | OracleRevelationIronSkinAbility | Iron Skin |
 | `e8dd87e5735d45b18eebe66ecd3e5c1c` | OracleRevelationIronSkinBuff | Iron Skin |
 | `313be12c06174fbd82c1a337e2096732` | OracleRevelationIronSkinFeature | Iron Skin |
+| `a9a9153fa2d544d9adb7255a10ffc05a` | OracleRevelationIronSkinResource |  |
 | `e1233bf8079c473f87510b51aaefab3a` | OracleRevelationIronWeaponEnchantAbility | Iron Weapon Enchant |
 | `709c1cab242e437d86bf9bf53f165cab` | OracleRevelationIronWeaponEnchantAbilityMainHand | Iron Weapon Enchant (Main Hand) |
 | `7631a449e1d948febd83c75c4be59042` | OracleRevelationIronWeaponEnchantAbilityOffHand | Iron Weapon Enchant (Off Hand) |
@@ -2524,6 +2678,7 @@
 | `2f24cb4710634d3a960c5dde4b32d4f0` | ScrollOfBloodMist | Scroll of Blood Mist |
 | `255f2478c5fb4e30af4457255527ee50` | ScrollOfBurstOfNettles | Scroll of Burst of Nettles |
 | `193f4c23ae5a4174a59f4fa257eb4172` | ScrollOfClaySkin | Scroll of Clay Skin |
+| `d42c0125b4894e49aff64d44c7a133d0` | ScrollOfCorrosiveConsumption | Scroll of Corrosive Consumption |
 | `6331114cce7845c593e33d84033b646c` | ScrollOfDanceOfAHundredCuts | Scroll of Dance of a Hundred Cuts |
 | `22bdc56e68c44e9b8477c302d77fda5a` | ScrollOfDanceOfAThousandCuts | Scroll of Dance of a Thousand Cuts |
 | `8cfb536d66df45778479cecfe6fff905` | ScrollOfDeadlyFinale | Scroll of Deadly Finale |
@@ -2660,8 +2815,37 @@
 | `95e77377937e4259a6bd717687656bbf` | SmilodonGiantAdvancedSummoned |  |
 | `a10d6667ebdd42568634fcc20d2ceca0` | SmilodonGiantSummoned |  |
 | `a9511d1c108649ab940c45d53d120040` | SmilodonYoungSummoned |  |
+| `66aa5877dba4409a938cbaab3b275f37` | SmokeDomainAllowed |  |
+| `ae504fee3a4f485daf7c7dc05e265997` | SmokeDomainAllowedSeparatist |  |
+| `09b9d99401564c21b4399c0b7427dff2` | SmokeDomainBaseAbility | Cloud of Smoke |
+| `009e8ee2e78c4f8a9d9b207e1c6bc76f` | SmokeDomainBaseAbilityArea |  |
+| `0749c184fcbc44298c69737122cdfead` | SmokeDomainBaseAbilitySeparatist | Cloud of Smoke |
+| `981b376f980143fe866bf078055a1dea` | SmokeDomainBaseFeature | Smoke Subdomain |
+| `ce8ce7b1968d4160860f4390f6eebf3c` | SmokeDomainBaseFeatureSeparatist | Smoke Subdomain |
+| `07734b3d3481403aa34ecf7b1e98e038` | SmokeDomainBaseResource |  |
+| `e766a5fcf2d34cc88aadd4821e1f0e05` | SmokeDomainBaseResourceSeparatist |  |
+| `c9d75f733df345a397fa3925e9ec5a0e` | SmokeDomainCloudBuff | Cloud of Smoke |
+| `dd5b98701f7f458a938515e4e4cd3a29` | SmokeDomainCloudExitBuff | Cloud of Smoke - Lingering effect |
+| `ba5b440d5aa94f9ab8431680bbd0a58a` | SmokeDomainProgression | Smoke Subdomain |
+| `eb163ee19b824ed1af15c927e778c80f` | SmokeDomainProgressionDruid | Smoke Subdomain |
+| `cb6487b98f334b8b8fcccf04798fbcda` | SmokeDomainProgressionSecondary | Smoke Subdomain |
+| `93f209080f7a473aaea0d9f91df4d883` | SmokeDomainProgressionSeparatist | Smoke Subdomain |
+| `6fcb6a84d42749f7b600d7fa4f3fba85` | SmokeDomainSpellList |  |
+| `d3e649148e144fe49474a128c5ab38b1` | SmokeDomainSpellListFeature |  |
+| `6fa8149c6a354ca88721afce87725e18` | SmokeDomainSpellListFeatureDruid |  |
 | `886f05ec995244288f4411084245b4ad` | SobekFeature | Sobek |
 | `45cfa9a986064e9fb0b7cabc85fa24fe` | SobekSacredWeaponFeature |  |
+| `4d8a9bd42a134055a1dab1073eabbff0` | SoldierOfGaiaArchetype | Soldier of Gaia |
+| `5e05f87a74f745808977838b418a48fe` | SoldierOfGaiaBlessingSelection | Soldier's Blessing |
+| `11a3e18c04aa468c8a306702714c5f5b` | SoldierOfGaiaFriendOfTheForestAbility | Friend of the Forest |
+| `32cf8ea5e5ab43fc97973461a292ae9d` | SoldierOfGaiaFriendOfTheForestArea |  |
+| `a56719a604be49ba9cc0d8709c5fd1ea` | SoldierOfGaiaFriendOfTheForestBuff | Friend of the Forest |
+| `30ef684439e94a749e3a4c242b4ae640` | SoldierOfGaiaFriendOfTheForestFeature | Friend of the Forest |
+| `337f7cf39bc64dea99d892e237364e32` | SoldierOfGaiaFriendOfTheForestResource |  |
+| `0d15ccac8e4c403fafe7a67b757a783d` | SoldierOfGaiaSpellbook |  |
+| `c69fd151fdf04c4394c2b9cefeadddf1` | SoldierOfGaiaSpelllist |  |
+| `09fc8b4aa62740778a39015fc67b2224` | SoldierOfGaiaSpellsFeature | Druidic Casting |
+| `506c87803aab4796b35ac4bb52dfb15f` | SoldierOfGaiaSpontaneousCasting | Spontaneous Casting |
 | `a007c331c45443928a48157eee1f6b01` | SoralyonFeature | Soralyon |
 | `c80102bb539840148e95a7cc5863542d` | SoralyonSacredWeaponFeature |  |
 | `f57cc49acfc7413b83b7ec6bf162348e` | SpearFighterArchetype | Spear Fighter |
@@ -3320,6 +3504,8 @@
 | `b0964ee7e44c4d668c0b5c7943d0a59b` | TreesingerWildShapeTreantFeature | Wild Shape (Treant) |
 | `af64cc1afde44535b2be0b1101c42338` | TrelmarixianFeature | Trelmarixian |
 | `d628b2034ed24f329d3747917818647d` | TrelmarixianSacredWeaponFeature |  |
+| `56557368ccbb415fa57b11612affabb9` | TrialOfFireAndAcidAbility | Trial of Fire and Acid |
+| `6b5951bc0540437dbc0fc9ed7d82442a` | TrialOfFireAndAcidBuff | Trial of Fire and Acid |
 | `b1e5e42613c9431387466238d895c9d2` | TrickeryInvokeDeityAbility | Invoke Deity - Trickery Domain |
 | `3f5427e469124b85bd3c6d2fac136863` | TrickeryInvokeDeityBuff | Invoke Deity - Trickery Domain |
 | `c3272911d99b44bca8af498b0c05c99b` | TrickShotBullRushAbility | Trick Shot - Bull Rush |
@@ -3388,6 +3574,15 @@
 | `02f09a9f3ff84386b658a0feb07e3592` | VavaalravSacredWeaponFeature |  |
 | `6eb98efb0e8a48ec9d02fdbac9358cfe` | VerexFeature | Verex |
 | `af24a89865d1469ca9df21cdd6ed9482` | VerexSacredWeaponFeature |  |
+| `39b243bb38d1435ea9d0d6ca2f33633c` | VerminShapeICentipedeAbility | Vermin Shape (Centipede) |
+| `58e70647b90e4e86ab3bd922eb5995fe` | VerminShapeICentipedeBuff | Vermin Shape (Centipede) |
+| `b024e6847bf04ca4a5212d9adb97653c` | VerminShapeIFlyAbility | Vermin Shape (Giant Fly) |
+| `8854e18b24884dd1ab9aecd92a9c18be` | VerminShapeIFlyBuff | Vermin Shape (Giant Fly) |
+| `0bc85d15a3f845e589ab1fe3b351352a` | VerminShapeIIAbility | Vermin Shape II |
+| `0371c8d7051d46a6853ebf59f78b85ce` | VerminShapeIISpiderBuff | Vermin Shape (Giant Spider) |
+| `f7f764d8f69d4224880f9183a8013d19` | VerminShapeIParentAbility | Plant Shape II |
+| `64b4159ebd5b40e3a727da12ea746b03` | VerminShapeWebAbility | Spiders Web |
+| `a324ce5461ea41aa9f4b621ba51395e1` | VerminShapeWebAbilityCooldown | Web Ability Cooldown |
 | `af722c4dcbd544d59ee5e96858779847` | VildeisFeature | Vildeis |
 | `2908b472d9dd4d008282691ee14ad6e7` | VildeisSacredWeaponFeature |  |
 | `3a42b26c9d3148019930c165ded9d791` | VolleyAbility | Volley  |

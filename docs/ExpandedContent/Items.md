@@ -44,6 +44,13 @@ This amulet allows the wearer to cast Reduce Person as a 6th level wizard once p
 `193f4c23ae5a4174a59f4fa257eb4172`  
 `ScrollOfClaySkin`  
 
+## Scroll of Corrosive Consumption
+
+
+
+`d42c0125b4894e49aff64d44c7a133d0`  
+`ScrollOfCorrosiveConsumption`  
+
 ## Scroll of Dance of a Hundred Cuts
 
 

@@ -48,6 +48,17 @@ Domain Spells: divine favor, communal protection from chaos, prayer, holy smite,
 `b6d861f330884f1490c398a7c260ef22`  
 `ArchonDomainLawProgression`  
 
+### Ash Subdomain
+
+  
+You can focus flame to a fine point, and use the embers left to blind your foes.   
+Fire Bolt: As a standard action, you can unleash a scorching bolt of divine fire from your outstretched hand. You can target any single foe within 30 feet as a ranged touch attack with this bolt of fire. If you hit the foe, the fire bolt deals 1d6 points of fire damage + 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
+Wall of Ashes: At 8th level, you can create a wall of swirling ashes lasting for one minute. Any creature passing through it must make a Fortitude save or be blinded for 1d4 rounds. The wall of ash reveals invisible creatures that are inside it, although they become invisible again if they move out of the wall. You can use this ability a number of times per day equal to your cleric level.   
+Domain Spells: burning hands, scorching ray, fireball, controlled fireball, flame strike, summon huge fire elemental, disintegrate, summon elder fire elemental, fiery body.
+
+`085941c89c8446f38682d77c588b8219`  
+`AshDomainProgression`  
+
 ### Blood Subdomain
 
   
@@ -125,6 +136,16 @@ Domain Spells: magic fang, pernicious poison, greater magic fang, dragon breath,
 `8de391b53c1b4b258cda3bd96d82ffc3`  
 `DragonDomainProgression`  
 
+### Duels Subdomain
+
+  
+You seek to honour your deity with duels against worthy opponents.  
+Divine Challenge: As a swift action, you can challenge a visible foe within 30 feet, gaining a +1 sacred bonus to your AC against that creature’s attacks and a bonus equal to 1/2 your cleric level on Bluff skill checks to feint against it. These bonuses last for a number of rounds equal to 1/2 your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.  
+Domain Spells: magic weapon, grace, magical vestment, divine power, dance of a hundred cuts, blade barrier, power word blind, dance of a thousand cuts, power word kill.
+
+`7065b07c0d744a5c8891edc8d6478d27`  
+`DuelsDomainProgression`  
+
 ### Ferocity Subdomain
 
   
@@ -178,6 +199,27 @@ Domain Spells: shield of faith, bless weapon, heroism, divine power, burst of gl
 
 `e109083f4f87414a9f33aad70a9065dd`  
 `HeroismDomainProgression`  
+
+### Insanity Subdomain
+
+  
+You see it, the uncertain uncertainty; you can help them understand, make them understand.   
+Insane Focus: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
+Aura of Madness: At 8th level, you can emit a 30-foot aura of madness for a number of rounds per day equal to your level in the class that gave you access to this domain. Enemies within this aura are affected by confusion unless they make a Will save with a DC equal to 10 + 1/2 your level in the class that gave you access to this domain + your Wisdom modifier. The confusion effect ends immediately when the creature leaves the area or the aura expires. Creatures that succeed on their saving throw are immune to this aura for 24 hours.   
+Domain Spells: cause fear, cacophonous call, rage, moonstruck, feeblemind, phantasmal web, insanity, frightful aspect, weird.
+
+`d6d4c40193ef4839a7cef6b30e37dd1a`  
+`InsanityDomainProgression`  
+
+### Insect Subdomain
+
+You command the minds of vermin. You treat Lore (nature) as a class skill.  
+Exoskeleton: As a swift action, you can grow an exoskeleton that grants you a +1 enhancement bonus to your natural armor and 1d4 temporary hit points + 1 for every 2 cleric levels you have. The natural armor bonus increases by 1 for every 5 cleric levels you have. The exoskeleton retracts after 1 round, ending its benefits. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.  
+Vermin Companion: At 4th level, you gain the service of an vermin animal companion. Your effective druid level for this animal companion is equal to your level in the class that gave you access to this domain – 3. (Druids who take this ability through their nature bond class feature use their druid level – 3 to determine the abilities of their animal companions.)  
+Domain Spells: magic fang, hold animal, vermin shape I, vermin shape II, cape of wasps, plague storm, summon nature's ally VII, summon nature's ally VIII, shapechange.
+
+`25325b7ff157484cbf9a2a118cc6d68d`  
+`InsectDomainProgression`  
 
 ### Lightning Subdomain
 
@@ -299,6 +341,17 @@ Domain Spells: hydraulic push, slipstream, stinking cloud, freedom of movement, 
 
 `40a47e9861c044518dbefa0634820904`  
 `RiversDomainProgression`  
+
+### Smoke Subdomain
+
+  
+You can blind and choke with smoke, those who dare not to burn.   
+Cloud of Smoke: As a standard action, you can create a 5-foot-radius cloud of smoke lasting 1 minute. Creatures inside the cloud take a –2 penalty on attack rolls and Perception skill checks for as long as they remain inside and for 1 round after exiting the cloud. Creatures inside the cloud gain concealment from attacks made by opponents that are not adjacent to them. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
+Fire Resistance: At 6th level, you gain resist fire 10. This resistance increases to 20 at 12th level. At 20th level, you gain immunity to fire.   
+Domain Spells: burning hands, glitterdust, stinking cloud, controlled fireball, flame strike, summon huge fire elemental, elemental body IV (fire), summon elder fire elemental, fiery body.
+
+`ba5b440d5aa94f9ab8431680bbd0a58a`  
+`SmokeDomainProgression`  
 
 ### Stars Subdomain
 
