@@ -86,6 +86,7 @@
 | `2192e2b11d104764bc97b0dcd27d17c1` | AgentoftheGrave.LichTouch | Lich’s Touch |
 | `59fe69d15d9649d0927dbf446b141cec` | AgentoftheGrave.LichTouchRes |  |
 | `406a2dd4af4d45f9bd96d78e218dd3ac` | AgentoftheGrave.SecretDeath | Secrets of Death |
+| `3e80c400458644a69ebc5b19d066825d` | AgentoftheGrave.shadowspelllist |  |
 | `72869416fa1f4864bb0aaaafd05d7177` | AgentoftheGrave.spelllist |  |
 | `ff69f897588448d59cf05f616eca618c` | AgentoftheGrave.UnholyFortitude | Unholy Fortitude |
 | `9368d40000864af1912212dde6f7c98d` | AgentoftheGrave.UseDesecrate | Negative Energy Conduit |
@@ -594,6 +595,12 @@
 | `97ff9de3b5754da796433495e4cd891f` | DeificObedience.Szuriel2 | Weapon Lore |
 | `5e7fc4df2ddf4718887db7d5b75c2adc` | DeificObedience.Szuriel3 | Avatar of the Seraph |
 | `8ebc9513483a41cfaa18b9e683cd641f` | DeificObedience.SzurielSentinel | Szuriel (Sentinel) |
+| `b274e7c93f7c4895bfffffca47ac8e7e` | DeificObedience.Urgathoa | Urgathoa Obedience |
+| `d19faf56552d4d39b99deeea6737bbb2` | DeificObedience.Urgathoa2 | Scythe Wielder |
+| `baef468aa680429e8d7cbbfbb7d728b1` | DeificObedience.Urgathoa2Feature | Scythe Wielder |
+| `2298f55aa93b4273bdce5c39e17d5d9e` | DeificObedience.Urgathoa3 | Fearless in the Face of Undeath |
+| `0a5db8b8817540b3b1aafc705479b63c` | DeificObedience.Urgathoa3Feature | Fearless in the Face of Undeath |
+| `a1ebb99c7f7540afa901768fe9736159` | DeificObedience.UrgathoaSentinel | Urgathoa (Sentinel) |
 | `926a34801e6f42d4b349cf308e847311` | DeificObedience.UseIomedae3 | Banishing Strike |
 | `dce59efd3c804d6fb204bb2e309f273f` | DeificObedience.UseKabriri2 | Undead Minion |
 | `93939e8cb2d84e95bab2ad8caf2845e3` | DeificObedience.UseNivi2 | Gemstone Guardian |
@@ -2478,6 +2485,8 @@
 | `669e26d80afc491b8c984ec9f9119d26` | LionBladePerfectSurprisePro |  |
 | `c68888d644514860ba9006f576013670` | LionBladePrestige |  |
 | `8f05cf7926e2474196b4afe8fd2a57ba` | LionBladeSilentSoul | Silent Soul |
+| `ed8ec76753e30fff13ddfc7596542f17` | LoremasterSpellbookFaithfulParagonTTT | Warpriest |
+| `b582a2fa85b909631c97781c6896ec06` | LoremasterSpellbookSoldierOfGaiaTTT | Warpriest |
 | `d818901ab61645cca6ce9f109f5e2725` | LoreWarden | Lore Warden |
 | `a96f47b0680e4e8491da2881da8b8b9f` | LoreWarden.ExploitWeakness | Exploit Weakness |
 | `00fe279c665a429cb15fbfcf7d3c7880` | LoreWarden.ExploitWeakness1 | Exploit Weakness |
@@ -3506,6 +3515,7 @@
 | `60e57deda7894f65a5bb5f2711c7ac00` | SpellPower.Seramaydiel1 | Communicator |
 | `7abbd953beb34344bb5e5ba5f20b945f` | SpellPower.ShelynSentinel1 | Graceful Warrior |
 | `a734ae315510446eab5a1d6919dc5dcc` | SpellPower.Socothbenoth1 | Before The Fall |
+| `27a7a9ed327045ceb778b5313d8977b4` | SpellPower.Urgathoa1 | Glutton for Slaughter |
 | `3cda9e145e9741569ad0616989b11543` | SpellPower.UseAbadar1 | Align Weapon — Lawful |
 | `fce2b407290b49bc89e17f9053295905` | SpellPower.UseAchaekek1 | Lead Blades |
 | `5e01fb58157d454f8e65f0cc0e3c1d54` | SpellPower.UseAkuma1 | Bear's Endurance |
@@ -3571,6 +3581,9 @@
 | `0dcfd954234240058efd58a6de272692` | SpellPower.UseShelynSentinel13 | Haste |
 | `4c39729e5bfc4dc4acf714981179a8df` | SpellPower.UseSocothbenoth1 | Command |
 | `b306deddd2ec4e60938bb3025583f334` | SpellPower.UseSocothbenoth12 | Mirror Image |
+| `11b32570811747629ca846372ad68d89` | SpellPower.UseUrgathoa1 | Magic Missile |
+| `d7caa41744e34473853346c2f1225477` | SpellPower.UseUrgathoa12 | Acid Arrow |
+| `ec1f578d98274d58821528dd7c998abc` | SpellPower.UseUrgathoa13 | Fireball |
 | `e4f0724452784a9b90a3e91eec0ebb6f` | SpellPower.ZonKuthonSentinel1 | Envious Death |
 | `7dc2d7e4d12940c191531b273c062c60` | SpellSynthesis | Lesser Spell Synthesis |
 | `5eb707b8b8af47d6bea474ca2500fcbd` | SpellSynthesis.ReleaseAbility | Lesser Spell Synthesis |

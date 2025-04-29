@@ -93,7 +93,7 @@
 
 ### [Prestige Minus](./PrestigeMinus/README.md) 1.0.0
 
-### [PrestigePlus](./PrestigePlus/README.md) 3.7.0
+### [PrestigePlus](./PrestigePlus/README.md) 3.8.0
 
 ### [Psionics](./Psionics/README.md) 1.1.1
 
@@ -127,8 +127,6 @@
 ### [New classes](./Classes.md)
 
 ### [New archetypes for base game classes](./Archetypes.md)
-
-### [New races](./Races.md)
 
 ### [New feats](./Feats.md)
 
