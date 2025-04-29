@@ -41,7 +41,7 @@
 
 ### [Dextrous Carnage](./DexCarn/README.md) 1.2.0
 
-### [Dragon Fixes](./DragonFixes/README.md) 1.5.1
+### [Dragon Fixes](./DragonFixes/README.md) 1.15.0
 
 ### [Expanded Content](./ExpandedContent/README.md) 0.12.75
 

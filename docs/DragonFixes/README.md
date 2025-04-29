@@ -2,11 +2,11 @@
 
 [Back to site homepage](../README.md)
 
-## Version: 1.5.1
+## Version: 1.15.0
 
 ## Author: CascadingDragon
 
-## Homepage: []()
+## Homepage: [https://github.com/CasDragon/DragonFixes](https://github.com/CasDragon/DragonFixes)
 
 ## [All mod blueprints](./AllBlueprints.md)
 
