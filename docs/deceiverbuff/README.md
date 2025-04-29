@@ -2,7 +2,7 @@
 
 [Back to site homepage](../README.md)
 
-## Version: 1.2.1
+## Version: 1.3.0
 
 ## Author: CascadingDragon
 
