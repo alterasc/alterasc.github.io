@@ -61,6 +61,11 @@
       "DisplayName": "Dragon Fixes"
     },
     {
+      "ModId": "EbonsContentMod",
+      "Version": "1.1.4",
+      "DisplayName": "EbonsContentMod"
+    },
+    {
       "ModId": "ExpandedContent",
       "Version": "0.13.15",
       "DisplayName": "Expanded Content"
