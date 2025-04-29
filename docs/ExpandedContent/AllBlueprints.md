@@ -860,6 +860,23 @@
 | `7f4725b1c195439fb3d857ad288d6d87` | DetonateFireExplosion | Detonate - Fire |
 | `cb61f585a265416bbde2449ff26d6b3a` | DispaterFeature | Dispater |
 | `fec6e1f77c0b4b6b8cfe43b7bd61ed4e` | DispaterSacredWeaponFeature |  |
+| `6312310d682b4894acfdfd6d7ef2c3a7` | DivineDomainAllowed |  |
+| `30ee6d6569e741a4a78153ca97444d2e` | DivineDomainAllowedSeparatist |  |
+| `adfc4485d1734b40ac9b9b5314aed78e` | DivineDomainBaseAbility | Divine Vessel |
+| `7727a49b444f4cbdac96e5a1d9290afc` | DivineDomainBaseAbilitySeparatist | Divine Vessel |
+| `4691cb9aaebe4974bd3098bfa0f51a4d` | DivineDomainBaseBoonAbility | Divine Vessel - Boon |
+| `2b0d3d78b4e743809a1d3a6faf77f179` | DivineDomainBaseBoonBuff | Divine Vessel - Boon |
+| `2d0afdf108ab46b1af0c574a8573165d` | DivineDomainBaseFeature | Divine Subdomain |
+| `4e20e682eb494f57af40d41c24607d1f` | DivineDomainBaseFeatureSeparatist | Divine Subdomain |
+| `931739c42c1c4e80bc17c81477c3d33d` | DivineDomainBaseResource |  |
+| `4eebedb5f76642518fb71c667089ebd1` | DivineDomainBaseResourceSeparatist |  |
+| `170479d7f3ba4503980edf547e00cf25` | DivineDomainBaseSelfBuff | Divine Vessel |
+| `9e8d52437ff2445d9560ca78aefc8f9f` | DivineDomainProgression | Divine Subdomain |
+| `8a26fa1c339145cbb2a903a7513ec83f` | DivineDomainProgressionSecondary | Divine Subdomain |
+| `c5346d5f4b344491b98760361f8f7c72` | DivineDomainProgressionSeparatist | Divine Subdomain |
+| `f2b5ea4676a3446085b0497d1450ea77` | DivineDomainSpellList |  |
+| `fbc362a3a77c461ea4ad8d706f58f198` | DivineDomainSpellListFeature |  |
+| `a7cd3c3d72b84dda8a07ea50fcb57686` | DivineHerbalistApocalypseMysteryFeature | Apocalypse |
 | `235237c5199c48b0a8a8d3974b0a8ed7` | DivineHerbalistDarkTapestryMysteryFeature | Dark Tapestry |
 | `160babe55b4c406da1531db87ea544f6` | DivineHerbalistDragonMysteryFeature | Dragon |
 | `2efe1f62d44049759b462f5303b707cc` | DivineHerbalistHeavensMysteryFeature | Heavens |
@@ -1199,6 +1216,8 @@
 | `5f97fb97d32141039c52808a1c892732` | EldritchArmorTrainingRank30 | Eldritch Armor Training |
 | `d85c1cd9edfa45e7a39a1002dd13d506` | ElvenPantheonSelection | Elven Pantheon |
 | `20bce6e88d9d42d19a6b6346e5b4ed3d` | EmpyrealLordSelection | Empyreal Lords |
+| `c66c38efcdc547f48a4a36ea6ec446c5` | EnlightnedPhilosopherApocalypseMysteryFeature | Apocalypse |
+| `807bb5d0f8a145949f8e47faf6dfcb8e` | EnlightnedPhilosopherApocalypseSpells |  |
 | `44e546247f4249c2b5d26058ec328dbc` | EnlightnedPhilosopherDarkTapestryMysteryFeature | Dark Tapestry |
 | `62b2d296b81645089b3c601df1416370` | EnlightnedPhilosopherDarkTapestrySpells |  |
 | `09249a4f24aa42cdbde5707401094117` | EnlightnedPhilosopherDragonMysteryFeature | Dragon |
@@ -1366,6 +1385,7 @@
 | `81310085f33e412a8a47719f29f612a8` | GloryDomainSpellListFeatureDruid |  |
 | `dc5321b8be91485a84b31b8967ae3d94` | GloryInvokeDeityAbility | Invoke Deity - Glory Domain |
 | `a329df0833194f6080047241b0c1eca2` | GloryInvokeDeityBuff | Invoke Deity - Glory Domain |
+| `f2fd92d9f5be48ad97b676b2e98d741c` | GoblinHeroGodsSelection | Goblin Hero-Gods |
 | `d97cce500c6c46769102083e53fcafe7` | GodMeddledCurseBeneficialFeatureLevel1 | God Meddled |
 | `73217f95267e45a18a6120d866365608` | GodMeddledCurseFeatureLevel1 | God Meddled |
 | `0abb58e338cc4d08bba33bf261def7fd` | GodMeddledCurseFeatureLevel10 | God Meddled |
@@ -1407,6 +1427,8 @@
 | `f1ca863c6fef4f568c62fe03a2b12c83` | GrowthDomainSpellList |  |
 | `e18176a6bbfa4126903041e858c6f43c` | GrowthDomainSpellListFeature |  |
 | `fc985e3b398f4690aa6426e4bbe7943b` | GrowthDomainSpellListFeatureDruid |  |
+| `262056f0eae54c28af57198b9edbaa81` | HadregashFeature | Hadregash |
+| `bf340289b9af47d082a44a2ed177c512` | HadregashSacredWeaponFeature |  |
 | `fb619cd2a455432baacae26a8778440d` | HalcamoraFeature | Halcamora |
 | `0d878c97b2cb4fc89969e778bbb7d166` | HalcamoraSacredWeaponFeature |  |
 | `c3492001bdfa48b4ac8c7489f63c13c9` | HalflingOpportunistExcellentAidFeature | Excellent Aid |
@@ -1718,6 +1740,8 @@
 | `9718b283e8cb41f78ac121099a3bb5cd` | MagicoftheEldestSwornOfTheEldest6 | Magic of the Eldest |
 | `8cc8a3fc054541528166df14aac6b2b6` | MammonFeature | Mammon |
 | `12004d6bb18145c3a5822b4705f0db32` | MammonSacredWeaponFeature |  |
+| `5dc4d6b01439448783f0bccca3fedb4d` | MammothSpiritSpellList |  |
+| `fd69ae867d2b425082447be18d5b343f` | MammothSpiritSpellListFeature |  |
 | `00c4f28e401d4e96a7129bb676248372` | MantisBleedBuff | Mantis Bleed |
 | `ee81e9a7c0c7485f901be619177a0dec` | MantisBleedEnchantment |  |
 | `d37d72c6ab724b91a48da2efa83584a5` | MantisZealotArchetype |  |
@@ -1886,6 +1910,8 @@
 | `f6ca9b1e60024ab7855379b8db9ec980` | OathbreakerTeamworkFeat | Teamwork Feat |
 | `ba3c736113364b198fc590f653941e9b` | OceansEchoAncestorsMysteryFeature | Ancestors |
 | `005961b162d74089ac94a1f235835558` | OceansEchoAncestorsSpells |  |
+| `0ad4fb6320e94433b2a78ab2d925a852` | OceansEchoApocalypseMysteryFeature | Apocalypse |
+| `dccd82947ac241b3a5d9d7dbd6a32b3b` | OceansEchoApocalypseSpells |  |
 | `aa2ba4cb159f4b3a9013d5392c7ca6a0` | OceansEchoArchetype | Ocean's Echo |
 | `5d761668983b4fb6a1da74c0c9b1b1de` | OceansEchoBattleMysteryFeature | Battle |
 | `b428e52ee882427c87c7ecc1c11a3d90` | OceansEchoBattleSpells |  |
@@ -1933,6 +1959,19 @@
 | `c72e34e4372e40118bb5648b3953a751` | OneHandedMartialWeaponProficiency | One Handed Martial Weapons Proficiency |
 | `aa422fe114674582bb47330ace91031d` | OpeningVolleyFeature | Opening Volley |
 | `220824f6b0bd4ab3ace3abd4c69c461f` | OpeningVolleyTargetBuff | Opening Volley Targeted |
+| `c64dde9b935542a4abf0d85cb5cdbde1` | OracleApocalypseFinalCriticalCurseAbility | Critical Curse |
+| `ebe90c92f8a94b6784e705b4e817967e` | OracleApocalypseFinalDeteriorationAbility | Critical Curse - Deterioration |
+| `fe0338db696b456fa3942d7c38242efb` | OracleApocalypseFinalDeteriorationBuff | Critical Curse - Deterioration |
+| `a24cbcecaa9149cfa075c9fbee8df58a` | OracleApocalypseFinalFeebleBodyAbility | Critical Curse - Feeble Body |
+| `cb1f2be65e0345da93d6ab71e8ae3366` | OracleApocalypseFinalFeebleBodyBuff | Critical Curse - Feeble Body |
+| `b6aad3d1b31e487c9d58b0f9ed033735` | OracleApocalypseFinalIdiocyAbility | Critical Curse - Idiocy |
+| `bb5dac6fd935486686f75caeee0770cf` | OracleApocalypseFinalIdiocyBuff | Critical Curse - Idiocy |
+| `3679be97d915401eb5a848f15ee771f3` | OracleApocalypseFinalRevelation | Final Revelation |
+| `63d718e595ba492d97d0f1bacbf29461` | OracleApocalypseFinalWeaknessAbility | Critical Curse - Weakness |
+| `140482044f13411497970540ade08973` | OracleApocalypseFinalWeaknessBuff | Critical Curse - Weakness |
+| `40e1dfd34a544a5bb588315fe2df14f6` | OracleApocalypseLazyCombatBuff | Not in combat |
+| `5d4c0c6630c04b0a975ce63ff2b31813` | OracleApocalypseMysteryFeature | Apocalypse |
+| `4660de66e6e74d78a24033e92b3b4fc3` | OracleApocalypseSpells |  |
 | `d0cf0cfa5cf744a6a4d74fd878b83d45` | OracleDarkTapestryFinalRevelation | Final Revelation |
 | `a7fd19cc84bc41f5946d3a5791805249` | OracleDarkTapestryMysteryFeature | Dark Tapestry |
 | `3932447ae7bb4181916454efc90d5f80` | OracleDarkTapestrySpells |  |
@@ -2035,6 +2074,20 @@
 | `c331277701e349f9a071b43c93270d2c` | OracleRevelationDarkSecretsSpellList8 |  |
 | `e82ecbdb08644cc5b997e8cdf16fc913` | OracleRevelationDarkSecretsSpellList9 |  |
 | `8165bc80d7d44a11bf47f2f9395382ec` | OracleRevelationDarkSecretsSpellSkip | Skip Spell Selection |
+| `6f10c08258ec4c539b307235066389c8` | OracleRevelationDefyElementsAcidRank | Defy Elements - Acid |
+| `7328520a48de4d4788fc417c2b6b9212` | OracleRevelationDefyElementsColdRank | Defy Elements - Cold |
+| `561a37b9875c46fa81b63b0fdd1c11fe` | OracleRevelationDefyElementsElectricityRank | Defy Elements - Electricity |
+| `7db0119a937e4136a67b51ab100edcac` | OracleRevelationDefyElementsFireRank | Defy Elements - Fire |
+| `a0ba0ef77a6c4416bbd0858095805936` | OracleRevelationDefyElementsProgression | Defy Elements |
+| `462260ba1a5b4484a4305422b5543ad3` | OracleRevelationDefyElementsResistanceFeature | Defy Elements Res Handler |
+| `92d383f580984c749c0494217e4bcace` | OracleRevelationDefyElementsSelection | Defy Elements |
+| `5adeab9fafd44b94b95fc1c4203be317` | OracleRevelationDefyElementsSonicRank | Defy Elements - Sonic |
+| `3ff24f3b5e03496086b9ca057a66d5c8` | OracleRevelationDoomsayerAbility | Doomsayer |
+| `f6f38b687e5f4a3a89533c557832de31` | OracleRevelationDoomsayerCooldownBuff | Doomsayer - Once Per Round |
+| `0945a2faf4084172a8fe83369bb88d9c` | OracleRevelationDoomsayerExtendAbility | Doomsayer - Extend |
+| `8efb844f490e4a5592ecc047b90aceee` | OracleRevelationDoomsayerFeature | Doomsayer |
+| `cac446cf1a9c428f9a2928fed090f047` | OracleRevelationDoomsayerShakenBuff | Doomsayers Prophecy |
+| `61e81f557dfc46e6bf53a3f4c373117c` | OracleRevelationDoomsayerSwiftExtend | OracleRevelationDoomsayerSwiftExtend |
 | `d0223c9007d845709956e6e7df995292` | OracleRevelationDraconicResistancesAcidLevel1 | Draconic Resistances - Acid |
 | `77dec0edd56f49ebb68690d5ff11b9e0` | OracleRevelationDraconicResistancesAcidLevel2 |  |
 | `0fb6f682e1694c0e8fb1b4402ea6df7a` | OracleRevelationDraconicResistancesAcidProgress | Draconic Resistances - Acid |
@@ -2085,6 +2138,9 @@
 | `f27a96b4d10049a9842f77c20f8f372b` | OracleRevelationDragonTalonsFireLevel2 |  |
 | `fc7343f333824f9d85648f13ced72112` | OracleRevelationDragonTalonsFireLevel3 |  |
 | `cc1feff47fc94f719f5a672025acae70` | OracleRevelationDragonTalonsSelection | Talons of the Dragon |
+| `d6b8fc96c90f456c809c8bbc8d5daeb9` | OracleRevelationDustToDustAbility | Dust to Dust |
+| `f791c620ebd248d68ccc219038f90613` | OracleRevelationDustToDustFeature | Dust to Dust |
+| `d564c5cefb3d47eeb998f7403391636e` | OracleRevelationDustToDustResource |  |
 | `8d49793dc2ec4dc2a82563cbc966c5ba` | OracleRevelationDwellerInTheDarknessAbility1 | Dweller in the Darkness - Phantasmal Killer |
 | `590d99ea2466471283ea73627b35668f` | OracleRevelationDwellerInTheDarknessAbility2 | Dweller in the Darkness - Weird |
 | `75f05a261aba45599c3714006ebcae48` | OracleRevelationDwellerInTheDarknessFeature | Dweller in the Darkness |
@@ -2197,6 +2253,13 @@
 | `697a9cbb719c4a6c96c624b5db9f8fad` | OracleRevelationMoonbeamFeature | Moonbeam |
 | `1fecb2a1ce6a4795a966556bce394c36` | OracleRevelationMoonbeamResource |  |
 | `4e5ebc74217544e58ce00303f45a1835` | OracleRevelationNoRavenerProperty |  |
+| `3316e9fef7a748d383a19f32a9813fac` | OracleRevelationPassTheTorchAbility | Pass the Torch |
+| `b10f27c34dc5429bb4672bd17e80897c` | OracleRevelationPassTheTorchBuff | Pass the Torch |
+| `6b2017b54ff34e639ae3107bd5261de7` | OracleRevelationPassTheTorchFeature | Pass the Torch |
+| `d57515b138c246a1959e3db611aafdb6` | OracleRevelationPassTheTorchPulse | Pass the Torch - Pulse |
+| `173f6639ee004e5cb4ae59659e6e7185` | OracleRevelationPassTheTorchRemoveAbility | Pass the Torch - Early Remove |
+| `291b0897d1b7452f9d690e8ef90af00c` | OracleRevelationPassTheTorchResource |  |
+| `4123f3d0658e47e1be8e82f05c1d7f6f` | OracleRevelationPassTheTorchRoundToken | Pass the Torch - Round Token |
 | `8f8d1dadd8f946148b2964daeb12cf7b` | OracleRevelationPerfectAid | Perfect Aid |
 | `b58276532f5c4bc780e7b462d5972ae6` | OracleRevelationPerfectAidProperty |  |
 | `7dd9be42faa94d7b90fd2120c9781278` | OracleRevelationPierceTheShadows15Feet | Pierce the Shadows |
@@ -2229,6 +2292,9 @@
 | `73020f9783734e849fa5e815f48b1d19` | OracleRevelationShellOfSuccorBuff | Shell of Succor |
 | `95e2d969a90547d58f3b0577a0b4288a` | OracleRevelationShellOfSuccorResource |  |
 | `41b4e85036f847969aa6a2671ca5702a` | OracleRevelationSkillAtArmsFeature | Skill at Arms |
+| `d898bafcc5d9405f907c6f6fb55870db` | OracleRevelationSpelBlastAbility | Spell Blast |
+| `4a426c7012ba4c8eb202b240ef0bbd51` | OracleRevelationSpelBlastBuff | Spell Blast |
+| `6a4541dad4e949ab923a89473fa2d1a5` | OracleRevelationSpelBlastFeature | Spell Blast |
 | `bc1340a785f04f6389f8d8469b0249d0` | OracleRevelationSprayOfShootingStarsBaseAbility | Spray of Shooting Stars |
 | `8eba17884ccf433da0d5f36f760e41b6` | OracleRevelationSprayOfShootingStarsFeature | Spray of Shooting Stars |
 | `7b1f125df0c2455b8b8dbd7d22258190` | OracleRevelationSprayOfShootingStarsFreeAbility | Spray of Shooting Stars - Free Action |
@@ -2503,6 +2569,8 @@
 | `6e77951ccd324374b82e077ba7d4a791` | RageDomainSpellList |  |
 | `9a8ad128708a4b15a544a74053aa9f84` | RageDomainSpellListFeature |  |
 | `a5433f93af4f41f296c3538396fb81a6` | RageDomainSpellListFeatureDruid |  |
+| `df2ffaf3165e4f5daa769aacef673ce0` | RageLevelDruidDomainProperty |  |
+| `e433c61b0a854f3eab24c3225b8e1728` | RageLevelNormalDomainProperty |  |
 | `2af1b3664e544d2888417961dc32d36c` | RangedDefenceCooldownBuff |  |
 | `fb827e3c09494fc4b13d53af4380add1` | RangedDefenceEffectBuff |  |
 | `213dc5abafee49468f1d48e410a6f686` | RangedDefenseFeature | Ranged Defense |
@@ -2751,6 +2819,31 @@
 | `560184c417834e428ca6c08a2a508d36` | ShamanHeavensSpiritWanderingFeature | Heavens |
 | `bf54671fa7044474b687cf21e84b4c2f` | ShamanHeavensSpiritWanderingGreaterBuff |  |
 | `d30e429f815b4aaba91c46d2c0079ab3` | ShamanHeavensSpiritWanderingTrueBuff |  |
+| `8ce789233377483eab552fa18537285c` | ShamanHexAccidentAbility | Accident |
+| `a5e8e2f5856b4cd49726833a4eebd30e` | ShamanHexAccidentFeature | Accident |
+| `8a8233fd93274d929f9cd71edb0d868f` | ShamanHexBadPennyAbility | Bad Penny |
+| `ff57044cb2fd4678acd048f51764e90d` | ShamanHexBadPennyBuff | Bad Penny |
+| `2af4abc4d2654f9f85cfe2955051ce1a` | ShamanHexBadPennyFeature | Bad Penny |
+| `0d021409fc944abfae86757517704050` | ShamanHexBitingFrostAbility | Biting Frost |
+| `11c4be783c0f4d45bb639cda06f8f304` | ShamanHexBitingFrostBuff | Biting Frost |
+| `8959ac286818443793df07b6162a63fa` | ShamanHexBitingFrostCooldown | Already targeted by this hex today |
+| `da56c0e902804e419a0e5e76ddd44cc9` | ShamanHexBitingFrostFeature | Biting Frost |
+| `14b9c5c518c94f82a0c76f0a2349dced` | ShamanHexCitySpiritAbility | City Spirit |
+| `dad813aca68649b2a6e585643e7881a0` | ShamanHexCitySpiritBuff | City Spirit |
+| `b977dfb4f86c4dc4bc39770528c273c5` | ShamanHexCitySpiritFeature | City Spirit |
+| `92b938458e7d44499115c31f6a6049fa` | ShamanHexCitySpiritResource |  |
+| `38eb39549dfc4449a1108787d06c0a44` | ShamanHexDeathlyBeingFeature | Deathly Being |
+| `8a77449dbf7a42f3bee780fbb98505af` | ShamanHexEnchancedCuresFeature | Enhanced Cures |
+| `b063f89f3fdd4212820fc0ff96e0f153` | ShamanHexErosionCurseAbility | Erosion Curse |
+| `46011533e895444bbd472d39f63e5391` | ShamanHexErosionCurseCooldown | Already damaged by this hex today |
+| `366d874c9fe04bdda533b3492502e829` | ShamanHexErosionCurseFeature | Erosion Curse |
+| `69caecd66b1f4dbe9738906195565003` | ShamanHexEyesOfBattleAbilityBase | Eyes of Battle |
+| `0002deb1952b4cc0bad5c772055212ec` | ShamanHexEyesOfBattleFeature | Eyes of Battle |
+| `2e441c826c6543879f9eb3fbcb5312e1` | ShamanHexEyesOfBattleIgnoreConcealmentAbility | Eyes of Battle - Ignore Concealment |
+| `9e3e1a1d4a3b468caa498b396367c3d8` | ShamanHexEyesOfBattleIgnoreConcealmentBuff | Eyes of Battle - Ignore Concealment |
+| `1e1442aa4d2549329718d7955f7b8ce2` | ShamanHexEyesOfBattlePerceptionBonusAbility | Eyes of Battle - Perception |
+| `5d2845ff6dbb4f6aafd7c553a257f194` | ShamanHexEyesOfBattlePerceptionBonusBuff | Eyes of Battle - Perception |
+| `540afbeee0c348c380667f465e7c308c` | ShamanHexEyesOfBattleResource |  |
 | `df2bfc576ebe4cee9b550262baadd91f` | ShamanHexGuidingStarFeature | Guiding Star |
 | `c68e9d5d21f74bd09a21540b6c09fe94` | ShamanHexGuidingStarMetamagicAbilityBase | Guiding Star |
 | `19f8b61ba1574216a249723b6311b390` | ShamanHexGuidingStarMetamagicAbilityEmpower | Guiding Star - Empower Spell |
@@ -2760,16 +2853,89 @@
 | `191c3836e6224465a3c4053de64360e6` | ShamanHexGuidingStarResource |  |
 | `d20723e7296147788dafae87308ee573` | ShamanHexGuidingStarSkillBuff |  |
 | `beeb94efe15e4820b3f0de08843a3ae2` | ShamanHexGuidingStarSkillFeature | Guiding Star - Skill Bonus |
+| `a829bf8227624a52a39e70265cdb953b` | ShamanHexHexOfLignificationAbility | Hex of Lignification |
+| `4532eb702bf7400494e892e89d3202d6` | ShamanHexHexOfLignificationBuff | Hex of Lignification |
+| `431220650be94e17851ed03beda18218` | ShamanHexHexOfLignificationCooldown | Already targeted by this hex today |
+| `83bead4b0855412c9b267ee71cda5617` | ShamanHexHexOfLignificationFeature | Hex of Lignification |
 | `a2fe9e6ac14d402ba978e58e1c7f499f` | ShamanHexLureOfTheHeavensFeature | Lure of the Heavens |
 | `273368fc0b8f406f850fa215c028b3fa` | ShamanHexLureOfTheHeavensFlyAbility | Lure of the Heavens |
 | `da899ecba58f4c0481ebeebc53102f64` | ShamanHexLureOfTheHeavensFlyBuff | Lure of the Heavens |
 | `92470c58ad444121a739a9a2c4d975dd` | ShamanHexLureOfTheHeavensFlyFeature | Lure of the Heavens |
 | `1a4e0b20508048968373f7b4f92c191c` | ShamanHexLureOfTheHeavensHoverFeature | Lure of the Heavens |
 | `6d51e622883c41379532e3d0c4e5c544` | ShamanHexLureOfTheHeavensResource |  |
+| `8954455d484d45578692491fdfcafbc0` | ShamanHexSluggishAbility | Sluggish |
+| `9efc6560dfcc4acebd4cdabc75093321` | ShamanHexSluggishBuff | Sluggish |
+| `0bc42750efd24ebc88376d77555ecfdd` | ShamanHexSluggishCooldown | Already targeted by this hex today |
+| `3bf18de6ef7d4087a5467e784c567d3c` | ShamanHexSluggishFeature | Sluggish |
+| `a48fde6a716945c2be48cf9d0851a6fb` | ShamanHexSparkingAuraAbility | Sparking Aura |
+| `c10c434ab3a54f3c94912bb01bccd0f1` | ShamanHexSparkingAuraBuff | Sparking Aura |
+| `1fa3b6d154cb4372bb385ecbaab8aab0` | ShamanHexSparkingAuraCooldown | Already targeted by this hex today |
+| `04ef06761d654945bbed57bc4c2801e4` | ShamanHexSparkingAuraFeature | Sparking Aura |
 | `67fda02e545c4233bed3c6f1c2fd5132` | ShamanHexStarburnAbility | Starburn |
 | `8a207dc820f74ce1a00c9c40e52d4147` | ShamanHexStarburnBuff | Starburn |
 | `3ed1bc1e59e943fb9ca38cefc9ad1e20` | ShamanHexStarburnFeature | Starburn |
 | `d8af138fd60a4c64bfdfa3cbb63251b2` | ShamanHexStarburnResource |  |
+| `dbfeb058c6854d5cbde67d41735ebc90` | ShamanHexVerdantPathFeature | Verdant Path |
+| `d239fbc7c9304d83bc56655b29a2ace1` | ShamanHexWardOfStoneAbility | Ward of Stone |
+| `0f54d2a31eae4058961eb39e7f83ddf7` | ShamanHexWardOfStoneBuff1 | Ward of Stone |
+| `a7aa8c838cbd4d9d9ca39cb0641fd851` | ShamanHexWardOfStoneBuff2 | Ward of Stone - 2 Strikes |
+| `9263054f2ca94268a484704f2d4b1baa` | ShamanHexWardOfStoneBuff3 | Ward of Stone - 3 Strikes |
+| `6c88320eb03f4c5c8af743f1e49cf291` | ShamanHexWardOfStoneCooldown | Already targeted by this hex today |
+| `be69970a3d484a289e930dcf3105f5c6` | ShamanHexWardOfStoneFeature | Ward of Stone |
+| `dc292694b1614e64961d9ea8c1b981aa` | ShamanMammothSpiritBaseAbility | Powerful Smash |
+| `07b29ee49ace4ad091470b0334df3c01` | ShamanMammothSpiritBaseFeature | Powerful Smash |
+| `4a7be68840a442d3b3dae8007a68476d` | ShamanMammothSpiritBaseResource |  |
+| `3bf1ab1daec7487c8bfc1e426df13429` | ShamanMammothSpiritGreaterFeature | Strength of the Beast |
+| `a4e15d3525e74595b8772c764f0949ae` | ShamanMammothSpiritGreaterFeatureWandering  | Strength of the Beast |
+| `d14b82e6f98548d7911021fa551b8c42` | ShamanMammothSpiritManifestationAbility | Beast Shape Manifestation |
+| `a781bb1b1387474f81d033af9034ce05` | ShamanMammothSpiritManifestationAbilityI | Beast Shape Manifestation (Wolf) |
+| `3dab8fc9dcbf43bda6cba2e7095f97be` | ShamanMammothSpiritManifestationAbilityII | Beast Shape Manifestation (Leopard) |
+| `3a688fed34634688b102a81729b1bb2d` | ShamanMammothSpiritManifestationAbilityIII | Beast Shape Manifestation (Bear) |
+| `96698761264346edb75fc15618b9241c` | ShamanMammothSpiritManifestationAbilityIVS | Beast Shape Manifestation (Smilodon) |
+| `36d426b0b8404513a90329d80527f1b9` | ShamanMammothSpiritManifestationAbilityIVW | Beast Shape Manifestation (Wyvern) |
+| `429326751ddf47e9a57789ac8ab857ee` | ShamanMammothSpiritManifestationFeature | Manifestation |
+| `89c74e289d124b899a3822777fea0ceb` | ShamanMammothSpiritProgression | Mammoth |
+| `2a5f58e0677d41f19cb60e5d894b60d2` | ShamanMammothSpiritWanderingBaseBuff |  |
+| `1eaa11b68ef34a588eb6820d4968addc` | ShamanMammothSpiritWanderingFeature | Mammoth |
+| `ed49d71b19884c94be1fb6c8251f4ab0` | ShamanMammothSpiritWanderingGreaterBuff |  |
+| `8323624fd0204b61a2ea15c2765a4dd3` | ShamanMammothSpiritWanderingTrueBuff |  |
+| `7ced27ca18c04908ab9068fe58deace0` | ShamanSlumsSpiritBaseAbility | Doors to Everywhere |
+| `3e030700e59546bca39eaa8114d56e32` | ShamanSlumsSpiritBaseFeature | Doors to Everywhere |
+| `b493df926bfe4b258d496a5a89eb5692` | ShamanSlumsSpiritBaseResource |  |
+| `499b848339a2492aa3e2c4aca4d050fc` | ShamanSlumsSpiritGreaterBuff | City’s Shroud |
+| `b5b98e849deb4658b0ace82665881397` | ShamanSlumsSpiritGreaterFeature | City’s Shroud |
+| `ff0c333289654800b80ffc51bfa24f7d` | ShamanSlumsSpiritManifestationFeature | Manifestation |
+| `930476c7ff6a4cd0b892ddc98da9a178` | ShamanSlumsSpiritProgression | Slums |
+| `8cd6010992d5468fb81fa4c8da578354` | ShamanSlumsSpiritTrueAbility | Paragon of the City |
+| `73c0131b7aaf4d7b965ccecf6fbd88a7` | ShamanSlumsSpiritTrueBuff | Paragon of the City |
+| `7dc50381948b420b82c6c70ca487ad9d` | ShamanSlumsSpiritTrueFeature | Paragon of the City |
+| `bdace43bdfbb4b0fbfae3444b91e6e1d` | ShamanSlumsSpiritTrueResource |  |
+| `b0fe12f10666453292c3052500b63fd8` | ShamanSlumsSpiritWanderingBaseBuff |  |
+| `b2910f97ec1a4ef4bcc9952cd45d8113` | ShamanSlumsSpiritWanderingFeature | Slums |
+| `5521d531bde44800a1eae012b6db297f` | ShamanSlumsSpiritWanderingGreaterBuff |  |
+| `5ed61eac32ce4bedada54ce3f1109288` | ShamanSlumsSpiritWanderingTrueBuff |  |
+| `e4b543f566d94e1a99db79d90d280396` | ShamanWoodSpiritBaseAbility | Tree Limb |
+| `a9523e0a29254e9998cb12badc6733a3` | ShamanWoodSpiritBaseBuff | Tree Limb |
+| `b1a32cd84acb47ca91da0a8e47731645` | ShamanWoodSpiritBaseFeature | Tree Limb |
+| `9690957242264a508dce9ed813ef922c` | ShamanWoodSpiritBaseReachBuff | Tree Limb |
+| `373449088a5643df9641087a39a0cde3` | ShamanWoodSpiritBaseResource |  |
+| `59620d7a9c6d4a52a065e392befad122` | ShamanWoodSpiritGreaterAbility | Bloody Roots |
+| `808d58dfc028440482682d8a42ba80d7` | ShamanWoodSpiritGreaterArea |  |
+| `f7902189df744160b2de3c21bdfd015f` | ShamanWoodSpiritGreaterBuff | Bloody Roots |
+| `b0eaac5ae5d243ae9e2fdf3204a8e094` | ShamanWoodSpiritGreaterFeature | Bloody Roots |
+| `1c854c92949645e7a0afa87ffd8b64be` | ShamanWoodSpiritGreaterResource |  |
+| `eca93838b9e64dabafa51efb11dca5f9` | ShamanWoodSpiritGreaterTerrainBuff | ShamanWoodSpiritGreaterTerrainBuff |
+| `9f732ba447074331abdb3299f78f1639` | ShamanWoodSpiritManifestationFeature | Manifestation |
+| `584bce73dff648728c485e45077590a8` | ShamanWoodSpiritProgression | Wood |
+| `426db9593bd24d45be1053b67ce24c2e` | ShamanWoodSpiritTrueAbility | Tree Form |
+| `26c661a8a7b947e0b964018643d81090` | ShamanWoodSpiritTrueFeature | Tree Form |
+| `4e58d4c5aca140efa81cde59376537c0` | ShamanWoodSpiritTrueGiantFlytrapAbility | Tree Form (Giant Flytrap) |
+| `2aa309f70866492c997b53c57b8839c3` | ShamanWoodSpiritTrueResource |  |
+| `c727361d07d3420bb3d756afac0c83a6` | ShamanWoodSpiritTrueTreantAbility | Tree Form (Treant) |
+| `008c3425094e4bfdaa4ed372c7530474` | ShamanWoodSpiritWanderingBaseBuff |  |
+| `9a29b8845c194ecaba69657131ee9191` | ShamanWoodSpiritWanderingFeature | Wood |
+| `07daf535bdbd491db22915c1a12105fe` | ShamanWoodSpiritWanderingGreaterBuff |  |
+| `41b1e9ca3c5246fcabf9d0568baacd0d` | ShamanWoodSpiritWanderingTrueBuff |  |
 | `afef8746da00402bb6c09cffe8d95ca3` | ShamblerAbility | Shambler |
 | `54c54962dca54b439e8a73ee084fdb39` | ShamblerSummonPool |  |
 | `7b8c93cf834c4ded9867b590f5b2e506` | ShaxFeature | Shax |
@@ -2809,8 +2975,12 @@
 | `30ba6cfcceab4683a0fabd24e04f8234` | SkulkingHunterStudyTargetFeature | Studied Target |
 | `1d9657b0ec814e6e81b03675da9fea39` | SkulkingPetFeature | Skulking Pet |
 | `501e2ea7a3194490b8cc02088b8aef84` | SkulkingSpellsFeature | Skulking Spells |
+| `dbd22cf6045a4a3ea23927af3b7528f6` | Slam1d8WithReach |  |
+| `e5fe2ed1a23e4f6495802ac64aa33865` | SlamReachEnchantment |  |
 | `fe43fadb91b040b38718e88dd5744413` | SlipstreamAbility | Slipstream |
 | `f455287fbfe240dda4b0a9c5bb24309d` | SlipstreamBuff | Slipstream |
+| `4b2f945df08746829490ef32f275a532` | SlumsSpiritSpellList |  |
+| `ef458ea9ba114c6bb4273a5403a14b99` | SlumsSpiritSpellListFeature |  |
 | `80d1e0adfff24f239dbd8161e0d80521` | SmilodonAdvancedSummoned |  |
 | `95e77377937e4259a6bd717687656bbf` | SmilodonGiantAdvancedSummoned |  |
 | `a10d6667ebdd42568634fcc20d2ceca0` | SmilodonGiantSummoned |  |
@@ -3391,6 +3561,7 @@
 | `ba86353d93814179b2a21388a5835741` | SzurielSacredWeaponFeature |  |
 | `89e966268a26471f984955cc76d55d6f` | TanagaarFeature | Tanagaar |
 | `f66ff50bb1744f5b9014b19d739173f0` | TanagaarSacredWeaponFeature |  |
+| `468e69362865495f84df7973d7573ba7` | TempImprovedUnarmedStrikeBuff | TempImprovedUnarmedStrikeBuff |
 | `6a8fa5cec317435faeaf193fbf188a0c` | TemplateFiendish | Fiendish Template |
 | `f4455142457e49f9a46aba68a565900b` | TemplateFiendishResource |  |
 | `9a01e212fe984da6b2bb8a4d8b942c0f` | TemplateFiendishSmiteGoodAbility | Smite Good |
@@ -3544,6 +3715,12 @@
 | `8c00b68c508c46b8b2d0891337b4d074` | UnmountableFeature | Unmountable |
 | `ac88010317db45a89340ecd57713d87c` | UnswornShamanHeavensSpiritWanderingFeature1 | Heavens |
 | `644292d48c3047fa8a90b463a6adbb2b` | UnswornShamanHeavensSpiritWanderingFeature2 | Heavens |
+| `26f02ddb4766461abe18bed5f4877beb` | UnswornShamanMammothSpiritWanderingFeature1 | Mammoth |
+| `ca34ff83d5a64290821729141a475ea2` | UnswornShamanMammothSpiritWanderingFeature2 | Mammoth |
+| `e0789da4e9824c2097d6c5ba6088f6e7` | UnswornShamanSlumsSpiritWanderingFeature1 | Slums |
+| `e16f237089884c3480e9c21af7d25719` | UnswornShamanSlumsSpiritWanderingFeature2 | Slums |
+| `33c4be6df4654f0bad0e48c06d3f1b9c` | UnswornShamanWoodSpiritWanderingFeature1 | Wood |
+| `402d731816a44c22ade736275315f856` | UnswornShamanWoodSpiritWanderingFeature2 | Wood |
 | `a2c8301c9e9a4adfbf9e3742866c3248` | UrbanDruidArchetype | Urban Druid |
 | `273c1b20409445f69d291f40ad0b4af8` | UrbanDruidBondSelection | Urban Druids Bond |
 | `d56583bd251c4155818d3e2d5d956cc7` | UrbanDruidLorekeeperFeature | Lorekeeper |
@@ -3572,6 +3749,8 @@
 | `325d8d44747a4a678b462126a08a571f` | VargSacredWeaponFeature |  |
 | `d1bdbef6d49e4864b397c465503dc6f7` | VavaalravFeature | Vavaalrav |
 | `02f09a9f3ff84386b658a0feb07e3592` | VavaalravSacredWeaponFeature |  |
+| `3ecabe6a060f44b791555d90cd994c1d` | VenkelvoreFeature | Venkelvore |
+| `34ffc61a92c046a5ac4f0e69dc8f1446` | VenkelvoreSacredWeaponFeature |  |
 | `6eb98efb0e8a48ec9d02fdbac9358cfe` | VerexFeature | Verex |
 | `af24a89865d1469ca9df21cdd6ed9482` | VerexSacredWeaponFeature |  |
 | `39b243bb38d1435ea9d0d6ca2f33633c` | VerminShapeICentipedeAbility | Vermin Shape (Centipede) |
@@ -3752,6 +3931,8 @@
 | `84bf8ac09ffd4cd69c344dc848780c9a` | WolfsbaneFeature3DR | Wolfsbane |
 | `331d2948509a436d801e4f7af5686d47` | WoodenPhalanxAbility | Wooden Phalanx |
 | `bc77f2e555e544d7a2c247d186c37b36` | WoodenPhalanxSummonPool |  |
+| `5f33f16d3b2a4f97884074ea8c26ab89` | WoodSpiritSpellList |  |
+| `bb03f49d6b624a2f9a66bf497e9f8884` | WoodSpiritSpellListFeature |  |
 | `27c242443c0d4cd6935b6f01a16e4ac3` | WoundingBuff | Wounded |
 | `28bb9dd973734d939e852234cb23b51c` | WoundingEnchantment |  |
 | `e43925322aa745e79f8e72b205e05fd2` | WukongFeature | Wukong |
@@ -3830,8 +4011,12 @@
 | `e5204044e967404eb642b97aa9229e88` | YuelralSacredWeaponFeature |  |
 | `ea5183123052406587298e5b03f0a0f1` | ZagreshFeature | Zagresh |
 | `ae177076fadf44568aca3ea4c5998630` | ZagreshSacredWeaponFeature |  |
+| `dd7430c35b2d40d692303c572d09d04e` | ZarongelFeature | Zarongel |
+| `e2dc0fcb7e464eb9a0478e318acf01c9` | ZarongelSacredWeaponFeature |  |
 | `a49ee6f1ec6744a6b16e3476a504e2a9` | ZephyrsFleetnessAbility | Zephyr's Fleetness |
 | `dba6a9d5fc13467f8b038aaa29da7c1f` | ZephyrsFleetnessBuff | Zephyr's Fleetness |
+| `6a23d618882742bc9690345477b5404c` | ZogmugotFeature | Zogmugot |
+| `1b8535efa0074b578692f74154e17865` | ZogmugotSacredWeaponFeature |  |
 | `feaf2b27817c4fc8b5ca870f8010d9c3` | ZohlsFeature | Zohls |
 | `fbda97dc3fbd4f76b1aba4bc2b71cf3a` | ZohlsSacredWeaponFeature |  |
 | `d53bf498091647f0ac8f9d1a2db0f5bb` | ZuraFeature | Zura |

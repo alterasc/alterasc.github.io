@@ -123,6 +123,17 @@ Domain Spells: doom, communal protection from law, rage, freedom of movement, ac
 `be1268aeed6849c881a1536b7210f459`  
 `DemonDomainEvilProgression`  
 
+## Divine Subdomain
+
+  
+Many worshippers harness the magic of the divine, you wield the magic of divinity itself.   
+Divine Vessel: As a swift action you become a divine vessel for one round. If you are targeted by a divine spell during this round, grant each ally within 15 feet of you a divine boon. This boon grants a +2 bonus on the next attack roll, skill check, or ability check made before the end of their next turn. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
+Dispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th.   
+Domain Spells: color spray, bless, dispel magic, protection from energy, communal, cleanse, dispel magic, greater, resurrection, protection from spells, heroic invocation.
+
+`9e8d52437ff2445d9560ca78aefc8f9f`  
+`DivineDomainProgression`  
+
 ## Dragon Subdomain
 
   

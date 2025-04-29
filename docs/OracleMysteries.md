@@ -4,6 +4,13 @@
 
 ## Expanded Content
 
+### Apocalypse
+
+An oracle with the apocalypse mystery adds Lore (nature), Persuasion and Stealth to her list of class skills.
+
+`5d4c0c6630c04b0a975ce63ff2b31813`  
+`OracleApocalypseMysteryFeature`  
+
 ### Dark Tapestry
 
 An oracle with the dark tapestry mystery adds Knowledge (Arcana) , Persuasion and Stealth to her list of class skills.

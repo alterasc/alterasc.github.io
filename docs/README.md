@@ -43,7 +43,7 @@
 
 ### [Dragon Fixes](./DragonFixes/README.md) 1.15.0
 
-### [Expanded Content](./ExpandedContent/README.md) 0.12.75
+### [Expanded Content](./ExpandedContent/README.md) 0.13.15
 
 ### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.3
 
