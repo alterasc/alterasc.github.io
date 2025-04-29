@@ -128,6 +128,8 @@
 
 ### [New archetypes for base game classes](./Archetypes.md)
 
+### [New races](./Races.md)
+
 ### [New feats](./Feats.md)
 
 ### [New spells](./Spells.md)
