@@ -45,7 +45,7 @@
 
 ### [EbonsContentMod](./EbonsContentMod/README.md) 1.1.4
 
-### [Expanded Content](./ExpandedContent/README.md) 0.13.15
+### [Expanded Content](./ExpandedContent/README.md) 0.13.20
 
 ### [Expanded Epilogue](./RanEpilogue/README.md) 1.2.3
 

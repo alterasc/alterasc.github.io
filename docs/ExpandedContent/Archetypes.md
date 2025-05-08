@@ -198,6 +198,13 @@ Wyrm singers spin fragments of the story of the ongoing struggle between noble A
 `5a88b067366149668f8b33636b47fb20`  
 `WyrmSingerArchetype`  
 
+## Warhound (Slayer)
+
+A warhound is a humanoid beast, a trained stalker who hunts and kills his master’s enemies with the aid of an animal companion.
+
+`6a3272200e9e42fc83e36f6eb5031800`  
+`WarhoundArchetype`  
+
 ## Faithful Paragon (Warpriest)
 
 For warprieists that find themselves fighting back to back with paladins, the call to take up additional oaths in service to their god is often expected. Those who do gain the power to manifest their faith in battle granting them enhanced vitality. Their strong devotion grants them the title of faithful paragon.

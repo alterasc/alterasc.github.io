@@ -3789,6 +3789,11 @@
 | `c3cf78142ad64bff81965b68e6964cbb` | WarBlessingMinorBuffAttack | War Mind - Attack |
 | `c7aee424dd224cc58ead3dffc8511f8d` | WarBlessingMinorBuffSaves | War Mind - Saves |
 | `2ec36c350c124a1e9aab2761e8decd96` | WarBlessingMinorBuffSpeed | War Mind - Speed |
+| `568db7770bfa475f80df90398705a0b3` | WarhoundAnimalCompanionProgression |  |
+| `46c5bb10b0d7402294fde62acceb31d9` | WarhoundAnimalCompanionSelection | Warhound Animal Companion |
+| `6a3272200e9e42fc83e36f6eb5031800` | WarhoundArchetype | Warhound |
+| `5b72864ec66d4f58849e4707b0bccc94` | WarhoundsEyeFeature | Warhounds Eye |
+| `93c0ea5481344f46865783693fe8fa79` | WarhoundSwiftAidHuntFeature | Swift Hunting |
 | `7771a14db7674782972fa01bc9ea5170` | WarInvokeDeityAbility | Invoke Deity - War Domain |
 | `3800b2d911b84060874a3ca747172cd0` | WarInvokeDeityBuff | Invoke Deity - War Domain |
 | `748a85a9c88649a6b92cf948fce8e070` | WaterDancerArchetype | Water Dancer |
