@@ -56,6 +56,11 @@
       "DisplayName": "Dextrous Carnage"
     },
     {
+      "ModId": "DragonChanges",
+      "Version": "1.9.0",
+      "DisplayName": "DragonChanges&Additions"
+    },
+    {
       "ModId": "DragonFixes",
       "Version": "1.15.0",
       "DisplayName": "Dragon Fixes"

@@ -50,6 +50,15 @@ Although no less a beacon of hope and justice than other paladins, virtuous brav
 `cf73ad27ebb04d03aecab5d1930cbc2c`  
 `VirtuousBravoArchetype`  
 
+## DragonChanges&Additions
+
+### Swordmaster (Rogue)
+
+A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances.
+
+`772add94f77140cda7fb52edc198c70c`  
+`swordmaster-tengu`  
+
 ## EbonsContentMod
 
 ### Collegiate Initiate (Arcanist)
