@@ -345,6 +345,20 @@ As a mythic assassin your ability to use poisons has entered a new realm allowin
 `81234cf9793455b4f9aac0249f3d234d`  
 `PoisonVulnerability`  
 
+### Relentless Strikes
+
+Whenever a sneak attack successfully hits a target gain an additional 1d6 sneak attack damage for each successful sneak attack until the beginning of next round.
+
+`07aaab1ef6d6d284aaa899a504044625`  
+`RelentlessSneaksFeature`  
+
+### School Tolerance
+
+You no longer suffer the penalties of opposition schools of magic.
+
+`acf40288ecb1f914ab218d0fbf889980`  
+`MythicSchooling`  
+
 ### Second Bloodline
 
 You've found a way to infuse your blood with even more power.  

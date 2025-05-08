@@ -330,6 +330,13 @@ A master of the martial applications of steel and spell, the arcane duelist blen
 `b0d6d12de1171e64b95b6b8c0eebe22c`  
 `ArcaneDuelistArchetype`  
 
+### Dancer (Bard)
+
+The dancer is an entertainer, an acrobat and a surprisingly dangerous combatant when drawn to battle, emphasizing speed and agility to confuse and unnerve opponents while inspiring allies to fight with increased confidence.
+
+`9c00757174bcad044bc4732dcce7731f`  
+`DancerArchetype`  
+
 ### Dervish of Dawn (Bard)
 
 Although the dawn goddess is seen mainly as a goddess of healing and redemption in most parts of the world, her stern, evil-smiting element is more common in some areas. Many of her disciples from these lands become dervishes of dawn, religious mystics who use a spinning dance as part of their worship. Many bards of her faith hone their skills with dance and scimitar to become dervish dancers, but some tread a similar path focused more on magic and healing than swordplay. These are the dervishes of dawn.
@@ -343,6 +350,13 @@ The traditions of the stonesinger bards hearkens back to its subterranean origin
 
 `b75e087d9dbcf2244bd74576cfe89fb6`  
 `StoneSingerArchetype`  
+
+### Strategist (Bard)
+
+Masters of battlefield control, strategists regard combat the way most people would consider a puzzle to be solved. Relying on guile and cunning to outwit their enemies and best aid their allies, the greatest strength of the strategist is in their tactical thinking. They are the champions of plots and ploys, of gambits and fianchettos, of pronged attacks and of victories won through sacrifice. With planning and preparation they are granted unparalleled versatility on the battlefield, able to turn even certain failure to success.
+
+`9d51cafb60df7b3419487b6b53ef0aa5`  
+`StrategistArchetype`  
 
 ### Bloody-Knuckled Rowdy (Bloodrager)
 
@@ -396,6 +410,13 @@ Halcyon druids are peacekeepers, mediating between people and nature, people and
 
 `159080ffe0d4128448a9b11bf1b84f83`  
 `HalcyonDruidArchetype`  
+
+### Berserker (Fighter)
+
+This is a warrior who is in tune with his animalistic side and, during combat, can achieve an ecstatic state of mind that will enable him to fight longer, harder, and more savagely than any person has a right to. Berserkers tend to be barbarian-like in nature, but not always. Sometimes it is a conscious choice that a warrior in training makes. Regardless, opponents on the battlefield will be unsettled when they see the savage and inhuman elements of the Berserker’s personality.
+
+`4ff7206d8c75fac4dbad4501261e50ac`  
+`BerserkerArchetype`  
 
 ### Viking (Fighter)
 
@@ -495,6 +516,41 @@ Carnivalists train their miniature minions to perform acts of larceny and often 
 `d355468863af2df4c824b6ec7370ad07`  
 `CarnivalistArchetype`  
 
+### Espionage Expert (Rogue)
+
+Unparalleled practitioners of deception, espionage experts rely on deceit and trickery over brawn and spells. An espionage expert is an expert at both magical and non-magical means of evading detection, and quick-witted when it comes to improvisation.
+
+`f88498de3fcffec4397cd76aa00dc40e`  
+`EspionageExpertArchetype`  
+
+### Thiefling (Rogue)
+
+Thieflings of Mendev are a group of tiefling outcasts that have banded together to protect themselves. Thieflings have learned to use portions of their abyssal heritage to survive the harsh realities that are imposed by those live within the sphere of influence created by the world wound.
+
+`1073318bbe185314c86fbd7ceb408d70`  
+`ThieflingArchetype`  
+
+### Contract Killer (Slayer)
+
+Some individuals work for honor, others good deeds, and yet others for a special cause. A contract killer on the other hand works only for gold. Employed to carry out assassinations or combat the contract killer provides his employer with a variety of skills that may or may not cost extra.
+
+`04edaf6f5cca23341bd40a4408c64988`  
+`ContractKillerArchetype`  
+
+### Arcane Trickster (Sorcerer)
+
+With their mastery of magic, arcane tricksters can make for even more subtle or confounding opponents than standard rogues. Ranged legerdemain enhances their skill as thieves, and their ability to make sneak attacks without flanking or as part of a spell can make arcane tricksters formidable damage-dealers.
+
+`a4d746700eab76449aa9c6759afa81b1`  
+`SArcaneTricksterArchetype`  
+
+### Eldritch Knight (Sorcerer)
+
+Eldritch knights blend the abilities of fighting classes and spellcasters, hurling magic at the enemy one moment and hewing down their opponents with steel the next. They are just as comfortable fighting in the thick of combat as they are casting spells at foes while remaining safely behind their compatriots. Their versatility makes them valuable allies when the nature of an upcoming battle is unclear.
+
+`715982d4758e46e4b94f235908dcb0a5`  
+`EKSorcArchetype`  
+
 ### Sacred Fist (Warpriest)
 
 Unlike many warpriests, sacred fists leave behind armor and shield and instead rely on their fists and whatever protection their deity bestows on them.
@@ -508,6 +564,13 @@ The scarred witch doctor draws power from her ability to endure pain and sufferi
 
 `1fbebd6cc0acc794ba27112b4ca2edf1`  
 `ScarredWitchDoctor`  
+
+### Eldritch Knight (Wizard)
+
+Eldritch knights blend the abilities of fighting classes and spellcasters, hurling magic at the enemy one moment and hewing down their opponents with steel the next. They are just as comfortable fighting in the thick of combat as they are casting spells at foes while remaining safely behind their compatriots. Their versatility makes them valuable allies when the nature of an upcoming battle is unclear.
+
+`fd1c33c699573f04f8e00b0ea5682709`  
+`EldritchKnightArchetype`  
 
 ### Undead Master (Wizard)
 

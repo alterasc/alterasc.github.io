@@ -663,6 +663,14 @@ Choose one type of exotic weapon, such as the dueling sword or sai. You understa
 `5c6468fa53f4fa34a8c47545a633c062`  
 `UndeadExoticWeaponProficiency`  
 
+### Extra Arcane Pool
+
+Your arcane pool increases by 2.  
+You can gain this feat multiple times. Its effects stack, granting you an increase to your arcane pool each time you take this feat.
+
+`d2631fd3494f32c4685c9b47fadd4ee4`  
+`ExtraThieflingArcanePool`  
+
 ### Extra Bombs
 
 You can throw four additional bombs per day.
@@ -740,6 +748,15 @@ You can use sermon for 6 additional rounds per day. You can select this feat mul
 
 `149c3f70d0b494a4198ceff8f26ee860`  
 `ExtraSermon`  
+
+### Extra Thiefling Arcana
+
+You gain one additional rogue talent. You must meet all of the prerequisites for this rogue talent.
+  
+You can select this feat multiple times.
+
+`674f3b547a2e7f3409f514b17c49dee6`  
+`ExtraThieflingTalent`  
 
 ### Extra Touch of the Faithful
 
