@@ -160,6 +160,7 @@
 | `587f8c97d5ba4f69a0dc38dc8fb9f8a8` | DimensionalDervishFlickeringStepAbility | Flickering Step (Dimensional Dervish) |
 | `ff24e8b83a7347cdaa52c956251c6129` | DimensionalDervishKiAbility | Ki Power: Dimensional Dervish |
 | `80920565edff4e87b0601151dffd0fe2` | DimensionalDervishScaledFistAbility | Ki Power: Dimensional Dervish |
+| `55e09228133c49cba36a2fb98c786eca` | DodgeMythicEffectBuff | Dodge (Mythic) |
 | `94745e2329a947f9970e99d56090230c` | DragonbloodShifterBite | Dragon Bite |
 | `3324f33671c04be7996ed985bb4ee05e` | DragonbloodShifterBiteWeapon |  |
 | `5af9a0f4eaab406cb33f9903bee2254e` | DragonbloodShifterWingsAbility | Wings |

@@ -71,7 +71,7 @@
 
 ### [Mesmerist](./Mesmerist/README.md) 2.0
 
-### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.19.0
+### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.20.0
 
 ### [Miscellaneous Tweaks and Fixes](./MiscTweaksAndFixes/README.md) 2.3.2
 

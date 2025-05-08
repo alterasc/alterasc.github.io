@@ -940,14 +940,14 @@ While using the Snake Style feat, when an opponent’s attack misses you, you ca
 
 ### Snake Sidewind
 
-You gain a +4 bonus to CMD against trip combat maneuvers and on Athletics checks and saving throws against ground effects. While using the Snake Style feat, you receive +4 bonus on attack roll made to confirm critical hits with unarmed weapons.
+You gain a +4 bonus to CMD against trip combat maneuvers and on Athletics checks and saving throws against ground effects. While using the Snake Style feat, you receive a +1 dodge bonus to AC and +4 bonus on attack roll made to confirm critical hits with unarmed weapons.
 
 `d068ddacdb9b4016bfa31260902839e0`  
 `SnakeSidewindFeature`  
 
 ### Snake Style
 
-You gain a +2 dodge bonus to AC and you can deal piercing damage with your unarmed strikes.
+You gain a +1 dodge bonus to AC and you can deal piercing damage with your unarmed strikes.
 
 `fa6ebb8e0d1f4b73bc155b759f244006`  
 `SnakeStyleFeature`  
