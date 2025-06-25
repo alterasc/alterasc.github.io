@@ -32,7 +32,8 @@ You can take a full-attack action, activating abundant step or casting dimension
 
 ## Feinting Flurry
 
-While using flurry of blows to make melee attacks, you can forgo your melee attack to make a Persuasion (bluff) check to feint an opponent.
+While using flurry of blows to make melee attacks, you can forgo your melee attack to make a Persuasion (bluff) check to feint an opponent.  
+Special: At 7th level a zen archer can feint while using Flurry of Blows with a bow.
 
 `f4cc60b9196144d583ac1b419e5f346c`  
 `FeintingFlurry`  

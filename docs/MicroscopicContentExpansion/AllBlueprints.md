@@ -308,5 +308,6 @@
 | `4fe4eedd8fb64f5aa8d167fc746c8b58` | TyrantWeaponBondProgression | Diabolic Bond |
 | `124b5930065842cd9dff7d89d28023b4` | WidenAurasAbility | Widen Auras |
 | `6d15fa75daaa4e00a013697dfc494ebf` | WidenAurasBuff | Widen Auras |
+| `e7838e6b0d854a82905bfc857b3092bf` | ZenArcherCunningArcher | Cunning Archer |
 
 ### [Back to mod overview](./README.md)
