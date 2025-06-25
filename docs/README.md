@@ -43,7 +43,7 @@
 
 ### [Dragon Fixes](./DragonFixes/README.md) 1.15.0
 
-### [DragonChanges&Additions](./DragonChanges/README.md) 1.9.0
+### [DragonChanges&Additions](./DragonChanges/README.md) 1.12.1
 
 ### [EbonsContentMod](./EbonsContentMod/README.md) 1.1.4
 

@@ -2,7 +2,7 @@
 
 [Back to site homepage](../README.md)
 
-## Version: 1.9.0
+## Version: 1.12.1
 
 ## Author: CascadingDragon
 
@@ -15,6 +15,8 @@
 ## New Recognized Content
 
 #### **Lists below are not a complete lists of mod what adds or does**. They are just some of the additions that can be easily automatically detected - and even then, mistakes could happen.
+
+### [New classes](./Classes.md)
 
 ### [New archetypes for base game classes](./Archetypes.md)
 

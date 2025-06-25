@@ -104,6 +104,44 @@
 `97b9d659a4ae4cc8905bd6e997d26eef`  
 `LightShieldArmorItemPlus1LightningResist`  
 
+### Bracers of Cleaving Rafanat
+
+These bracers were crafted by a blacksmith for those strange people who try to hit multiple people with one arrow.  
+Allows the user to cleave with ranged weapons in a 30ft radius of themself.
+
+`9d29689962874b03a3afc15dbf2fcdcc`  
+`RangedCleaveBracers`  
+
+### King's Ring
+
+Allows the wearer to cast For The King.
+
+`0b97997e57874a50b34add644afe4f16`  
+`FTKMemeRing`  
+
+### Ring of Arcane Success
+
+This ring is imbued with the willpower of a very successful mage.  
+Lowers arcane spell failure by 25.
+
+`90c61e78db924e13be2b23ccfc09f82b`  
+`SpellFailureRing`  
+
+### Ring of Heavy Body
+
+The ring is imbued with the hope that having a heavy body will make your attacks better.  
+Adds your CON bonus to your Critical range.
+
+`39dcf0456dcb4e1eb129677465f87b2f`  
+`MemeRing2`  
+
+### Scroll of Heavenfire Ray
+
+
+
+`e93742731c21442e9a2987492a569939`  
+`HeavenFireRayscroll`  
+
 ### Spiked Light Shield Plus 1 Sonic
 
 Spiked Light Shield Plus 1 Sonic
@@ -125,6 +163,21 @@ The hematite head of this +1 earth breaker crackles with electricity, dealing an
 
 `0734284901b64bf89dca175d8c3ea2f0`  
 `StorvalsThunder`  
+
+### Strongman's Necklace
+
+Strongman's Necklace make's it's user's skin as tough as their Strength!  
+Adds STR bonus to DR.
+
+`3a5e7317611d4562bcad41380d97be03`  
+`Str2DRNecklace`  
+
+### Tomek's Ring
+
+Ring of Tomek, the Eternally Green. His hatred is so skilled, that his ring adds your CHA modifier to your AC as a Profane bonus.
+
+`32890570b4c944e4b8c354f0c41a332c`  
+`ChaMemeRingAC`  
 
 ## Expanded Content
 

@@ -4,6 +4,7 @@
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
+| `f4914512a36d4f2493a11f95785b2bce` | AbundantAIS | Abundant All Is Darkness |
 | `76e3258c75a94124ac13af98a63fc58f` | AneviaVendor |  |
 | `77d2bb804066440a873978d831e5c110` | AneviaVendorAnswer |  |
 | `58903ba1b22846708852f9e7c919b1ea` | AutoBolstered | Auto-Bolster |
@@ -51,24 +52,55 @@
 | `6736c903d31546e8877f5bf55202f316` | AutoSolidShadows | Auto-Solid-Shadows |
 | `ff9ed9c3406f4eb48a68390567b971d4` | AutoSolidShadows-ability | Auto-Solid-Shadows |
 | `031819b93b1741df8bedad5f38c7e625` | AutoSolidShadows-buff | Auto-Solid-Shadows |
+| `32890570b4c944e4b8c354f0c41a332c` | ChaMemeRingAC | Tomek's Ring |
+| `97573e44809145b5ac7c2b28f59479eb` | ChaToAC | Redditor Armor |
+| `700df46e0ce44dd18b8a7080bdf58e7f` | ChaToBAB | Redditor BAB |
+| `1974b30d4c144193b2db0c4514276752` | ChaToCha | Redditor Charisma |
+| `57f4ee9478ab40b8bcd8a85afd85e85e` | ChaToChaCap | Reddit Moderator Charisma |
+| `6feb0d7fe3d04a2e8f0b80e6ac13d928` | ChaToCon | Redditor Constitution |
+| `bf1a89fb87834f5e8ddc1063889212de` | ChaToCrit | Redditor Critical |
+| `c5c3e999cf7c4cb58335ff000927f381` | ChaToDamage | Redditor Damage |
+| `6f06a6607f544ea8a5324d9e19fbba54` | ChaToDex | Redditor Dexterity |
+| `627e9798d6db44b985234638baa9bd38` | ChaToDR | Redditor Damage Reduction |
+| `d12ce985097f4c6ab4392e9fc1a53615` | ChaToInit | Redditor Initiative |
+| `77b76d921eaa4cd287d7e6a65c4ddcde` | ChaToInt | Redditor Intelligence |
+| `d4e9df33f53d4f5eba2c4f57200001bd` | ChaToSaves | Redditor Saving Throws |
+| `ae4e74ab9434430b8a33a110dcb8c218` | ChaToSkills | Redditor Skills |
+| `9e47872852484b8e8d063b3b404b558a` | ChaToSpeed | Redditor Speed |
+| `f677586aefdb4eb9bfd3f7cf81e38a9b` | ChaToSpellDC | Redditor Spell DC |
+| `934d8bcbb7094f2a9f697b6ab31568e3` | ChaToSpellPen | Redditor Spell Penetration |
+| `3a53efcff4a74ac89b17dedc9fe1ace6` | ChaToSR | Redditor Spell Resistance |
+| `3e9ba37e223d4c868e6ff7b46185f7f2` | ChaToStr | Redditor Strength |
+| `d1d880a39de4475a86737c12146a7dd4` | ChaToWis | Redditor Wisdom |
 | `f2a2dc49f7684b288291fffe60f3a63c` | CraneTrance | Crane Trance |
 | `57022bd78a3c41d79ec2fe969fb7c170` | DragonTrance | Dragon Trance |
+| `0b97997e57874a50b34add644afe4f16` | FTKMemeRing | King's Ring |
 | `e6b29600605647da84d1748d537faedc` | GraveSingerPlus | Grave Singer Plus |
 | `aa043b97a56e4494b4992db9ac04f3bc` | GriffonMount |  |
 | `59b802e9a61342ecae7d3a9eabaa40ab` | GriffonMount-feature | Animal Companion - Griffon |
+| `e93742731c21442e9a2987492a569939` | HeavenFireRayscroll | Scroll of Heavenfire Ray |
 | `fca844ed14ff4f03b5e6c8a867c4febc` | HeavenRay | Heavenfire Ray |
 | `afc3896c53bd48408c90039c9dae4d97` | HellBall | HellBall |
 | `e7adab84d36644c6b6c30e3b33ce7af0` | HellBall-feature | HellBall Spell |
 | `02f56c5246274e4897973bed0e41f530` | LeopardTrance | Leopard Trance |
+| `a3e0d1e617aa4424b65fa77397a3c11c` | LesbianPolyculeDeity | Radiant Prism |
 | `97b9d659a4ae4cc8905bd6e997d26eef` | LightShieldArmorItemPlus1LightningResist | [unknown key: LightShieldArmorItemPlus1LightningResist.name] |
+| `e31f124675f443b49ac1897992ab8e05` | MemeRing1Feature | Tomek's Ring |
+| `39dcf0456dcb4e1eb129677465f87b2f` | MemeRing2 | Ring of Heavy Body |
+| `79ab07ffba9f4729a0be9780eeed8e14` | MemeRing2Feature | not implemented |
 | `aa257b141b2b4d4b8a2bf85bdd56e78c` | MonkeyTrance | Monkey Trance |
 | `5d557cf279764c36b606f4c89568e0c9` | PowerfulThrow | Powerful Throw |
 | `63ec6fa2441248e0a10f888f5121ee06` | PowerfulWings | Powerful Wings |
-| `45c95e6eb7cc47e481489b250d5c99a9` | redditor |  |
+| `9d29689962874b03a3afc15dbf2fcdcc` | RangedCleaveBracers | Bracers of Cleaving Rafanat |
+| `8700b5d446f240d4bfe7db1b5a0cbaf6` | RangedCleaveBracersFeature | not implemented |
+| `45c95e6eb7cc47e481489b250d5c99a9` | redditor | Redditor |
 | `eb7baf216e1b40899dbbb236dc566d51` | redditor.spellbook |  |
 | `e24bb35c351c47c58fe8f3c25e1087af` | redditor.spellbook.perday |  |
 | `818fefb1bd7a4d87bba06c7026963f18` | redditorprogression |  |
 | `e399fe132996443c8a89d068c5ad004f` | SerpentTrance | Serpent Trance |
+| `90c61e78db924e13be2b23ccfc09f82b` | SpellFailureRing | Ring of Arcane Success |
+| `c40184e764df4249ada2c1dac5202a20` | SpellFailureRingFeature | not implemented |
+| `2abe4e0f52e149008c0e7f2b085896b7` | SpellFailureRingFeature2 | not implemented |
 | `74793441285b4f2b9fcc393ca9c7adcd` | SpikedLightShieldPlus1Sonic | Spiked Light Shield Plus 1 Sonic |
 | `7476c22e9f4f41f2834c5761d839dd7b` | StorvalSetBonus |  |
 | `769784585642447fa14777047dbdf633` | StorvalSetBonusChecker |  |
@@ -78,8 +110,11 @@
 | `ee6bec7d7d26457b88ad67ec8fe6b8c5` | StorvalsThunder-ability | Storval's Thunder  |
 | `aa81f2f2d86d493f9b6db9f224edabad` | StorvalsThunder-enchant |  |
 | `645e17f7b45d495088c0463490e260d6` | Storvalthingy |  |
-| `13e5cb5c7522407ebc4dc746388565ba` | swordmaster |  |
-| `9616285d0172406fb55a68ca1f27ba81` | swordmaster.prociencies.name |  |
+| `3a5e7317611d4562bcad41380d97be03` | Str2DRNecklace | Strongman's Necklace |
+| `5ec08222ebdb4be38b29b19c38c8ffee` | Str2DRNecklaceFeature | Strongman's Necklace |
+| `b84bd80ba88f454d811ecf25b5e28342` | SuperDexShot | Super Dextrous Shot |
+| `13e5cb5c7522407ebc4dc746388565ba` | swordmaster | Swordmaster (WIP) |
+| `9616285d0172406fb55a68ca1f27ba81` | swordmaster.prociencies | Swordmaster Proficiencies |
 | `e21a2068427940c28d48989d452f1f22` | swordmaster.progression.name |  |
 | `772add94f77140cda7fb52edc198c70c` | swordmaster-tengu | Swordmaster |
 | `c011b271062b4bb69e34d7f180ebbcde` | swordmaster-tengu.cranetrance.ability | Crane Trance (Ability) |

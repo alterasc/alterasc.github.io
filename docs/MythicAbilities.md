@@ -193,6 +193,14 @@ Your spells are infused with arcane power. You may now ignore the mind affecting
 
 ## DragonChanges&Additions
 
+### Abundant All Is Darkness
+
+You've learned a way to increase the number of uses of your All is Darkness ability.  
+Benefit: You can use All is Darnkess a number of additional times per day equal to half your mythic rank.
+
+`f4914512a36d4f2493a11f95785b2bce`  
+`AbundantAIS`  
+
 ### Auto-Bolster
 
 You become so familiar with the metamagic that you can apply it at will with no additional cost.
@@ -297,6 +305,13 @@ You become so familiar with the metamagic that you can apply it at will with no 
 
 `6736c903d31546e8877f5bf55202f316`  
 `AutoSolidShadows`  
+
+### Super Dextrous Shot
+
+With your Mythic PowerTM, you can now add your Dex bonus to your attack's damage with long bows and short bows, replacing your Str bonus.
+
+`b84bd80ba88f454d811ecf25b5e28342`  
+`SuperDexShot`  
 
 ### Trance Master
 
