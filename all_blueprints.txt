@@ -1919,6 +1919,8 @@ aef7bd42edf844ec811b77b0a778362d - DragonChanges&Additions
 def6885561c841e7b51e148d962021c0 - DragonChanges&Additions
 271ea3b6147942668608a09dfb933c7a - DragonChanges&Additions
 528f780f81694a73a82b0e69c0d1f466 - DragonChanges&Additions
+a1e8fcb5ecbd43b1b3b2a5df9b4e0e42 - Dragon Fixes
+f39a6005cf544c1396eb423fbe1ef7cb - Dragon Fixes
 017d75de44d140a8a469e242ab5e0131 - Dragon Fixes
 79f3240921f74049a502c8eefdf30108 - EbonsContentMod
 50d50ab3d6da4d628c4be46de01fb632 - EbonsContentMod
