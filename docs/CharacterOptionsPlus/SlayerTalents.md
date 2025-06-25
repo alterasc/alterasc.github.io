@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # Slayer Talents
+
+### [Back to mod overview](./README.md)
 
 ## Armored Marauder
 

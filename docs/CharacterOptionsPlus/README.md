@@ -1,8 +1,8 @@
-[To list of mods](../README.md)
-
 # Character Options+
 
-## Version: 1.3.8
+[Back to site homepage](../README.md)
+
+## Version: 1.4.0
 
 ## Author: WittleWolfie
 
@@ -28,4 +28,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

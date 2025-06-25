@@ -31,7 +31,7 @@
 
 ### [Champion Feats Anew](./ChampionFeatsAnew/README.md) 1.0.16
 
-### [Character Options+](./CharacterOptionsPlus/README.md) 1.3.8
+### [Character Options+](./CharacterOptionsPlus/README.md) 1.4.0
 
 ### [DarkCodex](./DarkCodex/README.md) 1.8.0
 

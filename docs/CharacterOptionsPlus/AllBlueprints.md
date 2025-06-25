@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |
@@ -289,7 +289,7 @@
 | `4fd8ee4dcf604b999316e57a71be80ea` | Hurtful.Buff |  |
 | `ff0cd8273f354ed7a81118cd716124ed` | IceSlick | Ice Slick |
 | `b94a289c49c2475483a5e171ad39fba6` | IceSlick.AoE |  |
-| `e3dcd20432164ed19c49708106e8191c` | IceSlick.Buff |  |
+| `e3dcd20432164ed19c49708106e8191c` | IceSlick.Buff | Grease |
 | `576450cf3f8a4440a0aaf678a6286b62` | IceSpears | Ice Spears |
 | `7c7f44cb76b949a4a40d57fee16140ba` | IceTomb | Ice Tomb |
 | `595790fd4b5749e58e99664dcca67092` | IceTomb.Ability | Ice Tomb |
