@@ -52,6 +52,13 @@ Although no less a beacon of hope and justice than other paladins, virtuous brav
 
 ## DragonChanges&Additions
 
+### Juggernaut (Barbarian)
+
+Juggernaut, DR focused Barbarian. Inspired by Rafantat on Discord
+
+`f6f4880976a74e689dc434b1bc0a7f3e`  
+`Juggernaut`  
+
 ### Swordmaster (Rogue)
 
 A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances.

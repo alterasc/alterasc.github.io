@@ -17,13 +17,6 @@ You become so familiar with the metamagic that you can apply it at will with no 
 `58903ba1b22846708852f9e7c919b1ea`  
 `AutoBolstered`  
 
-## Auto-Burning
-
-You become so familiar with the metamagic that you can apply it at will with no additional cost.
-
-`cdc66189010849269980c2faf4d36677`  
-`AutoBurning`  
-
 ## Auto-Empower
 
 You become so familiar with the metamagic that you can apply it at will with no additional cost.
@@ -31,26 +24,12 @@ You become so familiar with the metamagic that you can apply it at will with no 
 `99eb8f59d3c0454d8450a153e8ac9e4c`  
 `AutoEmpower`  
 
-## Auto-Encouraging
-
-You become so familiar with the metamagic that you can apply it at will with no additional cost.
-
-`e4efc231c4104e56b3662dd492687632`  
-`AutoEncourage`  
-
 ## Auto-Extend
 
 You become so familiar with the metamagic that you can apply it at will with no additional cost.
 
 `520b19433bd44b29856a0eb729242475`  
 `AutoExtend`  
-
-## Auto-Flaring
-
-You become so familiar with the metamagic that you can apply it at will with no additional cost.
-
-`fd7191a796ed457e9a82e19a17b3d722`  
-`AutoFlare`  
 
 ## Auto-Intensify
 
@@ -94,26 +73,12 @@ You become so familiar with the metamagic that you can apply it at will with no 
 `20f6f7c8bc2f4b74bce552f88ce9b437`  
 `AutoReach`  
 
-## Auto-Rime
-
-You become so familiar with the metamagic that you can apply it at will with no additional cost.
-
-`f7b21535954a458ba5b9be66bf58113e`  
-`AutoRime`  
-
 ## Auto-Selective
 
 You become so familiar with the metamagic that you can apply it at will with no additional cost.
 
 `18b3b63e7f304d29af952faf72e3a4bf`  
 `AutoSelective`  
-
-## Auto-Solid-Shadows
-
-You become so familiar with the metamagic that you can apply it at will with no additional cost.
-
-`6736c903d31546e8877f5bf55202f316`  
-`AutoSolidShadows`  
 
 ## Super Dextrous Shot
 

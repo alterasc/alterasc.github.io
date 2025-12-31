@@ -104,13 +104,62 @@
 `97b9d659a4ae4cc8905bd6e997d26eef`  
 `LightShieldArmorItemPlus1LightningResist`  
 
+### Amber Spindle - Ioun Stone
+
+This stone grants you a +1 resistance bonus on saving throws. The bonuses from multiple amber spindles stack  (up to a maximum of a +5 resistance bonus to saving throws).
+
+`b5a90783042a4b3b830f3af33f284e0a`  
+`AmberSpindleItem`  
+
 ### Bracers of Cleaving Rafanat
 
 These bracers were crafted by a blacksmith for those strange people who try to hit multiple people with one arrow.  
-Allows the user to cleave with ranged weapons in a 30ft radius of themself.
+Allows the user to cleave with ranged weapons in a 15ft radius of themself.
 
 `9d29689962874b03a3afc15dbf2fcdcc`  
 `RangedCleaveBracers`  
+
+### Cracked Dusty Rose Prism - Ioun Stone
+
+This stone grants a +1 competence bonus on initiative checks.
+
+`132eec2a20f546d8a78d5af27d9fa40f`  
+`CrackDustyRosePrismItem`  
+
+### Crimson Sphere - Ioun Stone
+
+This stone grants you a +2 enhancement bonus to Intelligence. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Intelligence).
+
+`e0c2f5f573d241b788a6d5d75ab78b48`  
+`CrimsonSphereItem`  
+
+### Dark Blue Rhomboid - Ioun Stone
+
+This stone grants the wearer the effects of the Alertness feat.
+
+`25ee1b7ba60040ff888ccb4ef4e552d0`  
+`DarkBlueRhomboidItem`  
+
+### Deep Red Sphere - Ioun Stone
+
+This stone grants you a +2 enhancement bonus to Dexterity. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Dexterity).
+
+`29bbbcd9d06049ddb48f01321f40ede2`  
+`DeepRedSphereItem`  
+
+### Dusty Rose Prism - Ioun Stone
+
+This stone grants the wearer a +5 insight bonus to AC.
+
+`70afb4b2655148af9f1579f5edfda159`  
+`DustyRosePrismItem`  
+
+### Incandescent Blue Sphere - Ioun Stone
+
+This stone grants you a +2 enhancement bonus to Wisdom. The bonuses from multiple spheres stack (up to a maximum of a +10 enhancement bonus to Wisdom).
+
+`935a46fc05dd47268488c45dd4d1f9b8`  
+`IncandescentBlueSphereItem`  
 
 ### King's Ring
 
@@ -118,6 +167,27 @@ Allows the wearer to cast For The King.
 
 `0b97997e57874a50b34add644afe4f16`  
 `FTKMemeRing`  
+
+### Onyx Rhomboid - Ioun Stone
+
+This stone grants you a +2 enhancement bonus to Constitution. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Constitution).
+
+`058e6ee5abec4c69ae30e43230c516d6`  
+`OnyxRhomboidItem`  
+
+### Orange Prism - Ioun Stone
+
+This stone grants you a +2 enhancement bonus to Caster Level. The bonuses from multiple prisms stack (up to a maximum of a +6 bonus to CL).
+
+`bd4455a45fb0425f8bc428eaea309437`  
+`OrangePrismItem`  
+
+### Pale Blue Rhomboid - Ioun Stone
+
+This stone grants you a +2 enhancement bonus to Strength. The bonuses from multiple crimson spheres stack (up to a maximum of a +10 enhancement bonus to Strength).
+
+`8198c3da54584ab695269321e81e64ce`  
+`PaleBlueRhomboidItem`  
 
 ### Ring of Arcane Success
 
@@ -134,6 +204,13 @@ Adds your CON bonus to your Critical range.
 
 `39dcf0456dcb4e1eb129677465f87b2f`  
 `MemeRing2`  
+
+### Scroll of Death Ward, Communal
+
+
+
+`148fe2214d854764bfb59dfb9224031f`  
+`CommunalDeathWardScroll`  
 
 ### Scroll of Heavenfire Ray
 

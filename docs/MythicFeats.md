@@ -62,6 +62,13 @@ Grants you a new powerful spell called Hellbell, which does 10d6 damage of multi
 `e7adab84d36644c6b6c30e3b33ce7af0`  
 `HellBall-feature`  
 
+### Mythic Support of Nethys
+
+Nethys is so impressed with your dedication to his teachings, that he helps your spells difficult class grow even more. Bonus of +6
+
+`e20286b6e62f4e02bbe65735b8bae69e`  
+`MythicSupportNethys`  
+
 ## Homebrew Archetypes
 
 ### Extra Rage Power
