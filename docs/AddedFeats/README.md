@@ -1,10 +1,10 @@
-[To list of mods](../README.md)
-
 # AddedFeats
 
-## Version: 1.5
+[Back to site homepage](../README.md)
 
-## Author: Telyl
+## Version: 1.7.0
+
+## Author: 
 
 ## Homepage: []()
 
@@ -16,6 +16,8 @@
 
 #### **Lists below are not a complete lists of mod what adds or does**. They are just some of the additions that can be easily automatically detected - and even then, mistakes could happen.
 
+### [New archetypes for base game classes](./Archetypes.md)
+
 ### [New feats](./Feats.md)
 
 ### [New spells](./Spells.md)
@@ -24,4 +26,4 @@
 
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)

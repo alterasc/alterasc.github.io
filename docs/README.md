@@ -15,7 +15,7 @@
 
 ## List of content by mod
 
-### [AddedFeats](./AddedFeats/README.md) 1.5
+### [AddedFeats](./AddedFeats/README.md) 1.7.0
 
 ### [Alternate Racial Traits](./AlternateRacialTraits/README.md) 1.5.5
 

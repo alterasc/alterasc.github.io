@@ -2,6 +2,15 @@
 
 ### [Back to site homepage](./README.md)
 
+## AddedFeats
+
+### Stalker (Hunter)
+
+The Stalker and his pet hunts with deadly precision.
+
+`a4e236d12a3844318d4d1c5ef1ef7f99`  
+`Stalker`  
+
 ## Arcane Additions
 
 ### School Savant (Arcanist)

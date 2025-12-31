@@ -6,7 +6,7 @@
 
 ### Atavism
 
-By bringing forth the primeval ancestry of the target animal, you awaken a savage engine of destruction. The animal immediately gains the advanced creature simple template. It gains a +2 bonus on all rolls, including damage rolls and special ability DCs, a +4 bonus to AC and CMD, and +2 hit points per HD. The animals primal instincts take hold for the duration of this spell—if the animal knows tricks granted by the Lore (Nature) skill, it loses access to all of those tricks save for attack. 
+By bringing forth the primeval ancestry of the target animal, you awaken a savage engine of destruction. The animal immediately gains the advanced creature simple template. It gains a +2 bonus on all rolls, including damage rolls and special ability DCs, a +4 bonus to AC and CMD, and +2 hit points per HD. The animals primal instincts take hold for the duration of this spell—if the animal knows tricks granted by the Lore (Nature) skill, it loses access to all of those tricks save for attack.
 
 Druid 4, Hunter 4
 
