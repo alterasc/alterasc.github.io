@@ -25,6 +25,8 @@
 
 ### [Baphomet Rides Deskari](./NenioMod/README.md) 1.1.3
 
+### [BetterBackgrounds](./BetterBackgrounds/README.md) 1.14
+
 ### [BOAT BOAT BOAT](./WOTR_BOAT_BOAT_BOAT/README.md) 1.2.1
 
 ### [CamelliaRomanceExpandedEnd](./CamelliaRomanceExpandedEnd/README.md) 2.4

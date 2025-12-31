@@ -21,6 +21,11 @@
       "DisplayName": "AutomaticBonusProgression"
     },
     {
+      "ModId": "BetterBackgrounds",
+      "Version": "1.14",
+      "DisplayName": "BetterBackgrounds"
+    },
+    {
       "ModId": "CamelliaRomanceExpandedEnd",
       "Version": "2.4",
       "DisplayName": "CamelliaRomanceExpandedEnd"
