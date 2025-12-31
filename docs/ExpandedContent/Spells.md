@@ -33,7 +33,7 @@ Druid 3, Hunter 3, Soldier of Gaia 3
 
 The target’s skin becomes as thick and tough as clay, granting the target DR 5/adamantine. Once the spell has prevented a total of 5 points of damage per caster level (maximum 50 points), it is discharged and the spell ends.
 
-Wizard 3, Alchemist 3, Bloodrager 3, Inquisitor 3, Magus 3, Child of Acavna and Amaznen 3, Ravener Hunter 3, Claw of the False Wyrm 3
+Wizard 3, Alchemist 3, Bloodrager 3, Inquisitor 3, Magus 3, Child of Acavna and Amaznen 3, Ravener Hunter 3
 
 `31ed0a88513246afac5b0bea60a728a9`  
 `ClaySkinAbility`  
@@ -84,7 +84,7 @@ Bard 6
 You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body.   
 Choose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.
 
-Wizard 4, Alchemist 4, Bloodrager 4, Magus 4, Child of Acavna and Amaznen 4, Claw of the False Wyrm 4
+Wizard 4, Alchemist 4, Bloodrager 4, Magus 4, Child of Acavna and Amaznen 4
 
 `2b591d58f76e4bddbef15e286030663d`  
 `DetonateBaseAbility`  
@@ -94,7 +94,7 @@ Wizard 4, Alchemist 4, Bloodrager 4, Magus 4, Child of Acavna and Amaznen 4, Cla
 A shower of iridescent black particles clings in the air, removing all forms of glitterdust.   
 Creatures in the area must make a Fortitude save or become fatigued.
 
-Wizard 2, Bard 2, Bloodrager 2, Child of Acavna and Amaznen 2, Claw of the False Wyrm 2
+Wizard 2, Bard 2, Bloodrager 2, Child of Acavna and Amaznen 2
 
 `cc055016ef114931aee2463200814e53`  
 `DustOfTwilightAbility`  
@@ -103,7 +103,7 @@ Wizard 2, Bard 2, Bloodrager 2, Child of Acavna and Amaznen 2, Claw of the False
 
 A magical field appears around you. This field deflects incoming arrows, rays, and other ranged attacks. Each ranged attack directed at you for which the attacker must make an attack roll has a 20% miss chance (similar to the effects of concealment). Other attacks that simply work at a distance are not affected.
 
-Warpriest 1, Cleric 1, Dread Knight 1, Faithful Paragon 1
+Warpriest 1, Cleric 1, Faithful Paragon 1
 
 `ff9b4a7437d44c5fa29a7573a63728f5`  
 `EntropicShieldAbility`  
@@ -112,7 +112,7 @@ Warpriest 1, Cleric 1, Dread Knight 1, Faithful Paragon 1
 
 Your skin erupts in swollen, pus-filled bumps that burst open if you are struck. Any creature that strikes you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of acid damage and must save or be sickened for 1 round. If the attack against you is a critical hit, the attacker must save or be nauseated instead of sickened.
 
-Witch 3, Wizard 3, Alchemist 3, Bloodrager 3, Child of Acavna and Amaznen 3, Skulking Hunter 3, Claw of the False Wyrm 3
+Witch 3, Wizard 3, Alchemist 3, Bloodrager 3, Child of Acavna and Amaznen 3, Skulking Hunter 3
 
 `27effebb41e5465a9e1757a479959b1b`  
 `EruptivePustulesAbility`  
@@ -140,7 +140,7 @@ Witch 2, Druid 2, Hunter 2, Soldier of Gaia 2, Skulking Hunter 2
 
 You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane. You can fire one bolt, plus one for every four levels beyond 5th (to a maximum of three bolts at 13th level) at the same target, each requiring a ranged touch attack to hit. Each bolt deals 4d6 points of damage to a living creature or heals 4d6 points of damage to an undead creature. Furthermore, the bolt’s energy spreads over the skin of the creature, possibly blinding it for a short time. Any creature struck by a bolt must succeed at a Reflex saving throw or become blinded for 1 round.
 
-Witch 3, Wizard 3, Bloodrager 3, Magus 3, Child of Acavna and Amaznen 3, Claw of the False Wyrm 3
+Witch 3, Wizard 3, Bloodrager 3, Magus 3, Child of Acavna and Amaznen 3
 
 `e28f4633c0a2425d8895adf20cb22f8f`  
 `GloomblindBoltsAbility`  
@@ -177,7 +177,7 @@ Witch 3, Wizard 3, Hunter 1, Magus 2, Ranger 1, Shaman 3, Skulking Hunter 1
 
 You call forth a quick blast of water that knocks over and soaks one creature or square. You can use this blast of water to make a bull rush against any one creature or object. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush does not provoke an attack of opportunity.
 
-Wizard 1, Bloodrager 1, Druid 1, Hunter 1, Magus 1, Shaman 1, Soldier of Gaia 1, Child of Acavna and Amaznen 1, Claw of the False Wyrm 1
+Wizard 1, Bloodrager 1, Druid 1, Hunter 1, Magus 1, Shaman 1, Soldier of Gaia 1, Child of Acavna and Amaznen 1
 
 `490cc69049be462eafecf69d7030b07a`  
 `HydraulicPushAbility`  
@@ -225,7 +225,7 @@ Witch 7, Wizard 7, Inquisitor 5, Ravener Hunter 5
 By holding aloft a holy symbol and calling your deity’s name, you take on an aspect of that divinity. When you cast this spell, choose a domain offered by your deity. You gain that domain’s benefits, along with the listed physical changes; abilities that allow a saving throw use this spell’s DC.  
 You must worship a being that grants access to domains in order to cast this spell.
 
-Warpriest 6, Witch 6, Cleric 6, Hunter 4, Inquisitor 6, Paladin 4, Ranger 4, Dread Knight 6, Faithful Paragon 4, Skulking Hunter 4, Ravener Hunter 6
+Warpriest 6, Witch 6, Cleric 6, Hunter 4, Inquisitor 6, Paladin 4, Ranger 4, Faithful Paragon 4, Skulking Hunter 4, Ravener Hunter 6
 
 `98f9c960637f4934bc4cca02c45cb3bc`  
 `InvokeDeityAbility`  
@@ -258,7 +258,7 @@ Confusion: This spell causes confusion in the targets, making them unable to det
 51–75: Deals (1d8 points of damage + Strength modifier) to self with item in hand  
 76–100: Attacks nearest creature
 
-Witch 4, Wizard 4, Bloodrager 4, Druid 4, Hunter 4, Soldier of Gaia 4, Child of Acavna and Amaznen 4, Skulking Hunter 4, Claw of the False Wyrm 4
+Witch 4, Wizard 4, Bloodrager 4, Druid 4, Hunter 4, Soldier of Gaia 4, Child of Acavna and Amaznen 4, Skulking Hunter 4
 
 `3bd430ba3d594fdda99751c34fda9c01`  
 `MoonstruckAbility`  
@@ -315,7 +315,7 @@ Wizard 6, Alchemist 6, Skulking Hunter 6
 
 You become a giant-centipede or a giant-fly.
 
-Witch 3, Wizard 4, Alchemist 4, Bloodrager 4, Druid 3, Magus 4, Soldier of Gaia 3, Child of Acavna and Amaznen 4, Skulking Hunter 3, Claw of the False Wyrm 4
+Witch 3, Wizard 4, Alchemist 4, Bloodrager 4, Druid 3, Magus 4, Soldier of Gaia 3, Child of Acavna and Amaznen 4, Skulking Hunter 3
 
 `f7f764d8f69d4224880f9183a8013d19`  
 `VerminShapeIParentAbility`  
@@ -333,7 +333,7 @@ Wizard 7
 
 The joints of a creature affected by this spell stiffen and swell, making movement painful and slow. The target takes 1d6 points of nonlethal damage per caster level. Additionally, the target takes a –4 penalty to Dexterity and its movement speed decreases by 10 feet; these additional effects last for 1 minute per caster level. A successful save halves the nonlethal damage and negates the penalty to Dexterity and movement.
 
-Warpriest 4, Witch 4, Wizard 4, Cleric 4, Magus 4, Shaman 4, Dread Knight 4, Faithful Paragon 4, Skulking Hunter 4
+Warpriest 4, Witch 4, Wizard 4, Cleric 4, Magus 4, Shaman 4, Faithful Paragon 4, Skulking Hunter 4
 
 `2bba038472a64f67b235674c7e27d90c`  
 `RigorMortisAbility`  
@@ -352,7 +352,7 @@ Wizard 9, Cleric 9
 You summon a pair of claws over your hands formed from semireal material. This grants you two primary claw attacks dealing 1d4 points of damage if you are Medium (1d3 if Small) plus 1 point of Strength damage. A successful Fortitude saving throw negates the Strength damage (DC = this spell’s DC).   
 While under the effect of this spell, all claw attacks gain this spells Strength damage component.
 
-Wizard 2, Bard 2, Bloodrager 2, Magus 2, Child of Acavna and Amaznen 2, Skulking Hunter 2, Claw of the False Wyrm 2
+Wizard 2, Bard 2, Bloodrager 2, Magus 2, Child of Acavna and Amaznen 2, Skulking Hunter 2
 
 `7402ae487e0b41968be48c103904d237`  
 `ShadowClawsAbility`  
@@ -407,7 +407,7 @@ Druid 1, Hunter 1, Soldier of Gaia 1, Skulking Hunter 1
 
 You create low-cresting waves of water under the feet of the target, able to propel them while moving. The target’s speed increases by 10 feet.
 
-Wizard 2, Bloodrager 2, Druid 2, Hunter 2, Ranger 2, Soldier of Gaia 2, Child of Acavna and Amaznen 2, Claw of the False Wyrm 2
+Wizard 2, Bloodrager 2, Druid 2, Hunter 2, Ranger 2, Soldier of Gaia 2, Child of Acavna and Amaznen 2
 
 `fe43fadb91b040b38718e88dd5744413`  
 `SlipstreamAbility`  
@@ -445,7 +445,7 @@ Wizard 9
 
 The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round. The subject can attempt a Fortitude saving throw each round to reduce the damage by half.
 
-Warpriest 3, Witch 3, Wizard 3, Bloodrager 3, Cleric 3, Magus 3, Shaman 3, Dread Knight 3, Faithful Paragon 3, Child of Acavna and Amaznen 3, Claw of the False Wyrm 3
+Warpriest 3, Witch 3, Wizard 3, Bloodrager 3, Cleric 3, Magus 3, Shaman 3, Faithful Paragon 3, Child of Acavna and Amaznen 3
 
 `56557368ccbb415fa57b11612affabb9`  
 `TrialOfFireAndAcidAbility`  
@@ -463,7 +463,7 @@ Witch 4, Wizard 5, Alchemist 5, Druid 4, Magus 5, Soldier of Gaia 4, Skulking Hu
 
 An immobile, blazing curtain of shimmering fire springs into existence. The wall deals fire damage when it appears, to all creatures in the area on your turn each round, and also to any creature that passes through it. The damage dealt is 2d6 points of damage +1 point of damage per caster level (maximum +20). The wall deals double damage to undead creatures.
 
-Wizard 4, Bloodrager 4, Druid 5, Hunter 5, Magus 4, Shaman 4, Soldier of Gaia 5, Child of Acavna and Amaznen 4, Claw of the False Wyrm 4
+Wizard 4, Bloodrager 4, Druid 5, Hunter 5, Magus 4, Shaman 4, Soldier of Gaia 5, Child of Acavna and Amaznen 4
 
 `80189142f7c640f39195defdc9777b27`  
 `WallOfFireAbility`  

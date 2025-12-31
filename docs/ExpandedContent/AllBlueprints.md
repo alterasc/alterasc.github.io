@@ -808,6 +808,7 @@
 | `f841457f6813488e89ea8c52c64c893e` | DefenseDomainBaseBuff | Deflection Aura |
 | `8aa7fdba3cc54087a1387784bd925444` | DefenseDomainBaseClassFeature | Defense Domain Resistance Bonus |
 | `ab8c73a37c4e483cbbaa7c3fb0e31aac` | DefenseDomainBaseFeature | Defense Subdomain |
+| `ad41d6c0d6d44aafb430d563ab2b5ee0` | DefenseDomainBaseFeatureSeparatist | Defense Subdomain |
 | `a5651f29338c4112ba5e8c56935b3c9b` | DefenseDomainBaseResource |  |
 | `407af52f929441b4aee3a71e7ad1918e` | DefenseDomainProgression | Defense Subdomain |
 | `dafd2e2de6f34940b4904856f690a71c` | DefenseDomainProgressionSecondary | Defense Subdomain |
@@ -1176,7 +1177,7 @@
 | `d33eed71b9924d3880369a481eae576a` | DreadKnightChannelNegativeEnergyAbility | Channel Negative Energy - Damage Living |
 | `6368faf6e7484845838d781c9e49918e` | DreadKnightChannelNegativeEnergyFeature | Channel Negative Energy |
 | `4a7e96a96894402cb26ada42e4532be9` | DreadKnightChannelNegativeHealAbility | Channel Negative Energy - Heal Undead |
-| `d0eb4ca44e11417c9b2f0208491067a0` | DreadKnightClass | Dread Knight |
+| `d0eb4ca44e11417c9b2f0208491067a0` | DreadKnightClass |  |
 | `87baeac4f38e46b8a2e2656c865ac46a` | DreadKnightCompanionSelection | Fiendish Servant |
 | `c5a3884683bf467091af2fc410f29301` | DreadKnightProfaneMountFiendish | Profane Mount — Fiendish |
 | `c0626acc5bf546dabea7ed4895900d10` | DreadKnightProficiencies | Dread Knight Proficiences |
@@ -1890,7 +1891,7 @@
 | `12fac40312e34eb483a7f44acb352130` | NurgalSacredWeaponFeature |  |
 | `9e09e40944384ec080541f5c2a727508` | NyarlathotepFeature | Nyarlathotep |
 | `cc0cf7f6e4dd4bfda6d9054cb7096304` | NyarlathotepSacredWeaponFeature |  |
-| `b35ce8ee32c24bfd8884740f13aaee12` | OathbreakerClass | Oathbreaker |
+| `b35ce8ee32c24bfd8884740f13aaee12` | OathbreakerClass |  |
 | `8ff9221c7a70444c8e0cb5cf6aff016b` | OathbreakerProficiencies | Oathbreaker Proficiences |
 | `93eb21737eba4a569974791bf587315c` | OathbreakerProgression | Oathbreaker |
 | `507879c44d4f49d082159c43c3842ffd` | OathbreakersBaneAbility | Oathbreaker's Bane |
@@ -2088,15 +2089,27 @@
 | `8efb844f490e4a5592ecc047b90aceee` | OracleRevelationDoomsayerFeature | Doomsayer |
 | `cac446cf1a9c428f9a2928fed090f047` | OracleRevelationDoomsayerShakenBuff | Doomsayers Prophecy |
 | `61e81f557dfc46e6bf53a3f4c373117c` | OracleRevelationDoomsayerSwiftExtend | OracleRevelationDoomsayerSwiftExtend |
+| `872614f362934372aae1ca3aaddb731c` | OracleRevelationDraconicResistancesAcidAbilityLevel1 |  |
+| `a0b99a6a8bd64cb5a88b37092ee403c9` | OracleRevelationDraconicResistancesAcidAbilityLevel2 |  |
+| `05d3179d8d704bf081a544c2d02893f1` | OracleRevelationDraconicResistancesAcidAbilityLevel3 |  |
 | `d0223c9007d845709956e6e7df995292` | OracleRevelationDraconicResistancesAcidLevel1 | Draconic Resistances - Acid |
 | `77dec0edd56f49ebb68690d5ff11b9e0` | OracleRevelationDraconicResistancesAcidLevel2 |  |
 | `0fb6f682e1694c0e8fb1b4402ea6df7a` | OracleRevelationDraconicResistancesAcidProgress | Draconic Resistances - Acid |
+| `ac26e457673646c785dad925ac1eb175` | OracleRevelationDraconicResistancesColdAbilityLevel1 |  |
+| `0e38810e71c44ec0887c14649712ccdc` | OracleRevelationDraconicResistancesColdAbilityLevel2 |  |
+| `2da2aba7c9624288888853057e64bd8d` | OracleRevelationDraconicResistancesColdAbilityLevel3 |  |
 | `acc29d95dd43497b83c0c5751a077fe6` | OracleRevelationDraconicResistancesColdLevel1 | Draconic Resistances - Cold |
 | `52f733fbd0e441b499779b194aa4377a` | OracleRevelationDraconicResistancesColdLevel2 |  |
 | `40d1bac8181242b59860a0c86d274e86` | OracleRevelationDraconicResistancesColdProgress | Draconic Resistances - Cold |
+| `7157ac7f32df439b9de0e5d1d26548bc` | OracleRevelationDraconicResistancesElectricAbilityLevel1 |  |
+| `e332f6d9c78b4064aafd9a67a5480e0c` | OracleRevelationDraconicResistancesElectricAbilityLevel2 |  |
+| `56f49988c42a4fb599dfff6a2a6463c2` | OracleRevelationDraconicResistancesElectricAbilityLevel3 |  |
 | `834731522a6d4d5597f0484fc0112223` | OracleRevelationDraconicResistancesElectricLevel1 | Draconic Resistances - Electric |
 | `6cec0ab4c66d4cb7b75982b7e9e51058` | OracleRevelationDraconicResistancesElectricLevel2 |  |
 | `fe10858a672f4e30b3343b4802b40d13` | OracleRevelationDraconicResistancesElectricProgress | Draconic Resistances - Electric |
+| `c5d427e94be8497797ef65dd3c3dae02` | OracleRevelationDraconicResistancesFireAbilityLevel1 |  |
+| `7b42699411b94a6fb215472889fab295` | OracleRevelationDraconicResistancesFireAbilityLevel2 |  |
+| `c06a33c4b97a410aa0b0d3031c53c5ec` | OracleRevelationDraconicResistancesFireAbilityLevel3 |  |
 | `324bf4a27c684f7697da1952b2452e13` | OracleRevelationDraconicResistancesFireLevel1 | Draconic Resistances - Fire |
 | `12b9ea1f57524724b513f0068cbc9ba7` | OracleRevelationDraconicResistancesFireLevel2 |  |
 | `6828bbd9088e432e8ad03de7076b3d79` | OracleRevelationDraconicResistancesFireProgress | Draconic Resistances - Fire |
@@ -3968,6 +3981,7 @@
 | `bed0fd8e1f434c30bb7d5c0f5edc5814` | WyrmSingerDraconicRageBuff |  |
 | `36613e1c9f8840efbef57fef726737e7` | WyrmSingerDraconicRageEffectBuff | Draconic Rage |
 | `6ffee2ceac01472280ab0325d3d3e883` | WyrmSingerDraconicRageFeature | Draconic Rage |
+| `1d38e60750cd4bbda072082d9b2c2f68` | WyrmSingerMythicDraconicRageEffectBuff | Draconic Rage |
 | `87397846d898447ebfc05cf958cb8828` | WyrmSingerWyrmSagaAbility | Wyrm Saga |
 | `8ce3113ab6da4c0bb4e4a0d334a7bcc4` | WyrmSingerWyrmSagaArea |  |
 | `4bfc887f0db54f179780c7a8febd7df8` | WyrmSingerWyrmSagaBuff |  |

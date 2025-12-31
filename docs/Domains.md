@@ -21,7 +21,7 @@ Domain Spells: divine favor, communal protection from evil, prayer, forced repen
 You are a true scholar of the mystic arts, harnessing the fusion of arcane and divine.   
 Arcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
 Dispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th.   
-Domain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, mages disjunction.
+Domain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, clashing rocks.
 
 `c0a52e60c4c24a3381883d3acb6f2d98`  
 `ArcaneDomainProgression`  
@@ -65,7 +65,7 @@ Domain Spells: burning hands, scorching ray, fireball, controlled fireball, flam
 You are a crusader for your god, always ready and willing to fight to defend your faith.  
 Battle Rage: You can touch a creature as a standard action to give it a bonus on melee damage rolls equal to 1/2 your level in the class that gave you access to this domain for 1 round (minimum +1). You can do so a number of times per day equal to 3 + your Wisdom modifier.  
 Wounding Blade (Su): At 8th level, you can give a weapon that you touch the wounding special weapon quality for a number of rounds equal to 1/2 your cleric level. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.  
-Domain Spells: magic weapon, aid, vampiric touch, diving power, vinetrap, blade barrier, inflict serious wounds, power word stun, power word kill.
+Domain Spells: magic weapon, aid, vampiric touch, divine power, vinetrap, blade barrier, inflict serious wounds, power word stun, power word kill.
 
 `305a179a0d374221bd4de808db462884`  
 `BloodDomainProgression`  
@@ -76,7 +76,7 @@ Domain Spells: magic weapon, aid, vampiric touch, diving power, vinetrap, blade 
 You have mastery over rock and stone, can manifest vast pits, and command earth creatures.  
 Acid Dart: As a standard action, you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. This acid dart deals 1d6 points of acid damage+ 1 point for every two levels you possess in the class that gave you access to this domain. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.  
 Tunnel Runner: At 8th level, while underground you may gain an insight bonus equal to your cleric level on Stealth and Perception skill checks and an insight bonus equal to your Wisdom modifier on initiative checks. You can use this ability for 1 minute per day per cleric level you possess. These minutes do not need to be consecutive, but they must be spent in 1-minute increments.  
-Domain Spells: stone fist, createpit, spiked pit, spike stones, acidic spray, hungry pit, elemental body IV (earth), iron body, elemental swarm (earth).
+Domain Spells: stone fist, create pit, spiked pit, spike stones, acidic spray, hungry pit, elemental body IV (earth), iron body, elemental swarm (earth).
 
 `fa457420d4fa42a1b0a5116ff7d03f14`  
 `CavesDomainProgression`  
@@ -120,7 +120,7 @@ Domain Spells: doom, communal protection from law, rage, freedom of movement, ac
 Your soul embodies the anarchic and evil nature of demonkind, your master grants you the power of the Abyss.  
 Fury of the Abyss: As a swift action, you can give yourself an enhancement bonus equal to 1/2 your cleric level (minimum +1) on melee attacks, melee damage rolls, and combat maneuver checks. This bonus lasts for 1 round. During this round, you take a –2 penalty to AC. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.  
 Scythe of Evil: At 8th level, you can give a weapon touched the unholy special weapon quality for a number of rounds equal to 1/2 your level in the class that gave you accessto this domain. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.  
-Domain Spells: doom, communal protection from law, rage, freedom of movement, acidic spray, summon monster VI, word of chaos, cloak of chaos, summon monster IX.
+Domain Spells: doom, boneshaker, rage, unholy blight, slay living, summon monster VI, blasphemy, unholy aura, summon monster IX.
 
 `be1268aeed6849c881a1536b7210f459`  
 `DemonDomainEvilProgression`  

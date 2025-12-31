@@ -38,7 +38,7 @@ When you select this feat, choose one of the benefits that matches the flavor of
 ## Opening Volley
 
 Your ranged assault leaves your foe disoriented and vulnerable to your melee attack.   
-Whenever you deal damage with a ranged attack, you gain a + 4 circumstance bonus on the next melee attack roll you make against the opponent.This attack must occur before the end of your next turn.
+Whenever you deal damage with a ranged attack, you gain a +4 circumstance bonus on the next melee attack roll you make against the opponent. This attack must occur before the end of your next turn.
 
 `aa422fe114674582bb47330ace91031d`  
 `OpeningVolleyFeature`  
