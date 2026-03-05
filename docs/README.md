@@ -73,7 +73,7 @@
 
 ### [MAKING FRIENDS](./WOTR_MAKING_FRIENDS/README.md) 0.2.2
 
-### [Mesmerist](./Mesmerist/README.md) 2.0
+### [Mesmerist](./Mesmerist/README.md) 3.3
 
 ### [Microscopic Content Expansion](./MicroscopicContentExpansion/README.md) 1.21.0
 

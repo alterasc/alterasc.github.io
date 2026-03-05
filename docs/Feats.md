@@ -884,12 +884,26 @@ When you use painful stare to augment an ally’s damage, the target of the pain
 `a1cd3fdb625c48daa8326f02a7bdd3b4`  
 `IntensePain`  
 
-### Trick Features
+### Manifold Stare
 
-Allows the mesmerist to modify their tricks by altering or expanding how they can be used.
+You can trigger your painful stare one additional time per round. You may select this feat at 3rd, 9th, and 15th level.
 
-`77229e2108084575b3b35c0982a1c7a2`  
-`TrickFeatsSelection`  
+`ba69bca985f24b9cad637ca6f83c9efe`  
+`ManifoldStare`  
+
+### Manifold Stare
+
+You can trigger your painful stare one additional time per round. You may select this feat at 3rd, 9th, and 15th level.
+
+`eb7927420bf5449a9a23c3a800f3cf23`  
+`ManifoldStare9th`  
+
+### Manifold Stare
+
+You can trigger your painful stare one additional time per round. You may select this feat at 3rd, 9th, and 15th level.
+
+`ea384c5a35054fcba5b38185404b1909`  
+`ManifoldStare15th`  
 
 ## Microscopic Content Expansion
 
