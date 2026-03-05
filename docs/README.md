@@ -57,7 +57,7 @@
 
 ### [Gracious Friendships](./GraciousFriendships/README.md) 0.9.9b
 
-### [Homebrew Archetypes](./HomebrewArchetypes/README.md) 1.1Zvz
+### [Homebrew Archetypes](./HomebrewArchetypes/README.md) 1.1Zwi
 
 ### [Isekai Mod](./IsekaiMod/README.md) 5.4.2
 

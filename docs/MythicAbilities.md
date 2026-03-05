@@ -392,6 +392,14 @@ A high-level warrior's intimate knowledge of vital spots on opponents allows him
 You've become closer to your deity and to the power it has over its divine domains.  
 Benefit: You can use the abilities of your domains as a swift action.
 
+`ee63b4b0981208d40a960f986018ee1d`  
+`CrusaderDomainZealot`  
+
+### Domain Zealot
+
+You've become closer to your deity and to the power it has over its divine domains.  
+Benefit: You can use the abilities of your domains as a swift action.
+
 `93d76dd5e6c3ac245b6beec7d847bc06`  
 `DomainMastery`  
 
@@ -461,6 +469,13 @@ Benefit: You gain a second oracle mystery.
 `1ae59f1b2a3940f41b94904373dd0072`  
 `SecondMysteryLoreKeeper`  
 
+### Sound The Horns of War
+
+While being effected by easy march the crusader and their allies gain the ability to pounce and add +4 strength while charging.
+
+`2742d3054ec5be34e9e4821278cb823c`  
+`SoundtheHornsofWarFeature`  
+
 ### Stunning Strikes
 
 A Power Attack allows the warrior to strike blows so forceful that they stun an opponent for 2 rounds if the opponent fails a fortitude saving throw. The DC for this ability is 10 + 1/2 character level + Strength Modifier. The ability lasts for 2 rounds and can only be used 3 times per day.
@@ -481,6 +496,13 @@ This ability allows the warrior to unleash a flurry of super-fast blows. The abi
 
 `33228aafd0ee83340813ccafe4e7e72c`  
 `WhirlwindAttackFeature`  
+
+### Zealous Courage
+
+Invoke courage bonuses are increased by 1 + 1 per 3 mythic levels and now provides an extra attack per round(Stacks with haste).
+
+`3438c95eaa87de745b89160194e5d4ff`  
+`ZealousCourageFeature`  
 
 ## Isekai Mod
 

@@ -16,6 +16,13 @@ Some arcanists specialize in a school of magic and trade flexibility for focus. 
 `d8bbe8991bb7a0740939e499935b09cd`  
 `SchoolSavantArchetype`  
 
+## Barbarian (Barbarian)
+
+Barbarians excel in combat, possessing the martial prowess and fortitude to take on foes seemingly far superior to themselves. With rage granting them boldness and daring beyond that of most other warriors, barbarians charge furiously into battle and ruin all who would stand in their way.
+
+`b3e8590f63b190b4a8f91c52539d45aa`  
+`BarbarianArchetype`  
+
 ## Hateful Rager (Barbarian)
 
 From a young age, many half-orcs are treated cruelly, bullied, ridiculed, and made outcasts. While some hide their shame, others foster a deep, burning hatred that they channel into a raw fury and unleash against their enemies. These half-orcs are called hateful ragers.
@@ -86,6 +93,13 @@ Some knights serve nature itself and can be found protecting unspoiled natural p
 `96821b01f8e6a8f4fae5414697a17017`  
 `GreenKnightArchetype`  
 
+## Crusader (Cleric)
+
+Crusaders serve as the militant arm of a church, ready to stand guard over the religion's holy places and to be its swift, avenging arm against those who resist its truth.
+
+`c227519b406cd024ba2ea9e2d19fa00a`  
+`CrusaderArchetype`  
+
 ## Elder Mythos Cultist (Cleric)
 
 Typically grasping, secretive, and thoroughly mad, Elder Mythos cultists open their bodies and minds to horrifying realities not meant for the sane as they strive to prepare the world for the eventual return of their alien masters.
@@ -122,6 +136,13 @@ This is a warrior who is in tune with his animalistic side and, during combat, c
 
 `4ff7206d8c75fac4dbad4501261e50ac`  
 `BerserkerArchetype`  
+
+## Blackguard (Fighter)
+
+Few evil creatures would call themselves evil, and fewer still would champion it. Those select few are the blackguards. Blackguards champion either and evil god, tyranny, or evil itself believing it is needed to balance out good. A blackguard is a blight upon the land, bringing fear, misery, and destruction wherever they go. Many powerful blackguards seek positions of power, either over a regiment of like minded soldiers, or over a town or city, using it for their own dark desires. Unlike most evil creatures, a blackguard is fearless and will die for their cause.
+
+`d06403ff8e217994291712950406d53b`  
+`BlackguardArchetype`  
 
 ## Viking (Fighter)
 
@@ -248,6 +269,13 @@ With their mastery of magic, arcane tricksters can make for even more subtle or 
 
 `a4d746700eab76449aa9c6759afa81b1`  
 `SArcaneTricksterArchetype`  
+
+## Dragon Disciple (Sorcerer)
+
+With the magic of a spellcasting class at their disposal, dragon disciples can assume the typical role of a magic-user, hampering the movement of the enemy and hurling damage-dealing spells at their opponents. Dragon disciples' draconic abilities, however, make these versatile spellcasters even more formidable, as they use their breath weapons and flight to destroy their foes directly.
+
+`7c62bc4f8535ae54d9fd06722349cfff`  
+`DragonDiscipleArchetype`  
 
 ## Eldritch Knight (Sorcerer)
 

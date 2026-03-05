@@ -48,6 +48,8 @@
 | `3495851ccbd0ce547a27a26ce57bc827` | AcidDartFeature | Acid Dart |
 | `b1b63296caab12d4591b460da249f111` | AcidSplash | Acid Splash |
 | `d8ff0c29a735b4247b092acdd031c51b` | AcidSplashFeature | Acid Splash |
+| `cf2f3228955f9e040ac14bbc52d1bf5e` | AcrobaticArrayAbility | Find Tell (Opener) |
+| `e4731519a19042940b3463946323d117` | AcrobaticArrayFeature | Find Tell (Opener) |
 | `3bdaef9441ec7a7498e2d294ac5350d5` | AdamantineBulwarkAbility | Channel Divinity - Adamantine Bulwark |
 | `aea63e4f22f280d4ba7dcff62a8d01ec` | AdamantineBulwarkBuff | Channel Divinity - Adamantine Bulwark |
 | `d966b245530431c418c44d17bbd347f4` | Adept | Adept |
@@ -172,6 +174,7 @@
 | `47dad6cd770e71f4caa5c2f714681234` | ArmorBuff | Shroud |
 | `ad88be7103605b148a09e630393fa13f` | Armorfeature | Shroud |
 | `2dc897fcf7097224b9475df03a929a99` | ArmorResource |  |
+| `669f070d39d4ea44fa65c437237e4707` | ArtofSwordplayFeature | Art of Swordplay |
 | `3f806db3d38f98445928e5a67feccb8d` | AscendedArcanistBloodline | Bloodline Ascendance |
 | `376c39d646708a04abe6df9a337c0cca` | AspectoftheBeastClaws | Claws of the Beast |
 | `2d153d12aab2d1d47b8d1015f83f5894` | AspectoftheBeastSelection | Aspect of the Beast |
@@ -180,6 +183,10 @@
 | `591c5e2a7d451b0459d9e2cc5118bb44` | ATEKSpellbook | Eldritch Knight |
 | `ef38f7755c5c0aa4ebe9f12b19a01ccd` | ATQuestioner | Questioner |
 | `2e70af7619c8bab4f94023490a50facc` | ATSWD | Witch |
+| `84f7eba92d3328c4c914dd8db91aed00` | AuraofDespairArea |  |
+| `aba39003ad1df1e4e92341b77ae1fa7b` | AuraofDespairAreaBuff |  |
+| `da0fdd529a411e94eaba93f4c37eb5d0` | AuraofDespairEffectBuff | Aura of Despair |
+| `a85d7bd4833a41a419ee701851447e01` | AuraofDespairFeature | Aura of Despair |
 | `5771e694b885c7946b82b7e90fdf1da0` | AuraofEnfeeblementArea |  |
 | `4ceb1ca6658846943889540897cb7ff0` | AuraofEnfeeblementBuff |  |
 | `d269b02c4ae5fb54ea2c474023b69acc` | AuraofEnfeeblementEffectBuff | Aura of Enfeeblement |
@@ -208,6 +215,21 @@
 | `7f54abd66029e8746be01818657e5a22` | BadLuckAbility | Bad Luck |
 | `84c78f1b2e21fac4ab9ea805f56ef8d8` | BadLuckBuff | Bad Luck |
 | `51a0466574f18d3499696e4df422122a` | BadLuckFeature | Bad Luck |
+| `b0b808f56fb6c3544875eac997f3a74c` | BarbarianACBonus | Unarmored Defense |
+| `409c5b5eec5a8964fbe2c0247f543e65` | BarbarianACBonusBuff | Unarmored Defense |
+| `aa689eb02284ca04c80381a37c76e789` | BarbarianACUnlockFeature | Unarmored Defense |
+| `b3e8590f63b190b4a8f91c52539d45aa` | BarbarianArchetype | Barbarian |
+| `4338785e6a8a96a46b271a750ae6342d` | BarbarianBrutalCritical | Brutal Critical |
+| `f85c7e26972db1b4eb921e15ece86027` | BarbarianBrutalCritical1 | Brutal Critical |
+| `696ab1b88d44de3408983b1a1f2b9307` | BarbarianBrutalCritical1Buff | Brutal Critical |
+| `25dea675370d1bb4c9e70137637db983` | BarbarianBrutalCritical2 | Brutal Critical |
+| `f0ae76aa40a3b1948aeda0309e724c10` | BarbarianBrutalCritical2Buff | Brutal Critical |
+| `12a684a2c1702fd4fbdad43fd13a2b14` | BarbarianBrutalCritical3 | Brutal Critical |
+| `0ad9c303a699c3241a448b4354aa7a6a` | BarbarianBrutalCritical3Buff | Brutal Critical |
+| `2117d016adf2231418eb84126b2f8d59` | BarbarianBrutalCriticalBuffBuff1 | Brutal Critical |
+| `00ab47f94b86ff448a234886929a2a48` | BarbarianFeralInstinct | Feral Instinct |
+| `bf7496cfd7b51fe46a05104e6df0f0e2` | BarbarianResistanceRageBuff | Rage Resistance |
+| `01c5168beef465744aadb2d67bb1d233` | BarbarianResistanceRageFeature | Rage Resistance |
 | `3a25a8b208437834e823d206623f0599` | BardicPerformanceResource |  |
 | `43385175fd022c546865e7b37bcc08ce` | BardicPerformanceResource |  |
 | `520bab13f4c15f242ae5f1761a2da417` | BardicPerformanceResourceFact | Bardic Performance |
@@ -260,6 +282,16 @@
 | `b75d05499dea91949aa4c77a68fb99fd` | BeastTotemGreaterFeature | Beast Totem, Greater |
 | `2a3843b5f4b98a746be52df743e7de0a` | BeastTotemLesserFeature | Beast Totem, Lesser |
 | `4f72e40f1cfe96c45b8c3faea989beec` | BeastTotemRageBuff |  |
+| `2f50ae4d629634d4b8da352cb1be2b6f` | BeatAbility | Beat (Opener) |
+| `76b44a20c1ae29d49ab02dabb9053b1c` | BeatArea |  |
+| `a5250800c54f1d841bde2522bf1cd80a` | BeatAreaBuff |  |
+| `b1681a490c8c57449b7b98dc93cb9403` | BeatAreaBuffEffect |  |
+| `8c7b1a87d3eb90c489742368adf10ae0` | BeatAreaTargetBuff |  |
+| `292c81d16700d9f4197ebb018471b534` | BeatAttackBuff |  |
+| `abeaf32edcf4f6241a4f834080ee43e5` | BeatEnemyBuff | Beat (Opener) |
+| `6e0a80a05162ee74ba987dcf6fa8e12a` | BeatFeature | Beat (Opener) |
+| `1b5fc63c1529f5a43b9e5769fafcdd9a` | BeatInvulnerabilityBuff |  |
+| `1df100d8fa513cf4693a5797a65bdd3f` | BeatPlayerBuff | Beat (Opener) |
 | `5b05ede19c47afa489283c8b1b0eec57` | Berserker |  |
 | `4ff7206d8c75fac4dbad4501261e50ac` | BerserkerArchetype | Berserker |
 | `ce3856bd3f1ae5e4199a446e78177032` | BInspireFerocityAbility | Inspire Ferocity |
@@ -280,7 +312,20 @@
 | `54884b9dfcbc29b439021623f0177d75` | BlackClawsFeatureLevel4 |  |
 | `01ad240312b0fbc49b6804a15dd7afec` | BlackDraconicResistancesAddLevel1 | Dragon Resistances |
 | `3fdcbc589509f6240b598361691ddcc9` | BlackDraconicResistancesAddLevel2 |  |
+| `d06403ff8e217994291712950406d53b` | BlackguardArchetype | Blackguard |
+| `6c4063335e9aa994b8ac44b45b5db348` | BlackguardProficiencies | Blackguard Proficiencies |
+| `5531160d681baa74d9cc0a49d4b84902` | BlackguardSkeletonRankProgression |  |
+| `77dbf287556819442811316eaf77ed55` | BlackguardSpellbook |  |
+| `fa4801a752a124a4ba9edfbc7cde5e09` | BlackguardSpellLevels |  |
+| `72654ddb169105d47bc30b8ac9e24414` | BlackguardSpellList |  |
 | `cc889d638845baa44943cbba3ca95ead` | BladeArchetype |  |
+| `5a217fb3969791b48b9af1d8da9457ad` | BladesingerArchetype |  |
+| `9c36dc4313037e143b574dcd1ebe5be3` | BladesingerProficiencies | Training in War and Song |
+| `ee494df9ec597a444826370e3dc51b69` | BladesongAbility | Bladesong |
+| `0333429f8191ad147a197921c78d4f60` | BladesongBuff | Bladesong |
+| `1f4438b55d553104b9d38f830f1bc604` | BladesongClimaxAbility | Bladesong Climax |
+| `0a105768a8c25584580553bfc72855ec` | BladesongFeature | Bladesong |
+| `82835d25ce27a4e4c8332d3adf8cd968` | BladesongResource |  |
 | `ed1e2b3ac8bae3249af80f0725896558` | BlessedFortitude | Blessed Fortitude |
 | `a306a1ea2af85544eba0c285fe535f62` | BlindingBombs | Blinding Bombs |
 | `0c040f2746fe25c409104d7380fd6a9b` | BlindingBombsAbility | Blinding Bomb |
@@ -651,6 +696,7 @@
 | `8b0681767b9dbae4c8850a397ba0cf44` | CopperResistAddLevel1 | Dragon Resistances |
 | `ee47f4f12712dab4a9edb6ca45d80982` | CopperResistAddLevel2 |  |
 | `55b260dd2c9ab0040bcc134701bb5ccd` | CorpseBond | Corpse Bond |
+| `7495aa2d1aef88e46b834aa716fbb4ec` | CorpseBond | Skeletal Companion Selection |
 | `54daf202ddf3a714fb9c15ff22fab8ac` | CorpseBondCompanion | Skeletal Companion Selection |
 | `82e186d68d74a314f957c05e2f725ca9` | CorpseCompanion | Corpse Companion |
 | `48ea365206a07c44faac04915cb7968a` | CorrosiveTouch | Corrosive Touch |
@@ -658,6 +704,10 @@
 | `08302267b26dfab41842b0a3f74eb9f7` | CorrosiveTouchFeature | Corrosive Touch |
 | `2440568935b09764ca6bde7b1376bc13` | CorruptingTouchAbility | Corrupting Touch |
 | `348ea610d2ab9444b98090b373955046` | CorruptingTouchFeature | Corrupting Touch |
+| `7d84deff73cbcb44888b0af39a11b99a` | CorruptWeaponAbility | Corrupt Weapon |
+| `2e02dd53e6edf724986114be6f37133a` | CorruptWeaponAutoCritConfirm |  |
+| `6fa78a48a5d9e204bbc053668bb6a4e7` | CorruptWeaponBuff | Corrupt Weapon |
+| `b8e17acce1f863642bdd20fec8b8932e` | CorruptWeaponCast | Corrupt Weapon |
 | `4010f07dbcb6ac14191dbb8a50141fab` | CounterAttackGambitAbility | Counterattack Gambit |
 | `103204914970efc4d9ebbbfc04897a8c` | CounterAttackGambitBuff | Counterattack Gambit |
 | `43a2b09b18dacac439483d73d096c203` | CounterAttackGambitBuffBuff | Counterattack Gambit |
@@ -675,6 +725,9 @@
 | `3fbdc64d76e567649bc6a6d91dca3803` | CriticalStrikesBuff | Critical Strikes |
 | `018926790350c6e4d902c15beec9e980` | CriticalStrikesFeature | Critical Strikes |
 | `e79c936663c44564faa0ca3807289d7c` | CriticalStrikesResource |  |
+| `c227519b406cd024ba2ea9e2d19fa00a` | CrusaderArchetype | Crusader |
+| `ee63b4b0981208d40a960f986018ee1d` | CrusaderDomainZealot | Domain Zealot |
+| `9d128a9d3619b4e4fb7494a2d5084c28` | CrusaderProficiencies | Crusader Proficiencies |
 | `ef3e9e0974db81c4392f4d8422117688` | CSAirLvL2 | Change Shape (Medium Air Elemental) |
 | `2d4e6062cd2104940bf01d24fb19ae21` | CSBearLvL2 | Change Shape (Bear) |
 | `f539562fa74fa2f41b18032073b4e2be` | CSEarthLvL2 | Change Shape (Medium Earth Elemental) |
@@ -712,6 +765,7 @@
 | `fb94f70a063184a4c8294c334259dc5d` | DancerACUnlockFeature | AC Bonus |
 | `9c00757174bcad044bc4732dcce7731f` | DancerArchetype | Dancer |
 | `d09d1929f81867d488056bd2b84f0d5e` | DancerLightFoot | Dancer's Routine |
+| `d1c87a91cf0d69343b5b7a358f04055b` | DarkBlessingFeature | Dark Blessing |
 | `fdf0143a217946e44935fe03e47b0179` | DarkbloomArchetype |  |
 | `f1eaad5f752f4544d9714db8ea0dd44b` | DarkbloomCLProperty |  |
 | `c94a97942b1c81d49905f370bb5d5ebb` | DarkbloomDCProperty |  |
@@ -719,6 +773,7 @@
 | `103a623930c31ed4aaa83ee34b277505` | DarkDescent | Dark Descent |
 | `5dcbacd518bb89c4fb21e410d9bfdd52` | DarkEntanglementAbility | Entanglement of Darkbloom |
 | `e21fd7077f18b0246a4c34bcabebcd30` | DarkEntanglementArea |  |
+| `5049a5469889c7240b4ccc66f1f31290` | DarkEntanglementBuff | Entanglement of Darkbloom |
 | `e707f6735fc3bb74db2236efb069746e` | DarkEntanglementFeature | Entanglement of Darkbloom |
 | `d648a39422919d647999a90ebe0b521f` | DarkEntanglementResource |  |
 | `5b6bca3e2135dfa4890cae4c85024b60` | Daze | Daze |
@@ -726,6 +781,8 @@
 | `5964fd2d31795ff4c90c5c14739499f5` | DDQuestioner | Questioner |
 | `303df2155c3532b428be585bda733cb6` | DeadlyAccuracyEffectBuff |  |
 | `bcd8e8732bd49264995431499048d2ac` | DeadlyAccuracyFeature | Deadly Accuracy |
+| `e39180e3b1b19d045a0bd82212cf798e` | DeadlyArcAbility | Deadly Arc (Finisher) |
+| `eef8d4f4c9bcc294d9ea4048eba0e499` | DeadlyArcBuff |  |
 | `4744f2cb9ea50f44491c1328dc8bd06a` | DeadlyEfficiency | Deadly Efficiency |
 | `26650c41b4374a3439c2300f8a04c2e9` | DeadlyEfficiencyBuff | Deadly Efficiency |
 | `4b365e4fd50101d41b6e1dfc823a5a76` | DeadlyEfficiencyEffectBuff | Deadly Efficiency |
@@ -757,6 +814,10 @@
 | `c2d39fb890476db49991e0dbd107eb05` | DebilitatingBlowsBuff | Debilitating Blows - Entangle |
 | `06216bef8c460864c9b02ebc84d99d93` | DebilitatingBlowsFeature | Debilitating Blows - Entangle |
 | `28ce64571fe6bf64ba2b88ddb4b4ef40` | DebilitatingBlowsStunnedBuff | Stunned |
+| `883bd44c04e654b45b3dd9e1377b2802` | DeificStrikeAbility | Deific Strike - Melee |
+| `f65030669136e5744b529356dc7f6c28` | DeificStrikeAbilityRanged | Deific Strike - Ranged |
+| `54ce9e4ba27338f499ac0c8c8e5ca77f` | DeificStrikeFeature | Deific Strike |
+| `68120f963bd71f748b96550dc50a5f28` | DeificStrikeVariantAbility | Deific Strike |
 | `dc031d5ff800a044ea973f21171a356d` | Demodandbuff | Poison Vulnerability |
 | `442e940f6d7f49349b39f62500c41c3f` | DemodandType |  |
 | `959a2629504ac754185e0ee4b49b816a` | DemonType | Demon Unit |
@@ -833,6 +894,19 @@
 | `a340edbe756fc4142b923cb5157d6028` | DoubleDebilitation | Double Debilitation |
 | `c4f124dc337aa5547ae9b029032bd63b` | DoubleSong | Double Performance |
 | `b6604c48d04b2b1409f7c23c2bea7232` | DraconicClawsResource |  |
+| `7c62bc4f8535ae54d9fd06722349cfff` | DragonDiscipleArchetype | Dragon Disciple |
+| `78f11d6b96aa9b344b03a955f1caea80` | DragonDiscipleBiteFeature1 | Dragon Bite |
+| `ccb176ab22d47914da28e24602975a5a` | DragonDiscipleBiteFeature2 | Dragon Bite |
+| `05c7ff6fb6411404da98913a5a077173` | DragonDiscipleBlindSense | Blindsense |
+| `4319a3575f89e2b42b0fc5150cd7dec0` | DragonDiscipleBloodLineSelection | Blood of Dragons |
+| `167db1b51c2086448be690b82843bb48` | DragonDiscipleBreathFeature | Breath Weapon |
+| `20665754cbe86594698dee0e4373beb8` | DragonDiscipleBreathWeaponExtraUse |  |
+| `559a36e0686a8f44e88826d427d0854f` | DragonDiscipleConstitution | Ability Boost — Constitution (+2) |
+| `04bc9810c8772474f99abdfbb7dc2303` | DragonDiscipleFormFeature1 | Dragon Form |
+| `ad97c194cb6cc844691712226071ba25` | DragonDiscipleFormFeature2 | Dragon Form |
+| `6b4c42950227bab4e88b91f9c858c533` | DragonDiscipleIntelligence | Ability Boost — Intelligence (+2) |
+| `8f106eb50b79b14459a79421553ad060` | DragonDiscipleNaturalArmor | Natural Armor Increase (+1) |
+| `c45bd0ccfc20dad42abd6b0c979f9e91` | DragonDiscipleStrength | Ability Boost — Strength (+2) |
 | `01ff99413431f3149ac6e35f70562cea` | DreadInvestigatorArchetype |  |
 | `4b84df45ec100a7498faf89fbbe4ebef` | DVArea |  |
 | `04590957b9ce9264baa2f98651e0a26d` | DVBuff |  |
@@ -843,6 +917,12 @@
 | `68a536175164e954894c7d72470b3456` | EarthBlastFeature | Elemental Blast |
 | `4f35e9606cb94a443a1c8daca92a0c09` | EarthMagic | Mage Armor |
 | `9a6c5528788dfeb4b8624ec91ef0951d` | EarthResistAdd | Elemental Resistance |
+| `ed263db7c2102c94b8067dc252c7907f` | EasyMarchArea |  |
+| `7719acc865468254998346a843c65a7d` | EasyMarchBuff | Easy March |
+| `fa078b4e6c177c1488cf0c4c61b42094` | EasyMarchBuffEffect | Easy March |
+| `b0bdbf64eddc07649aa2b0e850c94108` | EasyMarchFeature | Easy March |
+| `8e0f92f09d49ef84893bc0b3838573c4` | EasyMarchResource |  |
+| `964b4d1f29c627b4a9f335cf8b10800b` | EasyMarchToggle | Easy March |
 | `65e9b8db0b6b8d64d955457426471972` | ECMDomainSelection | Domain Selection |
 | `910fb1145d8d45a448d3cec06e75375b` | EffortlessDualWielding | Effortless Dual-Wielding |
 | `d5c09d6652b7dbf4e848d9759b203a05` | EKClericSecret | Eldritch Knight |
@@ -1191,6 +1271,11 @@
 | `4fc24295daef937468c1b94ba3f43360` | FiendTotemFeature | Fiend Totem |
 | `d3beb7e8312070246a6d324909eaf6f7` | FiendTotemGreaterFeature | Fiend Totem, Greater |
 | `bcf615513e7512a4ca4601ab3b0bc630` | FiendTotemLesserFeature | Fiend Totem, Lesser |
+| `db1952e465a6d6946a72446813dbb715` | FindTellAbility | Find Tell (Opener) |
+| `068ca49ce11668047894edcdfc90d105` | FindTellBuff | Find Tell (Opener) |
+| `b0db05f6b29daf04daec7747dd8a79b4` | FindTellFeature | Find Tell (Opener) |
+| `cd314b90a73bd95499597d6faaabd503` | FinisherBuff |  |
+| `b5edbacb27ee04744b61385069051528` | FinishersVariantAbility | Finishers |
 | `c1438e400af272345ae0360218928e09` | FireballArrow | Enchant Arrow - Fireball |
 | `64edbafa8cb09fa4a9c9c1afff6c7c1a` | FireballArrowFireball | Fireball |
 | `c155edcbc05582946b80b4beeea97f4a` | FireBlast | Elemental Blast |
@@ -1742,6 +1827,8 @@
 | `7aae9b5908458be41950ba5f9c7d7266` | IgnoreElementsToggle | Epic of Elements - Accept Effect |
 | `74fbf7702b7cacd4397f5a02955f6e50` | ImplacableKnight | Implacable Knight |
 | `7b0ebd2990a515c40998d160f5f8476a` | ImprovedUncannyDodge | Improved Uncanny Dodge |
+| `2fd6c8163eb92894885aeb1ea5bc88f3` | IncisiveStrikeAbility | Incisive Strike (Sequiter) |
+| `cc80a3cf77fbba34886f17a9e22dcb4a` | IncisiveStrikeBuff |  |
 | `796435ebf035ff645aff8abe53f6ef5f` | IncorporealFormAbility | Incorporeal Form |
 | `9c41aa48c547d484a99f9dfbc918eba8` | IncorporealFormFeature | Incorporeal Form |
 | `b3f3d6278c28828458c6d02aac3b07ec` | IncreasedDamageReductionFeature | Increased Damage Reduction |
@@ -1888,6 +1975,11 @@
 | `18ff191a860a6974aac1731a925970d5` | InvestigatorTrapFinding | Trapfinding |
 | `26c27d6674022554fa4a39ad44e01ebc` | InvestigatorTrapSense | Trap Sense |
 | `f840a52f4cff41349832fa8a0cef018c` | InvestigatorUndeadSelection | Skeletal Companion Selection |
+| `5478e384833c6a04983fc92fda3d0ff2` | InvokeCourageAbility | Invoke Courage |
+| `03bf0b9bcd6d9f842bc773e3ed24bfdc` | InvokeCourageBuff | Invoke Courage |
+| `50bd2d1f652ae0b47a1baeba5c9ab5e5` | InvokeCourageFeature | Invoke Courage |
+| `a9684d949d979a74b89e945285b72af4` | InvokeCourageMythicBuff | Invoke Courage |
+| `8dab241644ffe514a88c58360327ed7d` | InvokeCourageResource |  |
 | `804d438f015340648b272589184333bb` | JinInspireATKAbility | Inspiration - Attack Roll |
 | `323f13c4379c9934983ddff1e11d78c9` | JinInspireSAVAbility | Inspiration - Saving Throw |
 | `ff3b40d15a0e43d45ac90e532eac27da` | JinInspireSKILLAbility | Inspiration - Skill Roll |
@@ -2004,9 +2096,6 @@
 | `fc26846434af6504ba3f01c16c802dba` | LoLEffectBuff | Litany of Lethargy |
 | `e05b57330c19e764db1a824ce5344e45` | LoLFeature | Litany of Lethargy |
 | `b2c4cc2bc8e9f3447b4648d10d85f73e` | LoLToggle | Litany of Lethargy |
-| `ddc596d58ee87f48c92a6b06b670789e` | LoremasterSpellbookEldritchKnightTTT | Wizard |
-| `d9714466201806d8bb433b80b765998f` | LoremasterSpellbookStrategistTTT | Bard |
-| `0e41b21c91d468d8c8e4c70c5ba47a65` | LoremasterSpellbookThieflingTTT | Rogue |
 | `7b90399102307f8478c6840422ab0a90` | LostSoulCompanion | Shepherd of Lost Souls |
 | `334f4b5839031ae44aded25aa09086c6` | LuckAbilitiesFeature | Lucky Talent |
 | `4775b1d028237d04c85fca5e1cc6b693` | LuckAbilitySelection | Lucky Talent |
@@ -2054,6 +2143,12 @@
 | `323b3fa66c686c243a67704142cd8544` | MaximizeAbility | Metamagic Mastery — Maximize Spell |
 | `321263af700c75e438a9d325171ba96b` | MaximizeFeature | Metamagic Mastery — Maximize |
 | `5a1503610d610a14d8d989ed223fcdf3` | MDResource |  |
+| `dcd17f482ae9e844d8dbf10c57e8d1cf` | MeasureFailingsAbility | Measure Failings (Opener) |
+| `7a458a9bb2c368c4384b1411563fa199` | MeasureFailingsAttackBuff |  |
+| `33347007ee927864ea1f20b7071d2950` | MeasureFailingsBuff |  |
+| `09b141b68dd6c2a48b5299d156b4799a` | MeasureFailingsDamageBuff |  |
+| `849b6a8e3af5d5845bceacf4f65cf535` | MeasureFailingsFeature | Measure Failings (Opener) |
+| `2189d998b5a8efa4cb72af8a2adc7a45` | MeasureFailingsWaitBuff |  |
 | `08cf9aeda5fa4144bbb72337640f0308` | MeditativeDance | Meditative Whirl |
 | `18039c87ee0791845af44a4a004c1a3f` | MeditativeDanceAbility | Meditative Whirl |
 | `e53dc52f4277f28498280c434aee42d9` | MeditativeDanceFeature | Meditative Whirl |
@@ -2077,6 +2172,9 @@
 | `1ba66cce4b472b84c8f4804f537e0452` | MinorMagicResource |  |
 | `59e9a1c3739586647a317d975321ea9e` | MinorMagicSelection | Minor Magic |
 | `8c69b7b5f7de4244da33484207d6095f` | MiraculousFortitude | Miraculous Fortitude |
+| `3678ab079132e8b47a1f7fc112e587f3` | MisdirectionAbility | Misdirection (Opener) |
+| `fa407ba256bb51c45a5b7cfee8c5072e` | MisdirectionBuff |  |
+| `814b22dd8ab730b40a93b7f2f51356e5` | MisdirectionEnemyBuff |  |
 | `9c69428bef22bf149a6828ac79fe2739` | MoDSArea |  |
 | `2ba17a2c13e114842adc05fc8b4c2c9e` | MoDSBuff | Millenia of Deathly Silence |
 | `d720923d3473af64c86001b4b0949723` | MoDSEffectBuff | Millenia of Deathly Silence |
@@ -2182,6 +2280,10 @@
 | `00a67bd446c4f804396a2068fd44e376` | OathofVengeanceProgression | Oath of Vengeance |
 | `1db65089e8d83ae42b3f0357beb659fd` | OathPerformanceFact | Bardic Performance |
 | `6bd4c42c0d94f644ca2c311ac9e636e7` | OathSelection | Take your Oath |
+| `b644bd3e59d5c2143bfbed624ae4226f` | OFAuraArea |  |
+| `12f78206f6f98d84986aa1d1b12ed00e` | OFAuraBuff |  |
+| `1a18b574af64fcb44a5c2aa6cc87bfe4` | OFAuraEffectBuff |  |
+| `675e2b982974d20489151f4b7c2de73f` | OFAuraHitBuff |  |
 | `2234c2e422e2dc94a8607a2276b72820` | OneWiththeForestBuff | One With the Forest |
 | `4d44f895f798fe5489b2ff9b39062542` | OneWiththeForestFeature | One With the Forest |
 | `adda6af60616cc54fbb4044c5a3f252d` | OoSPAuraofPerfection | Aura of Perfection |
@@ -2202,6 +2304,12 @@
 | `5cfa1937799478641b8b6ded04f560c0` | OoSPUnarmedFeature | Unarmed Strike |
 | `d924d64822027aa49ba339ecb9e732ac` | OotGChallenge | Challenge |
 | `400ff8b6faf5d4641b48e2f0c224329e` | OotGSkills | Skills |
+| `f579aff956e6dc041a5464e0dfb04c00` | OpenersVariantAbility | Openers |
+| `8e34955c340b9444fbc5496ae9ba4274` | OpportunistFeintAbility | Opportunist's Feint (Opener) |
+| `15439a595360a1945835d812642f1f13` | OpportunistFeintArea |  |
+| `510fbe1cd2110904291f0398c9a48efd` | OpportunistFeintEffectBuff |  |
+| `3cde9f7dc7758cc41a1910fea6826c7b` | OpportunistFeintFeature | Opportunist's Feint (Opener) |
+| `f6aa3f8a9985971429d70dde84ff4fbf` | OpportunistsFeintBuff |  |
 | `38cb4b3fb92cac74a9927068dd5e9ea4` | OppositionAbjuration | Opposition School — Abjuration |
 | `158dcfeb67baf9a4288f348a7211e46b` | OppositionConjuration | Opposition School — Conjuration |
 | `df49e0d39e43b934bbe2621e1741a1b1` | OppositionDivination | Opposition School — Divination |
@@ -2551,6 +2659,7 @@
 | `414540ad082a6ad4480c1467f535b571` | RollingDodgeFeature | Rolling Dodge |
 | `84c3fcd44c54b9b4d9f22cec1ae0a5a9` | RolltheDiceAbility | Roll the Dice - Self |
 | `917ce86cd9be0f34ead930c01407e75a` | RolltheDiceAbilityAlly | Roll the Dice - Ally |
+| `fabd24f6cda358e4081e43ff301dba85` | RolltheDiceACBuff | Roll the Dice |
 | `194729716b0f12b42b373efee5d7e6c8` | RolltheDiceAttackBuff | Roll the Dice |
 | `02ba0be85a673e1438881017fd94ac7f` | RolltheDiceDamageBuff | Roll the Dice |
 | `703abd8be686a6b4ea0b0a13d6b77488` | RolltheDiceFeature | Roll the Dice |
@@ -2686,6 +2795,8 @@
 | `70f9744a433519c41af599cc33164b7c` | SEldritchStrikeFeature | Eldritch Strike |
 | `b629341dbc3fc174c85f64db8c4f7f77` | SEldritchStrikeResource |  |
 | `0b0dbdacf3df9664aa94f25b3acb6593` | SelectiveChannel | Selective Channel |
+| `491a12bcc2b401f4daac61717534df56` | SequitersVariantAbility | Sequiters |
+| `076fe7882b5b62c4ba960718e3a03487` | SequitorBuff |  |
 | `3a97884c5251cf2439056db859dd4ac8` | SerenadeofSPArea |  |
 | `27a9badd459a7ce4f8c6d962798675ad` | SerenadeofSPBuff | Sermon - Serenade of Spell Piercing |
 | `e10d4b4f5a01e6943bad017f5c08df65` | SerenadeofSPEffectBuff | Sermon - Serenade of Spell Piercing |
@@ -2852,6 +2963,7 @@
 | `fc45be8b3fae6004caa99e8b3013540d` | SFNinjaKiPoolSelection | Ki Power |
 | `1fe8285219ef0b14a9ddc8130f649c2d` | SFNinjaKiPoolSignature | Ki Power |
 | `7dccb713c52d1c54d93c6e88232ec4d8` | SFNinjaKiPowerSelection | Ki Power |
+| `e4ddf9120ef6387408084c14b4651923` | SFNinjakjlj | Greater Ki Blade - Flaming |
 | `d008b935de24e0f499c04e52109eec49` | SFNinjaNoTrace | No Trace |
 | `40fb5bdf7fc2bbe46834520255c7a35c` | SFNinjaPoison | Ki Power: Poison |
 | `e793cd8c738effc4bbb3cd10bb113d0f` | SFNinjaPoisonAbility | Ki Power: Poison |
@@ -3017,11 +3129,16 @@
 | `e4cc2845d8ae43345945c54f0fae149c` | SlowingStrikeEffectBuff | Studied Strike - Slowing Strike |
 | `e706c839d139e6a4281fb5c3e316408e` | SlowingStrikeFeature | Studied Strike - Slowing Strike |
 | `9cf0e2f17d98800449567f63063e00fd` | SmartDefense | Smart Defense |
+| `6a0827e1886cab246983ef98caaec446` | SmiteAbility | Smite |
 | `916ad2df49f9c4041bbc2fb265a13658` | SmiteAbility | Smite Evil |
+| `d12d6e539830c84409994c3a097de76b` | SmiteAdditionalUse | Smite |
+| `e303bd8706ca99145bcd5380b7784b50` | SmiteBuff | Smite |
+| `19276555ee393eb46b3ad46fb0f2e306` | SmiteFeature | Smite |
 | `2c9e24cba9b76d64ca4fb5cd991d62dc` | SmiteFeature | Smite Evil |
 | `5f10f7081a1b9b4469598357787a52ab` | SmiteNegativeCleric | Channel Negative Energy — Damage Living |
 | `3bdce2ff447ca7b4a91a227cd2c34a8c` | SmitePositiveCleric | Channel Positive Energy — Damage Undead |
 | `c63b597ff41d9c74c948d1faef02a6e8` | SmitePurifier | Channel Positive Energy — Damage Undead |
+| `e9d4042be678a6742abd859e82c3dd18` | SmiteResource |  |
 | `1ecfef4b3fef9d04b8b865d8df428f83` | SmiteVoid | Channel the Void |
 | `afe4c3d9abac55d44a42f2c287ba434c` | SnakeSkinAddLevel1 | Snakeskin |
 | `d0889a6c6be810b4381b614a5140a8f0` | SnakeSkinAddLevel2 | Snakeskin |
@@ -3032,15 +3149,39 @@
 | `3091f3c4098c8c54793954a5061f4d20` | SoDRBEffectBuff | Silence of the Dream Realm |
 | `b9a8119d9aaeb0147bb6daec8573e3b5` | SoDRBFeature | Silence of the Dream Realm |
 | `27e6fdeeb4118a34090db1f15aa1de9e` | SoDRBToggle | Silence of the Dream Realm |
+| `af63decfcd063f34da2563509926849e` | SongofDefenseAbility1 | Song of Defense |
+| `25ccb2f9b93d03f448a482496c19a388` | SongofDefenseAbility2 | Song of Defense |
+| `5706337ff986a6b428bcca40c5bfd4ad` | SongofDefenseAbility3 | Song of Defense |
+| `7f4371fd73540fe41a813babc921a77f` | SongofDefenseAbility4 | Song of Defense |
+| `d0565a962ee1f0842a7f24c9a4f4a5c1` | SongofDefenseAbility5 | Song of Defense |
+| `8c4aea770675a8f4bba3930d2b13e1f3` | SongofDefenseAbility6 | Song of Defense |
+| `28b0a4d7cc4ef1e438eed98712b84736` | SongofDefenseAbility7 | Song of Defense |
+| `560af97e371d25c4e9656b3f37d94fd3` | SongofDefenseAbility8 | Song of Defense |
+| `a981545e8b59d6f448f7a1b7745baf23` | SongofDefenseAbility9 | Song of Defense |
+| `78d1dd49e16608744846015ac9867b4a` | SongofDefenseBuff1 | Song of Defense |
+| `3439b23e9dce8854fb35a194009a309f` | SongofDefenseBuff2 | Song of Defense |
+| `8fb584a42a39d7141b1f82a1a52874ac` | SongofDefenseBuff3 | Song of Defense |
+| `4b8f4b99dc323ea4891b129c67628910` | SongofDefenseBuff4 | Song of Defense |
+| `c617dbc68cb620240944b12f48d683d3` | SongofDefenseBuff5 | Song of Defense |
+| `34c6118fca8fc2043aa6eca97fa1f9f1` | SongofDefenseBuff6 | Song of Defense |
+| `871f6e944c49a27479ebe3740649e736` | SongofDefenseBuff7 | Song of Defense |
+| `ed829938ecaec8840a720ea37d52a82d` | SongofDefenseBuff8 | Song of Defense |
+| `ac71c0fddbf422a45bc8a6befa35079c` | SongofDefenseBuff9 | Song of Defense |
+| `d2d24053f93c3e944bc7b4152db3379f` | SongofDefenseFeature | Song of Defense |
 | `5970989bea047d443b7b5d4573948c38` | SongofMercyArea |  |
 | `522b9f62ecafd3540ac654be132fcc5f` | SongofMercyBuff | Song of Mercy |
 | `aa999d98d77b0b2439e84ed2c4f1fd59` | SongofMercyEffectBuff | Song of Mercy |
 | `92c7500a2c79b784090025e3d816ab29` | SongofMercyFeature | Song of Mercy |
 | `5c985a5f137b7be4b8746653cd6f3ea6` | SongofMercyToggle | Song of Mercy |
+| `6053102bb7ec52c4fbadbed9762cd328` | SongofVictoryBuff | Song of Victory |
+| `a69e813eb09d20d4795e636454a26e83` | SongofVictoryFeature | Song of Victory |
 | `b0106109e1df6d64bb82775e645f4004` | SoothingPerformanceAbility | Soothing Performance |
 | `dff90b7faa0422744855f4c68b5bec65` | SoothingPerformanceFeature | Soothing Performance |
 | `cda1569145e784d4f86df3b7cbc36683` | SoulofFeyAbility | Cloak of Dreams |
 | `cb081abf5e7b216408216e71e0e7cdd1` | SoulofFeyFeature | Soul of the Fey |
+| `5e97df97509b5714e8ccc09294fe50e4` | SoundtheHornsBuff | Sound The Horns of War |
+| `f4e0062711fae8340bd30bf650a2cf57` | SoundtheHornsofWarBuff | Sound The Horns of War |
+| `2742d3054ec5be34e9e4821278cb823c` | SoundtheHornsofWarFeature | Sound The Horns of War |
 | `02f9863685bc76c4c98d79a698105ca1` | SpecialistSchoolSelection | Specialist School |
 | `3e551ffee2184914e88eef0910cbb9c3` | SpecializationSchoolFeature | Specialist School — Abjuration |
 | `45c75f4b20b0c1c4090f2ce5f4d52e98` | SpecializationSchoolFeature | Specialist School — Evocation |
@@ -3141,6 +3282,14 @@
 | `069a582e9c6535a4e996bf9a4d75799d` | SwiftSermon | Sermon - Swift Action |
 | `998bae6b46f07cc4fac273b8a3ce2d5e` | SwiftSermonBuff | Sermon - Swift Action |
 | `7a4ee4839e95e944593714224762fa0e` | SwiftSermonToggle | Sermon - Swift Action |
+| `ef93e2da6ac8cde44bb4756d32d56eab` | SwordArtSelection | Sword Arts |
+| `b304a0d73116b104089faabf4a19e79c` | SwordmasterClass |  |
+| `0e1137f769eed714ca5d7aefa2d07849` | SwordmasterProficiencies | Swordmaster Proficiencies |
+| `b43d5a4ad0806534d9a58da4b2f0bc9b` | SwordmasterProgression |  |
+| `bc5175f6b25ccc245905e2f48e9a3ca9` | TactfulDeflectionsBuff | Tactful Deflections |
+| `a40c7fbfa86722641acfa666a0685300` | TactfulDeflectionsFeature | Tactful Deflections |
+| `2b23f8e5dbb9902418e09f73b31a4607` | TactfulStrikes | Tactful Strikes |
+| `bdbc5e7ba6d00cb4282263bba0fb3c94` | TactfulStrikesBuff | Tactful Strikes |
 | `fb74ba41b1c877342aa10018fbb24e3d` | TacticalCastingAbility | Tactical Decisions |
 | `c914cbc0cc481224581b9ca1dfb2f207` | TacticalCastingFeature | Tactical Decisions |
 | `22a8b89273ee9504dbdb093fa81ceb5f` | TacticalCastingFeatureFeature | Tactical Decisions |
@@ -3185,6 +3334,7 @@
 | `f1056a3c5abee5941a2298489ab2c519` | ThieflingPrescientAttackFeature | Prescient Attack |
 | `bda28e23e94f3e445af0c8d8c42f05c1` | ThieflingProficiencies | Thiefling Proficiencies |
 | `9df90310e5657bc448b2c76266d5d5d1` | ThieflingQuickenAbility | Quickened Magic |
+| `0476c248f1133b5429d7fc30c1a3ae20` | ThieflingQuickenBuff | The thiefling can cast three <b><color=#703565><link="Encyclopedia:Spell">spell</link></color></b> per day as if those spells were modified by the Quicken Spell <b><color=#703565><link="Encyclopedia:Feat">feat</link></color></b>. |
 | `ea4e2384d278b18479debface061769a` | ThieflingQuickenFeature | Quickened Magic |
 | `92efbbe651f2ed743906d2253339aae5` | ThieflingReachAbility | Reach Magic |
 | `574fb0e5572c3ab49b0fe0c65b8b9e79` | ThieflingReachBuff | Reach Magic |
@@ -3193,6 +3343,9 @@
 | `ea908dd2576b79f418814a99b788f882` | ThieflingTalentSelection | Thiefling Arcana |
 | `f647c9d79f42f0d48916c990ba950f37` | ThieflingWandMastery | Wand Mastery |
 | `cff766f5d55a2db4ab3a85e2f4e7d2f4` | ThirdRitual | Third Ritual |
+| `28c2009a46d21a1499d1a4bb93517020` | ThrowSwordAbility | Throw Sword (Opener) |
+| `60d5628510a85bf40b379b310ab9edc5` | ThrowSwordBuff |  |
+| `74f60032f22f91045b4f1a31fac1cf3f` | ThrowSwordFeature | Throw Sword (Opener) |
 | `df32b87c0eb1c0246ac1143b3182a40b` | TLCGAbility | Changeable Gist |
 | `fa38734005f26c9449dcd6d1c98a6971` | TLCGColdAbility | Cold |
 | `3c391ae3adfc6b6428ba9f172ce76d60` | TLCGColdBuff |  |
@@ -3321,6 +3474,7 @@
 | `2384c13d42dba514ba19573f868683d8` | VikingShieldDefenseArmor | Shield Defense |
 | `a3f12b7a2bdc4da4c8becdcb71375346` | VikingShieldDefenseFeature | Cunning Elusion |
 | `60b097e906e8a6b42a05889287268918` | VikingShieldDefenseNoArmor | Shield Defense |
+| `2160b29f3f55dd941a59a35fe4242ff7` | VileChampion | Vile Champion |
 | `72b554d1fab9ce94a87b8bb69748e4aa` | VoiceofGod | Voice of God |
 | `6e9a64295c281274489af18dcf09131c` | VoiceoftheWildArchetype |  |
 | `fe1f1fcaeeb8d714faad9af297cea9d2` | VoidBaseAbilityFeature | Void Domain |
@@ -3391,6 +3545,12 @@
 | `06f997b902203b340a48dc2c5158f3a6` | WeaponofWrathSwitchAbility | Weapon of Wrath |
 | `e152e32e5a7274b4db04277099c75df6` | WeaponofWrathUnholyBuff |  |
 | `0faa20cad072174479448533a1df90af` | WeaponofWrathUnholyChoice | Weapon of Wrath - Unholy |
+| `4338d5efa8914eb4c82f6f38f0f230f0` | WhirlingDefenseAbility | Whirling Defense (Opener) |
+| `f03be2aa18f416c42b1b6b3ec7b0fbaa` | WhirlingDefenseActivationBuff |  |
+| `1018d8391a7f86f458040de4ab9744d3` | WhirlingDefenseActivationBuff2 |  |
+| `5a91467057ba7dc42a85b33aa29b37d1` | WhirlingDefenseFeature | Whirling Defense (Opener) |
+| `4e76465ff4abb654297bdf58cf581be2` | WhirlingDefenseSelfBuff |  |
+| `8f9b6d6f55228a845ab575b270a98480` | WhirlingDefenseTargetBuff |  |
 | `e3b0115b07844a14a8f89067cbaa47d4` | WhirlwindAttackAbility | Whirlwind Attack |
 | `a6da5af35c2619247987f16093d50651` | WhirlwindAttackBuff | Whirlwind Attack |
 | `33228aafd0ee83340813ccafe4e7e72c` | WhirlwindAttackFeature | Whirlwind Attack |
@@ -3476,5 +3636,6 @@
 | `13017a246df0eb7408f4eb81c00db6f1` | XhamenDorSacredWeapon |  |
 | `4c7c4727a1f18e64ea265aa3cba21099` | YogSothoth | Yog-Sothoth |
 | `62787fd1970f41a4a9f8c632eabac1aa` | YogsothothSacredWeapon |  |
+| `3438c95eaa87de745b89160194e5d4ff` | ZealousCourageFeature | Zealous Courage |
 
 ### [Back to mod overview](./README.md)

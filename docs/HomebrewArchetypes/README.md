@@ -2,7 +2,7 @@
 
 [Back to site homepage](../README.md)
 
-## Version: 1.1Zvz
+## Version: 1.1Zwi
 
 ## Author: Sigurd
 
@@ -21,6 +21,8 @@
 ### [New archetypes for base game classes](./Archetypes.md)
 
 ### [New feats](./Feats.md)
+
+### [New spells](./Spells.md)
 
 ### [New mythic feats](./MythicFeats.md)
 

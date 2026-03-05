@@ -10233,6 +10233,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 008a2af7f11d60e45b869ada780e546f - Homebrew Archetypes
 009dd375b1ee1024ba9a0145757f8117 - Homebrew Archetypes
 00a67bd446c4f804396a2068fd44e376 - Homebrew Archetypes
+00ab47f94b86ff448a234886929a2a48 - Homebrew Archetypes
 00abdb31bfef89d4e81bb1b797ad5927 - Homebrew Archetypes
 00acfa9665e139844a0280ddf71337ce - Homebrew Archetypes
 00c223f7b795ed6439b343450c01a4b5 - Homebrew Archetypes
@@ -10259,6 +10260,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 01adbf7d1654f3743bd61731f4878656 - Homebrew Archetypes
 01ae099d1dc8de844bf54295a2304c78 - Homebrew Archetypes
 01c3216ccb15491469f696e257a68d01 - Homebrew Archetypes
+01c5168beef465744aadb2d67bb1d233 - Homebrew Archetypes
 01da94b3b3c19e2419176945e7f1d28f - Homebrew Archetypes
 01e76de8d3649374f8a21f54d4637b44 - Homebrew Archetypes
 01e85e12c2295534e9a661bc4d1f0fd6 - Homebrew Archetypes
@@ -10277,6 +10279,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 02df507f740580b468afe3d3177c205d - Homebrew Archetypes
 02ef3f4c10c704841b01005d0d3c9a35 - Homebrew Archetypes
 02f9863685bc76c4c98d79a698105ca1 - Homebrew Archetypes
+0333429f8191ad147a197921c78d4f60 - Homebrew Archetypes
 034dfe1f40cc74c47b01e1e8c690e12a - Homebrew Archetypes
 03516663436483c49a0bae203c7f0c3d - Homebrew Archetypes
 03611ffd5cf87b64ea328f70fd2c10d4 - Homebrew Archetypes
@@ -10287,6 +10290,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 0398f54c93add10499cd4d168a3962de - Homebrew Archetypes
 039d257ed97cabc4e9f5e452f0eae1c7 - Homebrew Archetypes
 03a45f49c0e7f0d4eb1ee1fc9b275931 - Homebrew Archetypes
+03bf0b9bcd6d9f842bc773e3ed24bfdc - Homebrew Archetypes
 03c20f35ebb01c540bcac4cf81602dd1 - Homebrew Archetypes
 03d1877a5ffcbd34d9501b005434cb4f - Homebrew Archetypes
 03d1f7ade7e8e0c4cbad7bd85a79ef65 - Homebrew Archetypes
@@ -10296,11 +10300,13 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 0456d7d5babd0a84eb1522f32255b4f9 - Homebrew Archetypes
 04590957b9ce9264baa2f98651e0a26d - Homebrew Archetypes
 045e2c554950e9a4a9f99b15ddb1fdb7 - Homebrew Archetypes
+0476c248f1133b5429d7fc30c1a3ae20 - Homebrew Archetypes
 049add1376ef19644a70acea2eb329b0 - Homebrew Archetypes
 04a3b9b0eb3fd6a4b8c3a22271997c9d - Homebrew Archetypes
 04a59c9364c52bf43be615ccc9bd0d4b - Homebrew Archetypes
 04a6763b5c0b4994287738e9e61276bf - Homebrew Archetypes
 04b70062239224841b51f57ecc07e3a5 - Homebrew Archetypes
+04bc9810c8772474f99abdfbb7dc2303 - Homebrew Archetypes
 04c611b0f70bb1349aa36560bec8d793 - Homebrew Archetypes
 04edaf6f5cca23341bd40a4408c64988 - Homebrew Archetypes
 04f7923a389be0e4ead015559ba7e24d - Homebrew Archetypes
@@ -10315,6 +10321,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 0591563bcd3a55c499bfd9592a84becb - Homebrew Archetypes
 059958f7104774b4bbc3e5c8adce6cc6 - Homebrew Archetypes
 059b8d96e705d2642b605eaf5f3070bb - Homebrew Archetypes
+05c7ff6fb6411404da98913a5a077173 - Homebrew Archetypes
 05d687372e42dea4ebfcc5d3e2a8ee32 - Homebrew Archetypes
 05f11767dbc2f2046aa428ed31d41b16 - Homebrew Archetypes
 060ec7bf1a72b2449bb79190717c0a68 - Homebrew Archetypes
@@ -10324,6 +10331,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 0629079cc6353b14e862421810340b90 - Homebrew Archetypes
 06352deb9b7c3a24f9c27e945b802090 - Homebrew Archetypes
 0635706b50b90194a8ae4bd7d719c178 - Homebrew Archetypes
+068ca49ce11668047894edcdfc90d105 - Homebrew Archetypes
 0690ab9129549514e9927753438daa0b - Homebrew Archetypes
 06953dec2e74ba74e94a8824e0244e60 - Homebrew Archetypes
 069a582e9c6535a4e996bf9a4d75799d - Homebrew Archetypes
@@ -10344,6 +10352,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 072c10f65f4540d488f64cc882c2ee55 - Homebrew Archetypes
 075bbd3cb870731448a036d32e04c076 - Homebrew Archetypes
 0765ba206e872d24fbae9d0056e62d41 - Homebrew Archetypes
+076fe7882b5b62c4ba960718e3a03487 - Homebrew Archetypes
 077d97e49529d2e4cb4ce4c9668a5bcc - Homebrew Archetypes
 078b94b547ff9c0459a852b158cb3de1 - Homebrew Archetypes
 079a8028264cb1947b5d060bfb825561 - Homebrew Archetypes
@@ -10380,6 +10389,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 098b1af0dc36f2444b176f1c193676c3 - Homebrew Archetypes
 09a8f655191f9224bbd257d575402835 - Homebrew Archetypes
 09af3b8edb7f3e24f93a82b231e342b5 - Homebrew Archetypes
+09b141b68dd6c2a48b5299d156b4799a - Homebrew Archetypes
 09c10f0ddd528b64cb44e6d413589aac - Homebrew Archetypes
 09cd071bcd1008a45bc6c7aeb4ec7b49 - Homebrew Archetypes
 09da364bc472044498a6a7dbd71918a8 - Homebrew Archetypes
@@ -10388,6 +10398,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 09f4f1043e5509e4dbdf3596bd5feb6b - Homebrew Archetypes
 09fe9371f62f8f0479d2ff513c8e9fef - Homebrew Archetypes
 0a0d85226ecf87a4f9670531d9ec1213 - Homebrew Archetypes
+0a105768a8c25584580553bfc72855ec - Homebrew Archetypes
 0a1d82e812b723743998c95ab6f8393f - Homebrew Archetypes
 0a24c15e51f3a2f4f9d54d132cf7bb75 - Homebrew Archetypes
 0a318fbe222a0f34da7a3a9bc6914c7f - Homebrew Archetypes
@@ -10400,6 +10411,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 0aa0f96e134c32544b68cdd9ffdf4dc3 - Homebrew Archetypes
 0aa69dcaf146d794ea3100827e2d1e8b - Homebrew Archetypes
 0ac24cbf04879f3428bc2046357c58bb - Homebrew Archetypes
+0ad9c303a699c3241a448b4354aa7a6a - Homebrew Archetypes
 0ae8244b1ce22804593828f834edae05 - Homebrew Archetypes
 0b08894bfe20bfa4b8a93112f0d79dbb - Homebrew Archetypes
 0b0dbdacf3df9664aa94f25b3acb6593 - Homebrew Archetypes
@@ -10454,6 +10466,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 0df501542a4920848b6838caeb57f7c7 - Homebrew Archetypes
 0e01ffa674383f640a97e780b403e8b9 - Homebrew Archetypes
 0e0aea2b92fe9044bba8f223e3e66f8f - Homebrew Archetypes
+0e1137f769eed714ca5d7aefa2d07849 - Homebrew Archetypes
 0e12d21642d6ddb4188dea6b77203635 - Homebrew Archetypes
 0e2f9bb62428365409407e770e93a052 - Homebrew Archetypes
 0e2fc10e76abcc646b80228526729a81 - Homebrew Archetypes
@@ -10481,6 +10494,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 0fd8d0eed8e3b474ab0ae6d476d9fed1 - Homebrew Archetypes
 0fe08da0e8c1b0a45bca097ca41e959d - Homebrew Archetypes
 1000a4467f48740458d41ac9d6fe2538 - Homebrew Archetypes
+1018d8391a7f86f458040de4ab9744d3 - Homebrew Archetypes
 101fdeaf4fd4c4a40b1f7f2f1f6521e4 - Homebrew Archetypes
 103204914970efc4d9ebbbfc04897a8c - Homebrew Archetypes
 103a623930c31ed4aaa83ee34b277505 - Homebrew Archetypes
@@ -10513,7 +10527,9 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 1293236c2c4b4474390289c9df477851 - Homebrew Archetypes
 1296f17a00b6916488cc9b72386977a2 - Homebrew Archetypes
 12a1c9c457dd3694baad67157ed0db45 - Homebrew Archetypes
+12a684a2c1702fd4fbdad43fd13a2b14 - Homebrew Archetypes
 12bf2a63ccb8ce040bdc13cb7248ce56 - Homebrew Archetypes
+12f78206f6f98d84986aa1d1b12ed00e - Homebrew Archetypes
 12fc1838376f90840911138d4fa21813 - Homebrew Archetypes
 13017a246df0eb7408f4eb81c00db6f1 - Homebrew Archetypes
 132fc7f9b4f6a3d4db47534012c42f6f - Homebrew Archetypes
@@ -10548,6 +10564,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 152ab0db643bd8841b123432f4a20ddb - Homebrew Archetypes
 152ea6d8f279a73489c9dc0815e9e9b1 - Homebrew Archetypes
 153867068a66ecc40bd2c91fc1dd7b2e - Homebrew Archetypes
+15439a595360a1945835d812642f1f13 - Homebrew Archetypes
 154f9acb4a8742e4788143b02ff30d0e - Homebrew Archetypes
 157598abd09428e40bd9d7984b708b6c - Homebrew Archetypes
 158dcfeb67baf9a4288f348a7211e46b - Homebrew Archetypes
@@ -10563,6 +10580,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 162c8a10dc679274a84975dae117cc4c - Homebrew Archetypes
 1653817f07f6d8145858cbd9cc23e278 - Homebrew Archetypes
 1653e9016cc6d7446b56caec45b7e750 - Homebrew Archetypes
+167db1b51c2086448be690b82843bb48 - Homebrew Archetypes
 168d56a2b49129242959bc04e029c618 - Homebrew Archetypes
 169d643cb34186549acf56a337f3e851 - Homebrew Archetypes
 16a24ccc29b25dc4ba3d8d0fafa6c607 - Homebrew Archetypes
@@ -10595,6 +10613,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 18e6a294ce269964ea9d43520df0e869 - Homebrew Archetypes
 18ff191a860a6974aac1731a925970d5 - Homebrew Archetypes
 191a58bae25bad944af044dbc61445df - Homebrew Archetypes
+19276555ee393eb46b3ad46fb0f2e306 - Homebrew Archetypes
 193849c31eb93cc48ba5b04afb416ed9 - Homebrew Archetypes
 19468141f556645488dc52c2572836b2 - Homebrew Archetypes
 194729716b0f12b42b373efee5d7e6c8 - Homebrew Archetypes
@@ -10616,6 +10635,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 1a0a7c68de80b024e93032e57c9a8432 - Homebrew Archetypes
 1a0da3ae8cbe41e44bc4fa55c06ba7c1 - Homebrew Archetypes
 1a12cbfa44477f447a69b32fe8059ba6 - Homebrew Archetypes
+1a18b574af64fcb44a5c2aa6cc87bfe4 - Homebrew Archetypes
 1a21944f15b5ddb4a8cd33c4430521cc - Homebrew Archetypes
 1a5b256123b1eb04b8e9d8ba9a8a66af - Homebrew Archetypes
 1a8fb6a11ecf5904087b1923116c0d0d - Homebrew Archetypes
@@ -10626,6 +10646,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 1b04ace61a325b34f9c4f374f559c5b2 - Homebrew Archetypes
 1b0722f08d0f98741b28a7cb0a61a9db - Homebrew Archetypes
 1b2583ee7eaecd24285143e6d2793cf8 - Homebrew Archetypes
+1b5fc63c1529f5a43b9e5769fafcdd9a - Homebrew Archetypes
 1b7010a338f7be2468d6f8d4dea1cb75 - Homebrew Archetypes
 1b9efd4a9833e8542b4b741b3865e1a3 - Homebrew Archetypes
 1ba044a492e2f3748abdcbed041e9ce6 - Homebrew Archetypes
@@ -10657,6 +10678,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 1dae1aac4f9c4394eabaeda68e4206da - Homebrew Archetypes
 1db65089e8d83ae42b3f0357beb659fd - Homebrew Archetypes
 1ddfd0640ae39f9458f7e4438fb15366 - Homebrew Archetypes
+1df100d8fa513cf4693a5797a65bdd3f - Homebrew Archetypes
 1e2152695bc0e8043b34461b166e5f50 - Homebrew Archetypes
 1e399234849c6164ea73f19b0f0ca86d - Homebrew Archetypes
 1e58b72ab7029684a91a1599818fad8b - Homebrew Archetypes
@@ -10673,6 +10695,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 1f14611101505db4bb2ee6301c9366d9 - Homebrew Archetypes
 1f1d004cfa86bbc4a9bff2d5ab8162e8 - Homebrew Archetypes
 1f369f221149e804097b667fde80172e - Homebrew Archetypes
+1f4438b55d553104b9d38f830f1bc604 - Homebrew Archetypes
 1f61eff146468fc449925f790004ae1b - Homebrew Archetypes
 1f69d4672e4f999458ea78bca8d3d143 - Homebrew Archetypes
 1fb24e3074712a1448d1985108e3ea16 - Homebrew Archetypes
@@ -10685,6 +10708,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 20111a7cb9451f0438de36bc77ee956a - Homebrew Archetypes
 2043d1165b09fbd4584e94fbbc3acba2 - Homebrew Archetypes
 206306d81f1c4e44794f349863935c52 - Homebrew Archetypes
+20665754cbe86594698dee0e4373beb8 - Homebrew Archetypes
 207c602bc4c433347a1aa8d51091fade - Homebrew Archetypes
 20a54da587fefbe478a292321f4dddfe - Homebrew Archetypes
 20c725db6c9c7f14d82ee7feb762a068 - Homebrew Archetypes
@@ -10697,11 +10721,14 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 2106fce072344bb4b8ed2899228abb16 - Homebrew Archetypes
 210ed9a3159fc874ebfedf5cd3f85d2f - Homebrew Archetypes
 2116fa645f4831642bab8f7451e69d8e - Homebrew Archetypes
+2117d016adf2231418eb84126b2f8d59 - Homebrew Archetypes
 21183692df2b6b446b9f215384c45190 - Homebrew Archetypes
 215b830aa7e3f8b4582a9bf70558be32 - Homebrew Archetypes
 215e12abdbe78614586c061349b1d41d - Homebrew Archetypes
+2160b29f3f55dd941a59a35fe4242ff7 - Homebrew Archetypes
 216664b86ded2844d923ba1e4675fda4 - Homebrew Archetypes
 2175777d80af617479ceffc3b91197d6 - Homebrew Archetypes
+2189d998b5a8efa4cb72af8a2adc7a45 - Homebrew Archetypes
 218bf288f95f9a041850648f488bed66 - Homebrew Archetypes
 21a9b2bab46bb4e4c91e3f9f1cc88f41 - Homebrew Archetypes
 21b21e7df5fd8bd4f8580d5188534412 - Homebrew Archetypes
@@ -10754,6 +10781,8 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 257b9b0531ce5954aaf94733471677d2 - Homebrew Archetypes
 259acbb15d6be8e4ca66886e38d893c7 - Homebrew Archetypes
 25c608eb61160e942b9eeba63a14b4a0 - Homebrew Archetypes
+25ccb2f9b93d03f448a482496c19a388 - Homebrew Archetypes
+25dea675370d1bb4c9e70137637db983 - Homebrew Archetypes
 25e8cd78f3d75d644b22277a12758ae6 - Homebrew Archetypes
 25e910a74894eaa44beff34a72b4eaec - Homebrew Archetypes
 260eed2f116a03449957dc5282352895 - Homebrew Archetypes
@@ -10777,6 +10806,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 26f22646c0a1434419b02b49148b65e3 - Homebrew Archetypes
 270801b3b4104fb4cb4bc06ae44da3f2 - Homebrew Archetypes
 271b16354e6587f40a07536aac1b3cc2 - Homebrew Archetypes
+2742d3054ec5be34e9e4821278cb823c - Homebrew Archetypes
 2754cd787b63d964fb25e06a82dccb25 - Homebrew Archetypes
 2755a3bd1096d6641a534a25c2d3b754 - Homebrew Archetypes
 275c694afcc03154190e5e9d495f76d0 - Homebrew Archetypes
@@ -10802,11 +10832,14 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 2885cbaf40b531e45b17a06182b5536e - Homebrew Archetypes
 2895335befe4acb4dbaaa8f9453427fc - Homebrew Archetypes
 2899409c18331ab4a8566be23005f5cf - Homebrew Archetypes
+28b0a4d7cc4ef1e438eed98712b84736 - Homebrew Archetypes
+28c2009a46d21a1499d1a4bb93517020 - Homebrew Archetypes
 28cc6b115586329499b30e57a3dfe538 - Homebrew Archetypes
 28ce64571fe6bf64ba2b88ddb4b4ef40 - Homebrew Archetypes
 28f898cae191bcb4f80caee2a0e7e51b - Homebrew Archetypes
 2907795d97d4e024ebc5ccc0671c5eb9 - Homebrew Archetypes
 29087a131aa70ee41a301b98aa4846a4 - Homebrew Archetypes
+292c81d16700d9f4197ebb018471b534 - Homebrew Archetypes
 29304fd1c98959c48a8ab166eeeacc66 - Homebrew Archetypes
 29551fd6dc569a741bb59c78f23bdb1f - Homebrew Archetypes
 295f5e2d10cde034cb8455fe5aa934e2 - Homebrew Archetypes
@@ -10829,6 +10862,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 2a74f03775149194687f7ed6cfad42b3 - Homebrew Archetypes
 2ae3ea16104a4604bbe82641fbf5de2a - Homebrew Archetypes
 2aea161f9f50fdd4a8d3618b8f9d2925 - Homebrew Archetypes
+2b23f8e5dbb9902418e09f73b31a4607 - Homebrew Archetypes
 2b250ec5b50a348448ab8360087d36c2 - Homebrew Archetypes
 2b2fc0314248a5d42b858059e7b68099 - Homebrew Archetypes
 2b6b0fafdaa9a43499a5047bc8b5ab38 - Homebrew Archetypes
@@ -10862,6 +10896,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 2dc61cf9f428edd45ae3dd416411593d - Homebrew Archetypes
 2dc897fcf7097224b9475df03a929a99 - Homebrew Archetypes
 2ddfbd3abae1db54b9bc1fa854b27a52 - Homebrew Archetypes
+2e02dd53e6edf724986114be6f37133a - Homebrew Archetypes
 2e1ac887b2e3f384fae1f0875544281a - Homebrew Archetypes
 2e1bf8233f3a1c64582c9ac8bae398c8 - Homebrew Archetypes
 2e2565f5a1e623945801597b65c474ea - Homebrew Archetypes
@@ -10878,9 +10913,11 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 2ee4ee26654b4c64789fef13217b32a2 - Homebrew Archetypes
 2f0f732f98f9c0e4b91f4b952fbbb93a - Homebrew Archetypes
 2f3294452bd9f8f439fbd3d4d51df15a - Homebrew Archetypes
+2f50ae4d629634d4b8da352cb1be2b6f - Homebrew Archetypes
 2f9581da5404c9746881a902877a31cf - Homebrew Archetypes
 2fa80f0fb022dee48978dc3434cee385 - Homebrew Archetypes
 2fd257bd3ef619b4eb8ad176a6db47e8 - Homebrew Archetypes
+2fd6c8163eb92894885aeb1ea5bc88f3 - Homebrew Archetypes
 2fe83088542927241a16b1fa95b56514 - Homebrew Archetypes
 2feb0f2f90cb96445ac1456258b94977 - Homebrew Archetypes
 2fec4284ce6042c41b10234c7a95f58c - Homebrew Archetypes
@@ -10925,6 +10962,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 32e01133bd36f7a45a766d79503e4b65 - Homebrew Archetypes
 32f77670059500048bd3b64b7e2a7b5f - Homebrew Archetypes
 33228aafd0ee83340813ccafe4e7e72c - Homebrew Archetypes
+33347007ee927864ea1f20b7071d2950 - Homebrew Archetypes
 334997b7e6736dd47b4c27c7cc915fb2 - Homebrew Archetypes
 334f4b5839031ae44aded25aa09086c6 - Homebrew Archetypes
 3350574565b69aa4a934a3d25d08e9ed - Homebrew Archetypes
@@ -10937,12 +10975,15 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 33eaf4ebf09a2ec43b19f9e6ecb889d5 - Homebrew Archetypes
 33fec625f3c1a164ea24aee53cda0f4a - Homebrew Archetypes
 34120637c0c1ad64a82da072ec88b4bf - Homebrew Archetypes
+3438c95eaa87de745b89160194e5d4ff - Homebrew Archetypes
+3439b23e9dce8854fb35a194009a309f - Homebrew Archetypes
 344364bb28576a544b26ff2ea237977e - Homebrew Archetypes
 34455c3ee89899644842216b939374c8 - Homebrew Archetypes
 34608b68ec36380409197a3f354d50f1 - Homebrew Archetypes
 3471ec5d95f08df46a6b2aad53a11298 - Homebrew Archetypes
 348ea610d2ab9444b98090b373955046 - Homebrew Archetypes
 3495851ccbd0ce547a27a26ce57bc827 - Homebrew Archetypes
+34c6118fca8fc2043aa6eca97fa1f9f1 - Homebrew Archetypes
 34d226129b3ff374ca3e8ce0e6d7c6e0 - Homebrew Archetypes
 34d3fc527c5096b4f9901d843cb2e404 - Homebrew Archetypes
 3503190af25065d40b6301c780025bb7 - Homebrew Archetypes
@@ -10962,6 +11003,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 36654bd1959755e4ea3de38437006865 - Homebrew Archetypes
 366ac66bcec88824b9818f6b18b34ce7 - Homebrew Archetypes
 36705fa032d7f8641bc7c2a87856bd61 - Homebrew Archetypes
+3678ab079132e8b47a1f7fc112e587f3 - Homebrew Archetypes
 367f034536ac1234187f6cbe88b13a1b - Homebrew Archetypes
 369c2e686234fdf40864c3d683ee0fa0 - Homebrew Archetypes
 36ba41a5626ca3048aacb1d5ed2148a5 - Homebrew Archetypes
@@ -11045,6 +11087,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 3cb096b9464faa34d9af96ccee844203 - Homebrew Archetypes
 3cb9c3be879cf7a40b9db71a9b051b5b - Homebrew Archetypes
 3cd92b6fca70332499e0820a28fb5c68 - Homebrew Archetypes
+3cde9f7dc7758cc41a1910fea6826c7b - Homebrew Archetypes
 3cdfd3ea9471a154b9c4f86bbf89a76c - Homebrew Archetypes
 3cf321874f6cc1549a4fdb95ceebe316 - Homebrew Archetypes
 3d458dbb3b124cd498627e2eb783a686 - Homebrew Archetypes
@@ -11095,6 +11138,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 40655bb9640654a4c9d4626273efb627 - Homebrew Archetypes
 40731beb2c3a4464bb7b9c97ceecfb63 - Homebrew Archetypes
 407ca00490643044cb05399f62d5673d - Homebrew Archetypes
+409c5b5eec5a8964fbe2c0247f543e65 - Homebrew Archetypes
 40a8ee2b545e9954fa438ab5271c89da - Homebrew Archetypes
 40c09d5328f60424bacfbaf28c2f18f7 - Homebrew Archetypes
 40dc8c4c4a630474e838e2b7b51d49c3 - Homebrew Archetypes
@@ -11129,8 +11173,11 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 430f1d5960406184bba0802c27074782 - Homebrew Archetypes
 431152a354b0ac248a611a1a3049bb80 - Homebrew Archetypes
 43172484a5fbd2f4fbd6cccaf9c30d77 - Homebrew Archetypes
+4319a3575f89e2b42b0fc5150cd7dec0 - Homebrew Archetypes
 4334f3b6fed3c0744b66cc141b27de02 - Homebrew Archetypes
 43385175fd022c546865e7b37bcc08ce - Homebrew Archetypes
+4338785e6a8a96a46b271a750ae6342d - Homebrew Archetypes
+4338d5efa8914eb4c82f6f38f0f230f0 - Homebrew Archetypes
 439a812b1b7bdf54d8f0cc47223ab8db - Homebrew Archetypes
 43a200582251a4f4fb934afbd7d2ed0c - Homebrew Archetypes
 43a2b09b18dacac439483d73d096c203 - Homebrew Archetypes
@@ -11215,6 +11262,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 48fdcf0553015954b93f50345f1d02d2 - Homebrew Archetypes
 4906c43effcb8184288ff20a136def43 - Homebrew Archetypes
 4919864ad24dca243b8ef7e14ea8624c - Homebrew Archetypes
+491a12bcc2b401f4daac61717534df56 - Homebrew Archetypes
 4928160cc2615874582417dd01d8f684 - Homebrew Archetypes
 494b07a9eab20f84aadb6f2704d6be97 - Homebrew Archetypes
 494b8ddd0d7d1994cb4ddf90433fd167 - Homebrew Archetypes
@@ -11248,6 +11296,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 4b773e1dcc4e61148acf390773a8d446 - Homebrew Archetypes
 4b7c6ae9ce98cc546b9fab42561143d4 - Homebrew Archetypes
 4b84df45ec100a7498faf89fbbe4ebef - Homebrew Archetypes
+4b8f4b99dc323ea4891b129c67628910 - Homebrew Archetypes
 4ba3bdaf9e7e2484280a1c8e36977307 - Homebrew Archetypes
 4ba5e3a70968def49a5e27a422e47fa8 - Homebrew Archetypes
 4bca990951bf1e645a90f1280d9f6e68 - Homebrew Archetypes
@@ -11294,6 +11343,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 4e6fce7c3efbc674e925d91445156a08 - Homebrew Archetypes
 4e7292c642a69fe49b350bd93f7e9b46 - Homebrew Archetypes
 4e734352eaaec5d48be81a6cc6f49320 - Homebrew Archetypes
+4e76465ff4abb654297bdf58cf581be2 - Homebrew Archetypes
 4e9780fd18d20f34dad8f7a43a25c99e - Homebrew Archetypes
 4ec8acdf7532fa04eb994484d7d396d5 - Homebrew Archetypes
 4eda68ac71c0cac44a30923164b60bc5 - Homebrew Archetypes
@@ -11323,6 +11373,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 5012198d0f0800d40b1b8585b74bb1c3 - Homebrew Archetypes
 502925403b6da0846acfa92ebfbfa77e - Homebrew Archetypes
 502c2f9610532f24bb8b458978eb5f64 - Homebrew Archetypes
+5049a5469889c7240b4ccc66f1f31290 - Homebrew Archetypes
 504d1fc6d30052142846a6e3d52b5e14 - Homebrew Archetypes
 505eb4d6daed73a47b5cac450f412a15 - Homebrew Archetypes
 506d85404dbaaec46afba2109dd146b4 - Homebrew Archetypes
@@ -11331,9 +11382,11 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 50984f8982234ef449306b36a28b8c00 - Homebrew Archetypes
 50a3bd1daf2100d4bae05b8849d852e9 - Homebrew Archetypes
 50a63e996f1695d48b477ef295798ea0 - Homebrew Archetypes
+50bd2d1f652ae0b47a1baeba5c9ab5e5 - Homebrew Archetypes
 50bf2d877b7043b4297ede27af52897a - Homebrew Archetypes
 50f43d97c33fc5a44b01debdf98036d4 - Homebrew Archetypes
 5106ea4dd3a26f449a2815e673e04a6f - Homebrew Archetypes
+510fbe1cd2110904291f0398c9a48efd - Homebrew Archetypes
 511d0a911115950468af36278ebfd1de - Homebrew Archetypes
 5122bc1ecc3b7054f935aebe73e7e110 - Homebrew Archetypes
 51571f54521d267428aa3bed882cee2d - Homebrew Archetypes
@@ -11383,9 +11436,11 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 54136ac6698211e4fabe6b64c9c7c7f4 - Homebrew Archetypes
 5417f1eabbf8f064f9897879f0e1ed8b - Homebrew Archetypes
 546006034fbe5b149bf9385ff06dbda9 - Homebrew Archetypes
+5478e384833c6a04983fc92fda3d0ff2 - Homebrew Archetypes
 54884b9dfcbc29b439021623f0177d75 - Homebrew Archetypes
 549f683727131d74b8960b4417de3811 - Homebrew Archetypes
 54a1401cb753caf4e850960941325b8c - Homebrew Archetypes
+54ce9e4ba27338f499ac0c8c8e5ca77f - Homebrew Archetypes
 54daf202ddf3a714fb9c15ff22fab8ac - Homebrew Archetypes
 54e4a17f82f4d1d47a050668427e8f27 - Homebrew Archetypes
 54fbb73f494802f45933e0d79022c3a4 - Homebrew Archetypes
@@ -11393,11 +11448,13 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 55175f396729c6c41b3263f45ec87548 - Homebrew Archetypes
 55178eecccd922c42836c5166578f980 - Homebrew Archetypes
 552b85f1cdfe6f8438045e5854236a4d - Homebrew Archetypes
+5531160d681baa74d9cc0a49d4b84902 - Homebrew Archetypes
 5535acf62834bbc4ca48c896d1078d56 - Homebrew Archetypes
 554af90fc21e0e940a5e33a8f515f7ed - Homebrew Archetypes
 556ce372e0ef14247bf781f45e2f8a90 - Homebrew Archetypes
 55715988cfdc15c4abe19f459df0f8ca - Homebrew Archetypes
 5577dc996ef82de40974c46243800ca4 - Homebrew Archetypes
+559a36e0686a8f44e88826d427d0854f - Homebrew Archetypes
 559b10e46455248469b9752d6cfbc214 - Homebrew Archetypes
 55a98287da328e049965afede64e0671 - Homebrew Archetypes
 55b260dd2c9ab0040bcc134701bb5ccd - Homebrew Archetypes
@@ -11405,6 +11462,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 55cf1efeb6c8a0b4a88cf8506f3f6df3 - Homebrew Archetypes
 55ed115a9f9b0b140b3797fa7b624570 - Homebrew Archetypes
 55f6d4935f4a16a4b9c90b87726d892f - Homebrew Archetypes
+560af97e371d25c4e9656b3f37d94fd3 - Homebrew Archetypes
 56124960ea7b8bb439b036be025c60bd - Homebrew Archetypes
 562f01dc8f573a14097cdef0cbb264a5 - Homebrew Archetypes
 56323e0c3d28d9a428d30189e93b5e68 - Homebrew Archetypes
@@ -11418,6 +11476,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 56c2adb76ef5a0b48abad89737113702 - Homebrew Archetypes
 56cf1dc0e291b5b4b87743a51e49511b - Homebrew Archetypes
 56f2b29850accc742a5f51e6278fd458 - Homebrew Archetypes
+5706337ff986a6b428bcca40c5bfd4ad - Homebrew Archetypes
 5722072e69a7a23478475fcb113c5be3 - Homebrew Archetypes
 5728c12410f7d0b41ad50981ea77202c - Homebrew Archetypes
 572cd5ecdd1ab30458b0902c0d37ce30 - Homebrew Archetypes
@@ -11459,9 +11518,11 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 59fe65b2ac65d614284d68f4cb967a23 - Homebrew Archetypes
 5a10de57f3d1a584c917f830c32742c9 - Homebrew Archetypes
 5a1503610d610a14d8d989ed223fcdf3 - Homebrew Archetypes
+5a217fb3969791b48b9af1d8da9457ad - Homebrew Archetypes
 5a4391b9d37d401448154738bc412c41 - Homebrew Archetypes
 5a63d9601f8de934483b9ac5eb81c4ce - Homebrew Archetypes
 5a7d7c2ca2ad1ea47ab48f7451d45e97 - Homebrew Archetypes
+5a91467057ba7dc42a85b33aa29b37d1 - Homebrew Archetypes
 5ab1b4a0fe932084a8c5c811b3fa1327 - Homebrew Archetypes
 5ab6227f38a18644196b14a575033e55 - Homebrew Archetypes
 5ae022e03d942e145a868402a266c9db - Homebrew Archetypes
@@ -11527,6 +11588,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 5e626c58bbc0cbd4b87a0840f13312d8 - Homebrew Archetypes
 5e71799a19634cf4cb5ba0d74e3db87d - Homebrew Archetypes
 5e87a85baa2a28340a89902637ab3362 - Homebrew Archetypes
+5e97df97509b5714e8ccc09294fe50e4 - Homebrew Archetypes
 5ea7e861e4d98874b97e234a4453e599 - Homebrew Archetypes
 5eaea532547c7ce40a84563e15fd3440 - Homebrew Archetypes
 5ee1438509bbed44781109b661182bc5 - Homebrew Archetypes
@@ -11557,6 +11619,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 60288fdc8891880458330c18c52a4937 - Homebrew Archetypes
 60320b49c0b0b484689493b6d4658345 - Homebrew Archetypes
 604c67a512aa45a47ad9e7a55761c26e - Homebrew Archetypes
+6053102bb7ec52c4fbadbed9762cd328 - Homebrew Archetypes
 6072cd8a4ce15094abb01542039d6709 - Homebrew Archetypes
 607867b57b02aab459fd7560a222bc8c - Homebrew Archetypes
 608a981a2446be5479fbb9227fd8cf1f - Homebrew Archetypes
@@ -11570,6 +11633,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 60b4629bd1e92194382ae6a754f738ac - Homebrew Archetypes
 60c1547d138152449bdf35d075140a46 - Homebrew Archetypes
 60cd33a2aea77f64dafb6c31f30bb5d2 - Homebrew Archetypes
+60d5628510a85bf40b379b310ab9edc5 - Homebrew Archetypes
 60e05e687545bb040afe9ecf8352ad1b - Homebrew Archetypes
 60ea2f239cacec54c9bc93f6b54f9e07 - Homebrew Archetypes
 60faf3f9f7981d94799c0cd429181715 - Homebrew Archetypes
@@ -11651,6 +11715,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 666f44e50f35e5b4c9cc2374d6f44952 - Homebrew Archetypes
 668d7db51d6677843929177c3d9a6758 - Homebrew Archetypes
 6691acf812bf8a648818c5a81b0f85b4 - Homebrew Archetypes
+669f070d39d4ea44fa65c437237e4707 - Homebrew Archetypes
 66b94f9003d647b4ca29ae8d25be111a - Homebrew Archetypes
 66bc1a045830fd04c9d7cde6c78a1d4b - Homebrew Archetypes
 66e42a285be6b5647ba334f93fb08148 - Homebrew Archetypes
@@ -11660,12 +11725,14 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 674df333e8b50064092685ae6795d683 - Homebrew Archetypes
 674f3b547a2e7f3409f514b17c49dee6 - Homebrew Archetypes
 675c4428161482943bfa18a8e8646986 - Homebrew Archetypes
+675e2b982974d20489151f4b7c2de73f - Homebrew Archetypes
 67b007e63a58fb34db836d620fc7fee1 - Homebrew Archetypes
 67b04ce2e74391344a5c6f76c04a3608 - Homebrew Archetypes
 67d731f82833fb344978da95d02a7911 - Homebrew Archetypes
 67f51f09bc2dced41967ea369adcd5d8 - Homebrew Archetypes
 680d3fdb220073843919c6fce6e531d4 - Homebrew Archetypes
 680d9a554cb8d704181f8f6d6d801322 - Homebrew Archetypes
+68120f963bd71f748b96550dc50a5f28 - Homebrew Archetypes
 6814124671dde1349a3e8496a1311aca - Homebrew Archetypes
 681c6c2101eaf7c4fa854173ddb0684d - Homebrew Archetypes
 684202a0830b60848a87ba0b993b914e - Homebrew Archetypes
@@ -11687,6 +11754,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 692ef7850759a8a4da143ec078d9c321 - Homebrew Archetypes
 69501f3904b1ee745b2a1161c7802784 - Homebrew Archetypes
 6950b73b3ae8ee74fa56fbcf8dcc8d9e - Homebrew Archetypes
+696ab1b88d44de3408983b1a1f2b9307 - Homebrew Archetypes
 696e6014c6f4d0a459f3931537769997 - Homebrew Archetypes
 697074402cc929a48b2050d51da3062b - Homebrew Archetypes
 6981ac4121188774ba7fa0257d6e8bff - Homebrew Archetypes
@@ -11700,6 +11768,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 69f1338bc52682644b1fe2226ede8205 - Homebrew Archetypes
 69f1c998f6dcc33469a461a0b10a5eca - Homebrew Archetypes
 6a06035c1ea0dd64aa762ab508dc1246 - Homebrew Archetypes
+6a0827e1886cab246983ef98caaec446 - Homebrew Archetypes
 6a33ee5c79e5aaf42a50a92eeef805a7 - Homebrew Archetypes
 6a3d95c2f54fc4849af6829f75d571b8 - Homebrew Archetypes
 6a42bc70795350e41add0badfc83cde5 - Homebrew Archetypes
@@ -11720,6 +11789,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 6b465332457eb9f4ba04f6ebff7df8ba - Homebrew Archetypes
 6b49646ed1b3ee744a2c58522d376649 - Homebrew Archetypes
 6b4a01ddc645fa8438db290137e43df9 - Homebrew Archetypes
+6b4c42950227bab4e88b91f9c858c533 - Homebrew Archetypes
 6b53d6ded0eacc74e9c8fb686b324c85 - Homebrew Archetypes
 6b7717f7dee82924eac605c8aad0935f - Homebrew Archetypes
 6b7fd94098a020841815c351303618ff - Homebrew Archetypes
@@ -11736,6 +11806,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 6c2b300e97087504e8733cc5097853d4 - Homebrew Archetypes
 6c3d0adfe3df9bb47b7d6217b1e888f9 - Homebrew Archetypes
 6c3de3160e74c6349afd6363151eb7ab - Homebrew Archetypes
+6c4063335e9aa994b8ac44b45b5db348 - Homebrew Archetypes
 6c6bf45d567084944838dce93eaf36a4 - Homebrew Archetypes
 6ca139173aba12b4eb753ed238127dfa - Homebrew Archetypes
 6ca8f99f66196b446a3e004b9169aa3f - Homebrew Archetypes
@@ -11758,6 +11829,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 6dd9ccee1033c8d4b921262a6dc24ad5 - Homebrew Archetypes
 6ddcfe6a3115dca4d9369e964e8587a1 - Homebrew Archetypes
 6de97599a3570ec488a59c0a4b4faacf - Homebrew Archetypes
+6e0a80a05162ee74ba987dcf6fa8e12a - Homebrew Archetypes
 6e1159da50fc80e42996d2d0fd7cb6d6 - Homebrew Archetypes
 6e33e20cca373494eb0bff4c8aa94347 - Homebrew Archetypes
 6e4092fc816eab941b901dd890c22288 - Homebrew Archetypes
@@ -11781,6 +11853,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 6f69bcf51abd9234e86aca5b985a5ee9 - Homebrew Archetypes
 6f7d2bf1f18929745b4cce088c76bb55 - Homebrew Archetypes
 6fa4d98f4ff58f94289a8b74ef65ce2a - Homebrew Archetypes
+6fa78a48a5d9e204bbc053668bb6a4e7 - Homebrew Archetypes
 6feb775e337ddd54e9c9c0554fc6a21b - Homebrew Archetypes
 6ff7ad1b4ee3bc14cb9aa1a648e6248b - Homebrew Archetypes
 6fff9b92cdb6b4c48bc23d9c01c6ca9c - Homebrew Archetypes
@@ -11817,6 +11890,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 720a65c97e3ba1b49a6b6389d85092d5 - Homebrew Archetypes
 722070661fb3a9542913a899b73e7fbc - Homebrew Archetypes
 7262ecf9a3bad844188bedad1c7c223b - Homebrew Archetypes
+72654ddb169105d47bc30b8ac9e24414 - Homebrew Archetypes
 7279e770d6bc46e4cb815068e59ad90e - Homebrew Archetypes
 72842a70dbc5492419129f4889dbf472 - Homebrew Archetypes
 72876ba85690ab24badaf984244fc787 - Homebrew Archetypes
@@ -11839,9 +11913,11 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 747d38dc5fcb115409200b79a649424b - Homebrew Archetypes
 7487ca53292561c4fb5cb1da627a185a - Homebrew Archetypes
 74943d6cab501e34abeb4230e7c0b597 - Homebrew Archetypes
+7495aa2d1aef88e46b834aa716fbb4ec - Homebrew Archetypes
 74b2dc9f3eaf25149b21cc917c32911c - Homebrew Archetypes
 74c1ce161d447c045b31288a1e9c3a03 - Homebrew Archetypes
 74d035ed8c02cb540aad2951c1e71db9 - Homebrew Archetypes
+74f60032f22f91045b4f1a31fac1cf3f - Homebrew Archetypes
 74fbf7702b7cacd4397f5a02955f6e50 - Homebrew Archetypes
 750be8c3c8beb0840bf913802d0916b5 - Homebrew Archetypes
 750ebc380ad5170488237662268bfc6a - Homebrew Archetypes
@@ -11876,10 +11952,12 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 768ee916acfa29948949f987dae595eb - Homebrew Archetypes
 769660afbfbfec74ca68cf227615a048 - Homebrew Archetypes
 769d42f5d52c40744a048b52c9a92313 - Homebrew Archetypes
+76b44a20c1ae29d49ab02dabb9053b1c - Homebrew Archetypes
 76b6a4a96ab63e540a98f2e699be9272 - Homebrew Archetypes
 76e747df0ef2b324e91b23b9853740d4 - Homebrew Archetypes
 76ea09688ab4001438d8feb2bff4ae58 - Homebrew Archetypes
 770d53ba2e4865f44891f782e408c1c7 - Homebrew Archetypes
+7719acc865468254998346a843c65a7d - Homebrew Archetypes
 771f847293832c943823a8c650390e1d - Homebrew Archetypes
 7725673ba49d9d6458876e37e94d482c - Homebrew Archetypes
 7725bec9727c0fe4097c2d0e46b2737c - Homebrew Archetypes
@@ -11892,6 +11970,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 77bcbf04038f26e4590ff0989f9fc987 - Homebrew Archetypes
 77cd999a36d369d47adbf719b1a8e1f6 - Homebrew Archetypes
 77daa4226c1e20948801aa7e0568d35a - Homebrew Archetypes
+77dbf287556819442811316eaf77ed55 - Homebrew Archetypes
 77e6599bfe9f34547ac89361711c9190 - Homebrew Archetypes
 77f80119a618ac148958d0b2ed47b263 - Homebrew Archetypes
 78121e514398c44449135308ef452fdd - Homebrew Archetypes
@@ -11908,8 +11987,10 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 78a507511171e7e4994e39f6cb6d617d - Homebrew Archetypes
 78a936f73585fb042b7c0eb8f10ae398 - Homebrew Archetypes
 78b2f739bf254a64fb4607ec77e7d710 - Homebrew Archetypes
+78d1dd49e16608744846015ac9867b4a - Homebrew Archetypes
 78d856624d00b7d4ea3f68a53661af6e - Homebrew Archetypes
 78e54692821de3246a0eb2f2e1f17ee2 - Homebrew Archetypes
+78f11d6b96aa9b344b03a955f1caea80 - Homebrew Archetypes
 78fd25a489b55834d8829d86aeb18722 - Homebrew Archetypes
 791674c6e866c214e955bd1ee2e871aa - Homebrew Archetypes
 791cb2404a1f1644285b0bff89523c1f - Homebrew Archetypes
@@ -11934,6 +12015,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 7a0e3f4efc90bd94abec8f25e8b6806e - Homebrew Archetypes
 7a2e83e60ed61164ea0ff460e2695617 - Homebrew Archetypes
 7a374ddd445613942b66dc6c0dbc0ce8 - Homebrew Archetypes
+7a458a9bb2c368c4384b1411563fa199 - Homebrew Archetypes
 7a4ee4839e95e944593714224762fa0e - Homebrew Archetypes
 7a55975355c094d4ba3abceed49eb077 - Homebrew Archetypes
 7a60e1c9e64941d488045eb39d056dc5 - Homebrew Archetypes
@@ -11966,6 +12048,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 7bdef2a6b6de0454eb02ae2e19e70983 - Homebrew Archetypes
 7bfb31227b492b64d85a021598cb4c19 - Homebrew Archetypes
 7c1a671c21aac62479a1e7503984c2a8 - Homebrew Archetypes
+7c62bc4f8535ae54d9fd06722349cfff - Homebrew Archetypes
 7c77786813d74084ab41ea05749ea561 - Homebrew Archetypes
 7c97a017c8fbfea4b9685d40b7a5d20e - Homebrew Archetypes
 7cc8e641530e1b840bb98cb116c52478 - Homebrew Archetypes
@@ -11984,6 +12067,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 7d5a41103227aea45980afa829fe0bc8 - Homebrew Archetypes
 7d73c1275f9cecc429c394cbc1abf245 - Homebrew Archetypes
 7d7943671c60e9c40829d16b000fd453 - Homebrew Archetypes
+7d84deff73cbcb44888b0af39a11b99a - Homebrew Archetypes
 7d90641acddfb6642ad72df80c56ef77 - Homebrew Archetypes
 7d910a08fe29f454ab3545a6f2fb2521 - Homebrew Archetypes
 7db5d3987b6e626478d16fb71936cc62 - Homebrew Archetypes
@@ -12005,6 +12089,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 7eeecbfcbc7e127429fd545d60005d6d - Homebrew Archetypes
 7ef1f9c7f3fd36e45b829720a2e0478b - Homebrew Archetypes
 7f022c4aac6f1de45921e11439ada39c - Homebrew Archetypes
+7f4371fd73540fe41a813babc921a77f - Homebrew Archetypes
 7f54abd66029e8746be01818657e5a22 - Homebrew Archetypes
 7f665a1de10cf4a4181429c51cfbce5f - Homebrew Archetypes
 7f6956ce3361b3b488bb700ef61efbe5 - Homebrew Archetypes
@@ -12037,6 +12122,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 81234cf9793455b4f9aac0249f3d234d - Homebrew Archetypes
 8125a6f5559409d4485a3f028f315068 - Homebrew Archetypes
 8143de0ee1002ac40bd3ac17c20dbeed - Homebrew Archetypes
+814b22dd8ab730b40a93b7f2f51356e5 - Homebrew Archetypes
 814c8136306e6674993b2efbbb4bf680 - Homebrew Archetypes
 817b4f3c906ae254ca947c79be2d0565 - Homebrew Archetypes
 817f40404efeb0d4aabc773753a43cf2 - Homebrew Archetypes
@@ -12054,6 +12140,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 8217e8ba265c06d48b4a90ad800945bd - Homebrew Archetypes
 821856acc298de54a881dab98b5a7f40 - Homebrew Archetypes
 822a3e34df0cbd44b8ad5f590cf2a9eb - Homebrew Archetypes
+82835d25ce27a4e4c8332d3adf8cd968 - Homebrew Archetypes
 8298865eaa58ac845a6e01a5e77bfe98 - Homebrew Archetypes
 82a0ddffadea2f94da24e67d42c170c1 - Homebrew Archetypes
 82aa875134d65774493ed850e095e754 - Homebrew Archetypes
@@ -12094,12 +12181,14 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 8457f5ddbf4e95d4eb56ae43a8b43fa9 - Homebrew Archetypes
 84716ff4af2bd0543bf69cfa55c74025 - Homebrew Archetypes
 848d914b20f737c47992d791d6be47b9 - Homebrew Archetypes
+849b6a8e3af5d5845bceacf4f65cf535 - Homebrew Archetypes
 849dbbfd1ee52ae4f82bf8e1203165a0 - Homebrew Archetypes
 84ac0412038ff864884fd9b076e27674 - Homebrew Archetypes
 84c3fcd44c54b9b4d9f22cec1ae0a5a9 - Homebrew Archetypes
 84c78f1b2e21fac4ab9ea805f56ef8d8 - Homebrew Archetypes
 84cf4e9b81a687242ace6744282d5b4f - Homebrew Archetypes
 84d06532e9956314f856b04cf1f55045 - Homebrew Archetypes
+84f7eba92d3328c4c914dd8db91aed00 - Homebrew Archetypes
 8510fc32d8a92e14097a2efe2683ae54 - Homebrew Archetypes
 8519f78dfca53de428d5e4b918b030f3 - Homebrew Archetypes
 8525328696a272f4e8a0307b872e1479 - Homebrew Archetypes
@@ -12132,6 +12221,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 86a90a5b85e386145b9af0ec2ed35ce6 - Homebrew Archetypes
 86b4de9baf1a97c4f8aa332077e35d13 - Homebrew Archetypes
 86f7e78694844c142a66ee797ff4e039 - Homebrew Archetypes
+871f6e944c49a27479ebe3740649e736 - Homebrew Archetypes
 873d5c479c6c8734486ccb01cdebcf0e - Homebrew Archetypes
 8782fd1627078604591a8011c35559aa - Homebrew Archetypes
 87a7d9f59af7a6449838abe9dc85a973 - Homebrew Archetypes
@@ -12142,6 +12232,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 87f54bd2cfd07ed48b84d838d901e224 - Homebrew Archetypes
 882cb62ab6d3c874391bd512b55bf32d - Homebrew Archetypes
 88330339e99f12b4e82aa09ff7fbe1fd - Homebrew Archetypes
+883bd44c04e654b45b3dd9e1377b2802 - Homebrew Archetypes
 8848a8dff31931e4ba20b48af77e4598 - Homebrew Archetypes
 8854241f1450ea34e94546ef5d6543c0 - Homebrew Archetypes
 885ad943c0c3f0445aef3813f869921f - Homebrew Archetypes
@@ -12199,7 +12290,9 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 8c104e8f71a17664fbd8638649f2efb2 - Homebrew Archetypes
 8c25daaa114a3894b979c62dec4cc05a - Homebrew Archetypes
 8c26428f55a88f64c874898bea0ed2f4 - Homebrew Archetypes
+8c4aea770675a8f4bba3930d2b13e1f3 - Homebrew Archetypes
 8c69b7b5f7de4244da33484207d6095f - Homebrew Archetypes
+8c7b1a87d3eb90c489742368adf10ae0 - Homebrew Archetypes
 8c8213c68326f48489143e4dc7488c58 - Homebrew Archetypes
 8c87fd6e99f6c3f41b2aaaf47f20fa00 - Homebrew Archetypes
 8c9c1ea4b8c53f54a945587f1cb7e3f6 - Homebrew Archetypes
@@ -12223,24 +12316,30 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 8d7db4ef023d96a4781a424731e812b6 - Homebrew Archetypes
 8d8d4da177d4e1642aee54c40559d5ef - Homebrew Archetypes
 8d9d899777d9c4744bff00b2cd999b1b - Homebrew Archetypes
+8dab241644ffe514a88c58360327ed7d - Homebrew Archetypes
 8dc655a1af860a749a43e1ed7ab9ceaa - Homebrew Archetypes
 8dee1e886b22a4545bc19e4c0f005092 - Homebrew Archetypes
 8df8a37b2ea633141b76d13e6461f01e - Homebrew Archetypes
+8e0f92f09d49ef84893bc0b3838573c4 - Homebrew Archetypes
 8e1d9a7d8bdf1fd40b72f4010c2a48f3 - Homebrew Archetypes
 8e2a6fd7392303f4bb7cf4a7ec6df658 - Homebrew Archetypes
 8e34127b09464cc40bae5da2cfe36e51 - Homebrew Archetypes
+8e34955c340b9444fbc5496ae9ba4274 - Homebrew Archetypes
 8e524ba65cd672f4fb5a1ded0aeb1d71 - Homebrew Archetypes
 8e5453b76ebc3c24aba59a213e0c4009 - Homebrew Archetypes
 8e6005516950c3b42aae849cd8d78a07 - Homebrew Archetypes
 8e8a8f97e183f3c4d809723465231b02 - Homebrew Archetypes
 8ea8a4b42fa7a4f449bca4cd54a9b526 - Homebrew Archetypes
 8ebe3ccffb8aee04091bcd55773f3864 - Homebrew Archetypes
+8f106eb50b79b14459a79421553ad060 - Homebrew Archetypes
 8f1954860ebcacc499537b3c0bf58c0a - Homebrew Archetypes
 8f4f59dd12baf104b828f97812b9da66 - Homebrew Archetypes
 8f72f532c5d8a7c40bbc7949dde87ffa - Homebrew Archetypes
 8f976651abb242d44b48c2568097f7ce - Homebrew Archetypes
+8f9b6d6f55228a845ab575b270a98480 - Homebrew Archetypes
 8fa6856e717d06e4f8e6dc052283bd7c - Homebrew Archetypes
 8fab26c97ac8cbb498a4f5d28f9abdd9 - Homebrew Archetypes
+8fb584a42a39d7141b1f82a1a52874ac - Homebrew Archetypes
 8fc614642a18abc449c7082dd367b852 - Homebrew Archetypes
 8fcd068e086a4064b9b31a7ef2206c75 - Homebrew Archetypes
 90058aaa2ef4e2d468fb28455332c811 - Homebrew Archetypes
@@ -12318,6 +12417,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 961bdbd3a2c5b474d9c5efb6783db350 - Homebrew Archetypes
 961dff7eaaf1e094aab11a459b5985bf - Homebrew Archetypes
 961e6b4edd3c80e4a9fe4435deff6fe7 - Homebrew Archetypes
+964b4d1f29c627b4a9f335cf8b10800b - Homebrew Archetypes
 96541931e626be84788bb554f90563d1 - Homebrew Archetypes
 9659ba63ced53314597c121334188ef9 - Homebrew Archetypes
 9659dfbc8fb42e54cb17ab84dc0b7518 - Homebrew Archetypes
@@ -12399,6 +12499,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 9c00757174bcad044bc4732dcce7731f - Homebrew Archetypes
 9c020fa40a03f5e488a3c10a72a706c6 - Homebrew Archetypes
 9c3310e70f6709b48b721605dc5ac2d7 - Homebrew Archetypes
+9c36dc4313037e143b574dcd1ebe5be3 - Homebrew Archetypes
 9c41aa48c547d484a99f9dfbc918eba8 - Homebrew Archetypes
 9c69428bef22bf149a6828ac79fe2739 - Homebrew Archetypes
 9c6f5b042b25a2d4e8b02534717c81c2 - Homebrew Archetypes
@@ -12413,6 +12514,7 @@ ff4a2c0a479446d58f4dcd39850fdcfc - Gracious Friendships
 9cdc696a8eaeac048bb22f1cc062047d - Homebrew Archetypes
 9cf0e2f17d98800449567f63063e00fd - Homebrew Archetypes
 9d0b1b1e18d9fb042a6b3a05f9c146d4 - Homebrew Archetypes
+9d128a9d3619b4e4fb7494a2d5084c28 - Homebrew Archetypes
 9d23adbc61f06dc458c76c3f00c25c3a - Homebrew Archetypes
 9d371202a7aa50242a02ab619037c4b0 - Homebrew Archetypes
 9d3a7d47f36270f458591faa5ad905be - Homebrew Archetypes
@@ -12488,6 +12590,7 @@ a3cd65b68292df742af560a57b65fbec - Homebrew Archetypes
 a3d64c463cee1af4caf1602d58b41659 - Homebrew Archetypes
 a3ddaae5c9e94044da69f8e522011f38 - Homebrew Archetypes
 a3f12b7a2bdc4da4c8becdcb71375346 - Homebrew Archetypes
+a40c7fbfa86722641acfa666a0685300 - Homebrew Archetypes
 a40e4fe260d157a4e81e68502b2cd8fc - Homebrew Archetypes
 a436815006b790644814b1cc8c75573a - Homebrew Archetypes
 a45417f02647fed4695f5144fd0be07b - Homebrew Archetypes
@@ -12500,6 +12603,7 @@ a4d746700eab76449aa9c6759afa81b1 - Homebrew Archetypes
 a4e08017e1b8cb24299d7a4f09dae461 - Homebrew Archetypes
 a4f26eaab3598b249906e89f52963201 - Homebrew Archetypes
 a516718d14632694092484ff345496ce - Homebrew Archetypes
+a5250800c54f1d841bde2522bf1cd80a - Homebrew Archetypes
 a52916194a1692146ba0996c64264985 - Homebrew Archetypes
 a54d0e2bdb08a474c9ab241dc1f6a10b - Homebrew Archetypes
 a54ed939a11204740b17b2153e2ff42d - Homebrew Archetypes
@@ -12521,6 +12625,7 @@ a66deb754911ade44ac39dcf50f742b6 - Homebrew Archetypes
 a6770f30b4ae91d47ad7aaa38efbb9d3 - Homebrew Archetypes
 a68101edb7f9aea428853acfb24bb6a8 - Homebrew Archetypes
 a68d80801055b3d4ca9be21c9092b6d6 - Homebrew Archetypes
+a69e813eb09d20d4795e636454a26e83 - Homebrew Archetypes
 a6d2f7bca1c884744919a430c499174d - Homebrew Archetypes
 a6d37f06076653a488a9e3ad1c1a4048 - Homebrew Archetypes
 a6da5af35c2619247987f16093d50651 - Homebrew Archetypes
@@ -12544,6 +12649,7 @@ a824135c2c1f3654db09f7260d90dade - Homebrew Archetypes
 a83ab4226b37c2b4c8c77536979b117a - Homebrew Archetypes
 a848a25de9bfffd44838aedf0b5a7912 - Homebrew Archetypes
 a8586cc064474624dac037e1047edd84 - Homebrew Archetypes
+a85d7bd4833a41a419ee701851447e01 - Homebrew Archetypes
 a85f792e4d1034b4e9933c23a79b3fd1 - Homebrew Archetypes
 a86422944deef084c80c592dfc929d27 - Homebrew Archetypes
 a86cdc9c534ae5f45ae5067fc34d1869 - Homebrew Archetypes
@@ -12558,6 +12664,8 @@ a8edd81d78fa6f543908adbb72134aac - Homebrew Archetypes
 a91977d59adeab047be4d250f85efea7 - Homebrew Archetypes
 a9297a280dee24f46835c7d0721d0bf0 - Homebrew Archetypes
 a94db2e25c724d14ea344ee58ec4ccbd - Homebrew Archetypes
+a9684d949d979a74b89e945285b72af4 - Homebrew Archetypes
+a981545e8b59d6f448f7a1b7745baf23 - Homebrew Archetypes
 a992fef5433f1bc478c68bc995756a72 - Homebrew Archetypes
 a9a0644b080867746a68db63e8be154c - Homebrew Archetypes
 a9babe3e91da1634e8fd59987d7f8827 - Homebrew Archetypes
@@ -12567,6 +12675,7 @@ a9fdbd456c586c24ca47d04bad057005 - Homebrew Archetypes
 aa0b714066da12b42bc4658167e15c42 - Homebrew Archetypes
 aa406ac4b8fd360449a6639b9a4caf2f - Homebrew Archetypes
 aa4ab636e5454634c9db07bddb46cb44 - Homebrew Archetypes
+aa689eb02284ca04c80381a37c76e789 - Homebrew Archetypes
 aa68f658f9edc3842ace5486a3ab1f64 - Homebrew Archetypes
 aa8269c0016a68d45854433c4028b6aa - Homebrew Archetypes
 aa89caf5dd03b3447a7dfd073f71988e - Homebrew Archetypes
@@ -12581,10 +12690,12 @@ ab4bdae4d68398a479772eb12185b4bb - Homebrew Archetypes
 ab586ce4131613e4692bf07633d680e1 - Homebrew Archetypes
 ab806dbbf62b3534b9315e2205ce4f03 - Homebrew Archetypes
 ab854ebe087472a4da3424e0a50f263d - Homebrew Archetypes
+aba39003ad1df1e4e92341b77ae1fa7b - Homebrew Archetypes
 aba630de0863fa44d8c4e7b15f08bdc4 - Homebrew Archetypes
 abc63094ac6af614e8b3f7c07eef79e2 - Homebrew Archetypes
 abc8617542700ce4b9daaca4630f4e5f - Homebrew Archetypes
 abdb02bb07814664e9de98be3ab59d3d - Homebrew Archetypes
+abeaf32edcf4f6241a4f834080ee43e5 - Homebrew Archetypes
 abef4abc18ca1e64c989691a433098f2 - Homebrew Archetypes
 ac0ad9cfca5aef949afd8e3c57f9c71b - Homebrew Archetypes
 ac0f2b2ccd9942b48a50556abd75bf31 - Homebrew Archetypes
@@ -12592,6 +12703,7 @@ ac14df7388da243498e7f1390579d1ae - Homebrew Archetypes
 ac19924d75b84224f9c98e8a62bdfc81 - Homebrew Archetypes
 ac25a63b14583274cb5fca57d016d2af - Homebrew Archetypes
 ac4eeb7d08edfde4dbe6deef83b0395e - Homebrew Archetypes
+ac71c0fddbf422a45bc8a6befa35079c - Homebrew Archetypes
 ac9a31e75a87eef4bb0d120741be2632 - Homebrew Archetypes
 ac9c95e4b28c7e949a6797fe20f6113a - Homebrew Archetypes
 acac1d0adc76eb64abfeaf2b02649168 - Homebrew Archetypes
@@ -12613,6 +12725,7 @@ ad7d07dc9fbcd274e8d8179cd3b961cc - Homebrew Archetypes
 ad88be7103605b148a09e630393fa13f - Homebrew Archetypes
 ad8b592e6cb22f142a6e5dcf3236d25b - Homebrew Archetypes
 ad8ca78852784c44a946f5b01e065e94 - Homebrew Archetypes
+ad97c194cb6cc844691712226071ba25 - Homebrew Archetypes
 ad9cb1927e1c80949b23ce16ca741e60 - Homebrew Archetypes
 ada9163ea2be6aa4bb136c8aee66a7dd - Homebrew Archetypes
 ada9eaa5d65d78947ac1f81347e2b1b0 - Homebrew Archetypes
@@ -12637,6 +12750,7 @@ af07c76c1901555418c90384148456ee - Homebrew Archetypes
 af3b22ac622db5a4bbbc5a6c8752ccd0 - Homebrew Archetypes
 af58d544b5819b24a8b36d8bc50e307b - Homebrew Archetypes
 af602f01b51c9f840853461aa862de40 - Homebrew Archetypes
+af63decfcd063f34da2563509926849e - Homebrew Archetypes
 af67ea0ada36d70429876af9c4c7c42d - Homebrew Archetypes
 af79779bcb12d584b9ea70d878f4ea44 - Homebrew Archetypes
 af842d0a0fa41454cbe6a8ae629c2ffd - Homebrew Archetypes
@@ -12656,15 +12770,19 @@ b0636c261cfca404f9e3396b3ae2bfab - Homebrew Archetypes
 b0709cde3cd3b1044bcbb35e2281d203 - Homebrew Archetypes
 b09376c42af384f46a8282d344060193 - Homebrew Archetypes
 b0a6674a4f19ce945bbed57c288c3a6a - Homebrew Archetypes
+b0b808f56fb6c3544875eac997f3a74c - Homebrew Archetypes
 b0bbf4e5ecb16db4fb9998b6facbcc03 - Homebrew Archetypes
+b0bdbf64eddc07649aa2b0e850c94108 - Homebrew Archetypes
 b0cadf2f0f7fd5349af0d6c4820c9d7c - Homebrew Archetypes
 b0d6d12de1171e64b95b6b8c0eebe22c - Homebrew Archetypes
+b0db05f6b29daf04daec7747dd8a79b4 - Homebrew Archetypes
 b0f2a484f6401c04b8dad2e69e964e94 - Homebrew Archetypes
 b0fb40ce80c1c8f41ba542972d4cd0a8 - Homebrew Archetypes
 b103586d0b698be4cae8dde9be722fc8 - Homebrew Archetypes
 b1111db0e0ab9af459fc4d24a1c53a69 - Homebrew Archetypes
 b12fc092a393a62469a3984ddaedd2c2 - Homebrew Archetypes
 b133869b79516de468f32518c64cbd78 - Homebrew Archetypes
+b1681a490c8c57449b7b98dc93cb9403 - Homebrew Archetypes
 b17a3abf4b37e53459a5df86d0b58d39 - Homebrew Archetypes
 b1a3f920818a61f4f9a6fad334a00453 - Homebrew Archetypes
 b1ab935a1b65dae4c9d8fbf6e257efe7 - Homebrew Archetypes
@@ -12690,6 +12808,7 @@ b2d962fdc31d54a4596de795b71b2ac6 - Homebrew Archetypes
 b2e88ad42a6df914c9791182cc8dabc5 - Homebrew Archetypes
 b2edd356dba4160478d8246427e51c38 - Homebrew Archetypes
 b301765fae7d41a4d90f51e50b084614 - Homebrew Archetypes
+b304a0d73116b104089faabf4a19e79c - Homebrew Archetypes
 b309b5e74dc647c43876babc5dee0131 - Homebrew Archetypes
 b3487d7ac3ef197448b0b1e57ff646b2 - Homebrew Archetypes
 b3504a7bf095c9c4d98b08c1a8a93dc3 - Homebrew Archetypes
@@ -12703,8 +12822,10 @@ b3aa1d49a384f124ca3f158a6990118d - Homebrew Archetypes
 b3bf837e469b05547bd6ad2d7ac3b327 - Homebrew Archetypes
 b3e155fcf7736ec488067893d5a4d33c - Homebrew Archetypes
 b3e1f8c4916e7f9409435082a7b683a7 - Homebrew Archetypes
+b3e8590f63b190b4a8f91c52539d45aa - Homebrew Archetypes
 b3f3d6278c28828458c6d02aac3b07ec - Homebrew Archetypes
 b40fb7673a4c50e4d83673db99373259 - Homebrew Archetypes
+b43d5a4ad0806534d9a58da4b2f0bc9b - Homebrew Archetypes
 b4439450738a224498fe74fc67250c81 - Homebrew Archetypes
 b44930e86519eec4a9b811e5eb86db27 - Homebrew Archetypes
 b452d79075369e44f80acc801f501ad9 - Homebrew Archetypes
@@ -12726,6 +12847,7 @@ b5ab50d6047226343b82ceb345c8416d - Homebrew Archetypes
 b5ade7c3a4e11ed41a52949f4a29a260 - Homebrew Archetypes
 b5b0fb5562eb30b4ebb4f68e92cc6e9b - Homebrew Archetypes
 b5c730ed57b47c64da5095c10327f10e - Homebrew Archetypes
+b5edbacb27ee04744b61385069051528 - Homebrew Archetypes
 b5ef30e4522a52747b1a427a10b6f9a5 - Homebrew Archetypes
 b5f3030557338674fa8fd401e4ac6c2a - Homebrew Archetypes
 b5fdb72e5d780e3469477cd7296b518e - Homebrew Archetypes
@@ -12733,6 +12855,7 @@ b61c6fc8bd290904e9fa10bf63d07e7c - Homebrew Archetypes
 b625278a2a1327644b061f5d1abfd8ca - Homebrew Archetypes
 b629341dbc3fc174c85f64db8c4f7f77 - Homebrew Archetypes
 b630d563df6a54548ab4b36a91f29137 - Homebrew Archetypes
+b644bd3e59d5c2143bfbed624ae4226f - Homebrew Archetypes
 b6604c48d04b2b1409f7c23c2bea7232 - Homebrew Archetypes
 b6606dc32c009f1449d060983ee3c851 - Homebrew Archetypes
 b668b1b98eef1d6489b3bfb01480f475 - Homebrew Archetypes
@@ -12767,6 +12890,7 @@ b8a94f70811b53c4e805dbc2170980c8 - Homebrew Archetypes
 b8ac36a7ec342fc439089a9a8ebed351 - Homebrew Archetypes
 b8b2ae242e0721a4287b0434dfb72136 - Homebrew Archetypes
 b8d3f6c061c42ab4586540b23fce11ab - Homebrew Archetypes
+b8e17acce1f863642bdd20fec8b8932e - Homebrew Archetypes
 b8eb8d7c223a2124aa4e4746b4b12851 - Homebrew Archetypes
 b8f2c8a356abb084dacf3285beae3929 - Homebrew Archetypes
 b90bf1d574588c441a6f7ec20149d4be - Homebrew Archetypes
@@ -12805,6 +12929,7 @@ bbe6646cc3e93574e8413c5086145c01 - Homebrew Archetypes
 bc05c89e6e5b7ed42867a389ac75c724 - Homebrew Archetypes
 bc277e6c58f1e74478a6e5e26365ecd5 - Homebrew Archetypes
 bc35516b48871cd4c9f5fa00ada9fd8f - Homebrew Archetypes
+bc5175f6b25ccc245905e2f48e9a3ca9 - Homebrew Archetypes
 bc6a07a5a93e9704f8291b52e952f53a - Homebrew Archetypes
 bc77b8e3ee270634dad44cdb2d77cec1 - Homebrew Archetypes
 bcab5c4387babb74cbeab65bb914270e - Homebrew Archetypes
@@ -12824,6 +12949,7 @@ bd877e28204b93d40a8f52f479789bb4 - Homebrew Archetypes
 bd9e3b3673254ac4ebae0171086fe30a - Homebrew Archetypes
 bda28e23e94f3e445af0c8d8c42f05c1 - Homebrew Archetypes
 bdaadc16a494e8345bb24281898f2100 - Homebrew Archetypes
+bdbc5e7ba6d00cb4282263bba0fb3c94 - Homebrew Archetypes
 bde811d98e983d64ea76073d435f42d3 - Homebrew Archetypes
 be0e4a0775b51564f8bcdd09971ae103 - Homebrew Archetypes
 be32e979ba81cd04bb75a805c6dd45d9 - Homebrew Archetypes
@@ -12842,6 +12968,7 @@ bec19499e32c5764cb492590ff517c1c - Homebrew Archetypes
 becf065e95f6a7945b97d4fd132aa4a1 - Homebrew Archetypes
 bf1af1382005eb348b8d81a350aa7570 - Homebrew Archetypes
 bf312e515e70cfa42a8d38d5419e3de3 - Homebrew Archetypes
+bf7496cfd7b51fe46a05104e6df0f0e2 - Homebrew Archetypes
 bff10660fbbbded40a148ae330849076 - Homebrew Archetypes
 bff2989a8750ff34595b46464151ea68 - Homebrew Archetypes
 bffdce4ff80be2943b75867d8fc57128 - Homebrew Archetypes
@@ -12869,6 +12996,7 @@ c1e208ac6a344f0409e3d7e036e6382a - Homebrew Archetypes
 c1ff7af112d296746bce337977a20c21 - Homebrew Archetypes
 c223a799df76cc640afb9718717e6a24 - Homebrew Archetypes
 c22483de5bd75d6409187ac14521f20c - Homebrew Archetypes
+c227519b406cd024ba2ea9e2d19fa00a - Homebrew Archetypes
 c24100102781b5449b979a6eb51ae129 - Homebrew Archetypes
 c241a9b34226e5743942cc082060a0c0 - Homebrew Archetypes
 c25f1a257b3aa1343be7b32b0e8f3d01 - Homebrew Archetypes
@@ -12903,6 +13031,7 @@ c431c9cd096d38740a6ea7f396929323 - Homebrew Archetypes
 c43a4ceb2adaa4241bcdf7921deb8265 - Homebrew Archetypes
 c451cad5a20ed064ea158291941bae72 - Homebrew Archetypes
 c459748a467aac04b8b8250d73db743a - Homebrew Archetypes
+c45bd0ccfc20dad42abd6b0c979f9e91 - Homebrew Archetypes
 c46bc02cb7d090d48b561932851dcbba - Homebrew Archetypes
 c471a296b107ee148a7e9a959575d37c - Homebrew Archetypes
 c471c7f96f217dc41b29c94530ac410d - Homebrew Archetypes
@@ -12929,6 +13058,7 @@ c5dcb4779a411d248825caecfd274bc9 - Homebrew Archetypes
 c5ebc4b5c955f49408b10534ab85a42a - Homebrew Archetypes
 c5ef97e6a1be7c14893ad7561cc546e8 - Homebrew Archetypes
 c5f8f229ba62a2140a3814414e7a4b40 - Homebrew Archetypes
+c617dbc68cb620240944b12f48d683d3 - Homebrew Archetypes
 c6350d5f538058f468a4482c42e81479 - Homebrew Archetypes
 c63b597ff41d9c74c948d1faef02a6e8 - Homebrew Archetypes
 c642e425b71c19b44960b3651bfc0519 - Homebrew Archetypes
@@ -13019,10 +13149,12 @@ cc3321f0b87d72343a7bde46bb08dd57 - Homebrew Archetypes
 cc607b21ba0e31c46902a48e6424b45b - Homebrew Archetypes
 cc6a62dd682ecef43be36f18b99be7b6 - Homebrew Archetypes
 cc6bb6c5fff11504daa04a4d267a6131 - Homebrew Archetypes
+cc80a3cf77fbba34886f17a9e22dcb4a - Homebrew Archetypes
 cc86764a738f04f49a74be43c90e8bc3 - Homebrew Archetypes
 cc889d638845baa44943cbba3ca95ead - Homebrew Archetypes
 cc8ba224091ca6843b6df9d9af471a11 - Homebrew Archetypes
 cc8dafd7908356545b3bd5e3d12d4a12 - Homebrew Archetypes
+ccb176ab22d47914da28e24602975a5a - Homebrew Archetypes
 ccb78a69749daf441b360f04cb89c7cc - Homebrew Archetypes
 ccb8a9ad27282634881761804fa425cb - Homebrew Archetypes
 ccba9333644c28742adeb007e1a86947 - Homebrew Archetypes
@@ -13031,6 +13163,7 @@ ccc5113528eb4df4c940eabb0984bbb3 - Homebrew Archetypes
 cd030c2fb67ff8b46b825547533c2871 - Homebrew Archetypes
 cd13a06950c18754b88df07f0cebcc3f - Homebrew Archetypes
 cd1a60a6c7d921c419eeeea4b800e2e8 - Homebrew Archetypes
+cd314b90a73bd95499597d6faaabd503 - Homebrew Archetypes
 cd65bcee9c591644182ffae393bc7331 - Homebrew Archetypes
 cd67c12f2ca676645867c6e550691f7b - Homebrew Archetypes
 cd9d8d48031a8fe47a141619d75e96cf - Homebrew Archetypes
@@ -13066,6 +13199,7 @@ cef5cc2e3ab1b1b4c95bb14f79b0579c - Homebrew Archetypes
 ceff00e9edba3b24e8dc7bdfa76354d2 - Homebrew Archetypes
 cf05ef56b2ca6604ab8d316136a193de - Homebrew Archetypes
 cf0b2cbc5023086428c6084e38cccf50 - Homebrew Archetypes
+cf2f3228955f9e040ac14bbc52d1bf5e - Homebrew Archetypes
 cf3f9d8a30e46e543addd3b6daf25df4 - Homebrew Archetypes
 cf50f8e32d4dbd34290058cf0e77e5aa - Homebrew Archetypes
 cf566394846f6dd4aa505a340226975e - Homebrew Archetypes
@@ -13082,7 +13216,9 @@ d01c35a30750dcb4eacfcd47d3856830 - Homebrew Archetypes
 d0489c388805e334cbd319b4e4e10289 - Homebrew Archetypes
 d04b93eb0479b0848b662eb98c39bb5b - Homebrew Archetypes
 d04c736f82c81984daaf8a2a65595158 - Homebrew Archetypes
+d0565a962ee1f0842a7f24c9a4f4a5c1 - Homebrew Archetypes
 d0633e8fc4a1f914fbed0b52fe2adda4 - Homebrew Archetypes
+d06403ff8e217994291712950406d53b - Homebrew Archetypes
 d06a2225b52731f43bbdefdd2130a015 - Homebrew Archetypes
 d06e0330a7df54446a16af9f6bfc8810 - Homebrew Archetypes
 d0799817c8b945c4d96504925ad6b041 - Homebrew Archetypes
@@ -13102,6 +13238,7 @@ d103e06d25f6f7b4aa07b800e46ecd17 - Homebrew Archetypes
 d10d784f8f8975a42a7d7f00a28a0321 - Homebrew Archetypes
 d11b2c9d24b92dc4783a717c73ab70d6 - Homebrew Archetypes
 d1277f75d49b6d648a3007abd0c0b145 - Homebrew Archetypes
+d12d6e539830c84409994c3a097de76b - Homebrew Archetypes
 d136ede7faf951b409ec6144c0578421 - Homebrew Archetypes
 d13de63f941172546ac7046fecfc46d4 - Homebrew Archetypes
 d146fde4180022443a0fc57827d27c99 - Homebrew Archetypes
@@ -13109,6 +13246,7 @@ d14745387557dfd46ae89400d10b3621 - Homebrew Archetypes
 d1746e1314ecf1d45b9148730dd1fbbe - Homebrew Archetypes
 d19d435bd96811546977c8f7d99934de - Homebrew Archetypes
 d1a9bf582fd375a49a1650e87cad695a - Homebrew Archetypes
+d1c87a91cf0d69343b5b7a358f04055b - Homebrew Archetypes
 d1dc849241227d24780f2c1db23602d4 - Homebrew Archetypes
 d1ddea9f281400f478236c716aed2a48 - Homebrew Archetypes
 d1f3ed593e74ddd4e886431733105139 - Homebrew Archetypes
@@ -13121,6 +13259,7 @@ d29701118317fd341860f18601afad0b - Homebrew Archetypes
 d2a460c36813bba43a53625e06969eb2 - Homebrew Archetypes
 d2ab0bfe7e2553c429acab3b9447521d - Homebrew Archetypes
 d2c71021e06834741a036b1505fbc647 - Homebrew Archetypes
+d2d24053f93c3e944bc7b4152db3379f - Homebrew Archetypes
 d2f4d92cb7a45a844bcea4197cb957bb - Homebrew Archetypes
 d32ba439fb8ff384690d0f6f5c1655b8 - Homebrew Archetypes
 d338751eeaa77c8428a0ce1167a61ccb - Homebrew Archetypes
@@ -13224,6 +13363,7 @@ d9baba0b9d02fec4c9f327800ccb8fc8 - Homebrew Archetypes
 d9cfd70f6016b1047ba278b573cc90b1 - Homebrew Archetypes
 d9ed1268ff643b140a7e5aaa2270a94c - Homebrew Archetypes
 da0bcfe7b9b552548b24f72e31b47854 - Homebrew Archetypes
+da0fdd529a411e94eaba93f4c37eb5d0 - Homebrew Archetypes
 da36c05bc25d2b343ba75e2b5b008122 - Homebrew Archetypes
 da409caed35bf5c4ca88a6794fc19e25 - Homebrew Archetypes
 da4402beb6d648f4c8e76b4625972dc6 - Homebrew Archetypes
@@ -13234,6 +13374,7 @@ da89239cc5859a1478007cd5e6d44f67 - Homebrew Archetypes
 da8d346ab66d8d74f889549245b6f1f4 - Homebrew Archetypes
 daa81280531c8594a9c318b8b9e7ab8f - Homebrew Archetypes
 dacbbe315a8700e40bf90b40e3e06687 - Homebrew Archetypes
+db1952e465a6d6946a72446813dbb715 - Homebrew Archetypes
 db2be02bbe3cbf6408d025e7d39c741a - Homebrew Archetypes
 db41718fb33c903468a7eb88bdef3e0c - Homebrew Archetypes
 db42e100de7a26344bcf8d2164cde0dc - Homebrew Archetypes
@@ -13250,6 +13391,7 @@ dc8eac319d444ee45b29467207b7f16f - Homebrew Archetypes
 dc950ab8d2e5b674891b037a8d5e1b30 - Homebrew Archetypes
 dcb4deec181807a4394b814cb77ecfad - Homebrew Archetypes
 dcc27e22bb976004db2b975d117a3442 - Homebrew Archetypes
+dcd17f482ae9e844d8dbf10c57e8d1cf - Homebrew Archetypes
 dce92f6a5c6f5ab448b2aee7a24d2f95 - Homebrew Archetypes
 dd01b64c07247204b95206232e39243e - Homebrew Archetypes
 dd11a7c28f1e2c94eae149388e9b1b2f - Homebrew Archetypes
@@ -13323,12 +13465,14 @@ e289803d19143cd4483aac257dcbb179 - Homebrew Archetypes
 e294b0467d0b10847b7b04d011713ac9 - Homebrew Archetypes
 e2bfbdcf0721f6f48879e9dd49fa545f - Homebrew Archetypes
 e2ea3cec13034034ca025cf60d4cc91a - Homebrew Archetypes
+e303bd8706ca99145bcd5380b7784b50 - Homebrew Archetypes
 e32d396af3dcc83439003fb7f97b2dbf - Homebrew Archetypes
 e334b1bbcc35ca74b9f7587a2673f1e3 - Homebrew Archetypes
 e3418d593cb193449b740c7b0c75b0fe - Homebrew Archetypes
 e3463160325defa4b944350f99ea18cc - Homebrew Archetypes
 e3757477157f5a849964c532a920dccb - Homebrew Archetypes
 e383e62fca34aaa49a3fbff6247a0065 - Homebrew Archetypes
+e39180e3b1b19d045a0bd82212cf798e - Homebrew Archetypes
 e3950d4edc2f68445a79262c356c4d82 - Homebrew Archetypes
 e3a336e6b6a83854fa448db7f3b541a2 - Homebrew Archetypes
 e3a8c29119e447c47b6ec2fb208e1b24 - Homebrew Archetypes
@@ -13345,11 +13489,13 @@ e43398335ecbf5f43b2ca91de949b1be - Homebrew Archetypes
 e43a992772d26b64d9f729d38d77a336 - Homebrew Archetypes
 e43fb8923be64d147981f912828657f9 - Homebrew Archetypes
 e4651dd7e0bf92b47a81b1b39fa33e94 - Homebrew Archetypes
+e4731519a19042940b3463946323d117 - Homebrew Archetypes
 e47ddd46c5eadca46aab57cc77323eaf - Homebrew Archetypes
 e483c6ff55422914ca6071cdafdd2d7e - Homebrew Archetypes
 e484b03b360a3734182664d46d2e26c3 - Homebrew Archetypes
 e4cc2845d8ae43345945c54f0fae149c - Homebrew Archetypes
 e4d84222ee9467b489eee403c1d5165d - Homebrew Archetypes
+e4ddf9120ef6387408084c14b4651923 - Homebrew Archetypes
 e4f9c2718f7f8414e8c0ebdd01e7755c - Homebrew Archetypes
 e53dc52f4277f28498280c434aee42d9 - Homebrew Archetypes
 e583e183c8ad94b429e7f775faaebece - Homebrew Archetypes
@@ -13402,6 +13548,7 @@ e981dec417299ec4b9e3f32f1208d35c - Homebrew Archetypes
 e9829773ef237c44aa153bc3f9ba52c6 - Homebrew Archetypes
 e9adbecf8e2df9a439cc4bf54579efee - Homebrew Archetypes
 e9d28715c56ecea43a7e19764113e1a8 - Homebrew Archetypes
+e9d4042be678a6742abd859e82c3dd18 - Homebrew Archetypes
 e9df9f6bc527b8a44bdb7f64b402f1f8 - Homebrew Archetypes
 e9f19437801125a4fb247b2f8c9b1378 - Homebrew Archetypes
 ea1172709eb825a44802f65f1d936439 - Homebrew Archetypes
@@ -13446,9 +13593,11 @@ ec8afb8f27b17a448b3afaf13089d28e - Homebrew Archetypes
 ed052d0c4b985104f95c32e55881d675 - Homebrew Archetypes
 ed0a2563bda531d4fa474a9a22b5dda0 - Homebrew Archetypes
 ed1e2b3ac8bae3249af80f0725896558 - Homebrew Archetypes
+ed263db7c2102c94b8067dc252c7907f - Homebrew Archetypes
 ed40a0e977952e341b9cfd3a49c67ebd - Homebrew Archetypes
 ed62c7fca7855c9459a1b26cfdf4980c - Homebrew Archetypes
 ed67c3901275ff6479cc8ff9194fef4f - Homebrew Archetypes
+ed829938ecaec8840a720ea37d52a82d - Homebrew Archetypes
 ed9e814abda649444b18bcefe45178ca - Homebrew Archetypes
 edccf2a422e27f64f927e89e5fd3b39d - Homebrew Archetypes
 edd7df301a4ac3041874b1420d1c1abd - Homebrew Archetypes
@@ -13458,12 +13607,15 @@ edf460feb213ec9499adacb04eeb212c - Homebrew Archetypes
 ee0a05dd25995a843b0f7c2c2ee7b4c5 - Homebrew Archetypes
 ee3cf8c7c1a70fb4a9ef40a3480cc3a0 - Homebrew Archetypes
 ee47f4f12712dab4a9edb6ca45d80982 - Homebrew Archetypes
+ee494df9ec597a444826370e3dc51b69 - Homebrew Archetypes
 ee52c70d529fb4842aac3b53ec2f7c5b - Homebrew Archetypes
 ee5a735ea494b62469516c29b555fa59 - Homebrew Archetypes
+ee63b4b0981208d40a960f986018ee1d - Homebrew Archetypes
 ee84de70ef3774f44a2abebc88115276 - Homebrew Archetypes
 eec3f4f49f4521a499522a52e5ef532e - Homebrew Archetypes
 eecb55ac3e5808f4fbbe45709ca54775 - Homebrew Archetypes
 eee4ce3d8aee7c64bacae2901f5f8438 - Homebrew Archetypes
+eef8d4f4c9bcc294d9ea4048eba0e499 - Homebrew Archetypes
 ef304090d8b564049b072f7fd452f17d - Homebrew Archetypes
 ef38f7755c5c0aa4ebe9f12b19a01ccd - Homebrew Archetypes
 ef3e9e0974db81c4392f4d8422117688 - Homebrew Archetypes
@@ -13473,6 +13625,7 @@ ef4c0303cf10e97418858d90f92bebb3 - Homebrew Archetypes
 ef63d7bb4e3dda542aee73c393719989 - Homebrew Archetypes
 ef7c28475200cfe498d6fcb5a0e51596 - Homebrew Archetypes
 ef895fdfda68eeb40acb2a90aa1ac9df - Homebrew Archetypes
+ef93e2da6ac8cde44bb4756d32d56eab - Homebrew Archetypes
 ef9b570a75adc6644af8e4e6f045aea7 - Homebrew Archetypes
 efcee7b866f86fd4f94032458ef1887f - Homebrew Archetypes
 efd8f73bc302036489f450c06a7255f8 - Homebrew Archetypes
@@ -13485,6 +13638,7 @@ f01b0c3b0b8705240ae4e30b34af93c6 - Homebrew Archetypes
 f01e06f268629cf47bbf7de122d4aab2 - Homebrew Archetypes
 f028e62970527ef43a4534e7088f469b - Homebrew Archetypes
 f02ebaa574696e74695670a4e9198ac2 - Homebrew Archetypes
+f03be2aa18f416c42b1b6b3ec7b0fbaa - Homebrew Archetypes
 f03db87e2871bd744b5cae9a41717085 - Homebrew Archetypes
 f0401ea43b6a10049b64d444162b1dad - Homebrew Archetypes
 f04d953a708c8ad439eadcce7ea01ab5 - Homebrew Archetypes
@@ -13494,6 +13648,7 @@ f085bdd9108f690448035738fdd2cf43 - Homebrew Archetypes
 f091cb8802c274a40a08739d0a09c024 - Homebrew Archetypes
 f09389924b5a27a4588c06a7331a494e - Homebrew Archetypes
 f0adacc30f040ea4dbaa140cc66d0bbb - Homebrew Archetypes
+f0ae76aa40a3b1948aeda0309e724c10 - Homebrew Archetypes
 f0e64f7ede3ba6542b5f27e1ea8cf927 - Homebrew Archetypes
 f0e7e42950661c6488fe214aaaa2375a - Homebrew Archetypes
 f0e800bc5715e2145aead673b04d6fbf - Homebrew Archetypes
@@ -13552,6 +13707,7 @@ f47766d163c17144187b3076ee4575f5 - Homebrew Archetypes
 f47b7d8a68fe5874fa2910d96c61ed94 - Homebrew Archetypes
 f4cf8ac70908fd149adff57b0a244ddb - Homebrew Archetypes
 f4d95e9dff2f4e34c90e1cdd792ccee4 - Homebrew Archetypes
+f4e0062711fae8340bd30bf650a2cf57 - Homebrew Archetypes
 f4e39f9d187ec5c4c8f093e1e837e4c5 - Homebrew Archetypes
 f51c71959b0a7674b9dfa9077cf48c4e - Homebrew Archetypes
 f535f85476c18044a83783a883edfe04 - Homebrew Archetypes
@@ -13559,6 +13715,7 @@ f539562fa74fa2f41b18032073b4e2be - Homebrew Archetypes
 f54a99537b3492541ad355f57308162b - Homebrew Archetypes
 f54c4cfab4da66744a7c7adc84997265 - Homebrew Archetypes
 f55b001e6957ff44c8516dcf24f8c4b8 - Homebrew Archetypes
+f579aff956e6dc041a5464e0dfb04c00 - Homebrew Archetypes
 f58a222e9532a5f45851ff367e1dc9ae - Homebrew Archetypes
 f5a620e2a4d89564492a648a709568d7 - Homebrew Archetypes
 f5c74633f4defa2428ed3a6d58f27fad - Homebrew Archetypes
@@ -13567,9 +13724,11 @@ f5f00c83001e0f446b13ce415d4c601d - Homebrew Archetypes
 f60220a9765ea5d458719a3f0b13af74 - Homebrew Archetypes
 f633bd1ae9f3dfe498ef37920f684626 - Homebrew Archetypes
 f647c9d79f42f0d48916c990ba950f37 - Homebrew Archetypes
+f65030669136e5744b529356dc7f6c28 - Homebrew Archetypes
 f66ead350aed6d7459abb60b368c8381 - Homebrew Archetypes
 f6891c99772044e459aec1d8d0128d72 - Homebrew Archetypes
 f68b959943348034d8469c165442e019 - Homebrew Archetypes
+f6aa3f8a9985971429d70dde84ff4fbf - Homebrew Archetypes
 f6c05ec8d725bd8489b3075d61539afd - Homebrew Archetypes
 f6c4bc017d86d9e418056c5cf1fca75e - Homebrew Archetypes
 f6c557248fbac1b4b87fca2a8f1b89e2 - Homebrew Archetypes
@@ -13594,6 +13753,7 @@ f832892bc40ffde49a58ed89e79aa342 - Homebrew Archetypes
 f840a52f4cff41349832fa8a0cef018c - Homebrew Archetypes
 f845198a54f5d2c478845b7cdb09a838 - Homebrew Archetypes
 f85b803d083e17d4aa049166d1534f54 - Homebrew Archetypes
+f85c7e26972db1b4eb921e15ece86027 - Homebrew Archetypes
 f864393581c0f5543b7ca68a678568ee - Homebrew Archetypes
 f8834c92219b071449d8177e50ba5424 - Homebrew Archetypes
 f88498de3fcffec4397cd76aa00dc40e - Homebrew Archetypes
@@ -13616,15 +13776,19 @@ f9d1e15aeeacebf43a5347d830b85e2e - Homebrew Archetypes
 f9de88a2299515f44aefc07cbd642c40 - Homebrew Archetypes
 f9f3b5c8e3fcd3341806b53e50f2c548 - Homebrew Archetypes
 f9fd61e842c125e4c8ea306098384e43 - Homebrew Archetypes
+fa078b4e6c177c1488cf0c4c61b42094 - Homebrew Archetypes
 fa31114bdd3cccf4eaf3259944cb2aed - Homebrew Archetypes
 fa38734005f26c9449dcd6d1c98a6971 - Homebrew Archetypes
 fa3fc2424b8cfef47ac90e97b2699450 - Homebrew Archetypes
+fa407ba256bb51c45a5b7cfee8c5072e - Homebrew Archetypes
+fa4801a752a124a4ba9edfbc7cde5e09 - Homebrew Archetypes
 fa4f9705a3f13904086b0223017cad0a - Homebrew Archetypes
 fa5be3b00d9a91145b874ffc351b2d43 - Homebrew Archetypes
 fa6a9f07fcc7f944fb668d388f77a0fc - Homebrew Archetypes
 fa93f449b5e2e4a44852bdf74b6fc623 - Homebrew Archetypes
 fa9536381003ea64594dcedfcc256cc8 - Homebrew Archetypes
 faaae77fdfe0fed46b308359ce32de58 - Homebrew Archetypes
+fabd24f6cda358e4081e43ff301dba85 - Homebrew Archetypes
 fabe471a805605d4ebd4cca6d46186b6 - Homebrew Archetypes
 fadd0fd2c0e5a6b4eb59d974a778fb2a - Homebrew Archetypes
 fb05481f14c1f29459aa593bc9cf11a6 - Homebrew Archetypes

@@ -1754,6 +1754,17 @@ Hunter 3, Ranger 3, Skulking Hunter 3
 `a49ee6f1ec6744a6b16e3476a504e2a9`  
 `ZephyrsFleetnessAbility`  
 
+## Homebrew Archetypes
+
+### Corrupt Weapon
+
+This transmutation makes a weapon strike true against foes. The weapon in your primary hand is treated as a magic weapon for the purpose of overcoming DR. The weapon also becomes evil-aligned, which means it can overcome the DR of certain good creatures. In addition, all critical threats against foes automatically confirm, so every threat is a critical hit.
+
+Blackguard 1
+
+`b8e17acce1f863642bdd20fec8b8932e`  
+`CorruptWeaponCast`  
+
 ## Microscopic Content Expansion
 
 ### Blade of Bright Victory
