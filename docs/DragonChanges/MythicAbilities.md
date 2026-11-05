@@ -80,12 +80,41 @@ You become so familiar with the metamagic that you can apply it at will with no 
 `18b3b63e7f304d29af952faf72e3a4bf`  
 `AutoSelective`  
 
-## Super Dextrous Shot
+## Limitless Sword of Heaven
 
-With your Mythic PowerTM, you can now add your Dex bonus to your attack's damage with long bows and short bows, replacing your Str bonus.
+Your Angelic Sword knows neither limits. Benefit: The number of rounds per day for your Sword of Heaven ability is no longer limited.
+
+`e6bf7d744b2046a3b56ef449ce995514`  
+`LimitlessSwordOfHeaven`  
+
+## Mythic Archer
+
+When using longbows or shortbows, you may use your Dexterity modifier instead of your Strength modifier on your damage rolls, if the former is higher.
 
 `b84bd80ba88f454d811ecf25b5e28342`  
 `SuperDexShot`  
+
+## Mythic Body and Mind
+
+Your baseline attributes grow alongside your mythic powers.  
+You gain a bonus to all ability scores equal to 1 + half of your mythic rank.
+
+`9e099fa9b04d411fae153f6ae6a77a93`  
+`VaelsSuperSpecialFeat`  
+
+## Mythic Feint
+
+Using your mythic powers, you can increase the number of people you can feint at one time!
+
+`1e808c67c656455498bd59ff9452101b`  
+`mythicfeintaoe`  
+
+## Mythic Mind Corruption
+
+Your mythic power can affect even the strongest of minds, or those without minds! Your spells and abilities bypass Compulsion immunity
+
+`06524a3284984568b51be3491644deb6`  
+`mythicmindcorruption`  
 
 ## Trance Master
 

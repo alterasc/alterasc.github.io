@@ -59,6 +59,20 @@ This stone grants the wearer a +5 insight bonus to AC.
 `70afb4b2655148af9f1579f5edfda159`  
 `DustyRosePrismItem`  
 
+## Haramaki Chainmail Barding
+
+
+
+`fcaf3952ac5e4e1696fd4a2cee83a88a`  
+`haramakichainbarding`  
+
+## Haramaki Full Barding
+
+
+
+`2adccc1adc2544a49e545c3e5cee3c4d`  
+`haramakifullbarding`  
+
 ## Incandescent Blue Sphere - Ioun Stone
 
 This stone grants you a +2 enhancement bonus to Wisdom. The bonuses from multiple spheres stack (up to a maximum of a +10 enhancement bonus to Wisdom).
@@ -72,6 +86,90 @@ Allows the wearer to cast For The King.
 
 `0b97997e57874a50b34add644afe4f16`  
 `FTKMemeRing`  
+
+## Mithral Chainmail Barding
+
+
+
+`c15c6bea88144a9b91c7b610b8e2d41e`  
+`mithchainbarding`  
+
+## Mithral Chainmail Barding +1
+
+
+
+`fa5540f623e24dddbf8c6d4baf5eb5c4`  
+`mithchainbardingplus1`  
+
+## Mithral Chainmail Barding +2
+
+
+
+`d5e7b9b0df4f4354b48085a9a9373674`  
+`mithchainbardingplus2`  
+
+## Mithral Chainmail Barding +3
+
+
+
+`838ddae15e094c21b90340fed8f0c001`  
+`mithchainbardingplus3`  
+
+## Mithral Chainmail Barding +4
+
+
+
+`7f332ffefbef46178abd310d73b8a8fc`  
+`mithchainbardingplus4`  
+
+## Mithral Chainmail Barding +5
+
+
+
+`d42258e2dc0d4b2e829a44b19c0d82ad`  
+`mithchainbardingplus5`  
+
+## Mithral Full Barding
+
+
+
+`b2dd5709932442378b8c27a64e243a60`  
+`mithfullbarding`  
+
+## Mithral Full Barding +1
+
+
+
+`d324befa34fa4aef881e8af9e569fbb8`  
+`mithfullbardingplus1`  
+
+## Mithral Full Barding +2
+
+
+
+`4417e1843e8849368a6b27a53826c656`  
+`mithfullbardingplus2`  
+
+## Mithral Full Barding +3
+
+
+
+`2b76a4c65af84a4a95e6b90a92258bb7`  
+`mithfullbardingplus3`  
+
+## Mithral Full Barding +4
+
+
+
+`a5f4aa5bebd34eaa9b040511f6349060`  
+`mithfullbardingplus4`  
+
+## Mithral Full Barding +5
+
+
+
+`46093e977b4143e881dfed0d50f637dd`  
+`mithfullbardingplus5`  
 
 ## Onyx Rhomboid - Ioun Stone
 
@@ -110,6 +208,27 @@ Adds your CON bonus to your Critical range.
 `39dcf0456dcb4e1eb129677465f87b2f`  
 `MemeRing2`  
 
+## Scroll of Blood Slugs
+
+
+
+`b8bc5a40164e4239b02ab1ebeb0abe55`  
+`bloodslugsscroll`  
+
+## Scroll of Blunt Impact
+
+
+
+`12fad5d7fc864095a59018bb54bd2ada`  
+`bluntimpactscroll`  
+
+## Scroll of Child of Ill Fortune
+
+
+
+`46d5f1caf46142058897b1cf6b2e81ea`  
+`illfortunescroll`  
+
 ## Scroll of Death Ward, Communal
 
 
@@ -117,12 +236,89 @@ Adds your CON bonus to your Critical range.
 `148fe2214d854764bfb59dfb9224031f`  
 `CommunalDeathWardScroll`  
 
+## Scroll of Dragon Scales
+
+
+
+`5d44099fb8d44f18b769d05a2aa75da2`  
+`dragonscalesscroll`  
+
+## Scroll of Eaglesoul, Communal
+
+
+
+`99b53471992c4487a54b5e626191590c`  
+`communaleaglesoulscroll`  
+
+## Scroll of Elephant's Strength
+
+
+
+`cf51679ee4b0454ba9b27cf7647fa31a`  
+`elephantstrength-scroll`  
+
+## Scroll of Energetic Burst
+
+
+
+`712a3e5499bc4eb193f8b6aca3f63fd6`  
+`energeticburstscroll`  
+
+## Scroll of Flash of Insight
+
+
+
+`62a0eb3558934859b942b953fa9bb3ee`  
+`flashofinsightscroll`  
+
 ## Scroll of Heavenfire Ray
 
 
 
 `e93742731c21442e9a2987492a569939`  
 `HeavenFireRayscroll`  
+
+## Scroll of Hellacid Ray
+
+
+
+`9cc2cb93b1fb4d02baef9c79cc6e7ebd`  
+`AcidRayScroll`  
+
+## Scroll of Hellice Ray
+
+
+
+`4cceb7f4d045436b8c2cf7358b665822`  
+`ColdRayScroll`  
+
+## Scroll of Hellshock Ray
+
+
+
+`990bb9c729bc4e6d83aa88512a58b5e3`  
+`ElectricRayScroll`  
+
+## Scroll of Sense Vitals, Communal
+
+
+
+`50714a6de833433ab2f2f3e9021cc1b0`  
+`CommnualSenseVitalsScroll`  
+
+## Scroll of Super Long Arm
+
+
+
+`6c3a35d11d294a0ab54d005ba2cd18da`  
+`superlongarmsscroll`  
+
+## Scroll of Warrior’s Reflexes
+
+
+
+`bd342332434245e0bbce6a3b6075adea`  
+`warriorreflexsscroll`  
 
 ## Spiked Light Shield Plus 1 Sonic
 
@@ -153,6 +349,13 @@ Adds STR bonus to DR.
 
 `3a5e7317611d4562bcad41380d97be03`  
 `Str2DRNecklace`  
+
+## The RingTM
+
+Wearing this ring grants the user additional attack bonus based on their character level as a morale bonus.
+
+`d850da6d501743d0966aaed78a32e552`  
+`level2abring`  
 
 ## Tomek's Ring
 
