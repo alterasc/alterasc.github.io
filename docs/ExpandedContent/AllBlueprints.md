@@ -686,6 +686,7 @@
 | `247b51d388a24ca297978b544a04ead5` | CompanionNotUpgradedWebSpider |  |
 | `ced18a87d06a443ca9ce6263c9627dbe` | CompanionNotUpgradedWolverine |  |
 | `640fc6d32a8541b4b7a8272fd85a0b66` | CompanionSaplingTreantConstructFeature | Construct Smasher |
+| `c1285139bdd245728f60d4ff54a978ed` | CompanionSaplingTreantConstructSelfBuff | CompanionSaplingTreantConstructSelfBuff |
 | `ada269d68a4347ba81087983882025e9` | CompanionSaplingTreantFeature | Animal Companion — Sapling Treant |
 | `8b205f36a7094e33ae21f7468b9c5e30` | CompanionSaplingTreantPortrait |  |
 | `d126621fa98144f280ab0bd479920c44` | CompanionSaplingTreantUnit |  |
@@ -789,6 +790,7 @@
 | `ba8981f9d20044b6942c2ed5b0c9e522` | DanceOfAThousandCutsToken | Token |
 | `6910d5cc2675433484939500060eed5b` | DarknessInvokeDeityAbility | Invoke Deity - Darkness Domain |
 | `3013ccfc20af4152bd9ac94536cab8a7` | DarknessInvokeDeityBuff | Invoke Deity - Darkness Domain |
+| `db341ece10c9495bae3d1ad5a7167f63` | DazeMonsterAbility | Daze Monster |
 | `3385edd23aad4795861425acfa798d64` | DeadlyFinale | Deadly Finale |
 | `ff9b494a13fb4db0a78eb76e4cbf16fc` | DeadlyFinaleBuff | Deadly Vibrations |
 | `8fc184a1eb0143bdb58b55a8391a7758` | DeathInvokeDeityAbility | Invoke Deity - Death Domain |
@@ -880,6 +882,7 @@
 | `a7cd3c3d72b84dda8a07ea50fcb57686` | DivineHerbalistApocalypseMysteryFeature | Apocalypse |
 | `235237c5199c48b0a8a8d3974b0a8ed7` | DivineHerbalistDarkTapestryMysteryFeature | Dark Tapestry |
 | `160babe55b4c406da1531db87ea544f6` | DivineHerbalistDragonMysteryFeature | Dragon |
+| `4d4de9449c1d450285905ef9a1adea10` | DivineHerbalistGodclawMysteryFeature | Godclaw |
 | `2efe1f62d44049759b462f5303b707cc` | DivineHerbalistHeavensMysteryFeature | Heavens |
 | `7ac6d74475ee409c827703c87541c553` | DivineHerbalistLunarMysteryFeature | Lunar |
 | `bd4236af213742c9b46eb49a5c632f04` | DivineHerbalistMetalMysteryFeature | Metal |
@@ -1223,6 +1226,8 @@
 | `62b2d296b81645089b3c601df1416370` | EnlightnedPhilosopherDarkTapestrySpells |  |
 | `09249a4f24aa42cdbde5707401094117` | EnlightnedPhilosopherDragonMysteryFeature | Dragon |
 | `c77e49e79b61450d8f151e21130d43e2` | EnlightnedPhilosopherDragonSpells |  |
+| `8a9ef1be5dd1456c8e23e62249d69550` | EnlightnedPhilosopherGodclawMysteryFeature | Godclaw |
+| `4bf9293b80e54c019cfca513a31d6c25` | EnlightnedPhilosopherGodclawSpells |  |
 | `c1ba0db2ac0440c7a22e401111f08a13` | EnlightnedPhilosopherHeavensMysteryFeature | Heavens |
 | `a8d5be3b0f304ec7a132b616ba92fbf5` | EnlightnedPhilosopherHeavensSpells |  |
 | `0a69ce4ddde54660acab585e4f217e9b` | EnlightnedPhilosopherLunarMysteryFeature | Lunar |
@@ -1924,6 +1929,8 @@
 | `fe49b6bc7e264be4822c115382a6e646` | OceansEchoDragonSpells |  |
 | `a8fd647993a04ce5b9b3654ca062cb6f` | OceansEchoFlameMysteryFeature | Flame |
 | `8efbf888accd461488b9ee84f791d883` | OceansEchoFlameSpells |  |
+| `28efc229ac3447f1a1f9870bb2edfeac` | OceansEchoGodclawMysteryFeature | Godclaw |
+| `fc5247224551450c9bb4daf076d5de41` | OceansEchoGodclawSpells |  |
 | `df87012fbabe46cd823324579626450d` | OceansEchoHeavensMysteryFeature | Heavens |
 | `1cde726627a245aea3b75362f5b7f245` | OceansEchoHeavensSpells |  |
 | `05b3032272d140828892ac846cc9eacc` | OceansEchoInspireCompetenceFeature | Inspiring Song - Competence |
@@ -1988,6 +1995,11 @@
 | `201dcf6af1d140d3885aa787c6606b34` | OracleDragonMysteryFlagFire | Selected element - Fire |
 | `481e1ab61ec0443ba907de01d9598e55` | OracleDragonSensesBlindsense | Dragon Senses |
 | `ce28650615d34792885b74a33a3c211d` | OracleDragonSpells |  |
+| `fdc28df6b3f7493ebc59285e3d3eaa73` | OracleGodclawFinalRevelation | Final Revelation |
+| `f1e5c4e377084498919348e1ffa8032b` | OracleGodclawFinalRevelationAbility | Clashing Rocks - Godclaw |
+| `2e06bce94ebf462bb19d844299c4c81d` | OracleGodclawFinalRevelationResource |  |
+| `f4b931ad96f04904a0a3d815f566fe40` | OracleGodclawMysteryFeature | Godclaw |
+| `f308c8c4edfc4db98e9053d8af39110c` | OracleGodclawSpells |  |
 | `3cbb79c023254479981cbe9042ad417a` | OracleHeavensFinalRevelation | Final Revelation |
 | `a365e289beee4686930aafe0bbcacc4c` | OracleHeavensMysteryFeature | Heavens |
 | `53faeeb7938b43eb9d8355a1f696b870` | OracleHeavensSpells |  |
@@ -2009,6 +2021,13 @@
 | `db819675417d4909aa51c0b7980d7b93` | OracleMetalFinalRevelationImprovedCritSelection | Final Revelation - Improved Critical |
 | `43e6df95f4c24ff592bfb691004e837e` | OracleMetalMysteryFeature | Metal |
 | `b5a491e49ebe4b349115a413ddb17126` | OracleMetalSpells |  |
+| `0192d21b974145aab3f046f5e11f4841` | OracleRevelationArmoredMindAbility | Armored Mind |
+| `3169a2553537468ba3d68540403d6e40` | OracleRevelationArmoredMindAbilityBuff | Armored Mind |
+| `5b0f0ef6c4184742affeb7d2b52fe0bc` | OracleRevelationArmoredMindAbilityFeature | Armored Mind Ability Unlock |
+| `5d36d9267ab64b13a8a07e40438dc57d` | OracleRevelationArmoredMindBuff | Armored Mind Tracking Buff |
+| `5686bdb5eb0247efb78584c3cc321089` | OracleRevelationArmoredMindFeature | Armored Mind |
+| `1eeb149153684dfda387e13aadfa3ebd` | OracleRevelationArmoredMindResource |  |
+| `1da5a741da194b8fafc0e9251c355cb7` | OracleRevelationArmoredMindSubBuff | Armored Mind Stat Buff |
 | `056f588b1c0e4f2896c3a7871d8a8200` | OracleRevelationArmorMasteryEffectFeature | OracleRevelationArmorMasteryEffectFeature |
 | `f91957289f204644a1ad4a04718d25a5` | OracleRevelationArmorMasteryFeature | Armor Mastery |
 | `92e07216a7b84727a76a5fd0586c41bf` | OracleRevelationArmyOfDarknessFeature | Army of Darkness |
@@ -2025,6 +2044,18 @@
 | `8d067663b0fc4ae7b85979127bb725c8` | OracleRevelationBeastFormIVWAbility | Beast Form (Wyvern) |
 | `2b7640ffd0ff4dac976635d9974a643e` | OracleRevelationBeastFormProgression | Form of the Beast |
 | `4223e89b1138401eb7dc4840555e34b0` | OracleRevelationBeastFormResource |  |
+| `e175864d8b344a7daf93791b2dbb0186` | OracleRevelationBoonOfBraveryAbility | Boon of Bravery |
+| `313b2c96986245688fa1c3e1fbcbbd75` | OracleRevelationBoonOfBraveryBuff | Boon of Bravery |
+| `ade25ca238c64e6aaf6144b01e2e4ed0` | OracleRevelationBoonOfBraveryFeature | Boon of Bravery |
+| `1f14e70bb1d244b6becf8d1d33c70504` | OracleRevelationBoonOfBraveryResource |  |
+| `b4ec93f68e2e4884a08e20c846eb6869` | OracleRevelationBoonOfTerrorArea |  |
+| `8bd1e337a02443579c81309f55442358` | OracleRevelationBoonOfTerrorAuraBuff | Boon of Terror Combat Buff |
+| `321f1328aa764912b0719747c6f6b372` | OracleRevelationBoonOfTerrorEffectBuff | Boon of Terror Effect Buff |
+| `8bb0ac0716ce4445974a92c20b82d115` | OracleRevelationBoonOfTerrorFeature | Boon of Terror |
+| `205ee5adebec48da8829aeb22a106311` | OracleRevelationBoonOfTheDefenderAbility | Boon of the Defender |
+| `cb360c8224a1408d9520b6a287a2d0fa` | OracleRevelationBoonOfTheDefenderBuff | Boon of the Defender |
+| `00d61e23a3e0449f95b87573b1ab1b09` | OracleRevelationBoonOfTheDefenderFeature | Boon of the Defender |
+| `0ee9c8f520e046d08ae6fec671f5e1f1` | OracleRevelationBoonOfTheDefenderResource |  |
 | `678ef9fb6f4044faa4631270728859d4` | OracleRevelationCloakOfDarknessAbility | Coat of Darkness |
 | `15c0f07bfa63416d8ec246b8ef53f953` | OracleRevelationCloakOfDarknessBuff | Coat of Darkness |
 | `7dd3db7d594c490b8f8842991993fa9c` | OracleRevelationCloakOfDarknessFeature | Coat of Darkness |
@@ -2229,6 +2260,19 @@
 | `7cdbd446d04047848dab8c9adba91f4c` | OracleRevelationInterstallarVoidFeature3 | Interstellar Void |
 | `f83510b87fa641f3a41ceafce8060534` | OracleRevelationInterstallarVoidResource |  |
 | `59b9690938bb4cc6bd9ea97f4826c1bb` | OracleRevelationIronConstitutionFeature | Iron Constitution |
+| `ff95c118783b458b9d4e5e882034c7b6` | OracleRevelationIronOrderAbility | Iron Order |
+| `09d5423649ef43e5b79d85b45b1fb630` | OracleRevelationIronOrderApproachAbility | Iron Order - Approach |
+| `4e6134eade664a4893dc40f43955f095` | OracleRevelationIronOrderApproachGreaterAbility | Iron Order, Greater - Approach |
+| `6ea330231d9349a9a344413f0b5a310a` | OracleRevelationIronOrderFallAbility | Iron Order - Fall |
+| `99240ef466cc45149d57dd58264c60aa` | OracleRevelationIronOrderFallGreaterAbility | Iron Order, Greater - Fall |
+| `f0f0ef309ad5451fa76bc0923b29c488` | OracleRevelationIronOrderFeature | Iron Order |
+| `735ad113045b4d0a8ef64e534eb1f0cc` | OracleRevelationIronOrderFleeAbility | Iron Order - Flee |
+| `877ad9f137564f7eae9789a6955bd43a` | OracleRevelationIronOrderFleeGreaterAbility | Iron Order, Greater - Flee |
+| `14bc5693a5ef4669bf33e014f59c8a5c` | OracleRevelationIronOrderGreaterAbility | Iron Order, Greater |
+| `3e25252ef3b64b978b1d2afb6ce1ce81` | OracleRevelationIronOrderHaltAbility | Iron Order - Halt |
+| `78e197474a7c40fd842683d372f9214d` | OracleRevelationIronOrderHaltGreaterAbility | Iron Order, Greater - Halt |
+| `9edb4717c82e4261968a657e55a7dec6` | OracleRevelationIronOrderResource |  |
+| `d0395978bc3047e1b23b32614377e484` | OracleRevelationIronOrderUpgrade | Iron Order |
 | `5b50abdec75649a1a6d7aab82182ba00` | OracleRevelationIronSkinAbility | Iron Skin |
 | `e8dd87e5735d45b18eebe66ecd3e5c1c` | OracleRevelationIronSkinBuff | Iron Skin |
 | `313be12c06174fbd82c1a337e2096732` | OracleRevelationIronSkinFeature | Iron Skin |
@@ -2694,6 +2738,8 @@
 | `dcd82e28163a499d9d81443472f613ea` | RevolutionDomainProgressionSeparatist | Revolution Subdomain |
 | `83d266af29f8460a870ba0134c393f0e` | RevolutionDomainSpellList |  |
 | `5a2a8584e68a44489d1d1529d900bfff` | RevolutionDomainSpellListFeature |  |
+| `a2ba22e5c31846e396dfbde41e08c8b6` | ReymendaFeature | Reymenda |
+| `d13d8065d4fd43e281510877f9a88197` | ReymendaSacredWeaponFeature |  |
 | `285cdde603754c1daa33d6baa5883160` | RhanTegothFeature | Rhan-Tegoth |
 | `31771a1ecd834fe98441a0b421821eb3` | RhanTegothSacredWeaponFeature |  |
 | `2bba038472a64f67b235674c7e27d90c` | RigorMortisAbility | Rigor Mortis |

@@ -19,7 +19,7 @@ Domain Spells: divine favor, communal protection from evil, prayer, forced repen
 You are a true scholar of the mystic arts, harnessing the fusion of arcane and divine.   
 Arcane Beacon: As a standard action you can become a beacon of arcane energy for 2 rounds. The aura emanates 15 feet from you. All arcane spells cast within the aura either gain a +1 bonus to their caster level or increase their saving throw DC by +1. The caster chooses the benefit when she casts the spell. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.   
 Dispelling Touch: At 8th level, you can use a targeted dispel magic effect as a melee touch attack. You can use this ability once per day at 8th level and one additional time per day for every four levels in the class that gave you access to this domain beyond 8th.   
-Domain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, clashing rocks.
+Domain Spells: magic missile, resist energy, dispel magic, arcane concordance, spell resistance, dispel magic, greater, power word blind, protection from spells, mages disjunction.
 
 `c0a52e60c4c24a3381883d3acb6f2d98`  
 `ArcaneDomainProgression`  

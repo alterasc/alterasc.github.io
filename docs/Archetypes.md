@@ -278,7 +278,7 @@ Some rangers specialize in dealing with rambunctious younger drakes, protecting 
 
 ### Clutch Thief (Rogue)
 
-Whether to stop it falling into the wrong hands, or to hold the power for themselves, it is common for an aspiring thief to see a drake egg as a valuable score. Less common is for the egg to hatch while in the thieves care. With a bit of knowledge borrowed from the drake wardens on raising young drakes, the clutch thief gains a new and interesting partner in crime.
+Whether to stop it falling into the wrong hands, or to hold the power for themselves, it is common for an aspiring thief to see a drake egg as a valuable score. Less common is for the egg to hatch while in the thief's care. With a bit of knowledge borrowed from the drake wardens on raising young drakes, the clutch thief gains a new and interesting partner in crime.
 
 `b25229fa90bf4461ab338c8fc5a6070d`  
 `ClutchThiefArchetype`  

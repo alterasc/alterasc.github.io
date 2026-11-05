@@ -69,6 +69,15 @@ Bard 6
 `a4fd2673b9d44b8c8d20714b2ee51df6`  
 `DanceOfAThousandCutsAbility`  
 
+## Daze Monster
+
+This spell clouds the mind of a living creature with 6 or fewer Hit Dice so that it takes no actions. Creatures of 7 or more HD are not affected. A dazed subject is not stunned, so attackers get no special advantage against it. After a creature has been dazed by this spell, it is immune to the effects of this spell for 1 minute.
+
+Witch 2, Wizard 2, Bard 2, Bloodrager 2, Child of Acavna and Amaznen 2, Skulking Hunter 2
+
+`db341ece10c9495bae3d1ad5a7167f63`  
+`DazeMonsterAbility`  
+
 ## Deadly Finale
 
 You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your performance, dealing 2d8 points of sonic damage to each target. In addition, each target takes 3d6 points of bleed damage for 1d6 rounds. A save negates the bleed damage but not the sonic damage.   
