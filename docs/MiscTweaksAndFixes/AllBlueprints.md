@@ -1,6 +1,6 @@
-### [Back to mod overview](./README.md)
-
 # All mod blueprints
+
+### [Back to mod overview](./README.md)
 
 | Guid | Internal name | Display name |
 | --- | --- | --- |

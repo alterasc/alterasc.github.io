@@ -1,6 +1,6 @@
-[To list of mods](../README.md)
-
 # Miscellaneous Tweaks and Fixes
+
+[Back to site homepage](../README.md)
 
 ## Version: 2.3.2
 
@@ -18,8 +18,6 @@
 
 ### [New mythic feats](./MythicFeats.md)
 
-### [New items](./Items.md)
-
 
 ___
-[To list of mods](../README.md)
+[Back to site homepage](../README.md)
