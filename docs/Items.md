@@ -898,15 +898,6 @@ These handwraps are a special form of the longsword Radiance.
 `5e9f909d87525d6893e8aab99030c828`  
 `RadianceWrapsPlus6Bad`  
 
-## Miscellaneous Tweaks and Fixes
-
-### Helmet of the Abyss Killer
-
-According to legend, this helmet belonged to a mighty warrior who was doomed to endlessly slay hordes of demons. It doesn't seem to have any magic, but it looks formidable.
-
-`0034a132380641a0840ff684facbd476`  
-`KillerHelm_easterEgg`  
-
 ## Mythic Arcanist
 
 ### Scroll of Force Armor

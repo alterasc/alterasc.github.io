@@ -66,6 +66,14 @@ When wielding a scimitar with one hand, you can use your Dexterity modifier inst
 `bdaf6052e2154eec9ad5c1b3f380cae0`  
 `DervishDance`  
 
+## Dispel Focus
+
+You are skilled at the art of dispelling.  
+Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus on the check.
+
+`74dc05c791384ad1970a03351ff4d4a6`  
+`DispelFocusFeature`  
+
 ## Erastil's Blessing
 
 Your deity grants you prowess with a bow that far exceeds your own physical capabilities.  
@@ -82,6 +90,30 @@ When you use your spell kenning class feature, you can select a spell from eithe
 `a53452eb96a146099a9236a350c8c177`  
 `ExpandedSpellKenning`  
 
+## Extra Arcana
+
+You gain one additional magus arcana. You must meet all the prerequisites for this magus arcana.  
+You can gain this feat multiple times. Its effects stack, granting a new arcana each time you gain this feat.
+
+`9b394c91008d4db38af774bd340672dc`  
+`ExtraArcana`  
+
+## Extra Arcana (Eldritch Scion)
+
+You gain one additional magus arcana. You must meet all the prerequisites for this magus arcana.  
+You can gain this feat multiple times. Its effects stack, granting a new arcana each time you gain this feat.
+
+`1e7dba2f279049c98e918aa4775ef72b`  
+`ExtraArcanaEldritchScion`  
+
+## Extra Arcana (Hexcrafter)
+
+You gain one additional magus arcana. You must meet all the prerequisites for this magus arcana.  
+You can gain this feat multiple times. Its effects stack, granting a new arcana each time you gain this feat.
+
+`dcd025d2b4924f76932155adcf8057f0`  
+`ExtraArcanaHexcrafter`  
+
 ## Extra Arcanist Exploit
 
 You gain one additional arcanist exploit. You must meet the prerequisites for this arcanist exploit.  
@@ -90,6 +122,30 @@ You can take this feat multiple times. Each time you do, you gain another arcani
 `8ecee479c6d04c73926c4d95345b9314`  
 `ExtraArcanistExploit`  
 
+## Extra Discovery
+
+You gain one additional discovery. You must meet all of the prerequisites for this discovery.  
+You can gain Extra Discovery multiple times.
+
+`4ee0a5a7a9dc45b3882a47cdc10407be`  
+`ExtraDiscovery`  
+
+## Extra Hex (Shaman)
+
+You gain one additional hex. You must meet the prerequisites for this hex.If you are a shaman, it must be a hex granted by your spirit rather than one from a wandering spirit.  
+You can take this feat multiple times. Each time you do, you gain another hex.
+
+`08d9f686b2944ba6b3f7763882c0ded4`  
+`ExtraHexShaman`  
+
+## Extra Hex (Witch)
+
+You gain one additional hex. You must meet the prerequisites for this hex.  
+You can take this feat multiple times. Each time you do, you gain another hex.
+
+`49eca6f6c329418aaf8e9dee0b39e2ea`  
+`ExtraHexWitch`  
+
 ## Extra Ki
 
 Your ki pool increases by 2.  
@@ -97,6 +153,21 @@ You can take this feat multiple times. Its effects stack.
 
 `822d8b183a334f5fbd479fc649e49043`  
 `ExtraKi`  
+
+## Extra Medical Discovery
+
+You gain one additional medical discovery. You must meet all of the prerequisites for this discovery.  
+You can gain Extra Medical Discovery multiple times.
+
+`a5dbd4a404d64f26ae863acaa4e7e578`  
+`ExtraDiscoveryVivsectionist`  
+
+## Extra Mercy
+
+Select one additional mercy for which you qualify. When you use lay on hands to heal damage to one target, it also receives the additional effects of this mercy.
+
+`6e76496c2748405d9946949977bd3e8d`  
+`ExtraMercy`  
 
 ## Extra Reservoir
 
@@ -114,12 +185,44 @@ You can gain Extra Revelation multiple times.
 `0a68ce40e26d4b769d450586a4996b23`  
 `ExtraRevelation`  
 
+## Extra Rogue Talent
+
+You gain one additional rogue talent. You must meet all of the prerequisites for this rogue talent.  
+You can gain Extra Rogue Talent multiple times.
+
+`739de36c402e4560b586cf79d00e3cbb`  
+`ExtraRogueTalent`  
+
+## Extra Rogue Talent (Sylvan Trickster)
+
+You gain one additional rogue talent. You must meet all of the prerequisites for this rogue talent.  
+You can gain Extra Rogue Talent multiple times.
+
+`04586da4ae28422da09e40d8241d36dc`  
+`ExtraRogueTalentSylvan`  
+
+## Extra Slayer Talent
+
+You gain one additional slayer talent. You must meet the prerequisites for this slayer talent.  
+You can take this feat multiple times. Each time you do, you gain another slayer talent.
+
+`ac527291106543039bf277236b478389`  
+`ExtraSlayerTalent`  
+
 ## Graceful Athlete
 
 Add your Dexterity modifier instead of your Strength bonus to Athletics checks. This feat grants no benefit to creatures that already add their Dexterity modifier to Athletics checks (such as all Tiny or smaller creatures).
 
 `6ec97eb59f014c41b3eff798bb5d3475`  
 `GracefulAthlete`  
+
+## Greater Dispel Focus
+
+You are a master of the art of dispelling.  
+Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus to the check. This stacks with the bonus from Dispel Focus.
+
+`a1418fdcae62455b86bd86ac1941ff12`  
+`DispelFocusGreaterFeature`  
 
 ## Greater Spell Specialization
 

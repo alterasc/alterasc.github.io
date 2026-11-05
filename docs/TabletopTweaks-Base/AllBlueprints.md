@@ -411,6 +411,7 @@
 | `0f61c3e0285248e2bca29b499068a837` | BurningSpellAcidBuff | Burning Spell |
 | `4732a4b7b53f46848ae34a9dae66dbb2` | BurningSpellFeat | Metamagic (Burning Spell) |
 | `2a4fdd402b6e404583c48d78875999ed` | BurningSpellFireBuff | Burning Spell |
+| `ba5f31e7293f4826ae212d192db8e584` | CarnivorousCrystalApplyImmunityAbility | Apply Subsonic Hum Immunity |
 | `86db818232514facabfda9b86442d266` | CavalierAlternateCapstone | Capstone |
 | `cf1ba9f6399043299e2b73bab391b010` | CavalierMobilityBuff | Cavalier Mobility |
 | `272aa4cca7384a6992da395f4fae3d22` | CavalierMobilityFeature | Cavalier Mobility |
@@ -1342,6 +1343,8 @@
 | `20978148dcc249e188fa038e6961402a` | Unstoppable | Unstoppable |
 | `03031defb7164fcea949dcc05da1761d` | VarisianTattooFeature | Varisian Tattoo |
 | `f8960f6f46fc4d0091384e8370908715` | VastExplosions | Vast Explosions |
+| `3659d894c5d84dee9d51c4f4a05dc694` | VescavorQueenApplyGibberImmunityAbility | Apply Gibber Queen Immunity |
+| `0aeb668112a44c55b3422b3f5064582e` | VescavorSwarmApplyGibberImmunityAbility | Apply Gibber Immunity |
 | `16d097c2fcf741dd902b12ab5f3fd4f8` | VeteranOfEndlessWar | Veteran of Endless War |
 | `f2c7e3e727634cfab73d6d023723cc26` | WarpriestAlternateCapstone | Capstone |
 | `e936cb72ca914b1ca1d33a2a8c025985` | WarriorPriestMythicFeature | Warrior Priest (Mythic) |
@@ -1431,12 +1434,11 @@
 | `da03266450ce4387879f43ea98e34bf3` | BroadStudyMasterID | |
 | `70c84e6b8d4149ae866f18af03c46f6f` | GreatKenningMasterID | |
 | `b8976e560bf5495cb370de671dec943b` | LoremasterSpellbookMasterID | |
-| `0d3d36575f3250f8aa5a246028a7e596` | LoremasterSpellbookEMCTTT | |
+| `ed8ec76753e30fff13ddfc7596542f17` | LoremasterSpellbookFaithfulParagonTTT | |
 | `59f72f70bf67086529adf1f4441be3d3` | LoremasterSpellbookRavenerHunterTTT | |
-| `2e52a5d359556a48d8b5cf00baf7596f` | LoremasterSpellbookScarredWitchDoctorTTT | |
 | `77d836235558092518e048a8ffcf1903` | LoremasterSpellbookSilverChampionTTT | |
 | `7d02178ba62a0ccc26d49b8dd6e6f945` | LoremasterSpellbookSkulkingHunterTTT | |
+| `b582a2fa85b909631c97781c6896ec06` | LoremasterSpellbookSoldierOfGaiaTTT | |
 | `1ad6a14ef7550eff1afd547cf23b15f4` | LoremasterSpellbookSwornOfTheEldestTTT | |
-| `813fee4e6e5db6c879408ad18e5563b3` | LoremasterSpellbookWildernessWardenTTT | |
 
 ### [Back to mod overview](./README.md)
